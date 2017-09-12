@@ -28,6 +28,13 @@ The terms in the result descriptions are explained in the section **Dependencies
 This work rests on the Hebrew Text Database, compiled by the 
 [ETCBC](https://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx)
 over the years.
+We use version
+[4b](https://doi.org/10.17026/dans-z6y-skyh) of 2015, which has been archived in
+[DANS](https://dans.knaw.nl/en/front-page?set_language=en)-[EASY](https://easy.dans.knaw.nl/ui/deposit).
+In order to work with it in text-fabric, we have stored a tf-version of this dataset in the github repo
+[text-fabric-data-legacy](https://github.com/ETCBC/text-fabric-data-legacy).
+There is a newer version available, 4c, from [text-fabric-data](https://github.com/ETCBC/text-fabric-data),
+but 4b is the newest version that shows in SHEBANQ, hence we use 4c. 
 
 ## Tools
 This works makes use of the tool
