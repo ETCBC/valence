@@ -922,7 +922,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 453653;145084;687457;1_Samuel;8;1;FJM;qal;;JFM ;phrase;;;VP;Pred;core;regular;NA;;;
 453653;145084;687458;1_Samuel;8;1;FJM;qal;;>T BNJW ;phrase;;;PP;Objc;complement;NA;principal_direct_object;;;
 453653;145084;687459;1_Samuel;8;1;FJM;qal;;CPVJM ;phrase;;;NP;Objc;complement;NA;NP_direct_object;;;
-453653;145084;687460;1_Samuel;8;1;FJM;qal;;L JFR>L ;phrase;;;PP;Cmpl;complement;NA;L_object;*;location;location
+453653;145084;687460;1_Samuel;8;1;FJM;qal;;L JFR>L ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
 453666;145146;-1;1_Samuel;8;5;FJM;qal;FJMH ;<TH FJMH LNW MLK ;;;;;;;;;;;
 453666;145146;687502;1_Samuel;8;5;FJM;qal;;<TH ;phrase;;;AdvP;Adju;adjunct;NA;NA;;;
 453666;145146;687503;1_Samuel;8;5;FJM;qal;;FJMH ;phrase;;;VP;Pred;core;regular;NA;;;
