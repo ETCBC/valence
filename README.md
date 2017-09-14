@@ -29,6 +29,8 @@ first.
   1. the data correction workflow, followed by enrichment;
   2. the application of the flowcharts to the whole corpus.
 
+For more information, go to the [wiki of this repo]((https://github.com/ETCBC/valence/wiki).
+
 # Authors
 * [Janet Dyk](mailto:j.w.dyk@vu.nl) -
   [VU ETCBC](https://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx) -
