@@ -44,6 +44,7 @@ Thumbs.db
 #####################
 _build/
 __pycache__
+.tf/
 
 # Config files which get locally modified
 #########################################

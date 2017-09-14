@@ -25,7 +25,7 @@ first.
   of this repository;
 * **Program code**: a
   [bunch of Jupyter notebooks](https://github.com/ETCBC/valence/tree/master/notebooks)
-  that describe and execute the following task:
+  that describe and execute the following tasks:
   1. the data correction workflow, followed by enrichment;
   2. the application of the flowcharts to the whole corpus.
 
