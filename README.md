@@ -8,6 +8,9 @@ it might be helpful to consult a description of the
 [sources](https://github.com/ETCBC/valence/wiki/Sources)
 first.
 
+* **Visualization** A 
+  [tutorial notebook](https://github.com/ETCBC/valence/blob/master/notebooks/senses.ipynb)
+  showing the sense distribution of the 10 most frequent verbs;
 * **Annotations** A set of
   [annotations](https://shebanq.ancient-data.org/hebrew/note?version=4b&id=Mnx2YWxlbmNl&tp=txt_tb1&nget=v)
   in **SHEBANQ** where the verbal valency analysis has been made explicit and viewable in context;
