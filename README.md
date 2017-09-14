@@ -8,23 +8,22 @@ It might be helpful to consult a description of the
 [sources](https://github.com/ETCBC/valence/wiki/Sources)
 first.
 
-* **Visualization** A 
+* **Visualization**: a 
   [tutorial notebook](https://github.com/ETCBC/valence/blob/master/notebooks/senses.ipynb)
   showing the sense distribution of the 10 most frequent verbs;
-* **Annotations** A set of
+* **Annotations**: a set of
   [annotations](https://shebanq.ancient-data.org/hebrew/note?version=4b&id=Mnx2YWxlbmNl&tp=txt_tb1&nget=v)
-  in **SHEBANQ** where the verbal valence analysis has been made explicit and viewable in context;
-* **Data module** A 
-  [module of higher level features](https://github.com/ETCBC/valence/tree/master/tf/4b)
-  for **text-fabric** on which flowchart decisions have been based, as well as a feature that
-  contains the decisions themselves;
-* **Corrections and enrichments**
+  in **SHEBANQ** showing the verbal valence analysis in context;
+* **Data module**: a set of 
+  [higher level features](https://github.com/ETCBC/valence/tree/master/tf/4b)
+  in **text-fabric** format, storing the flowchart input data and outcomes;
+* **Spreadsheets**: a set of
   [CSV files](https://github.com/ETCBC/valence/tree/master/workflow)
-  used in the workflows for correction and enrichment, containing the manual edits;
-* **Documents** describing concrete flowcharts for individual verbs, to be found in the
+  used in the workflows for data entry;
+* **Documents**: a number flowcharts for individual verbs, to be found in the
   [wiki](https://github.com/ETCBC/valence/wiki)
   of this repository;
-* **Program code** A
+* **Program code**: a
   [bunch of Jupyter notebooks](https://github.com/ETCBC/valence/tree/master/notebooks)
   that describe and execute the following task:
   1. the data correction workflow, followed by enrichment;
