@@ -38,6 +38,7 @@ Thumbs.db
 ###################
 *.swp
 *.pyc
+*.tfx
 .ipynb_checkpoints
 
 # Build directories #
