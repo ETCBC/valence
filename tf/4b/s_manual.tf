@@ -2,7 +2,7 @@
 @description=whether the generated enrichment features have been manually changed
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-09-13T11:14:50Z
+@dateWritten=2017-09-14T12:02:19Z
 
 426577	
 426603	

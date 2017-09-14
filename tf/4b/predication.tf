@@ -2,7 +2,7 @@
 @description=verbal function main classification
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-09-13T11:14:50Z
+@dateWritten=2017-09-14T12:02:19Z
 
 426577	NA
 426603	NA
@@ -7192,7 +7192,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -7395,7 +7395,7 @@ regular
 NA
 605696	regular
 NA
-NA
+regular
 regular
 NA
 NA
@@ -7714,7 +7714,7 @@ NA
 regular
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -7922,7 +7922,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -8042,7 +8042,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -8900,7 +8900,7 @@ NA
 NA
 regular
 607379	NA
-NA
+regular
 regular
 NA
 regular
@@ -9587,7 +9587,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -9864,7 +9864,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 608569	NA
@@ -10221,10 +10221,10 @@ NA
 NA
 regular
 NA
+regular
+NA
 NA
 
-NA
-NA
 609000	NA
 NA
 NA
@@ -11657,7 +11657,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -11748,7 +11748,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -12198,7 +12198,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -12219,7 +12219,7 @@ regular
 NA
 NA
 611217	NA
-NA
+regular
 NA
 NA
 NA
@@ -12457,7 +12457,7 @@ regular
 NA
 NA
 611494	NA
-NA
+regular
 NA
 NA
 NA
@@ -12689,7 +12689,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -12724,7 +12724,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -13117,7 +13117,7 @@ NA
 NA
 612250	NA
 copula
-NA
+regular
 NA
 NA
 regular
@@ -14420,7 +14420,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -15560,7 +15560,7 @@ NA
 NA
 NA
 615007	NA
-NA
+regular
 NA
 NA
 NA
@@ -18775,10 +18775,10 @@ regular
 NA
 NA
 NA
+regular
+NA
 
 
-NA
-NA
 NA
 NA
 regular
@@ -18883,7 +18883,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -18945,7 +18945,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -19810,9 +19810,9 @@ regular
 NA
 NA
 regular
+NA
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -19828,7 +19828,7 @@ NA
 regular
 619993	regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -20359,9 +20359,9 @@ NA
 NA
 regular
 NA
-620620	
+620620	NA
 regular
-NA
+
 NA
 NA
 regular
@@ -20769,7 +20769,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -20997,9 +20997,9 @@ regular
 NA
 NA
 regular
+NA
+regular
 
-regular
-NA
 NA
 regular
 NA
@@ -21014,9 +21014,9 @@ NA
 NA
 regular
 NA
+NA
+regular
 
-regular
-NA
 NA
 regular
 NA
@@ -21360,9 +21360,9 @@ regular
 NA
 NA
 NA
+regular
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -21416,7 +21416,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -22264,7 +22264,7 @@ regular
 NA
 NA
 622922	NA
-NA
+regular
 NA
 NA
 NA
@@ -22652,7 +22652,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -22799,7 +22799,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -23168,7 +23168,7 @@ NA
 NA
 regular
 NA
-623924	NA
+623924	regular
 NA
 NA
 NA
@@ -23365,7 +23365,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -23663,7 +23663,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -23806,7 +23806,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -25738,9 +25738,9 @@ NA
 regular
 NA
 NA
+regular
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -26281,24 +26281,15 @@ NA
 NA
 regular
 NA
-NA
-NA
-NA
 regular
 NA
 NA
 regular
 NA
-regular
 NA
 regular
 NA
-NA
-NA
-NA
 regular
-NA
-NA
 NA
 regular
 NA
@@ -26307,6 +26298,15 @@ NA
 NA
 regular
 NA
+NA
+NA
+regular
+NA
+NA
+NA
+NA
+regular
+NA
 regular
 NA
 NA
@@ -26317,7 +26317,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 627426	NA
@@ -26633,7 +26633,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -26702,7 +26702,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -26788,7 +26788,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 627950	NA
@@ -26808,7 +26808,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -26962,7 +26962,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -27034,7 +27034,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -27690,7 +27690,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -27749,7 +27749,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -27764,7 +27764,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -28332,12 +28332,7 @@ NA
 NA
 NA
 NA
-NA
-NA
-NA
-NA
-NA
-NA
+regular
 NA
 NA
 NA
@@ -28345,6 +28340,11 @@ regular
 NA
 NA
 NA
+NA
+regular
+NA
+NA
+regular
 NA
 NA
 regular
@@ -29157,7 +29157,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -29278,7 +29278,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -29771,7 +29771,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -29861,7 +29861,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -29995,7 +29995,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -30010,7 +30010,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -30045,12 +30045,12 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
 631656	NA
-NA
+regular
 NA
 NA
 NA
@@ -30059,7 +30059,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 631680	NA
@@ -30151,9 +30151,9 @@ NA
 NA
 NA
 regular
+NA
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -30163,7 +30163,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -30225,7 +30225,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -30291,7 +30291,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -30311,7 +30311,7 @@ NA
 632069	NA
 regular
 632072	NA
-NA
+regular
 NA
 NA
 regular
@@ -30459,15 +30459,15 @@ NA
 NA
 NA
 regular
+NA
+NA
 
-NA
-NA
 NA
 regular
-
-
 NA
 NA
+
+
 NA
 regular
 NA
@@ -30925,7 +30925,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -30969,7 +30969,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 632842	NA
@@ -31036,7 +31036,11 @@ regular
 NA
 regular
 NA
+regular
 NA
+NA
+NA
+regular
 NA
 NA
 NA
@@ -31047,11 +31051,7 @@ NA
 regular
 NA
 NA
-NA
-NA
-NA
-NA
-632938	NA
+632938	
 632941	NA
 regular
 NA
@@ -31108,9 +31108,9 @@ NA
 regular
 NA
 NA
+regular
+NA
 
-NA
-NA
 regular
 NA
 NA
@@ -31160,7 +31160,7 @@ NA
 NA
 633064	regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -31284,10 +31284,10 @@ regular
 NA
 NA
 NA
+regular
+NA
 NA
 
-NA
-NA
 NA
 regular
 NA
@@ -31394,7 +31394,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 633358	NA
@@ -31432,7 +31432,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 regular
 NA
 NA
@@ -31524,7 +31524,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -31615,7 +31615,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -31775,7 +31775,7 @@ NA
 NA
 regular
 633791	NA
-NA
+regular
 NA
 NA
 NA
@@ -31849,9 +31849,9 @@ regular
 NA
 633878	NA
 regular
+NA
+NA
 regular
-NA
-NA
 NA
 regular
 NA
@@ -32881,7 +32881,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -32910,12 +32910,12 @@ NA
 regular
 regular
 NA
-NA
+regular
 NA
 NA
 NA
 635070	NA
-NA
+regular
 NA
 NA
 NA
@@ -32927,7 +32927,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 635095	NA
@@ -33004,7 +33004,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -33089,7 +33089,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -33179,7 +33179,7 @@ NA
 NA
 NA
 NA
-635456	NA
+635456	regular
 NA
 NA
 NA
@@ -33244,7 +33244,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -33302,9 +33302,9 @@ NA
 NA
 NA
 NA
-
-regular
 NA
+regular
+
 635673	NA
 regular
 NA
@@ -33316,7 +33316,7 @@ regular
 NA
 635685	NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -33413,29 +33413,29 @@ NA
 NA
 NA
 regular
+NA
+NA
 
 NA
 NA
+regular
 NA
 NA
 regular
 NA
 NA
 NA
-NA
-NA
-NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 635848	NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -33473,7 +33473,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -33511,7 +33511,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -33614,7 +33614,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -33693,45 +33693,7 @@ NA
 NA
 NA
 NA
-NA
-NA
-NA
-NA
 regular
-NA
-NA
-NA
-regular
-NA
-regular
-NA
-NA
-NA
-regular
-NA
-NA
-regular
-NA
-NA
-NA
-regular
-NA
-NA
-regular
-NA
-NA
-regular
-NA
-NA
-regular
-NA
-NA
-regular
-NA
-NA
-NA
-regular
-NA
 NA
 NA
 NA
@@ -33748,14 +33710,14 @@ NA
 regular
 NA
 NA
-NA
 regular
 NA
 NA
 NA
-NA
 regular
 NA
+NA
+regular
 NA
 NA
 regular
@@ -33773,6 +33735,44 @@ NA
 NA
 NA
 NA
+regular
+NA
+NA
+NA
+regular
+NA
+regular
+NA
+NA
+NA
+regular
+NA
+NA
+NA
+regular
+NA
+NA
+NA
+NA
+regular
+NA
+NA
+NA
+regular
+NA
+NA
+regular
+NA
+NA
+regular
+NA
+NA
+NA
+regular
+NA
+NA
+NA
+NA
 NA
 regular
 NA
@@ -33797,7 +33797,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -33810,7 +33810,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -34213,9 +34213,9 @@ NA
 NA
 regular
 NA
-636756	
-NA
-NA
+636756	NA
+
+
 regular
 NA
 regular
@@ -34259,9 +34259,9 @@ regular
 NA
 regular
 NA
-636821	
-NA
-NA
+636821	NA
+
+
 regular
 NA
 regular
@@ -34380,9 +34380,9 @@ NA
 NA
 regular
 NA
-636976	
-NA
-NA
+636976	NA
+
+
 regular
 NA
 regular
@@ -34519,9 +34519,9 @@ NA
 regular
 NA
 NA
+regular
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -34578,9 +34578,9 @@ NA
 NA
 regular
 NA
+regular
+NA
 
-NA
-NA
 NA
 NA
 regular
@@ -34751,9 +34751,9 @@ NA
 NA
 NA
 NA
+regular
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -34819,9 +34819,9 @@ NA
 NA
 regular
 NA
-
-regular
 NA
+regular
+
 NA
 NA
 regular
@@ -35237,9 +35237,9 @@ NA
 NA
 regular
 NA
-637945	
-NA
-NA
+637945	NA
+
+
 regular
 NA
 regular
@@ -36498,7 +36498,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -37208,7 +37208,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -38684,7 +38684,7 @@ NA
 NA
 NA
 regular
-NA
+regular
 NA
 NA
 NA
@@ -38903,9 +38903,9 @@ NA
 regular
 NA
 NA
+NA
+NA
 
-NA
-NA
 regular
 NA
 NA
@@ -39332,7 +39332,7 @@ regular
 regular
 NA
 642801	NA
-NA
+regular
 NA
 NA
 NA
@@ -41300,7 +41300,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -41326,7 +41326,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -41395,7 +41395,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -41432,11 +41432,11 @@ NA
 regular
 NA
 NA
+regular
 NA
 NA
 NA
-NA
-NA
+regular
 NA
 NA
 NA
@@ -41938,9 +41938,9 @@ NA
 NA
 NA
 NA
+regular
+NA
 
-NA
-NA
 645856	NA
 regular
 NA
@@ -42040,13 +42040,13 @@ NA
 NA
 regular
 NA
-
 regular
-NA
+regular
+
 645989	regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -42120,24 +42120,24 @@ NA
 regular
 NA
 regular
-
-regular
-NA
-NA
 NA
 regular
-NA
-regular
-NA
-regular
-NA
-NA
-NA
-regular
-NA
 
 NA
 NA
+regular
+NA
+regular
+NA
+regular
+NA
+NA
+NA
+regular
+NA
+regular
+NA
+
 NA
 regular
 NA
@@ -42525,9 +42525,9 @@ NA
 NA
 regular
 646690	NA
+regular
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -43383,7 +43383,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -43801,7 +43801,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -43970,7 +43970,7 @@ regular
 regular
 NA
 648596	NA
-NA
+regular
 NA
 NA
 NA
@@ -44017,7 +44017,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -44133,7 +44133,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -45666,12 +45666,12 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
 NA
-650618	NA
+650618	regular
 NA
 NA
 NA
@@ -45740,7 +45740,7 @@ regular
 NA
 NA
 650697	NA
-NA
+regular
 NA
 NA
 NA
@@ -46811,7 +46811,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 651918	NA
@@ -46864,10 +46864,6 @@ NA
 regular
 NA
 NA
-NA
-NA
-NA
-NA
 regular
 NA
 NA
@@ -46875,13 +46871,6 @@ NA
 regular
 NA
 NA
-regular
-NA
-NA
-regular
-NA
-NA
-regular
 NA
 regular
 NA
@@ -46889,8 +46878,19 @@ NA
 regular
 NA
 NA
+regular
 NA
 NA
+regular
+NA
+regular
+NA
+NA
+regular
+NA
+NA
+NA
+regular
 NA
 NA
 NA
@@ -47914,7 +47914,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -48058,9 +48058,9 @@ NA
 regular
 NA
 NA
+regular
+NA
 
-NA
-NA
 regular
 NA
 NA
@@ -48287,7 +48287,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -48376,7 +48376,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -48428,7 +48428,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -48969,7 +48969,7 @@ NA
 regular
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -49241,9 +49241,9 @@ NA
 regular
 NA
 NA
-
 regular
-NA
+regular
+
 regular
 NA
 NA
@@ -49495,7 +49495,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -49505,7 +49505,7 @@ regular
 654993	NA
 regular
 654999	NA
-NA
+regular
 NA
 NA
 655008	NA
@@ -49717,9 +49717,9 @@ NA
 655270	NA
 regular
 regular
-655283	
+655283	NA
 NA
-NA
+
 NA
 regular
 655296	NA
@@ -49802,7 +49802,7 @@ NA
 regular
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -50838,7 +50838,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -51192,7 +51192,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 regular
 NA
 regular
@@ -51437,7 +51437,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -52181,7 +52181,7 @@ copula
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -52426,10 +52426,10 @@ NA
 NA
 regular
 NA
+regular
+regular
 NA
 
-NA
-NA
 NA
 658428	NA
 regular
@@ -52497,7 +52497,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -52872,7 +52872,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 658906	NA
@@ -52914,7 +52914,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -52931,11 +52931,11 @@ regular
 regular
 NA
 NA
+regular
 NA
 NA
 NA
-NA
-NA
+regular
 NA
 NA
 NA
@@ -53616,12 +53616,7 @@ regular
 NA
 NA
 NA
-NA
-NA
-NA
-NA
-NA
-NA
+regular
 NA
 NA
 NA
@@ -53629,6 +53624,11 @@ regular
 NA
 NA
 NA
+NA
+regular
+NA
+NA
+regular
 NA
 NA
 regular
@@ -54315,7 +54315,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -54326,7 +54326,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 660561	NA
@@ -54427,10 +54427,10 @@ NA
 regular
 NA
 NA
+regular
+NA
 
 
-NA
-NA
 NA
 regular
 regular
@@ -54802,7 +54802,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -55262,7 +55262,7 @@ NA
 regular
 NA
 661584	NA
-NA
+regular
 NA
 NA
 NA
@@ -55382,7 +55382,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -55633,7 +55633,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -55751,7 +55751,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -55873,7 +55873,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -55934,13 +55934,13 @@ regular
 NA
 NA
 NA
+regular
 NA
 NA
 NA
 NA
 NA
-NA
-NA
+regular
 regular
 NA
 NA
@@ -56386,9 +56386,9 @@ NA
 regular
 NA
 NA
+regular
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -56594,7 +56594,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 regular
@@ -56656,7 +56656,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -56838,14 +56838,14 @@ NA
 regular
 NA
 NA
+regular
 NA
 NA
 NA
 NA
+regular
 NA
 
-NA
-NA
 NA
 regular
 NA
@@ -57019,7 +57019,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 663553	NA
@@ -57147,7 +57147,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -57227,7 +57227,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -57631,7 +57631,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -58304,7 +58304,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -58335,7 +58335,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -58979,7 +58979,7 @@ regular
 regular
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -60343,7 +60343,7 @@ regular
 NA
 667077	NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -61164,7 +61164,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -61882,7 +61882,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -62270,7 +62270,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -62341,21 +62341,12 @@ regular
 NA
 regular
 NA
-NA
+regular
 regular
 NA
 NA
 regular
 NA
-NA
-NA
-NA
-NA
-NA
-regular
-NA
-NA
-regular
 NA
 regular
 NA
@@ -62364,8 +62355,17 @@ NA
 regular
 NA
 NA
+regular
+NA
+regular
 NA
 NA
+NA
+regular
+NA
+NA
+NA
+regular
 regular
 NA
 NA
@@ -62684,7 +62684,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -63076,14 +63076,14 @@ NA
 670199	NA
 regular
 NA
-NA
+regular
 regular
 NA
 NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -63301,7 +63301,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -64133,7 +64133,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -64712,9 +64712,9 @@ NA
 regular
 NA
 NA
-
-regular
 NA
+regular
+
 NA
 671966	NA
 regular
@@ -64759,7 +64759,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -64835,7 +64835,7 @@ NA
 NA
 regular
 NA
-672098	NA
+672098	
 672101	NA
 regular
 NA
@@ -65045,9 +65045,9 @@ NA
 regular
 NA
 regular
+NA
+NA
 
-NA
-NA
 NA
 NA
 NA
@@ -65366,7 +65366,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -65772,7 +65772,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -66048,7 +66048,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -67447,7 +67447,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -67657,7 +67657,7 @@ regular
 NA
 NA
 regular
-NA
+regular
 NA
 NA
 regular
@@ -67784,7 +67784,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -68405,7 +68405,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -69749,7 +69749,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -71279,7 +71279,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -72132,7 +72132,7 @@ regular
 NA
 NA
 regular
-NA
+regular
 NA
 NA
 NA
@@ -72312,7 +72312,7 @@ NA
 680860	NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -72716,7 +72716,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -73586,7 +73586,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -73679,7 +73679,7 @@ NA
 regular
 regular
 NA
-NA
+regular
 regular
 NA
 NA
@@ -75505,7 +75505,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -75977,7 +75977,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -76078,7 +76078,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -76372,7 +76372,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -76770,7 +76770,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -76849,7 +76849,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -77111,7 +77111,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 686220	regular
@@ -77835,7 +77835,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -78899,7 +78899,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -79791,7 +79791,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -80153,7 +80153,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 689601	regular
@@ -80693,7 +80693,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 690202	NA
@@ -80776,7 +80776,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -80826,7 +80826,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -83079,7 +83079,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -83150,7 +83150,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -83529,9 +83529,9 @@ NA
 regular
 NA
 NA
+regular
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -83865,9 +83865,9 @@ NA
 NA
 regular
 regular
-
-regular
 NA
+regular
+
 NA
 regular
 NA
@@ -84520,7 +84520,7 @@ NA
 regular
 NA
 694553	NA
-NA
+regular
 NA
 NA
 regular
@@ -84929,7 +84929,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -85008,7 +85008,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -85094,7 +85094,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -85127,7 +85127,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -86136,7 +86136,7 @@ NA
 regular
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -86937,7 +86937,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -87314,13 +87314,13 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
 regular
 NA
-697780	NA
+697780	regular
 NA
 NA
 NA
@@ -87683,7 +87683,7 @@ NA
 NA
 regular
 698208	NA
-NA
+regular
 NA
 NA
 NA
@@ -87696,7 +87696,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -87834,7 +87834,7 @@ NA
 NA
 NA
 698372	NA
-NA
+regular
 NA
 NA
 698378	NA
@@ -88101,7 +88101,7 @@ NA
 698660	NA
 regular
 NA
-698667	NA
+698667	regular
 NA
 NA
 NA
@@ -88351,7 +88351,7 @@ NA
 regular
 NA
 regular
-regular
+NA
 NA
 regular
 NA
@@ -88395,7 +88395,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 698992	NA
@@ -88842,9 +88842,9 @@ regular
 NA
 NA
 regular
+NA
+NA
 
-NA
-NA
 699466	regular
 regular
 699471	NA
@@ -88924,7 +88924,7 @@ NA
 NA
 NA
 699552	NA
-NA
+regular
 NA
 NA
 NA
@@ -89326,7 +89326,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 700006	NA
@@ -89496,7 +89496,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -91030,7 +91030,7 @@ NA
 regular
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -91274,7 +91274,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -91711,9 +91711,9 @@ NA
 NA
 regular
 NA
-
-regular
 NA
+regular
+
 NA
 NA
 regular
@@ -92621,7 +92621,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -92741,7 +92741,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -93302,7 +93302,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -94249,7 +94249,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -94785,7 +94785,7 @@ NA
 NA
 regular
 706241	NA
-NA
+regular
 NA
 NA
 NA
@@ -96240,7 +96240,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -96339,7 +96339,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -96413,7 +96413,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -96863,7 +96863,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -97264,7 +97264,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -97395,7 +97395,7 @@ NA
 NA
 709309	NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -97520,9 +97520,9 @@ NA
 NA
 NA
 NA
-
-regular
 NA
+regular
+
 NA
 NA
 regular
@@ -97826,7 +97826,7 @@ NA
 710035	NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -98632,7 +98632,7 @@ NA
 regular
 NA
 710948	NA
-NA
+regular
 NA
 NA
 NA
@@ -98787,7 +98787,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -99377,9 +99377,9 @@ regular
 NA
 NA
 NA
-
-regular
 NA
+regular
+
 NA
 regular
 NA
@@ -99596,7 +99596,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -99768,24 +99768,7 @@ regular
 regular
 NA
 NA
-NA
 regular
-NA
-NA
-NA
-regular
-NA
-regular
-NA
-NA
-regular
-regular
-NA
-NA
-regular
-NA
-regular
-NA
 regular
 NA
 NA
@@ -99796,6 +99779,15 @@ regular
 NA
 NA
 regular
+regular
+NA
+NA
+regular
+NA
+regular
+NA
+regular
+NA
 NA
 NA
 regular
@@ -99808,6 +99800,14 @@ NA
 NA
 regular
 NA
+regular
+NA
+NA
+regular
+NA
+NA
+regular
+NA
 NA
 regular
 NA
@@ -99815,7 +99815,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -99940,7 +99940,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -100118,7 +100118,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -100158,7 +100158,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -101209,7 +101209,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -102710,7 +102710,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -107746,9 +107746,9 @@ NA
 regular
 NA
 regular
+NA
+NA
 
-NA
-NA
 NA
 NA
 regular
@@ -107822,9 +107822,9 @@ NA
 NA
 721251	NA
 regular
+NA
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -108448,7 +108448,7 @@ regular
 NA
 NA
 regular
-NA
+regular
 NA
 NA
 NA
@@ -109070,7 +109070,7 @@ regular
 NA
 722678	NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -109929,7 +109929,7 @@ NA
 regular
 723605	NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -110881,7 +110881,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -111261,7 +111261,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -111488,27 +111488,8 @@ NA
 regular
 NA
 NA
-NA
-NA
-NA
-NA
 regular
 NA
-regular
-NA
-NA
-NA
-regular
-NA
-NA
-NA
-regular
-NA
-NA
-regular
-NA
-NA
-regular
 NA
 NA
 regular
@@ -111530,7 +111511,44 @@ NA
 regular
 NA
 NA
+regular
 NA
+regular
+NA
+NA
+NA
+regular
+NA
+NA
+NA
+regular
+NA
+NA
+regular
+NA
+NA
+regular
+NA
+NA
+NA
+regular
+NA
+NA
+regular
+NA
+regular
+NA
+NA
+regular
+NA
+regular
+NA
+NA
+regular
+NA
+regular
+NA
+regular
 regular
 NA
 NA
@@ -111543,24 +111561,6 @@ regular
 NA
 regular
 NA
-NA
-regular
-NA
-regular
-NA
-regular
-regular
-NA
-NA
-regular
-NA
-regular
-NA
-NA
-regular
-NA
-regular
-NA
 regular
 NA
 regular
@@ -111578,7 +111578,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 regular
@@ -111995,7 +111995,7 @@ NA
 regular
 NA
 725868	NA
-NA
+regular
 NA
 NA
 NA
@@ -112004,11 +112004,11 @@ regular
 NA
 NA
 NA
+regular
 NA
 NA
 NA
-NA
-NA
+regular
 NA
 NA
 NA
@@ -112466,9 +112466,9 @@ NA
 regular
 NA
 NA
-726392	
+726392	regular
 NA
-NA
+
 NA
 regular
 NA
@@ -112952,10 +112952,6 @@ regular
 NA
 NA
 regular
-NA
-NA
-NA
-NA
 regular
 NA
 NA
@@ -112968,7 +112964,11 @@ regular
 NA
 NA
 NA
+regular
 NA
+NA
+NA
+regular
 NA
 NA
 NA
@@ -113299,7 +113299,7 @@ NA
 727289	NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -113458,7 +113458,7 @@ NA
 727477	regular
 NA
 727480	NA
-NA
+regular
 NA
 NA
 NA
@@ -114149,7 +114149,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -114232,7 +114232,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -114503,9 +114503,9 @@ NA
 NA
 regular
 NA
+regular
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -115591,7 +115591,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 730019	NA
@@ -115618,7 +115618,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 regular
@@ -115889,7 +115889,7 @@ regular
 regular
 NA
 730352	NA
-NA
+regular
 NA
 NA
 regular
@@ -116118,9 +116118,9 @@ NA
 NA
 regular
 NA
-
-regular
 NA
+regular
+
 NA
 regular
 NA
@@ -116720,7 +116720,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -117053,7 +117053,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -117822,7 +117822,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -118043,7 +118043,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -119902,10 +119902,10 @@ regular
 NA
 NA
 NA
+regular
+regular
 NA
 
-NA
-NA
 NA
 NA
 regular
@@ -120200,7 +120200,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 regular
@@ -120571,7 +120571,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -121500,7 +121500,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -121516,9 +121516,6 @@ regular
 NA
 regular
 NA
-regular
-NA
-regular
 regular
 NA
 regular
@@ -121528,6 +121525,9 @@ regular
 regular
 NA
 regular
+regular
+NA
+regular
 NA
 regular
 NA
@@ -121551,7 +121551,7 @@ NA
 NA
 regular
 regular
-NA
+regular
 NA
 NA
 NA
@@ -122254,7 +122254,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -122388,7 +122388,7 @@ regular
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -123802,12 +123802,12 @@ regular
 NA
 regular
 NA
-NA
-NA
-NA
-
 regular
 NA
+NA
+NA
+regular
+
 NA
 regular
 NA
@@ -123981,7 +123981,7 @@ regular
 regular
 regular
 NA
-NA
+regular
 NA
 NA
 regular
@@ -124406,7 +124406,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -125305,9 +125305,9 @@ regular
 NA
 copula
 regular
-
-regular
 NA
+regular
+
 NA
 regular
 NA
@@ -125752,7 +125752,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -126511,7 +126511,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -126772,7 +126772,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -127633,7 +127633,7 @@ NA
 NA
 regular
 744106	NA
-NA
+regular
 NA
 NA
 744112	NA
@@ -127969,7 +127969,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -128639,7 +128639,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -129358,9 +129358,9 @@ regular
 746100	NA
 NA
 regular
-746104	
+746104	NA
 regular
-NA
+
 NA
 NA
 regular
@@ -129740,7 +129740,7 @@ regular
 NA
 746579	NA
 NA
-NA
+regular
 NA
 NA
 746585	regular
@@ -130526,7 +130526,7 @@ regular
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -130824,7 +130824,7 @@ NA
 NA
 NA
 regular
-NA
+regular
 regular
 NA
 NA
@@ -131060,7 +131060,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -131524,7 +131524,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 748584	NA
@@ -131546,7 +131546,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -132550,7 +132550,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -133478,7 +133478,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -133595,7 +133595,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -133875,9 +133875,9 @@ NA
 regular
 NA
 NA
-
-regular
 NA
+regular
+
 NA
 regular
 NA
@@ -134565,7 +134565,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -134832,7 +134832,7 @@ NA
 752288	NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -134962,7 +134962,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -135563,7 +135563,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -135755,7 +135755,7 @@ regular
 NA
 regular
 NA
-753353	NA
+753353	regular
 NA
 NA
 NA
@@ -136727,7 +136727,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -137142,7 +137142,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -138975,7 +138975,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -139424,7 +139424,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -140720,7 +140720,7 @@ NA
 758828	regular
 NA
 NA
-NA
+regular
 regular
 NA
 regular
@@ -140854,7 +140854,7 @@ regular
 NA
 NA
 758991	NA
-NA
+regular
 regular
 NA
 NA
@@ -141842,7 +141842,7 @@ NA
 760133	regular
 NA
 760138	NA
-NA
+regular
 NA
 NA
 NA
@@ -142033,7 +142033,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -142755,7 +142755,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -142866,7 +142866,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 761468	NA
@@ -143119,7 +143119,7 @@ NA
 regular
 761740	NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -143813,7 +143813,7 @@ regular
 762607	NA
 762611	regular
 NA
-NA
+regular
 regular
 NA
 NA
@@ -144103,7 +144103,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 763014	regular
@@ -145205,7 +145205,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 764280	NA
@@ -145746,7 +145746,7 @@ NA
 764902	NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -146328,7 +146328,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -146522,7 +146522,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -146832,7 +146832,7 @@ NA
 766080	regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -146840,12 +146840,12 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
 766097	NA
-NA
+regular
 NA
 NA
 regular
@@ -146971,7 +146971,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -147081,7 +147081,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -147353,10 +147353,10 @@ regular
 NA
 regular
 766664	regular
-
-
 NA
 NA
+
+
 766671	NA
 regular
 NA
@@ -147621,9 +147621,9 @@ regular
 NA
 regular
 regular
+NA
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -147680,7 +147680,7 @@ regular
 NA
 regular
 767026	NA
-NA
+regular
 NA
 NA
 NA
@@ -147727,7 +147727,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -147782,7 +147782,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -147813,7 +147813,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -148267,7 +148267,7 @@ regular
 NA
 NA
 767716	NA
-NA
+regular
 NA
 NA
 NA
@@ -148344,7 +148344,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 regular
@@ -148989,7 +148989,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -148998,7 +148998,7 @@ NA
 768538	NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -149593,7 +149593,7 @@ NA
 regular
 regular
 769218	regular
-NA
+
 NA
 regular
 NA
@@ -149915,7 +149915,7 @@ regular
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -150143,7 +150143,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -150189,7 +150189,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -150376,7 +150376,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -150593,7 +150593,7 @@ NA
 NA
 NA
 regular
-regular
+NA
 NA
 regular
 NA
@@ -151705,7 +151705,7 @@ regular
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -152582,9 +152582,9 @@ NA
 NA
 regular
 772630	regular
+NA
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -153073,7 +153073,7 @@ regular
 NA
 NA
 NA
-regular
+copula
 regular
 regular
 NA
@@ -153801,7 +153801,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -154029,7 +154029,7 @@ regular
 774901	NA
 NA
 NA
-NA
+regular
 NA
 NA
 774910	NA
@@ -154195,7 +154195,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -154475,14 +154475,14 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -156580,9 +156580,9 @@ NA
 NA
 regular
 NA
+regular
+NA
 
-NA
-NA
 regular
 NA
 NA
@@ -157366,7 +157366,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -157612,7 +157612,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -157690,7 +157690,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -157849,7 +157849,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 779708	NA
@@ -159079,7 +159079,7 @@ regular
 NA
 NA
 781166	NA
-NA
+regular
 regular
 NA
 NA
@@ -159583,7 +159583,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -159805,7 +159805,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 regular
 NA
 regular
@@ -161010,7 +161010,7 @@ NA
 regular
 NA
 783457	NA
-NA
+regular
 NA
 NA
 783462	NA
@@ -161320,7 +161320,7 @@ regular
 NA
 regular
 783846	NA
-NA
+regular
 783849	NA
 regular
 783853	regular
@@ -162220,7 +162220,7 @@ regular
 NA
 regular
 784942	NA
-NA
+regular
 NA
 NA
 NA
@@ -163288,7 +163288,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -163819,7 +163819,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 regular
 NA
 NA
@@ -164031,7 +164031,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 787161	NA
@@ -164397,7 +164397,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 787567	NA
@@ -167052,7 +167052,7 @@ regular
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -168226,7 +168226,7 @@ NA
 792139	NA
 regular
 NA
-792144	regular
+792144	
 792146	NA
 regular
 NA
@@ -169772,10 +169772,10 @@ NA
 NA
 regular
 NA
+regular
 NA
 NA
-NA
-793984	NA
+793984	regular
 NA
 NA
 793990	NA
@@ -169785,7 +169785,7 @@ NA
 NA
 regular
 NA
-regular
+NA
 NA
 regular
 NA
@@ -169941,7 +169941,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 regular
@@ -170899,7 +170899,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -170944,7 +170944,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 795389	regular
@@ -171408,7 +171408,7 @@ NA
 796004	NA
 regular
 NA
-NA
+regular
 NA
 NA
 regular
@@ -172574,7 +172574,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -173685,7 +173685,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -173780,7 +173780,7 @@ NA
 798784	regular
 NA
 NA
-798792	NA
+798792	
 regular
 regular
 NA
@@ -175781,7 +175781,7 @@ NA
 801279	NA
 regular
 NA
-NA
+regular
 NA
 NA
 regular
@@ -175847,7 +175847,7 @@ NA
 NA
 NA
 regular
-801363	NA
+801363	regular
 NA
 NA
 NA
@@ -176052,7 +176052,7 @@ regular
 NA
 NA
 regular
-NA
+regular
 NA
 NA
 NA
@@ -176351,7 +176351,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -176906,7 +176906,7 @@ NA
 regular
 NA
 regular
-regular
+NA
 NA
 regular
 NA
@@ -178934,7 +178934,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -179071,7 +179071,7 @@ NA
 regular
 NA
 NA
-805261	NA
+805261	regular
 NA
 NA
 805267	regular
@@ -179858,7 +179858,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -179994,7 +179994,7 @@ regular
 NA
 NA
 806447	NA
-NA
+regular
 NA
 NA
 806453	NA
@@ -180075,7 +180075,7 @@ NA
 NA
 regular
 NA
-806558	NA
+806558	regular
 NA
 NA
 806563	regular
@@ -180196,7 +180196,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -180436,7 +180436,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -181610,7 +181610,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -182148,7 +182148,7 @@ regular
 NA
 808979	regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -182160,7 +182160,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -182289,7 +182289,7 @@ NA
 regular
 NA
 809132	NA
-NA
+regular
 NA
 NA
 NA
@@ -182683,7 +182683,7 @@ NA
 NA
 regular
 NA
-809578	regular
+809578	NA
 NA
 regular
 NA
@@ -182722,7 +182722,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -182927,7 +182927,7 @@ NA
 NA
 809855	NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -183478,7 +183478,7 @@ NA
 regular
 NA
 regular
-regular
+NA
 NA
 regular
 regular
@@ -183587,7 +183587,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -184597,7 +184597,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 regular
 NA
 NA
@@ -185668,7 +185668,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -185721,9 +185721,9 @@ NA
 NA
 regular
 NA
+regular
+NA
 
-NA
-NA
 813159	NA
 NA
 regular
@@ -185954,7 +185954,7 @@ NA
 NA
 NA
 regular
-813424	NA
+813424	regular
 NA
 NA
 NA
@@ -187121,7 +187121,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -187644,7 +187644,7 @@ regular
 regular
 NA
 815382	NA
-NA
+regular
 NA
 NA
 NA
@@ -188326,7 +188326,7 @@ regular
 NA
 NA
 regular
-NA
+regular
 NA
 NA
 NA
@@ -191487,7 +191487,7 @@ NA
 NA
 NA
 regular
-regular
+NA
 NA
 regular
 NA
@@ -192127,7 +192127,7 @@ NA
 NA
 regular
 regular
-821178	NA
+821178	regular
 NA
 NA
 NA
@@ -192247,7 +192247,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -192800,7 +192800,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -193320,7 +193320,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 regular
 NA
 NA
@@ -193757,7 +193757,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 regular
@@ -193812,7 +193812,7 @@ regular
 NA
 NA
 regular
-NA
+regular
 regular
 NA
 NA
@@ -194923,7 +194923,7 @@ regular
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -195356,7 +195356,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 825535	NA
@@ -195571,7 +195571,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -195907,7 +195907,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -196559,7 +196559,7 @@ NA
 NA
 826935	regular
 826940	NA
-NA
+regular
 NA
 NA
 regular
@@ -196627,7 +196627,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -197066,7 +197066,7 @@ NA
 NA
 827507	NA
 regular
-NA
+regular
 NA
 NA
 regular
@@ -197075,7 +197075,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -197224,7 +197224,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -198173,7 +198173,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -198673,7 +198673,7 @@ regular
 NA
 829321	regular
 829327	NA
-NA
+regular
 NA
 NA
 regular
@@ -198827,7 +198827,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -202884,7 +202884,7 @@ regular
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -203308,7 +203308,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 834868	regular
@@ -204001,7 +204001,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 regular
@@ -204296,7 +204296,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -204619,7 +204619,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -205727,7 +205727,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -206078,7 +206078,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 regular
 NA
 NA
@@ -206105,7 +206105,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -206214,27 +206214,10 @@ NA
 NA
 NA
 NA
-NA
-regular
-NA
-NA
-NA
-regular
-NA
-NA
-regular
-NA
-NA
-regular
-NA
-NA
 regular
 regular
 NA
-regular
 NA
-NA
-regular
 NA
 regular
 NA
@@ -206242,9 +206225,26 @@ NA
 regular
 NA
 NA
+regular
+NA
+NA
+regular
+regular
+NA
+regular
+NA
+NA
+regular
+NA
+regular
+NA
+NA
+regular
 NA
 NA
 NA
+NA
+regular
 NA
 NA
 NA
@@ -206404,7 +206404,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -207150,7 +207150,7 @@ NA
 regular
 NA
 regular
-NA
+regular
 NA
 NA
 NA
@@ -207584,7 +207584,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -207664,13 +207664,13 @@ NA
 NA
 regular
 NA
+regular
+NA
 
 NA
 NA
 NA
 NA
-NA
-NA
 regular
 NA
 NA
@@ -207688,7 +207688,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -207915,7 +207915,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -208537,7 +208537,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -208569,7 +208569,7 @@ NA
 842085	regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -209252,7 +209252,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -209264,7 +209264,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -209406,7 +209406,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 843480	NA
@@ -210580,7 +210580,7 @@ regular
 NA
 NA
 845048	NA
-NA
+regular
 NA
 NA
 NA
@@ -210939,7 +210939,7 @@ NA
 NA
 NA
 regular
-NA
+regular
 NA
 NA
 845457	NA
@@ -210958,11 +210958,11 @@ NA
 NA
 regular
 NA
+regular
 NA
 NA
 NA
-NA
-NA
+regular
 NA
 NA
 NA
@@ -211271,7 +211271,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -212530,7 +212530,7 @@ NA
 847890	NA
 847899	NA
 NA
-NA
+regular
 NA
 NA
 847907	NA
@@ -212828,7 +212828,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -212848,7 +212848,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 848294	NA
@@ -213023,7 +213023,7 @@ NA
 NA
 regular
 NA
-848509	NA
+848509	regular
 regular
 NA
 NA
@@ -213260,10 +213260,10 @@ NA
 NA
 NA
 NA
+regular
+NA
 
 
-NA
-NA
 848853	NA
 regular
 NA
@@ -214149,7 +214149,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -214883,7 +214883,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -214993,7 +214993,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 regular
@@ -216077,7 +216077,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -217394,9 +217394,9 @@ NA
 regular
 NA
 regular
+NA
+NA
 
-NA
-NA
 NA
 regular
 NA
@@ -217836,7 +217836,7 @@ NA
 regular
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -218943,7 +218943,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -220037,7 +220037,7 @@ NA
 NA
 regular
 NA
-NA
+regular
 NA
 NA
 NA
@@ -220681,7 +220681,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -220727,7 +220727,7 @@ NA
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 NA
@@ -221304,7 +221304,7 @@ regular
 NA
 NA
 NA
-NA
+regular
 NA
 NA
 858104	NA

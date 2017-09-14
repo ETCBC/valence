@@ -27,14 +27,14 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 427967;7819;609488;Genesis;18;2;NF>;qal;;<JNJW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 428071;8218;-1;Genesis;18;24;NF>;qal;TF> ;W L> TF> L  MQWM LM<N XMCJM H YDJQM ;;;;;;;;;;;
 428071;8218;609773;Genesis;18;24;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-428071;8218;609774;Genesis;18;24;NF>;qal;;L> ;phrase;;;NegP;Adju;adjunct;NA;NA;;;
+428071;8218;609774;Genesis;18;24;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 428071;8218;609775;Genesis;18;24;NF>;qal;;TF> ;phrase;;;VP;Pred;core;regular;NA;;;
-428071;8218;609776;Genesis;18;24;NF>;qal;;L  MQWM ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+428071;8218;609776;Genesis;18;24;NF>;qal;;L  MQWM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 428071;8218;609777;Genesis;18;24;NF>;qal;;LM<N XMCJM H YDJQM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 428081;8275;-1;Genesis;18;26;NF>;qal;NF>TJ ;W NF>TJ L KL H MQWM B <BWRM ;;;;;;;;;;;
-428081;8275;609806;Genesis;18;26;NF>;qal;;W ;phrase;;;CP;Adju;adjunct;NA;NA;;;
+428081;8275;609806;Genesis;18;26;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 428081;8275;609807;Genesis;18;26;NF>;qal;;NF>TJ ;phrase;;;VP;Pred;core;regular;NA;;;
-428081;8275;609808;Genesis;18;26;NF>;qal;;L KL H MQWM ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+428081;8275;609808;Genesis;18;26;NF>;qal;;L KL H MQWM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 428081;8275;609809;Genesis;18;26;NF>;qal;;B <BWRM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 428233;8895;-1;Genesis;19;21;NF>;qal;NF>TJ ;HNH NF>TJ PNJK GM L  DBR H ZH ;;;;;;;;;;;
 428233;8895;610239;Genesis;19;21;NF>;qal;;HNH ;phrase;;;InjP;Intj;NA;NA;NA;;NA;NA
@@ -156,9 +156,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 431676;24704;620547;Genesis;43;29;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
 431676;24704;620548;Genesis;43;29;NF>;qal;;<JNJW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 431703;24813;-1;Genesis;43;34;NF>;qal;JF> ;W JF> MF>T M >T PNJW >LHM ;;;;;;;;;;;
-431703;24813;620620;Genesis;43;34;NF>;qal;;W ;phrase;;;CP;BoundErr;;;;;;
+431703;24813;620620;Genesis;43;34;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 431703;24813;620621;Genesis;43;34;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
-431703;24813;620622;Genesis;43;34;NF>;qal;;MF>T M >T PNJW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+431703;24813;620622;Genesis;43;34;NF>;qal;;MF>T M >T PNJW ;phrase;;;NP;BoundErr;;;;;;
 431703;24813;620623;Genesis;43;34;NF>;qal;;>LHM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
 431712;24850;-1;Genesis;44;1;NF>;qal;F>T ;F>T ;;;;;;;;;;;
 431712;24850;620644;Genesis;44;1;NF>;qal;;F>T ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -168,19 +168,19 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 431944;25821;621329;Genesis;45;19;NF>;qal;;>T >BJKM ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 431955;25886;-1;Genesis;45;23;NF>;qal;NF>JM ;NF>JM M VWB MYRJM ;;;;;;;;;;;
 431955;25886;621367;Genesis;45;23;NF>;qal;;NF>JM ;phrase;;;VP;PreC;core;regular;NA;;;
-431955;25886;621368;Genesis;45;23;NF>;qal;;M VWB MYRJM ;phrase;;;PP;BoundErr;;;;;;
+431955;25886;621368;Genesis;45;23;NF>;qal;;M VWB MYRJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 431956;25893;-1;Genesis;45;23;NF>;qal;NF>T ;NF>T BR W LXM W MZWN L >BJW L  DRK ;;;;;;;;;;;
 431956;25893;621369;Genesis;45;23;NF>;qal;;NF>T ;phrase;;;VP;PreC;core;regular;NA;;;
-431956;25893;621370;Genesis;45;23;NF>;qal;;BR W LXM W MZWN L >BJW L  DRK ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+431956;25893;621370;Genesis;45;23;NF>;qal;;BR W LXM W MZWN L >BJW L  DRK ;phrase;;;NP;BoundErr;;;;;;
 431973;25971;-1;Genesis;45;27;NF>;qal;F>T ;L F>T >TW ;;;;;;;;;;;
 431973;25971;621420;Genesis;45;27;NF>;qal;;L F>T ;phrase;;;VP;Pred;core;regular;NA;;;
 431973;25971;621421;Genesis;45;27;NF>;qal;;>TW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 431999;26066;-1;Genesis;46;5;NF>;qal;JF>W ;W JF>W BNJ JFR>L >T J<QB >BJHM W >T VPM W >T NCJHM B  <GLWT ;;;;;;;;;;;
 431999;26066;621490;Genesis;46;5;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 431999;26066;621491;Genesis;46;5;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
-431999;26066;621492;Genesis;46;5;NF>;qal;;BNJ JFR>L ;phrase;;;NP;Adju;adjunct;NA;NA;;;
+431999;26066;621492;Genesis;46;5;NF>;qal;;BNJ JFR>L ;phrase;;;NP;Subj;core;NA;subject;;;
 431999;26066;621493;Genesis;46;5;NF>;qal;;>T J<QB >BJHM W >T VPM W >T NCJHM ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-431999;26066;621494;Genesis;46;5;NF>;qal;;B  <GLWT ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+431999;26066;621494;Genesis;46;5;NF>;qal;;B  <GLWT ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 432001;26085;-1;Genesis;46;5;NF>;qal;F>T ;L F>T >TW ;;;;;;;;;;;
 432001;26085;621498;Genesis;46;5;NF>;qal;;L F>T ;phrase;;;VP;Pred;core;regular;NA;;;
 432001;26085;621499;Genesis;46;5;NF>;qal;;>TW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
@@ -215,9 +215,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 433641;34118;626379;Exodus;10;13;NF>;qal;;>T H >RBH ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 433657;34215;-1;Exodus;10;17;NF>;qal;F> ;F> N> XV>TJ >K H P<M ;;;;;;;;;;;
 433657;34215;626428;Exodus;10;17;NF>;qal;;F> ;phrase;;;VP;Pred;core;regular;NA;;;
-433657;34215;626429;Exodus;10;17;NF>;qal;;N> ;phrase;;;InjP;Time;adjunct;NA;NA;;time;time
+433657;34215;626429;Exodus;10;17;NF>;qal;;N> ;phrase;;;InjP;Intj;NA;NA;NA;;NA;NA
 433657;34215;626430;Exodus;10;17;NF>;qal;;XV>TJ ;phrase;;;NP;Objc;complement;NA;direct_object;;;
-433657;34215;626431;Exodus;10;17;NF>;qal;;>K H P<M ;phrase;;;NP;Modi;NA;NA;NA;;NA;NA
+433657;34215;626431;Exodus;10;17;NF>;qal;;>K H P<M ;phrase;;;NP;Time;adjunct;NA;NA;;time;time
 433663;34253;-1;Exodus;10;19;NF>;qal;JF> ;W JF> >T H >RBH ;;;;;;;;;;;
 433663;34253;626449;Exodus;10;19;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 433663;34253;626450;Exodus;10;19;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -243,14 +243,14 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 434608;39120;629365;Exodus;19;4;NF>;qal;;<L KNPJ NCRJM ;phrase;;;PP;Cmpl;complement;NA;*;;;
 434722;39685;-1;Exodus;20;7;NF>;qal;TF> ;L> TF> >T CM JHWH >LHJK L  CW> ;;;;;;;;;;;
 434722;39685;629709;Exodus;20;7;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
-434722;39685;629710;Exodus;20;7;NF>;qal;;TF> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
-434722;39685;629711;Exodus;20;7;NF>;qal;;>T CM JHWH >LHJK ;phrase;;;PP;Objc;complement;NA;principal_direct_object;;;
-434722;39685;629712;Exodus;20;7;NF>;qal;;L  CW> ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+434722;39685;629710;Exodus;20;7;NF>;qal;;TF> ;phrase;;;VP;Pred;core;regular;NA;;;
+434722;39685;629711;Exodus;20;7;NF>;qal;;>T CM JHWH >LHJK ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+434722;39685;629712;Exodus;20;7;NF>;qal;;L  CW> ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 434724;39699;-1;Exodus;20;7;NF>;qal;JF> ;>T >CR JF> >T CMW L  CW> ;;;;;;;;;;;
 434724;39699;629717;Exodus;20;7;NF>;qal;;>T >CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
-434724;39699;629718;Exodus;20;7;NF>;qal;;JF> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
-434724;39699;629719;Exodus;20;7;NF>;qal;;>T CMW ;phrase;;;PP;Objc;complement;NA;principal_direct_object;;;
-434724;39699;629720;Exodus;20;7;NF>;qal;;L  CW> ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+434724;39699;629718;Exodus;20;7;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
+434724;39699;629719;Exodus;20;7;NF>;qal;;>T CMW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+434724;39699;629720;Exodus;20;7;NF>;qal;;L  CW> ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 435022;41058;-1;Exodus;23;1;NF>;qal;TF> ;L> TF> CM< CW> ;;;;;;;;;;;
 435022;41058;630643;Exodus;23;1;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 435022;41058;630644;Exodus;23;1;NF>;qal;;TF> ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -261,9 +261,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 435086;41370;630849;Exodus;23;21;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
 435086;41370;630850;Exodus;23;21;NF>;qal;;L PC<KM ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
 435224;42164;-1;Exodus;25;14;NF>;qal;F>T ;L F>T >T H >RN BHM ;;;;;;;;;;;
-435224;42164;631286;Exodus;25;14;NF>;qal;;L F>T ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+435224;42164;631286;Exodus;25;14;NF>;qal;;L F>T ;phrase;;;VP;Pred;core;regular;NA;;;
 435224;42164;631287;Exodus;25;14;NF>;qal;;>T H >RN ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-435224;42164;631288;Exodus;25;14;NF>;qal;;BHM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+435224;42164;631288;Exodus;25;14;NF>;qal;;BHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 435260;42389;-1;Exodus;25;27;NF>;qal;F>T ;L F>T >T H CLXN ;;;;;;;;;;;
 435260;42389;631416;Exodus;25;27;NF>;qal;;L F>T ;phrase;;;VP;Pred;core;regular;NA;;;
 435260;42389;631417;Exodus;25;27;NF>;qal;;>T H CLXN ;phrase;;;PP;Objc;complement;NA;direct_object;;;
@@ -279,28 +279,28 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 435487;43942;632126;Exodus;28;12;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 435487;43942;632127;Exodus;28;12;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
 435487;43942;632128;Exodus;28;12;NF>;qal;;>HRN ;phrase;;;PrNP;Subj;core;NA;subject;;;
-435487;43942;632129;Exodus;28;12;NF>;qal;;>T CMWTM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+435487;43942;632129;Exodus;28;12;NF>;qal;;>T CMWTM ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 435487;43942;632130;Exodus;28;12;NF>;qal;;L PNJ JHWH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
-435487;43942;632131;Exodus;28;12;NF>;qal;;<L CTJ KTPJW ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+435487;43942;632131;Exodus;28;12;NF>;qal;;<L CTJ KTPJW ;phrase;;;PP;Cmpl;complement;NA;*;;;
 435487;43942;632132;Exodus;28;12;NF>;qal;;L ZKRN ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 435523;44224;-1;Exodus;28;29;NF>;qal;NF> ;W NF> >HRN >T CMWT BNJ JFR>L B XCN H MCPV <L LBW L ZKRN L PNJ JHWH TMJD ;;;;;;;;;;;
 435523;44224;632248;Exodus;28;29;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 435523;44224;632249;Exodus;28;29;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
-435523;44224;632250;Exodus;28;29;NF>;qal;;>HRN ;phrase;;;PrNP;BoundErr;;;;;;
+435523;44224;632250;Exodus;28;29;NF>;qal;;>HRN ;phrase;;;PrNP;Subj;core;NA;subject;;;
 435523;44224;632251;Exodus;28;29;NF>;qal;;>T CMWT BNJ JFR>L ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-435523;44224;632252;Exodus;28;29;NF>;qal;;B XCN H MCPV ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+435523;44224;632252;Exodus;28;29;NF>;qal;;B XCN H MCPV ;phrase;;;PP;BoundErr;;;;;;
 435523;44224;632253;Exodus;28;29;NF>;qal;;<L LBW ;phrase;;;PP;Cmpl;complement;NA;*;;;
-435523;44224;632256;Exodus;28;29;NF>;qal;;L ZKRN ;phrase;;;PP;BoundErr;;;;;;
-435523;44224;632257;Exodus;28;29;NF>;qal;;L PNJ JHWH ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
-435523;44224;632258;Exodus;28;29;NF>;qal;;TMJD ;phrase;;;AdvP;Time;adjunct;NA;NA;;time;time
+435523;44224;632256;Exodus;28;29;NF>;qal;;L ZKRN ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+435523;44224;632257;Exodus;28;29;NF>;qal;;L PNJ JHWH ;phrase;;;PP;BoundErr;;;;;;
+435523;44224;632258;Exodus;28;29;NF>;qal;;TMJD ;phrase;;;AdvP;BoundErr;;;;;;
 435523;44224;435524;Exodus;28;29;NF>;qal;;B B>W >L H QDC ;clause;InfC;Adju;;;NA;NA;;;;
 435528;44271;-1;Exodus;28;30;NF>;qal;NF> ;W NF> >HRN >T MCPV BNJ JFR>L <L LBW L PNJ JHWH TMJD ;;;;;;;;;;;
 435528;44271;632268;Exodus;28;30;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 435528;44271;632269;Exodus;28;30;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
 435528;44271;632270;Exodus;28;30;NF>;qal;;>HRN ;phrase;;;PrNP;Subj;core;NA;subject;;;
-435528;44271;632271;Exodus;28;30;NF>;qal;;>T MCPV BNJ JFR>L ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+435528;44271;632271;Exodus;28;30;NF>;qal;;>T MCPV BNJ JFR>L ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 435528;44271;632272;Exodus;28;30;NF>;qal;;<L LBW ;phrase;;;PP;Cmpl;complement;NA;*;;;
-435528;44271;632273;Exodus;28;30;NF>;qal;;L PNJ JHWH ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+435528;44271;632273;Exodus;28;30;NF>;qal;;L PNJ JHWH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 435528;44271;632274;Exodus;28;30;NF>;qal;;TMJD ;phrase;;;AdvP;Time;adjunct;NA;NA;;time;time
 435551;44403;-1;Exodus;28;38;NF>;qal;NF> ;W NF> >HRN >T <WN H QDCJM ;;;;;;;;;;;
 435551;44403;632342;Exodus;28;38;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
@@ -313,9 +313,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 435572;44524;632416;Exodus;28;43;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
 435572;44524;632417;Exodus;28;43;NF>;qal;;<WN ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 435730;45578;-1;Exodus;30;4;NF>;qal;F>T ;L F>T >TW B HMH ;;;;;;;;;;;
-435730;45578;632921;Exodus;30;4;NF>;qal;;L F>T ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+435730;45578;632921;Exodus;30;4;NF>;qal;;L F>T ;phrase;;;VP;Pred;core;regular;NA;;;
 435730;45578;632922;Exodus;30;4;NF>;qal;;>TW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-435730;45578;632923;Exodus;30;4;NF>;qal;;B HMH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+435730;45578;632923;Exodus;30;4;NF>;qal;;B HMH ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 435751;45702;-1;Exodus;30;12;NF>;qal;TF> ;KJ TF> >T R>C BNJ JFR>L L PQDJHM ;;;;;;;;;;;
 435751;45702;632990;Exodus;30;12;NF>;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 435751;45702;632991;Exodus;30;12;NF>;qal;;TF> ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -353,13 +353,13 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 436555;50174;635348;Exodus;37;15;NF>;qal;;L F>T ;phrase;;;VP;Pred;core;regular;NA;;;
 436555;50174;635349;Exodus;37;15;NF>;qal;;>T H CLXN ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 436593;50406;-1;Exodus;37;27;NF>;qal;F>T ;L F>T >TW BHM ;;;;;;;;;;;
-436593;50406;635456;Exodus;37;27;NF>;qal;;L F>T ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+436593;50406;635456;Exodus;37;27;NF>;qal;;L F>T ;phrase;;;VP;Pred;core;regular;NA;;;
 436593;50406;635457;Exodus;37;27;NF>;qal;;>TW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-436593;50406;635458;Exodus;37;27;NF>;qal;;BHM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+436593;50406;635458;Exodus;37;27;NF>;qal;;BHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 436614;50553;-1;Exodus;38;7;NF>;qal;F>T ;L F>T >TW BHM ;;;;;;;;;;;
-436614;50553;635531;Exodus;38;7;NF>;qal;;L F>T ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+436614;50553;635531;Exodus;38;7;NF>;qal;;L F>T ;phrase;;;VP;Pred;core;regular;NA;;;
 436614;50553;635532;Exodus;38;7;NF>;qal;;>TW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-436614;50553;635533;Exodus;38;7;NF>;qal;;BHM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+436614;50553;635533;Exodus;38;7;NF>;qal;;BHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 437167;54305;-1;Leviticus;5;1;NF>;qal;NF> ;W NF> <WNW ;;;;;;;;;;;
 437167;54305;637303;Leviticus;5;1;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 437167;54305;637304;Leviticus;5;1;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -461,13 +461,13 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 439445;67030;644289;Leviticus;24;15;NF>;qal;;XV>W ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 439956;69636;-1;Numbers;1;2;NF>;qal;F>W ;F>W >T R>C KL <DT BNJ JFR>L L MCPXTM L BJT >BTM B MSPR CMWT KL ZKR L GLGLTM ;;;;;;;;;;;
 439956;69636;645986;Numbers;1;2;NF>;qal;;F>W ;phrase;;;VP;Pred;core;regular;NA;;;
-439956;69636;645987;Numbers;1;2;NF>;qal;;>T R>C KL <DT BNJ JFR>L L MCPXTM L BJT >BTM B MSPR CMWT KL ZKR L GLGLTM ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+439956;69636;645987;Numbers;1;2;NF>;qal;;>T R>C KL <DT BNJ JFR>L L MCPXTM L BJT >BTM B MSPR CMWT KL ZKR L GLGLTM ;phrase;;;PP;BoundErr;;;;;;
 440032;70305;-1;Numbers;1;49;NF>;qal;TF> ;W >T R>CM L> TF> B TWK BNJ JFR>L ;;;;;;;;;;;
 440032;70305;646140;Numbers;1;49;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 440032;70305;646141;Numbers;1;49;NF>;qal;;>T R>CM ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-440032;70305;646142;Numbers;1;49;NF>;qal;;L> ;phrase;;;NegP;Cmpl;complement;NA;*;;;
+440032;70305;646142;Numbers;1;49;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 440032;70305;646143;Numbers;1;49;NF>;qal;;TF> ;phrase;;;VP;Pred;core;regular;NA;;;
-440032;70305;646144;Numbers;1;49;NF>;qal;;B TWK BNJ JFR>L ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+440032;70305;646144;Numbers;1;49;NF>;qal;;B TWK BNJ JFR>L ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 440035;70330;-1;Numbers;1;50;NF>;qal;JF>W ;HMH JF>W >T H MCKN W >T KL KLJW ;;;;;;;;;;;
 440035;70330;646152;Numbers;1;50;NF>;qal;;HMH ;phrase;;;PPrP;Subj;core;NA;subject;;;
 440035;70330;646153;Numbers;1;50;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -503,7 +503,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 440568;73863;647758;Numbers;6;26;NF>;qal;;PNJW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 440568;73863;647759;Numbers;6;26;NF>;qal;;>LJK ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
 440600;74060;-1;Numbers;7;9;NF>;qal;JF>W ;B  KTP JF>W ;;;;;;;;;;;
-440600;74060;647851;Numbers;7;9;NF>;qal;;B  KTP ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+440600;74060;647851;Numbers;7;9;NF>;qal;;B  KTP ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 440600;74060;647852;Numbers;7;9;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
 440889;76021;-1;Numbers;9;13;NF>;qal;JF> ;XV>W JF> H >JC H HW> ;;;;;;;;;;;
 440889;76021;648640;Numbers;9;13;NF>;qal;;XV>W ;phrase;;;NP;Objc;complement;NA;direct_object;;;
@@ -519,7 +519,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 440979;76560;648927;Numbers;10;21;NF>;qal;;H QHTJM NF>J H MQDC ;phrase;;;NP;Subj;core;NA;subject;;;
 441075;77026;-1;Numbers;11;12;NF>;qal;F>HW ;F>HW B XJQK <L H >DMH ;;;;;;;;;;;
 441075;77026;649212;Numbers;11;12;NF>;qal;;F>HW ;phrase;;;VP;PreO;core;regular;direct_object;;;
-441075;77026;649213;Numbers;11;12;NF>;qal;;B XJQK ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+441075;77026;649213;Numbers;11;12;NF>;qal;;B XJQK ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 441075;77026;649218;Numbers;11;12;NF>;qal;;<L H >DMH ;phrase;;;PP;Cmpl;complement;NA;*;;;
 441076;77031;-1;Numbers;11;12;NF>;qal;JF> ;K >CR JF> H >MN >T H JNQ ;;;;;;;;;;;
 441076;77031;649214;Numbers;11;12;NF>;qal;;K >CR ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
@@ -554,9 +554,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 441432;78776;650290;Numbers;14;18;NF>;qal;;<WN W PC< ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 441436;78808;-1;Numbers;14;19;NF>;qal;NF>TH ;W K >CR NF>TH L  <M H ZH M MYRJM W <D HNH ;;;;;;;;;;;
 441436;78808;650302;Numbers;14;19;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-441436;78808;650303;Numbers;14;19;NF>;qal;;K >CR ;phrase;;;CP;Adju;adjunct;NA;NA;;;
+441436;78808;650303;Numbers;14;19;NF>;qal;;K >CR ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 441436;78808;650304;Numbers;14;19;NF>;qal;;NF>TH ;phrase;;;VP;Pred;core;regular;NA;;;
-441436;78808;650305;Numbers;14;19;NF>;qal;;L  <M H ZH ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+441436;78808;650305;Numbers;14;19;NF>;qal;;L  <M H ZH ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 441436;78808;650306;Numbers;14;19;NF>;qal;;M MYRJM W <D HNH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 441472;79000;-1;Numbers;14;30;NF>;qal;NF>TJ ;>CR NF>TJ >T JDJ ;;;;;;;;;;;
 441472;79000;650416;Numbers;14;30;NF>;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
@@ -651,7 +651,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 442771;85574;654389;Numbers;24;23;NF>;qal;;MCLW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 442836;85949;-1;Numbers;26;2;NF>;qal;F>W ;F>W >T R>C KL <DT BNJ JFR>L M BN <FRJM CNH W M<LH L BJT >BTM KL ;;;;;;;;;;;
 442836;85949;654594;Numbers;26;2;NF>;qal;;F>W ;phrase;;;VP;Pred;core;regular;NA;;;
-442836;85949;654595;Numbers;26;2;NF>;qal;;>T R>C KL <DT BNJ JFR>L M BN <FRJM CNH W M<LH L BJT >BTM KL ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+442836;85949;654595;Numbers;26;2;NF>;qal;;>T R>C KL <DT BNJ JFR>L M BN <FRJM CNH W M<LH L BJT >BTM KL ;phrase;;;PP;BoundErr;;;;;;
 443265;88846;-1;Numbers;30;16;NF>;qal;NF> ;W NF> >T <WNH ;;;;;;;;;;;
 443265;88846;655807;Numbers;30;16;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 443265;88846;655808;Numbers;30;16;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -676,11 +676,11 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 443999;93428;658141;Deuteronomy;1;31;NF>;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
 443999;93428;658142;Deuteronomy;1;31;NF>;qal;;NF>K ;phrase;;;VP;PreO;core;regular;direct_object;;;
 443999;93428;658143;Deuteronomy;1;31;NF>;qal;;JHWH >LHJK ;phrase;;;PrNP;Subj;core;NA;subject;;;
-443999;93428;658148;Deuteronomy;1;31;NF>;qal;;B KL H DRK ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+443999;93428;658148;Deuteronomy;1;31;NF>;qal;;B KL H DRK ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 444000;93433;-1;Deuteronomy;1;31;NF>;qal;JF> ;K >CR JF> >JC >T BNW ;;;;;;;;;;;
 444000;93433;658144;Deuteronomy;1;31;NF>;qal;;K >CR ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 444000;93433;658145;Deuteronomy;1;31;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
-444000;93433;658146;Deuteronomy;1;31;NF>;qal;;>JC ;phrase;;;NP;Cmpl;complement;NA;*;;;
+444000;93433;658146;Deuteronomy;1;31;NF>;qal;;>JC ;phrase;;;NP;Subj;core;NA;subject;;;
 444000;93433;658147;Deuteronomy;1;31;NF>;qal;;>T BNW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 444304;95096;-1;Deuteronomy;3;27;NF>;qal;F> ;W F> <JNJK JMH W YPNH W TJMNH W MZRXH ;;;;;;;;;;;
 444304;95096;659040;Deuteronomy;3;27;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
@@ -695,14 +695,14 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 444397;95562;659319;Deuteronomy;4;19;NF>;qal;;H CMJMH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
 444547;96491;-1;Deuteronomy;5;11;NF>;qal;TF> ;L> TF> >T CM JHWH >LHJK L  CW> ;;;;;;;;;;;
 444547;96491;659785;Deuteronomy;5;11;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
-444547;96491;659786;Deuteronomy;5;11;NF>;qal;;TF> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
-444547;96491;659787;Deuteronomy;5;11;NF>;qal;;>T CM JHWH >LHJK ;phrase;;;PP;Objc;complement;NA;principal_direct_object;;;
-444547;96491;659788;Deuteronomy;5;11;NF>;qal;;L  CW> ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+444547;96491;659786;Deuteronomy;5;11;NF>;qal;;TF> ;phrase;;;VP;Pred;core;regular;NA;;;
+444547;96491;659787;Deuteronomy;5;11;NF>;qal;;>T CM JHWH >LHJK ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+444547;96491;659788;Deuteronomy;5;11;NF>;qal;;L  CW> ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 444549;96505;-1;Deuteronomy;5;11;NF>;qal;JF> ;>T >CR JF> >T CMW L  CW> ;;;;;;;;;;;
 444549;96505;659793;Deuteronomy;5;11;NF>;qal;;>T >CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
-444549;96505;659794;Deuteronomy;5;11;NF>;qal;;JF> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
-444549;96505;659795;Deuteronomy;5;11;NF>;qal;;>T CMW ;phrase;;;PP;Objc;complement;NA;principal_direct_object;;;
-444549;96505;659796;Deuteronomy;5;11;NF>;qal;;L  CW> ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+444549;96505;659794;Deuteronomy;5;11;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
+444549;96505;659795;Deuteronomy;5;11;NF>;qal;;>T CMW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+444549;96505;659796;Deuteronomy;5;11;NF>;qal;;L  CW> ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 445094;99279;-1;Deuteronomy;10;8;NF>;qal;F>T ;L F>T >T >RWN BRJT JHWH ;;;;;;;;;;;
 445094;99279;661398;Deuteronomy;10;8;NF>;qal;;L F>T ;phrase;;;VP;Pred;core;regular;NA;;;
 445094;99279;661399;Deuteronomy;10;8;NF>;qal;;>T >RWN BRJT JHWH ;phrase;;;PP;Objc;complement;NA;principal_direct_object;;;
@@ -728,13 +728,13 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 446953;108996;667065;Deuteronomy;28;49;NF>;qal;;JHWH ;phrase;;;PrNP;Subj;core;NA;subject;;;
 446953;108996;667066;Deuteronomy;28;49;NF>;qal;;<LJK ;phrase;;;PP;Cmpl;complement;NA;*;;;
 446953;108996;667067;Deuteronomy;28;49;NF>;qal;;GWJ GWJ ;phrase;;;NP;Objc;complement;NA;direct_object;;;
-446953;108996;667068;Deuteronomy;28;49;NF>;qal;;M RXWQ M QYH H >RY ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+446953;108996;667068;Deuteronomy;28;49;NF>;qal;;M RXWQ M QYH H >RY ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 446957;109021;-1;Deuteronomy;28;50;NF>;qal;JF> ;>CR L> JF> PNJM L ZQN ;;;;;;;;;;;
 446957;109021;667077;Deuteronomy;28;50;NF>;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
 446957;109021;667078;Deuteronomy;28;50;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
-446957;109021;667079;Deuteronomy;28;50;NF>;qal;;JF> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
-446957;109021;667080;Deuteronomy;28;50;NF>;qal;;PNJM ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-446957;109021;667081;Deuteronomy;28;50;NF>;qal;;L ZQN ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+446957;109021;667079;Deuteronomy;28;50;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
+446957;109021;667080;Deuteronomy;28;50;NF>;qal;;PNJM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+446957;109021;667081;Deuteronomy;28;50;NF>;qal;;L ZQN ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 447282;110856;-1;Deuteronomy;31;9;NF>;qal;NF>JM ;H NF>JM >T >RWN BRJT JHWH ;;;;;;;;;;;
 447282;110856;668071;Deuteronomy;31;9;NF>;qal;;H ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
 447282;110856;668072;Deuteronomy;31;9;NF>;qal;;NF>JM ;phrase;;;VP;PreC;core;regular;NA;;;
@@ -798,7 +798,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 448024;114348;670171;Joshua;3;17;NF>;qal;;HKN ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
 448037;114418;-1;Joshua;4;3;NF>;qal;F>W ;F>W LKM M ZH M TWK H JRDN M MYB RGLJ H KHNJM CTJM <FRH >BNJM ;;;;;;;;;;;
 448037;114418;670203;Joshua;4;3;NF>;qal;;F>W ;phrase;;;VP;Pred;core;regular;NA;;;
-448037;114418;670204;Joshua;4;3;NF>;qal;;LKM ;phrase;;;PP;Supp;adjunct;NA;NA;;;benefactive
+448037;114418;670204;Joshua;4;3;NF>;qal;;LKM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 448037;114418;670205;Joshua;4;3;NF>;qal;;M ZH M TWK H JRDN M MYB RGLJ H KHNJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 448037;114418;670207;Joshua;4;3;NF>;qal;;CTJM <FRH >BNJM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 448037;114418;448038;Joshua;4;3;NF>;qal;;HKJN ;clause;InfC;Adju;;;NA;NA;;;;
@@ -861,9 +861,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 448244;115624;670859;Joshua;6;13;NF>;qal;;L PNJ >RWN JHWH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 448596;117646;-1;Joshua;8;33;NF>;qal;NF>J ;W KL JFR>L W ZQNJW W CVRJM W CPVJW <MDJM M ZH W M ZH L  >RWN NGD H KHNJM H LWJM NF>J >RWN BRJT JHWH K  GR K  >ZRX ;;;;;;;;;;;
 448596;117646;671956;Joshua;8;33;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-448596;117646;671957;Joshua;8;33;NF>;qal;;KL JFR>L W ZQNJW W CVRJM W CPVJW ;phrase;;;NP;BoundErr;;;;;;
+448596;117646;671957;Joshua;8;33;NF>;qal;;KL JFR>L W ZQNJW W CVRJM W CPVJW ;phrase;;;NP;Subj;core;NA;subject;;;
 448596;117646;671958;Joshua;8;33;NF>;qal;;<MDJM ;phrase;;;VP;PreC;core;regular;NA;;;
-448596;117646;671959;Joshua;8;33;NF>;qal;;M ZH W M ZH L  >RWN NGD H KHNJM H LWJM NF>J >RWN BRJT JHWH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+448596;117646;671959;Joshua;8;33;NF>;qal;;M ZH W M ZH L  >RWN NGD H KHNJM H LWJM NF>J >RWN BRJT JHWH ;phrase;;;PP;BoundErr;;;;;;
 448596;117646;671960;Joshua;8;33;NF>;qal;;K  GR K  >ZRX ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 450010;127143;-1;Joshua;24;19;NF>;qal;JF> ;L> JF> L PC<KM W L XV>WTJKM ;;;;;;;;;;;
 450010;127143;676315;Joshua;24;19;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
@@ -912,9 +912,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 452890;141465;685144;Judges;21;23;NF>;qal;;L MSPRM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 452890;141465;685145;Judges;21;23;NF>;qal;;MN H MXLLWT ;phrase;;;PP;Cmpl;complement;NA;*;;;
 453149;142658;-1;1_Samuel;2;28;NF>;qal;F>T ;L F>T >PWD L PNJ ;;;;;;;;;;;
-453149;142658;685929;1_Samuel;2;28;NF>;qal;;L F>T ;phrase;;;VP;Cmpl;complement;NA;L_object;*;;
-453149;142658;685930;1_Samuel;2;28;NF>;qal;;>PWD ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-453149;142658;685931;1_Samuel;2;28;NF>;qal;;L PNJ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+453149;142658;685929;1_Samuel;2;28;NF>;qal;;L F>T ;phrase;;;VP;Pred;core;regular;NA;;;
+453149;142658;685930;1_Samuel;2;28;NF>;qal;;>PWD ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+453149;142658;685931;1_Samuel;2;28;NF>;qal;;L PNJ ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 453317;143358;-1;1_Samuel;4;4;NF>;qal;JF>W ;W JF>W M CM >T >RWN BRJT JHWH YB>WT ;;;;;;;;;;;
 453317;143358;686416;1_Samuel;4;4;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 453317;143358;686417;1_Samuel;4;4;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -1171,9 +1171,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 460109;176160;460110;1_Kings;1;5;NF>;hit;;L >MR ;clause;InfC;Adju;;;NA;NA;;;;
 460448;177864;-1;1_Kings;2;26;NF>;qal;NF>T ;KJ NF>T >T >RWN >DNJ JHWH L PNJ DWD >BJ ;;;;;;;;;;;
 460448;177864;708025;1_Kings;2;26;NF>;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-460448;177864;708026;1_Kings;2;26;NF>;qal;;NF>T ;phrase;;;VP;Cmpl;complement;NA;*;;;
+460448;177864;708026;1_Kings;2;26;NF>;qal;;NF>T ;phrase;;;VP;Pred;core;regular;NA;;;
 460448;177864;708027;1_Kings;2;26;NF>;qal;;>T >RWN >DNJ JHWH ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-460448;177864;708028;1_Kings;2;26;NF>;qal;;L PNJ DWD >BJ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+460448;177864;708028;1_Kings;2;26;NF>;qal;;L PNJ DWD >BJ ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 460827;179862;-1;1_Kings;5;23;NF>;qal;TF> ;W >TH TF> ;;;;;;;;;;;
 460827;179862;709144;1_Kings;5;23;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 460827;179862;709145;1_Kings;5;23;NF>;qal;;>TH ;phrase;;;PPrP;Subj;core;NA;subject;;;
@@ -1188,9 +1188,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 461151;182112;710121;1_Kings;8;3;NF>;qal;;>T H >RWN ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 461482;183933;-1;1_Kings;9;11;NF>;piel;NF> ;XJRM MLK YR NF> >T CLMH B <YJ >RZJM W B <YJ BRWCJM W B  ZHB L KL XPYW ;;;;;;;;;;;
 461482;183933;711105;1_Kings;9;11;NF>;piel;;XJRM MLK YR ;phrase;;;PrNP;Subj;core;NA;subject;;;
-461482;183933;711106;1_Kings;9;11;NF>;piel;;NF> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+461482;183933;711106;1_Kings;9;11;NF>;piel;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
 461482;183933;711107;1_Kings;9;11;NF>;piel;;>T CLMH ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-461482;183933;711108;1_Kings;9;11;NF>;piel;;B <YJ >RZJM W B <YJ BRWCJM W B  ZHB ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+461482;183933;711108;1_Kings;9;11;NF>;piel;;B <YJ >RZJM W B <YJ BRWCJM W B  ZHB ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 461482;183933;711109;1_Kings;9;11;NF>;piel;;L KL XPYW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 461543;184358;-1;1_Kings;10;2;NF>;qal;NF>JM ;GMLJM NF>JM BFMJM W ZHB RB M>D W >BN JQRH ;;;;;;;;;;;
 461543;184358;711296;1_Kings;10;2;NF>;qal;;GMLJM ;phrase;;;NP;Subj;core;NA;subject;;;
@@ -1289,18 +1289,18 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 466183;206803;466182;2_Kings;18;14;NF>;qal;;>T >CR TTN <LJ ;clause;xYq0;Objc;;;complement;NA;direct_object;;;
 466310;207499;-1;2_Kings;19;4;NF>;qal;NF>T ;W NF>T TPLH B<D H C>RJT ;;;;;;;;;;;
 466310;207499;725304;2_Kings;19;4;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-466310;207499;725305;2_Kings;19;4;NF>;qal;;NF>T ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+466310;207499;725305;2_Kings;19;4;NF>;qal;;NF>T ;phrase;;;VP;Pred;core;regular;NA;;;
 466310;207499;725306;2_Kings;19;4;NF>;qal;;TPLH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
-466310;207499;725307;2_Kings;19;4;NF>;qal;;B<D H C>RJT ;phrase;;;PP;Cmpl;complement;NA;*;;;
+466310;207499;725307;2_Kings;19;4;NF>;qal;;B<D H C>RJT ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 466393;207855;-1;2_Kings;19;22;NF>;qal;TF> ;W TF> MRWM <JNJK ;;;;;;;;;;;
 466393;207855;725526;2_Kings;19;22;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 466393;207855;725527;2_Kings;19;22;NF>;qal;;TF> ;phrase;;;VP;Pred;core;regular;NA;;;
 466393;207855;725528;2_Kings;19;22;NF>;qal;;MRWM ;phrase;;;NP;Cmpl;complement;NA;*;;;
 466393;207855;725529;2_Kings;19;22;NF>;qal;;<JNJK ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 466543;208562;-1;2_Kings;20;17;NF>;nif;NF> ;W NF> KL BBLH ;;;;;;;;;;;
-466543;208562;725961;2_Kings;20;17;NF>;nif;;W ;phrase;;;CP;Objc;complement;NA;direct_object;;;
+466543;208562;725961;2_Kings;20;17;NF>;nif;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 466543;208562;725962;2_Kings;20;17;NF>;nif;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
-466543;208562;725963;2_Kings;20;17;NF>;nif;;KL ;phrase;;;NP;Subj;core;NA;subject;;;
+466543;208562;725963;2_Kings;20;17;NF>;nif;;KL ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 466543;208562;725971;2_Kings;20;17;NF>;nif;;BBLH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
 466775;209924;-1;2_Kings;23;4;NF>;qal;NF> ;W NF> >T <PRM BJT_>L ;;;;;;;;;;;
 466775;209924;726663;2_Kings;23;4;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
@@ -1321,9 +1321,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 467137;212282;-1;Isaiah;1;14;NF>;qal;NF> ;NF> ;;;;;;;;;;;
 467137;212282;727788;Isaiah;1;14;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
 467208;212546;-1;Isaiah;2;2;NF>;nif;NF> ;W NF> M GB<WT ;;;;;;;;;;;
-467208;212546;727975;Isaiah;2;2;NF>;nif;;W ;phrase;;;CP;Cmpl;complement;NA;*;;;
+467208;212546;727975;Isaiah;2;2;NF>;nif;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 467208;212546;727976;Isaiah;2;2;NF>;nif;;NF> ;phrase;;;VP;PreC;core;regular;NA;;;
-467208;212546;727977;Isaiah;2;2;NF>;nif;;M GB<WT ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+467208;212546;727977;Isaiah;2;2;NF>;nif;;M GB<WT ;phrase;;;PP;Cmpl;complement;NA;*;;;
 467222;212609;-1;Isaiah;2;4;NF>;qal;JF> ;L> JF> GWJ >L GWJ XRB ;;;;;;;;;;;
 467222;212609;728017;Isaiah;2;4;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 467222;212609;728018;Isaiah;2;4;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -1352,9 +1352,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 467288;213000;467289;Isaiah;3;7;NF>;qal;;L >MR ;clause;InfC;Adju;;;NA;NA;;;;
 467483;213860;-1;Isaiah;5;26;NF>;qal;NF> ;W NF> NS L  GWJM M RXWQ ;;;;;;;;;;;
 467483;213860;728746;Isaiah;5;26;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-467483;213860;728747;Isaiah;5;26;NF>;qal;;NF> ;phrase;;;VP;BoundErr;;;;;;
-467483;213860;728748;Isaiah;5;26;NF>;qal;;NS ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-467483;213860;728749;Isaiah;5;26;NF>;qal;;L  GWJM M RXWQ ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+467483;213860;728747;Isaiah;5;26;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
+467483;213860;728748;Isaiah;5;26;NF>;qal;;NS ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+467483;213860;728749;Isaiah;5;26;NF>;qal;;L  GWJM M RXWQ ;phrase;;;PP;BoundErr;;;;;;
 467508;213977;-1;Isaiah;6;1;NF>;nif;NF> ;JCB <L KS> RM W NF> ;;;;;;;;;;;
 467508;213977;728823;Isaiah;6;1;NF>;nif;;JCB ;phrase;;;VP;PreC;core;regular;NA;;;
 467508;213977;728824;Isaiah;6;1;NF>;nif;;<L KS> RM W NF> ;phrase;;;PP;Cmpl;complement;NA;*;;;
@@ -1368,33 +1368,33 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 467922;215934;-1;Isaiah;10;24;NF>;qal;JF> ;W MVHW JF> <LJK B DRK MYRJM ;;;;;;;;;;;
 467922;215934;730011;Isaiah;10;24;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 467922;215934;730012;Isaiah;10;24;NF>;qal;;MVHW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
-467922;215934;730013;Isaiah;10;24;NF>;qal;;JF> ;phrase;;;VP;Cmpl;complement;NA;*;;;
+467922;215934;730013;Isaiah;10;24;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
 467922;215934;730014;Isaiah;10;24;NF>;qal;;<LJK ;phrase;;;PP;Cmpl;complement;NA;*;;;
-467922;215934;730015;Isaiah;10;24;NF>;qal;;B DRK MYRJM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+467922;215934;730015;Isaiah;10;24;NF>;qal;;B DRK MYRJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 467928;215968;-1;Isaiah;10;26;NF>;qal;NF>W ;W NF>W B DRK MYRJM ;;;;;;;;;;;
-467928;215968;730034;Isaiah;10;26;NF>;qal;;W ;phrase;;;CP;Cmpl;complement;NA;*;;;
+467928;215968;730034;Isaiah;10;26;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 467928;215968;730035;Isaiah;10;26;NF>;qal;;NF>W ;phrase;;;VP;PreO;core;regular;direct_object;;;
-467928;215968;730036;Isaiah;10;26;NF>;qal;;B DRK MYRJM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+467928;215968;730036;Isaiah;10;26;NF>;qal;;B DRK MYRJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 467989;216294;-1;Isaiah;11;12;NF>;qal;NF> ;W NF> NS L  GWJM ;;;;;;;;;;;
 467989;216294;730222;Isaiah;11;12;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 467989;216294;730223;Isaiah;11;12;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
 467989;216294;730224;Isaiah;11;12;NF>;qal;;NS ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 467989;216294;730225;Isaiah;11;12;NF>;qal;;L  GWJM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 468035;216494;-1;Isaiah;13;2;NF>;qal;F>W ;<L HR NCPH F>W NS ;;;;;;;;;;;
-468035;216494;730355;Isaiah;13;2;NF>;qal;;<L HR NCPH ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+468035;216494;730355;Isaiah;13;2;NF>;qal;;<L HR NCPH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 468035;216494;730356;Isaiah;13;2;NF>;qal;;F>W ;phrase;;;VP;Pred;core;regular;NA;;;
 468035;216494;730357;Isaiah;13;2;NF>;qal;;NS ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 468118;216889;-1;Isaiah;14;4;NF>;qal;NF>T ;W NF>T H MCL H ZH <L MLK BBL ;;;;;;;;;;;
-468118;216889;730610;Isaiah;14;4;NF>;qal;;W ;phrase;;;CP;BoundErr;;;;;;
+468118;216889;730610;Isaiah;14;4;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 468118;216889;730611;Isaiah;14;4;NF>;qal;;NF>T ;phrase;;;VP;Pred;core;regular;NA;;;
-468118;216889;730612;Isaiah;14;4;NF>;qal;;H MCL H ZH <L MLK BBL ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+468118;216889;730612;Isaiah;14;4;NF>;qal;;H MCL H ZH <L MLK BBL ;phrase;;;NP;BoundErr;;;;;;
 468256;217426;-1;Isaiah;15;7;NF>;qal;JF>WM ;<L NXL H <RBJM JF>WM ;;;;;;;;;;;
-468256;217426;730966;Isaiah;15;7;NF>;qal;;<L NXL H <RBJM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+468256;217426;730966;Isaiah;15;7;NF>;qal;;<L NXL H <RBJM ;phrase;;;PP;Cmpl;complement;NA;*;;;
 468256;217426;730967;Isaiah;15;7;NF>;qal;;JF>WM ;phrase;;;VP;PreO;core;regular;direct_object;;;
 468387;218009;-1;Isaiah;18;3;NF>;qal;NF> ;K NF> NS HRJM ;;;;;;;;;;;
-468387;218009;731318;Isaiah;18;3;NF>;qal;;K NF> ;phrase;;;VP;Cmpl;complement;NA;K_object;*;;
-468387;218009;731319;Isaiah;18;3;NF>;qal;;NS ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-468387;218009;731320;Isaiah;18;3;NF>;qal;;HRJM ;phrase;;;NP;Loca;adjunct;NA;NA;;location;location
+468387;218009;731318;Isaiah;18;3;NF>;qal;;K NF> ;phrase;;;VP;Pred;core;regular;NA;;;
+468387;218009;731319;Isaiah;18;3;NF>;qal;;NS ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+468387;218009;731320;Isaiah;18;3;NF>;qal;;HRJM ;phrase;;;NP;Cmpl;complement;NA;*;;location;location
 468620;219050;-1;Isaiah;22;6;NF>;qal;NF> ;W <JLM NF> >CPH B RKB >DM PRCJM ;;;;;;;;;;;
 468620;219050;731923;Isaiah;22;6;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 468620;219050;731924;Isaiah;22;6;NF>;qal;;<JLM ;phrase;;;PrNP;Subj;core;NA;subject;;;
@@ -1406,7 +1406,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 468820;219864;732429;Isaiah;24;14;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
 468820;219864;732430;Isaiah;24;14;NF>;qal;;QWLM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 469297;221886;-1;Isaiah;30;6;NF>;qal;JF>W ;B >RY YRH W YWQH JF>W <L KTP <JRJM XJLHM ;;;;;;;;;;;
-469297;221886;733709;Isaiah;30;6;NF>;qal;;B >RY YRH W YWQH ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+469297;221886;733709;Isaiah;30;6;NF>;qal;;B >RY YRH W YWQH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 469297;221886;733713;Isaiah;30;6;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
 469297;221886;733714;Isaiah;30;6;NF>;qal;;<L KTP <JRJM ;phrase;;;PP;Cmpl;complement;NA;*;;;
 469297;221886;733715;Isaiah;30;6;NF>;qal;;XJLHM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
@@ -1473,9 +1473,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 470946;228217;738047;Isaiah;45;20;NF>;qal;;NF>JM ;phrase;;;VP;PreC;core;regular;NA;;;
 470946;228217;738048;Isaiah;45;20;NF>;qal;;>T <Y PSLM ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 470988;228357;-1;Isaiah;46;3;NF>;qal;NF>JM ;H NF>JM MNJ RXM ;;;;;;;;;;;
-470988;228357;738150;Isaiah;46;3;NF>;qal;;H ;phrase;;;CP;Cmpl;complement;NA;*;;;
+470988;228357;738150;Isaiah;46;3;NF>;qal;;H ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
 470988;228357;738151;Isaiah;46;3;NF>;qal;;NF>JM ;phrase;;;VP;PreC;core;regular;NA;;;
-470988;228357;738152;Isaiah;46;3;NF>;qal;;MNJ RXM ;phrase;;;PP;Time;adjunct;NA;NA;;time;time
+470988;228357;738152;Isaiah;46;3;NF>;qal;;MNJ RXM ;phrase;;;PP;Cmpl;complement;NA;*;;;
 470992;228374;-1;Isaiah;46;4;NF>;qal;>F> ;W >NJ >F> ;;;;;;;;;;;
 470992;228374;738163;Isaiah;46;4;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 470992;228374;738164;Isaiah;46;4;NF>;qal;;>NJ ;phrase;;;PPrP;Subj;core;NA;subject;;;
@@ -1492,19 +1492,19 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 471346;229512;739036;Isaiah;49;22;NF>;qal;;>L GWJM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
 471346;229512;739037;Isaiah;49;22;NF>;qal;;JDJ ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 471349;229530;-1;Isaiah;49;22;NF>;nif;TNF>NH ;W BNTJK <L KTP TNF>NH ;;;;;;;;;;;
-471349;229530;739046;Isaiah;49;22;NF>;nif;;W ;phrase;;;CP;Cmpl;complement;NA;*;;;
+471349;229530;739046;Isaiah;49;22;NF>;nif;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 471349;229530;739047;Isaiah;49;22;NF>;nif;;BNTJK ;phrase;;;NP;Subj;core;NA;subject;;;
-471349;229530;739048;Isaiah;49;22;NF>;nif;;<L KTP ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+471349;229530;739048;Isaiah;49;22;NF>;nif;;<L KTP ;phrase;;;PP;Cmpl;complement;NA;*;;;
 471349;229530;739049;Isaiah;49;22;NF>;nif;;TNF>NH ;phrase;;;VP;Pred;core;regular;NA;;;
 471459;229923;-1;Isaiah;51;6;NF>;qal;F>W ;F>W L  CMJM <JNJKM ;;;;;;;;;;;
 471459;229923;739348;Isaiah;51;6;NF>;qal;;F>W ;phrase;;;VP;Pred;core;regular;NA;;;
 471459;229923;739349;Isaiah;51;6;NF>;qal;;L  CMJM ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
 471459;229923;739350;Isaiah;51;6;NF>;qal;;<JNJKM ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
 471597;230412;-1;Isaiah;52;8;NF>;qal;NF>W ;QWL YPJK NF>W QWL ;;;;;;;;;;;
-471597;230412;739685;Isaiah;52;8;NF>;qal;;QWL ;phrase;;;InjP;Intj;NA;NA;NA;;NA;NA
-471597;230412;739686;Isaiah;52;8;NF>;qal;;YPJK ;phrase;;;NP;BoundErr;;;;;;
+471597;230412;739685;Isaiah;52;8;NF>;qal;;QWL ;phrase;;;InjP;Objc;complement;NA;direct_object;;;
+471597;230412;739686;Isaiah;52;8;NF>;qal;;YPJK ;phrase;;;NP;Subj;core;NA;subject;;;
 471597;230412;739687;Isaiah;52;8;NF>;qal;;NF>W ;phrase;;;VP;Pred;core;regular;NA;;;
-471597;230412;739688;Isaiah;52;8;NF>;qal;;QWL ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+471597;230412;739688;Isaiah;52;8;NF>;qal;;QWL ;phrase;;;NP;BoundErr;;;;;;
 471614;230466;-1;Isaiah;52;11;NF>;qal;NF>J ;NF>J KLJ JHWH ;;;;;;;;;;;
 471614;230466;739725;Isaiah;52;11;NF>;qal;;NF>J KLJ JHWH ;phrase;;;NP;Voct;NA;NA;NA;;NA;NA
 471621;230493;-1;Isaiah;52;13;NF>;nif;NF> ;W NF> ;;;;;;;;;;;
@@ -1521,7 +1521,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 471690;230761;739944;Isaiah;53;12;NF>;qal;;XV> RBJM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 471690;230761;739945;Isaiah;53;12;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
 471929;231639;-1;Isaiah;57;7;NF>;nif;NF> ;<L HR GBH W NF> FMT MCKBK ;;;;;;;;;;;
-471929;231639;740553;Isaiah;57;7;NF>;nif;;<L HR GBH W NF> ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+471929;231639;740553;Isaiah;57;7;NF>;nif;;<L HR GBH W NF> ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 471929;231639;740554;Isaiah;57;7;NF>;nif;;FMT ;phrase;;;VP;Pred;core;regular;NA;;;
 471929;231639;740555;Isaiah;57;7;NF>;nif;;MCKBK ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 471961;231751;-1;Isaiah;57;13;NF>;qal;JF> ;W >T KLM JF> RWX ;;;;;;;;;;;
@@ -1551,7 +1551,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 472488;233859;742121;Isaiah;64;5;NF>;qal;;K  RWX ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 472488;233859;742122;Isaiah;64;5;NF>;qal;;JF>NW ;phrase;;;VP;PreO;core;regular;direct_object;;;
 472709;234691;-1;Isaiah;66;12;NF>;nif;TNF>W ;<L YD TNF>W ;;;;;;;;;;;
-472709;234691;742733;Isaiah;66;12;NF>;nif;;<L YD ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+472709;234691;742733;Isaiah;66;12;NF>;nif;;<L YD ;phrase;;;PP;Cmpl;complement;NA;*;;;
 472709;234691;742734;Isaiah;66;12;NF>;nif;;TNF>W ;phrase;;;VP;Pred;core;regular;NA;;;
 473030;236033;-1;Jeremiah;3;2;NF>;qal;F>J ;F>J <JNJK <L CPJM ;;;;;;;;;;;
 473030;236033;743588;Jeremiah;3;2;NF>;qal;;F>J ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -1563,14 +1563,14 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 473169;236641;743974;Jeremiah;4;6;NF>;qal;;YJWNH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
 473448;237670;-1;Jeremiah;6;1;NF>;qal;F>W ;W <L BJT_HKRM F>W MF>T ;;;;;;;;;;;
 473448;237670;744695;Jeremiah;6;1;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-473448;237670;744696;Jeremiah;6;1;NF>;qal;;<L BJT_HKRM ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+473448;237670;744696;Jeremiah;6;1;NF>;qal;;<L BJT_HKRM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 473448;237670;744697;Jeremiah;6;1;NF>;qal;;F>W ;phrase;;;VP;Pred;core;regular;NA;;;
 473448;237670;744698;Jeremiah;6;1;NF>;qal;;MF>T ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 473653;238511;-1;Jeremiah;7;16;NF>;qal;TF> ;W >L TF> B<DM RNH W TPLH ;;;;;;;;;;;
 473653;238511;745241;Jeremiah;7;16;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-473653;238511;745242;Jeremiah;7;16;NF>;qal;;>L ;phrase;;;NegP;Adju;adjunct;NA;NA;;;
+473653;238511;745242;Jeremiah;7;16;NF>;qal;;>L ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 473653;238511;745243;Jeremiah;7;16;NF>;qal;;TF> ;phrase;;;VP;Pred;core;regular;NA;;;
-473653;238511;745244;Jeremiah;7;16;NF>;qal;;B<DM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+473653;238511;745244;Jeremiah;7;16;NF>;qal;;B<DM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 473653;238511;745245;Jeremiah;7;16;NF>;qal;;RNH W TPLH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 473711;238803;-1;Jeremiah;7;29;NF>;qal;F>J ;W F>J <L CPJM QJNH ;;;;;;;;;;;
 473711;238803;745425;Jeremiah;7;29;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
@@ -1594,16 +1594,16 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 474032;240202;746322;Jeremiah;10;19;NF>;qal;;>F>NW ;phrase;;;VP;PreO;core;regular;direct_object;;;
 474134;240634;-1;Jeremiah;11;14;NF>;qal;TF> ;W >L TF> B<DM RNH W TPLH ;;;;;;;;;;;
 474134;240634;746592;Jeremiah;11;14;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-474134;240634;746593;Jeremiah;11;14;NF>;qal;;>L ;phrase;;;NegP;Adju;adjunct;NA;NA;;;
+474134;240634;746593;Jeremiah;11;14;NF>;qal;;>L ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 474134;240634;746594;Jeremiah;11;14;NF>;qal;;TF> ;phrase;;;VP;Pred;core;regular;NA;;;
-474134;240634;746595;Jeremiah;11;14;NF>;qal;;B<DM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+474134;240634;746595;Jeremiah;11;14;NF>;qal;;B<DM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 474134;240634;746596;Jeremiah;11;14;NF>;qal;;RNH W TPLH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 474352;241560;-1;Jeremiah;13;20;NF>;qal;F>J ;F>J <JNJKM ;;;;;;;;;;;
 474352;241560;747191;Jeremiah;13;20;NF>;qal;;F>J ;phrase;;;VP;Pred;core;regular;NA;;;
 474352;241560;747192;Jeremiah;13;20;NF>;qal;;<JNJKM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 474574;242472;-1;Jeremiah;15;15;NF>;qal;F>TJ ;F>TJ <LJK XRPH ;;;;;;;;;;;
 474574;242472;747802;Jeremiah;15;15;NF>;qal;;F>TJ ;phrase;;;VP;PreO;core;regular;direct_object;;;
-474574;242472;747803;Jeremiah;15;15;NF>;qal;;<LJK ;phrase;;;PP;Cmpl;complement;NA;*;;;
+474574;242472;747803;Jeremiah;15;15;NF>;qal;;<LJK ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 474574;242472;747804;Jeremiah;15;15;NF>;qal;;XRPH ;phrase;;;NP;Subj;core;NA;subject;;;
 474787;243462;-1;Jeremiah;17;21;NF>;qal;TF>W ;W >L TF>W MF> B JWM H CBT ;;;;;;;;;;;
 474787;243462;748426;Jeremiah;17;21;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
@@ -1634,9 +1634,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 477714;259284;-1;Jeremiah;44;22;NF>;qal;F>T ;L F>T ;;;;;;;;;;;
 477714;259284;757067;Jeremiah;44;22;NF>;qal;;L F>T ;phrase;;;VP;Pred;core;regular;NA;;;
 478269;261652;-1;Jeremiah;49;29;NF>;qal;JF>W ;JRJ<WTJHM W KL KLJHM W GMLJHM JF>W LHM ;;;;;;;;;;;
-478269;261652;758521;Jeremiah;49;29;NF>;qal;;JRJ<WTJHM W KL KLJHM W GMLJHM ;phrase;;;NP;Adju;adjunct;NA;NA;;;
+478269;261652;758521;Jeremiah;49;29;NF>;qal;;JRJ<WTJHM W KL KLJHM W GMLJHM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 478269;261652;758522;Jeremiah;49;29;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
-478269;261652;758523;Jeremiah;49;29;NF>;qal;;LHM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+478269;261652;758523;Jeremiah;49;29;NF>;qal;;LHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 478320;261881;-1;Jeremiah;50;2;NF>;qal;F>W ;W F>W NS ;;;;;;;;;;;
 478320;261881;758660;Jeremiah;50;2;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 478320;261881;758661;Jeremiah;50;2;NF>;qal;;F>W ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -1708,9 +1708,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 479566;267679;-1;Ezekiel;8;3;NF>;qal;TF> ;W TF> >TJ RWX BJN H >RY W BJN H CMJM ;;;;;;;;;;;
 479566;267679;762189;Ezekiel;8;3;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 479566;267679;762190;Ezekiel;8;3;NF>;qal;;TF> ;phrase;;;VP;Pred;core;regular;NA;;;
-479566;267679;762191;Ezekiel;8;3;NF>;qal;;>TJ ;phrase;;;PP;Cmpl;complement;NA;*;;;
+479566;267679;762191;Ezekiel;8;3;NF>;qal;;>TJ ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 479566;267679;762192;Ezekiel;8;3;NF>;qal;;RWX ;phrase;;;NP;Subj;core;NA;subject;;;
-479566;267679;762193;Ezekiel;8;3;NF>;qal;;BJN H >RY W BJN H CMJM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+479566;267679;762193;Ezekiel;8;3;NF>;qal;;BJN H >RY W BJN H CMJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 479576;267731;-1;Ezekiel;8;5;NF>;qal;F> ;F> N> <JNJK DRK YPWNH ;;;;;;;;;;;
 479576;267731;762220;Ezekiel;8;5;NF>;qal;;F> ;phrase;;;VP;Pred;core;regular;NA;;;
 479576;267731;762221;Ezekiel;8;5;NF>;qal;;N> ;phrase;;;InjP;Intj;NA;NA;NA;;NA;NA
@@ -1759,9 +1759,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 479966;269534;-1;Ezekiel;12;12;NF>;qal;JF> ;W H NFJ> >L KTP JF> B  <LVH ;;;;;;;;;;;
 479966;269534;763320;Ezekiel;12;12;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 479966;269534;763321;Ezekiel;12;12;NF>;qal;;H NFJ> ;phrase;;;NP;Subj;core;NA;subject;;;
-479966;269534;763324;Ezekiel;12;12;NF>;qal;;>L KTP ;phrase;;;PP;Time;adjunct;NA;NA;;time;time
+479966;269534;763324;Ezekiel;12;12;NF>;qal;;>L KTP ;phrase;;;PP;Cmpl;complement;NA;*;;;
 479966;269534;763325;Ezekiel;12;12;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
-479966;269534;763326;Ezekiel;12;12;NF>;qal;;B  <LVH ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+479966;269534;763326;Ezekiel;12;12;NF>;qal;;B  <LVH ;phrase;;;PP;Time;adjunct;NA;NA;;time;time
 480213;270557;-1;Ezekiel;14;10;NF>;qal;NF>W ;W NF>W <WNM ;;;;;;;;;;;
 480213;270557;764025;Ezekiel;14;10;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 480213;270557;764026;Ezekiel;14;10;NF>;qal;;NF>W ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -1833,36 +1833,36 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 480852;273305;765879;Ezekiel;19;1;NF>;qal;;>L NFJ>J JFR>L ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 480928;273611;-1;Ezekiel;20;5;NF>;qal;>F> ;W >F> JDJ L ZR< BJT J<QB ;;;;;;;;;;;
 480928;273611;766082;Ezekiel;20;5;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-480928;273611;766083;Ezekiel;20;5;NF>;qal;;>F> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
-480928;273611;766084;Ezekiel;20;5;NF>;qal;;JDJ ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-480928;273611;766085;Ezekiel;20;5;NF>;qal;;L ZR< BJT J<QB ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+480928;273611;766083;Ezekiel;20;5;NF>;qal;;>F> ;phrase;;;VP;Pred;core;regular;NA;;;
+480928;273611;766084;Ezekiel;20;5;NF>;qal;;JDJ ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+480928;273611;766085;Ezekiel;20;5;NF>;qal;;L ZR< BJT J<QB ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 480930;273624;-1;Ezekiel;20;5;NF>;qal;>F> ;W >F> JDJ LHM ;;;;;;;;;;;
 480930;273624;766090;Ezekiel;20;5;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-480930;273624;766091;Ezekiel;20;5;NF>;qal;;>F> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+480930;273624;766091;Ezekiel;20;5;NF>;qal;;>F> ;phrase;;;VP;Pred;core;regular;NA;;;
 480930;273624;766092;Ezekiel;20;5;NF>;qal;;JDJ ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-480930;273624;766093;Ezekiel;20;5;NF>;qal;;LHM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+480930;273624;766093;Ezekiel;20;5;NF>;qal;;LHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 480930;273624;480931;Ezekiel;20;5;NF>;qal;;L >MR ;clause;InfC;Adju;;;NA;NA;infinitive_object;;;
 480933;273637;-1;Ezekiel;20;6;NF>;qal;NF>TJ ;B  JWM H HW> NF>TJ JDJ LHM ;;;;;;;;;;;
 480933;273637;766097;Ezekiel;20;6;NF>;qal;;B  JWM H HW> ;phrase;;;PP;Time;adjunct;NA;NA;;time;time
-480933;273637;766098;Ezekiel;20;6;NF>;qal;;NF>TJ ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+480933;273637;766098;Ezekiel;20;6;NF>;qal;;NF>TJ ;phrase;;;VP;Pred;core;regular;NA;;;
 480933;273637;766099;Ezekiel;20;6;NF>;qal;;JDJ ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-480933;273637;766100;Ezekiel;20;6;NF>;qal;;LHM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+480933;273637;766100;Ezekiel;20;6;NF>;qal;;LHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 480933;273637;480934;Ezekiel;20;6;NF>;qal;;L HWYJ>M M >RY MYRJM >L >RY ;clause;InfC;Adju;;;NA;NA;infinitive_object;;;
 480978;273841;-1;Ezekiel;20;15;NF>;qal;NF>TJ ;W GM >NJ NF>TJ JDJ LHM B  MDBR ;;;;;;;;;;;
 480978;273841;766231;Ezekiel;20;15;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 480978;273841;766232;Ezekiel;20;15;NF>;qal;;GM ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
 480978;273841;766233;Ezekiel;20;15;NF>;qal;;>NJ ;phrase;;;PPrP;Subj;core;NA;subject;;;
-480978;273841;766234;Ezekiel;20;15;NF>;qal;;NF>TJ ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+480978;273841;766234;Ezekiel;20;15;NF>;qal;;NF>TJ ;phrase;;;VP;Pred;core;regular;NA;;;
 480978;273841;766235;Ezekiel;20;15;NF>;qal;;JDJ ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-480978;273841;766236;Ezekiel;20;15;NF>;qal;;LHM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+480978;273841;766236;Ezekiel;20;15;NF>;qal;;LHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 480978;273841;766237;Ezekiel;20;15;NF>;qal;;B  MDBR ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
 480978;273841;480979;Ezekiel;20;15;NF>;qal;;L BLTJ HBJ> >WTM >L H >RY ;clause;InfC;Adju;;;NA;NA;infinitive_object;;;
 481017;274014;-1;Ezekiel;20;23;NF>;qal;NF>TJ ;GM >NJ NF>TJ >T JDJ LHM B  MDBR ;;;;;;;;;;;
 481017;274014;766352;Ezekiel;20;23;NF>;qal;;GM ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
 481017;274014;766353;Ezekiel;20;23;NF>;qal;;>NJ ;phrase;;;PPrP;Subj;core;NA;subject;;;
-481017;274014;766354;Ezekiel;20;23;NF>;qal;;NF>TJ ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+481017;274014;766354;Ezekiel;20;23;NF>;qal;;NF>TJ ;phrase;;;VP;Pred;core;regular;NA;;;
 481017;274014;766355;Ezekiel;20;23;NF>;qal;;>T JDJ ;phrase;;;PP;Objc;complement;NA;principal_direct_object;;;
-481017;274014;766356;Ezekiel;20;23;NF>;qal;;LHM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+481017;274014;766356;Ezekiel;20;23;NF>;qal;;LHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 481017;274014;766357;Ezekiel;20;23;NF>;qal;;B  MDBR ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
 481017;274014;481018;Ezekiel;20;23;NF>;qal;;L HPJY >TM B  GWJM ;clause;InfC;Adju;;;NA;NA;infinitive_object;;;
 481041;274111;-1;Ezekiel;20;28;NF>;qal;NF>TJ ;>CR NF>TJ >T JDJ ;;;;;;;;;;;
@@ -1895,29 +1895,29 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 481622;276537;768021;Ezekiel;23;49;NF>;qal;;XV>J GLWLJKN ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 481622;276537;768022;Ezekiel;23;49;NF>;qal;;TF>JNH ;phrase;;;VP;Pred;core;regular;NA;;;
 481886;277697;-1;Ezekiel;26;17;NF>;qal;NF>W ;W NF>W <LJK QJNH ;;;;;;;;;;;
-481886;277697;768765;Ezekiel;26;17;NF>;qal;;W ;phrase;;;CP;Adju;adjunct;NA;NA;;;
+481886;277697;768765;Ezekiel;26;17;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 481886;277697;768766;Ezekiel;26;17;NF>;qal;;NF>W ;phrase;;;VP;Pred;core;regular;NA;;;
-481886;277697;768767;Ezekiel;26;17;NF>;qal;;<LJK ;phrase;;;PP;Cmpl;complement;NA;*;;;
+481886;277697;768767;Ezekiel;26;17;NF>;qal;;<LJK ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 481886;277697;768768;Ezekiel;26;17;NF>;qal;;QJNH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 481918;277825;-1;Ezekiel;27;2;NF>;qal;F> ;F> <L YR QJNH ;;;;;;;;;;;
 481918;277825;768850;Ezekiel;27;2;NF>;qal;;F> ;phrase;;;VP;Pred;core;regular;NA;;;
-481918;277825;768851;Ezekiel;27;2;NF>;qal;;<L YR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+481918;277825;768851;Ezekiel;27;2;NF>;qal;;<L YR ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 481918;277825;768852;Ezekiel;27;2;NF>;qal;;QJNH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 481999;278285;-1;Ezekiel;27;32;NF>;qal;NF>W ;W NF>W >LJK B NJHM QJNH ;;;;;;;;;;;
-481999;278285;769069;Ezekiel;27;32;NF>;qal;;W ;phrase;;;CP;Adju;adjunct;NA;NA;;;
+481999;278285;769069;Ezekiel;27;32;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 481999;278285;769070;Ezekiel;27;32;NF>;qal;;NF>W ;phrase;;;VP;Pred;core;regular;NA;;;
-481999;278285;769071;Ezekiel;27;32;NF>;qal;;>LJK ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+481999;278285;769071;Ezekiel;27;32;NF>;qal;;>LJK ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 481999;278285;769072;Ezekiel;27;32;NF>;qal;;B NJHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 481999;278285;769073;Ezekiel;27;32;NF>;qal;;QJNH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 482052;278511;-1;Ezekiel;28;12;NF>;qal;F> ;F> QJNH <L MLK YWR ;;;;;;;;;;;
 482052;278511;769218;Ezekiel;28;12;NF>;qal;;F> ;phrase;;;VP;Pred;core;regular;NA;;;
-482052;278511;769219;Ezekiel;28;12;NF>;qal;;QJNH <L MLK YWR ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+482052;278511;769219;Ezekiel;28;12;NF>;qal;;QJNH <L MLK YWR ;phrase;;;NP;BoundErr;;;;;;
 482184;279124;-1;Ezekiel;29;15;NF>;hit;TTNF> ;W L> TTNF> <WD <L H GWJM ;;;;;;;;;;;
 482184;279124;769594;Ezekiel;29;15;NF>;hit;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 482184;279124;769595;Ezekiel;29;15;NF>;hit;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
-482184;279124;769596;Ezekiel;29;15;NF>;hit;;TTNF> ;phrase;;;VP;Cmpl;complement;NA;*;;;
+482184;279124;769596;Ezekiel;29;15;NF>;hit;;TTNF> ;phrase;;;VP;Pred;core;regular;NA;;;
 482184;279124;769597;Ezekiel;29;15;NF>;hit;;<WD ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
-482184;279124;769598;Ezekiel;29;15;NF>;hit;;<L H GWJM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+482184;279124;769598;Ezekiel;29;15;NF>;hit;;<L H GWJM ;phrase;;;PP;Cmpl;complement;NA;*;;;
 482204;279228;-1;Ezekiel;29;19;NF>;qal;NF> ;W NF> HMNH ;;;;;;;;;;;
 482204;279228;769656;Ezekiel;29;19;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 482204;279228;769657;Ezekiel;29;19;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -1966,9 +1966,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 482947;282607;771786;Ezekiel;36;7;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
 482951;282616;-1;Ezekiel;36;8;NF>;qal;TF>W ;W PRJKM TF>W L <MJ JFR>L ;;;;;;;;;;;
 482951;282616;771792;Ezekiel;36;8;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-482951;282616;771793;Ezekiel;36;8;NF>;qal;;PRJKM ;phrase;;;NP;Adju;adjunct;NA;NA;;;
+482951;282616;771793;Ezekiel;36;8;NF>;qal;;PRJKM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 482951;282616;771794;Ezekiel;36;8;NF>;qal;;TF>W ;phrase;;;VP;Pred;core;regular;NA;;;
-482951;282616;771795;Ezekiel;36;8;NF>;qal;;L <MJ JFR>L ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+482951;282616;771795;Ezekiel;36;8;NF>;qal;;L <MJ JFR>L ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 482982;282733;-1;Ezekiel;36;15;NF>;qal;TF>J ;W XRPT <MJM L> TF>J <WD ;;;;;;;;;;;
 482982;282733;771883;Ezekiel;36;15;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 482982;282733;771884;Ezekiel;36;15;NF>;qal;;XRPT <MJM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
@@ -2022,9 +2022,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 484294;289977;484295;Ezekiel;47;14;NF>;qal;;L TTH L >BTJKM ;clause;InfC;Adju;;;NA;NA;infinitive_object;;;
 484465;291031;-1;Hosea;1;6;NF>;qal;NF> ;KJ NF> >F> LHM ;;;;;;;;;;;
 484465;291031;776159;Hosea;1;6;NF>;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-484465;291031;776160;Hosea;1;6;NF>;qal;;NF> ;phrase;;;AdvP;Adju;adjunct;NA;NA;;;
+484465;291031;776160;Hosea;1;6;NF>;qal;;NF> ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
 484465;291031;776161;Hosea;1;6;NF>;qal;;>F> ;phrase;;;VP;Pred;core;regular;NA;;;
-484465;291031;776162;Hosea;1;6;NF>;qal;;LHM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+484465;291031;776162;Hosea;1;6;NF>;qal;;LHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 484639;291809;-1;Hosea;4;8;NF>;qal;JF>W ;W >L <WNM JF>W NPCW ;;;;;;;;;;;
 484639;291809;776666;Hosea;4;8;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 484639;291809;776667;Hosea;4;8;NF>;qal;;>L <WNM ;phrase;;;PP;Cmpl;complement;NA;*;;;
@@ -2037,9 +2037,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 485161;293690;778044;Hosea;13;1;NF>;qal;;HW> ;phrase;;;PPrP;Subj;core;NA;subject;;;
 485161;293690;778045;Hosea;13;1;NF>;qal;;B JFR>L ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 485234;293935;-1;Hosea;14;3;NF>;qal;TF> ;KL TF> <WN ;;;;;;;;;;;
-485234;293935;778219;Hosea;14;3;NF>;qal;;KL ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
+485234;293935;778219;Hosea;14;3;NF>;qal;;KL ;phrase;;;NP;BoundErr;;;;;;
 485234;293935;778220;Hosea;14;3;NF>;qal;;TF> ;phrase;;;VP;Pred;core;regular;NA;;;
-485234;293935;778221;Hosea;14;3;NF>;qal;;<WN ;phrase;;;NP;Objc;complement;NA;NP_direct_object;;;
+485234;293935;778221;Hosea;14;3;NF>;qal;;<WN ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 485451;294775;-1;Joel;2;22;NF>;qal;NF> ;KJ <Y NF> PRJW ;;;;;;;;;;;
 485451;294775;778779;Joel;2;22;NF>;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 485451;294775;778780;Joel;2;22;NF>;qal;;<Y ;phrase;;;NP;Subj;core;NA;subject;;;
@@ -2047,9 +2047,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 485451;294775;778782;Joel;2;22;NF>;qal;;PRJW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 485751;296255;-1;Amos;4;2;NF>;piel;NF> ;W NF> >TKM B YNWT ;;;;;;;;;;;
 485751;296255;779701;Amos;4;2;NF>;piel;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-485751;296255;779702;Amos;4;2;NF>;piel;;NF> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+485751;296255;779702;Amos;4;2;NF>;piel;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
 485751;296255;779703;Amos;4;2;NF>;piel;;>TKM ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-485751;296255;779704;Amos;4;2;NF>;piel;;B YNWT ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+485751;296255;779704;Amos;4;2;NF>;piel;;B YNWT ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 485818;296513;-1;Amos;5;1;NF>;qal;NF> ;>CR >NKJ NF> <LJKM ;;;;;;;;;;;
 485818;296513;779875;Amos;5;1;NF>;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
 485818;296513;779876;Amos;5;1;NF>;qal;;>NKJ ;phrase;;;PPrP;Subj;core;NA;subject;;;
@@ -2106,7 +2106,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 487008;301498;783226;Nahum;1;5;NF>;qal;;M PNJW ;phrase;;;PP;Cmpl;complement;NA;*;;;
 487206;302207;-1;Habakkuk;1;3;NF>;qal;JF> ;W MDWN JF> ;;;;;;;;;;;
 487206;302207;783738;Habakkuk;1;3;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-487206;302207;783739;Habakkuk;1;3;NF>;qal;;MDWN ;phrase;;;NP;Subj;core;NA;subject;;;
+487206;302207;783739;Habakkuk;1;3;NF>;qal;;MDWN ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 487206;302207;783740;Habakkuk;1;3;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
 487307;302554;-1;Habakkuk;2;6;NF>;qal;JF>W ;H LW> >LH KLM <LJW MCL JF>W ;;;;;;;;;;;
 487307;302554;783999;Habakkuk;2;6;NF>;qal;;H ;phrase;;;InrP;Ques;NA;NA;NA;;NA;NA
@@ -2121,12 +2121,12 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 487789;304690;-1;Haggai;2;12;NF>;qal;JF> ;HN JF> >JC BFR QDC B KNP BGDW ;;;;;;;;;;;
 487789;304690;785235;Haggai;2;12;NF>;qal;;HN ;phrase;;;InjP;Intj;NA;NA;NA;;NA;NA
 487789;304690;785236;Haggai;2;12;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
-487789;304690;785237;Haggai;2;12;NF>;qal;;>JC ;phrase;;;NP;Cmpl;complement;NA;*;;;
+487789;304690;785237;Haggai;2;12;NF>;qal;;>JC ;phrase;;;NP;Subj;core;NA;subject;;;
 487789;304690;785238;Haggai;2;12;NF>;qal;;BFR QDC ;phrase;;;NP;Objc;complement;NA;direct_object;;;
-487789;304690;785239;Haggai;2;12;NF>;qal;;B KNP BGDW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+487789;304690;785239;Haggai;2;12;NF>;qal;;B KNP BGDW ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 487825;304892;-1;Haggai;2;19;NF>;qal;NF> ;W <D H GPN W H T>NH W H RMWN W <Y H ZJT L> NF> ;;;;;;;;;;;
 487825;304892;785333;Haggai;2;19;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-487825;304892;785334;Haggai;2;19;NF>;qal;;<D H GPN W H T>NH W H RMWN W <Y H ZJT ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+487825;304892;785334;Haggai;2;19;NF>;qal;;<D H GPN W H T>NH W H RMWN W <Y H ZJT ;phrase;;;PP;Subj;core;NA;subject;;;
 487825;304892;785335;Haggai;2;19;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 487825;304892;785336;Haggai;2;19;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
 487931;305350;-1;Zechariah;2;1;NF>;qal;>F> ;W >F> >T <JNJ ;;;;;;;;;;;
@@ -2204,7 +2204,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 489223;310995;789165;Psalms;4;7;NF>;qal;;>WR PNJK ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 489332;311332;-1;Psalms;7;7;NF>;nif;HNF> ;HNF> B <BRWT YWRRJ ;;;;;;;;;;;
 489332;311332;789414;Psalms;7;7;NF>;nif;;HNF> ;phrase;;;VP;Pred;core;regular;NA;;;
-489332;311332;789415;Psalms;7;7;NF>;nif;;B <BRWT YWRRJ ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+489332;311332;789415;Psalms;7;7;NF>;nif;;B <BRWT YWRRJ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 489495;311887;-1;Psalms;10;12;NF>;qal;NF> ;NF> JDK ;;;;;;;;;;;
 489495;311887;789796;Psalms;10;12;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
 489495;311887;789797;Psalms;10;12;NF>;qal;;JDK ;phrase;;;NP;Objc;complement;NA;direct_object;;;
@@ -2222,10 +2222,10 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 489653;312400;790167;Psalms;16;4;NF>;qal;;<L FPTJ ;phrase;;;PP;Cmpl;complement;NA;*;;;
 490107;313992;-1;Psalms;24;4;NF>;qal;NF> ;>CR L> NF> L  CW> NPCJ ;;;;;;;;;;;
 490107;313992;791285;Psalms;24;4;NF>;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
-490107;313992;791286;Psalms;24;4;NF>;qal;;L> ;phrase;;;NegP;Adju;adjunct;NA;NA;;;
+490107;313992;791286;Psalms;24;4;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 490107;313992;791287;Psalms;24;4;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
-490107;313992;791288;Psalms;24;4;NF>;qal;;L  CW> ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
-490107;313992;791289;Psalms;24;4;NF>;qal;;NPCJ ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
+490107;313992;791288;Psalms;24;4;NF>;qal;;L  CW> ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+490107;313992;791289;Psalms;24;4;NF>;qal;;NPCJ ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 490109;314002;-1;Psalms;24;5;NF>;qal;JF> ;JF> BRKH M >T JHWH ;;;;;;;;;;;
 490109;314002;791294;Psalms;24;5;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
 490109;314002;791295;Psalms;24;5;NF>;qal;;BRKH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
@@ -2255,11 +2255,11 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 490291;314589;791709;Psalms;28;2;NF>;qal;;JDJ ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 490291;314589;791710;Psalms;28;2;NF>;qal;;>L DBJR QDCK ;phrase;;;PP;Cmpl;complement;NA;*;;;
 490313;314680;-1;Psalms;28;9;NF>;piel;NF>M ;W NF>M <D H <WLM ;;;;;;;;;;;
-490313;314680;791767;Psalms;28;9;NF>;piel;;W ;phrase;;;CP;Time;adjunct;NA;NA;;time;time
+490313;314680;791767;Psalms;28;9;NF>;piel;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 490313;314680;791768;Psalms;28;9;NF>;piel;;NF>M ;phrase;;;VP;PreO;core;regular;direct_object;;;
-490313;314680;791769;Psalms;28;9;NF>;piel;;<D H <WLM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+490313;314680;791769;Psalms;28;9;NF>;piel;;<D H <WLM ;phrase;;;PP;Time;adjunct;NA;NA;;time;time
 490470;315221;-1;Psalms;32;1;NF>;qal;NFWJ ;>CRJ NFWJ PC< KSWJ XV>H ;;;;;;;;;;;
-490470;315221;792144;Psalms;32;1;NF>;qal;;>CRJ NFWJ PC< KSWJ XV>H ;phrase;;;NP;PreC;core;regular;NA;;;
+490470;315221;792144;Psalms;32;1;NF>;qal;;>CRJ NFWJ PC< KSWJ XV>H ;phrase;;;NP;BoundErr;;;;;;
 490483;315273;-1;Psalms;32;5;NF>;qal;NF>T ;W >TH NF>T <WN XV>TJ ;;;;;;;;;;;
 490483;315273;792180;Psalms;32;5;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 490483;315273;792181;Psalms;32;5;NF>;qal;;>TH ;phrase;;;PPrP;Subj;core;NA;subject;;;
@@ -2274,7 +2274,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 491721;319473;795187;Psalms;55;13;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 491721;319473;795188;Psalms;55;13;NF>;qal;;>F> ;phrase;;;VP;Pred;core;regular;NA;;;
 492084;320638;-1;Psalms;63;5;NF>;qal;>F> ;B CMK >F> KPJ ;;;;;;;;;;;
-492084;320638;796009;Psalms;63;5;NF>;qal;;B CMK ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+492084;320638;796009;Psalms;63;5;NF>;qal;;B CMK ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 492084;320638;796010;Psalms;63;5;NF>;qal;;>F> ;phrase;;;VP;Pred;core;regular;NA;;;
 492084;320638;796011;Psalms;63;5;NF>;qal;;KPJ ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 492401;321690;-1;Psalms;69;8;NF>;qal;NF>TJ ;KJ <LJK NF>TJ XRPH ;;;;;;;;;;;
@@ -2284,9 +2284,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 492401;321690;796737;Psalms;69;8;NF>;qal;;XRPH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 492603;322316;-1;Psalms;72;3;NF>;qal;JF>W ;JF>W HRJM CLWM L  <M ;;;;;;;;;;;
 492603;322316;797206;Psalms;72;3;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
-492603;322316;797207;Psalms;72;3;NF>;qal;;HRJM ;phrase;;;NP;Adju;adjunct;NA;NA;;;
-492603;322316;797208;Psalms;72;3;NF>;qal;;CLWM ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-492603;322316;797209;Psalms;72;3;NF>;qal;;L  <M ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+492603;322316;797207;Psalms;72;3;NF>;qal;;HRJM ;phrase;;;NP;Subj;core;NA;subject;;;
+492603;322316;797208;Psalms;72;3;NF>;qal;;CLWM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+492603;322316;797209;Psalms;72;3;NF>;qal;;L  <M ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 493201;324596;-1;Psalms;81;3;NF>;qal;F>W ;F>W ZMRH ;;;;;;;;;;;
 493201;324596;798778;Psalms;81;3;NF>;qal;;F>W ;phrase;;;VP;Pred;core;regular;NA;;;
 493201;324596;798779;Psalms;81;3;NF>;qal;;ZMRH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
@@ -2345,9 +2345,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 494115;327814;800971;Psalms;102;11;NF>;qal;;NF>TNJ ;phrase;;;VP;PreO;core;regular;direct_object;;;
 494495;329202;-1;Psalms;106;26;NF>;qal;JF> ;W JF> JDW LHM ;;;;;;;;;;;
 494495;329202;801923;Psalms;106;26;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-494495;329202;801924;Psalms;106;26;NF>;qal;;JF> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+494495;329202;801924;Psalms;106;26;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
 494495;329202;801925;Psalms;106;26;NF>;qal;;JDW ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-494495;329202;801926;Psalms;106;26;NF>;qal;;LHM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+494495;329202;801926;Psalms;106;26;NF>;qal;;LHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 494495;329202;494496;Psalms;106;26;NF>;qal;;L HPJL >WTM B  MDBR ;clause;InfC;Adju;;;NA;NA;infinitive_object;;;
 494956;330977;-1;Psalms;116;13;NF>;qal;>F> ;KWS JCW<WT >F> ;;;;;;;;;;;
 494956;330977;803103;Psalms;116;13;NF>;qal;;KWS JCW<WT ;phrase;;;NP;Objc;complement;NA;direct_object;;;
@@ -2372,9 +2372,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 495589;333118;804662;Psalms;126;6;NF>;qal;;NF> ;phrase;;;VP;PreC;core;regular;NA;;;
 495589;333118;804663;Psalms;126;6;NF>;qal;;>LMTJW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 495736;333665;-1;Psalms;134;2;NF>;qal;F>W ;F>W JDKM QDC ;;;;;;;;;;;
-495736;333665;805030;Psalms;134;2;NF>;qal;;F>W ;phrase;;;VP;Cmpl;complement;NA;*;;;
+495736;333665;805030;Psalms;134;2;NF>;qal;;F>W ;phrase;;;VP;Pred;core;regular;NA;;;
 495736;333665;805031;Psalms;134;2;NF>;qal;;JDKM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
-495736;333665;805032;Psalms;134;2;NF>;qal;;QDC ;phrase;;;NP;Adju;adjunct;NA;NA;;;
+495736;333665;805032;Psalms;134;2;NF>;qal;;QDC ;phrase;;;NP;Cmpl;complement;NA;*;;;
 495930;334405;-1;Psalms;139;9;NF>;qal;>F> ;>F> KNPJ CXR ;;;;;;;;;;;
 495930;334405;805513;Psalms;139;9;NF>;qal;;>F> ;phrase;;;VP;Pred;core;regular;NA;;;
 495930;334405;805514;Psalms;139;9;NF>;qal;;KNPJ CXR ;phrase;;;NP;Objc;complement;NA;direct_object;;;
@@ -2404,7 +2404,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 496772;337577;807707;Job;6;2;NF>;qal;;JXD ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
 496892;337966;-1;Job;7;13;NF>;qal;JF> ;JF> B FJXJ MCKBJ ;;;;;;;;;;;
 496892;337966;808024;Job;7;13;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
-496892;337966;808025;Job;7;13;NF>;qal;;B FJXJ ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+496892;337966;808025;Job;7;13;NF>;qal;;B FJXJ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 496892;337966;808026;Job;7;13;NF>;qal;;MCKBJ ;phrase;;;NP;Subj;core;NA;subject;;;
 496914;338041;-1;Job;7;21;NF>;qal;TF> ;W MH L> TF> PC<J ;;;;;;;;;;;
 496914;338041;808083;Job;7;21;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
@@ -2433,14 +2433,14 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 497288;339335;809109;Job;13;10;NF>;qal;;TF>WN ;phrase;;;VP;Pred;core;regular;NA;;;
 497297;339363;-1;Job;13;14;NF>;qal;>F> ;<L MH >F> BFRJ B CNJ ;;;;;;;;;;;
 497297;339363;809132;Job;13;14;NF>;qal;;<L MH ;phrase;;;PP;Adju;adjunct;NA;NA;;;
-497297;339363;809133;Job;13;14;NF>;qal;;>F> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+497297;339363;809133;Job;13;14;NF>;qal;;>F> ;phrase;;;VP;Pred;core;regular;NA;;;
 497297;339363;809134;Job;13;14;NF>;qal;;BFRJ ;phrase;;;NP;Objc;complement;NA;direct_object;;;
-497297;339363;809135;Job;13;14;NF>;qal;;B CNJ ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+497297;339363;809135;Job;13;14;NF>;qal;;B CNJ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 497803;341177;-1;Job;21;3;NF>;qal;F>WNJ ;F>WNJ ;;;;;;;;;;;
 497803;341177;810555;Job;21;3;NF>;qal;;F>WNJ ;phrase;;;VP;PreO;core;regular;direct_object;;;
 497831;341257;-1;Job;21;12;NF>;qal;JF>W ;JF>W K TP W KNWR ;;;;;;;;;;;
 497831;341257;810626;Job;21;12;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
-497831;341257;810627;Job;21;12;NF>;qal;;K TP W KNWR ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+497831;341257;810627;Job;21;12;NF>;qal;;K TP W KNWR ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 497909;341552;-1;Job;22;8;NF>;qal;NFW> ;W NFW> PNJM JCB BH ;;;;;;;;;;;
 497909;341552;810857;Job;22;8;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 497909;341552;810858;Job;22;8;NF>;qal;;NFW> PNJM ;phrase;;;NP;Subj;core;NA;subject;;;
@@ -2490,9 +2490,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 498747;344652;-1;Job;34;31;NF>;qal;NF>TJ ;NF>TJ ;;;;;;;;;;;
 498747;344652;813231;Job;34;31;NF>;qal;;NF>TJ ;phrase;;;VP;Pred;core;regular;NA;;;
 498818;344887;-1;Job;36;3;NF>;qal;>F> ;>F> D<J L M RXWQ ;;;;;;;;;;;
-498818;344887;813424;Job;36;3;NF>;qal;;>F> ;phrase;;;VP;Cmpl;complement;NA;*;;;
-498818;344887;813425;Job;36;3;NF>;qal;;D<J ;phrase;;;NP;Objc;complement;NA;direct_object;;;
-498818;344887;813426;Job;36;3;NF>;qal;;L M RXWQ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+498818;344887;813424;Job;36;3;NF>;qal;;>F> ;phrase;;;VP;Pred;core;regular;NA;;;
+498818;344887;813425;Job;36;3;NF>;qal;;D<J ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
+498818;344887;813426;Job;36;3;NF>;qal;;L M RXWQ ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
 499184;346279;-1;Job;40;20;NF>;qal;JF>W ;KJ BWL HRJM JF>W LW ;;;;;;;;;;;
 499184;346279;814450;Job;40;20;NF>;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 499184;346279;814451;Job;40;20;NF>;qal;;BWL ;phrase;;;NP;Objc;complement;NA;direct_object;;;
@@ -2502,7 +2502,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 499302;346723;-1;Job;42;8;NF>;qal;>F> ;KJ >M PNJW >F> ;;;;;;;;;;;
 499302;346723;814771;Job;42;8;NF>;qal;;KJ >M ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 499302;346723;814772;Job;42;8;NF>;qal;;PNJW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
-499302;346723;814773;Job;42;8;NF>;qal;;>F> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+499302;346723;814773;Job;42;8;NF>;qal;;>F> ;phrase;;;VP;Pred;core;regular;NA;;;
 499308;346757;-1;Job;42;9;NF>;qal;JF> ;W JF> JHWH >T PNJ >JWB ;;;;;;;;;;;
 499308;346757;814792;Job;42;9;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 499308;346757;814793;Job;42;9;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -2540,9 +2540,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 501639;355463;-1;Proverbs;30;32;NF>;hit;HTNF> ;B HTNF> ;;;;;;;;;;;
 501639;355463;820854;Proverbs;30;32;NF>;hit;;B HTNF> ;phrase;;;VP;Pred;core;regular;NA;;;
 501741;355850;-1;Ruth;1;4;NF>;qal;JF>W ;W JF>W LHM NCJM M>BJWT ;;;;;;;;;;;
-501741;355850;821120;Ruth;1;4;NF>;qal;;W ;phrase;;;CP;Adju;adjunct;NA;NA;;;
+501741;355850;821120;Ruth;1;4;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 501741;355850;821121;Ruth;1;4;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
-501741;355850;821122;Ruth;1;4;NF>;qal;;LHM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+501741;355850;821122;Ruth;1;4;NF>;qal;;LHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 501741;355850;821123;Ruth;1;4;NF>;qal;;NCJM M>BJWT ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 501767;355969;-1;Ruth;1;9;NF>;qal;TF>NH ;W TF>NH QWLN ;;;;;;;;;;;
 501767;355969;821196;Ruth;1;9;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
@@ -2578,13 +2578,13 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 503871;364366;826761;Lamentations;2;19;NF>;qal;;<L NPC <WLLJK ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 503945;364641;-1;Lamentations;3;27;NF>;qal;JF> ;KJ JF> <L B N<WRJW ;;;;;;;;;;;
 503945;364641;826940;Lamentations;3;27;NF>;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-503945;364641;826941;Lamentations;3;27;NF>;qal;;JF> ;phrase;;;VP;Time;adjunct;NA;NA;;time;time
+503945;364641;826941;Lamentations;3;27;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
 503945;364641;826942;Lamentations;3;27;NF>;qal;;<L ;phrase;;;NP;Objc;complement;NA;direct_object;;;
-503945;364641;826943;Lamentations;3;27;NF>;qal;;B N<WRJW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+503945;364641;826943;Lamentations;3;27;NF>;qal;;B N<WRJW ;phrase;;;PP;Time;adjunct;NA;NA;;time;time
 503971;364745;-1;Lamentations;3;41;NF>;qal;NF> ;NF> LBBNW >L KPJM >L >L B  CMJM ;;;;;;;;;;;
-503971;364745;827014;Lamentations;3;41;NF>;qal;;NF> ;phrase;;;VP;Cmpl;complement;NA;*;;;
+503971;364745;827014;Lamentations;3;41;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
 503971;364745;827015;Lamentations;3;41;NF>;qal;;LBBNW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
-503971;364745;827016;Lamentations;3;41;NF>;qal;;>L KPJM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+503971;364745;827016;Lamentations;3;41;NF>;qal;;>L KPJM ;phrase;;;PP;Cmpl;complement;NA;*;;;
 503971;364745;827017;Lamentations;3;41;NF>;qal;;>L >L B  CMJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 504085;365172;-1;Lamentations;4;16;NF>;qal;NF>W ;PNJ KHNJM L> NF>W ;;;;;;;;;;;
 504085;365172;827291;Lamentations;4;16;NF>;qal;;PNJ KHNJM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
@@ -2667,23 +2667,23 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 506900;379902;835571;Ezra;4;19;NF>;htpa;;<L MLKJN ;phrase;;;PP;Cmpl;complement;NA;*;;;
 506900;379902;835572;Ezra;4;19;NF>;htpa;;MTNF>H ;phrase;;;VP;PreC;core;regular;NA;;;
 506986;380343;-1;Ezra;5;15;NF>;peal;F> ;>LH M>NJ> F> ;;;;;;;;;;;
-506986;380343;835834;Ezra;5;15;NF>;peal;;>LH M>NJ> ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+506986;380343;835834;Ezra;5;15;NF>;peal;;>LH M>NJ> ;phrase;;;NP;Cmpl;complement;NA;*;;;
 506986;380343;835835;Ezra;5;15;NF>;peal;;F> ;phrase;;;VP;Pred;core;regular;NA;;;
 507267;382243;-1;Ezra;8;36;NF>;piel;NF>W ;W NF>W >T H <M W >T BJT H >LHJM ;;;;;;;;;;;
 507267;382243;836683;Ezra;8;36;NF>;piel;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 507267;382243;836684;Ezra;8;36;NF>;piel;;NF>W ;phrase;;;VP;Pred;core;regular;NA;;;
 507267;382243;836685;Ezra;8;36;NF>;piel;;>T H <M W >T BJT H >LHJM ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 507272;382298;-1;Ezra;9;2;NF>;qal;NF>W ;KJ NF>W M BNTJHM LHM W L BNJHM ;;;;;;;;;;;
-507272;382298;836699;Ezra;9;2;NF>;qal;;KJ ;phrase;;;CP;Cmpl;complement;NA;*;;;
-507272;382298;836700;Ezra;9;2;NF>;qal;;NF>W ;phrase;;;VP;Adju;adjunct;NA;NA;;;
-507272;382298;836701;Ezra;9;2;NF>;qal;;M BNTJHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
-507272;382298;836702;Ezra;9;2;NF>;qal;;LHM W L BNJHM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+507272;382298;836699;Ezra;9;2;NF>;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+507272;382298;836700;Ezra;9;2;NF>;qal;;NF>W ;phrase;;;VP;Pred;core;regular;NA;;;
+507272;382298;836701;Ezra;9;2;NF>;qal;;M BNTJHM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+507272;382298;836702;Ezra;9;2;NF>;qal;;LHM W L BNJHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 507323;382593;-1;Ezra;9;12;NF>;qal;TF>W ;W BNTJHM >L TF>W L BNJKM ;;;;;;;;;;;
 507323;382593;836855;Ezra;9;12;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-507323;382593;836856;Ezra;9;12;NF>;qal;;BNTJHM ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-507323;382593;836857;Ezra;9;12;NF>;qal;;>L ;phrase;;;NegP;Adju;adjunct;NA;NA;;;
+507323;382593;836856;Ezra;9;12;NF>;qal;;BNTJHM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+507323;382593;836857;Ezra;9;12;NF>;qal;;>L ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 507323;382593;836858;Ezra;9;12;NF>;qal;;TF>W ;phrase;;;VP;Pred;core;regular;NA;;;
-507323;382593;836859;Ezra;9;12;NF>;qal;;L BNJKM ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+507323;382593;836859;Ezra;9;12;NF>;qal;;L BNJKM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 507456;383394;-1;Ezra;10;44;NF>;qal;NF>W ;KL >LH NF>W NCJM NKRJWT ;;;;;;;;;;;
 507456;383394;837228;Ezra;10;44;NF>;qal;;KL >LH ;phrase;;;NP;Subj;core;NA;subject;;;
 507456;383394;837229;Ezra;10;44;NF>;qal;;NF>W ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -2703,10 +2703,10 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 508255;388092;508256;Nehemiah;9;15;NF>;qal;;L TT LHM ;clause;InfC;Adju;;;NA;NA;infinitive_object;;;
 508731;391112;-1;Nehemiah;13;25;NF>;qal;TF>W ;W >M TF>W M BNTJHM L BNJKM W LKM ;;;;;;;;;;;
 508731;391112;840898;Nehemiah;13;25;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
-508731;391112;840899;Nehemiah;13;25;NF>;qal;;>M ;phrase;;;CP;Cmpl;complement;NA;*;;;
-508731;391112;840900;Nehemiah;13;25;NF>;qal;;TF>W ;phrase;;;VP;Adju;adjunct;NA;NA;;;
-508731;391112;840901;Nehemiah;13;25;NF>;qal;;M BNTJHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
-508731;391112;840902;Nehemiah;13;25;NF>;qal;;L BNJKM W LKM ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+508731;391112;840899;Nehemiah;13;25;NF>;qal;;>M ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+508731;391112;840900;Nehemiah;13;25;NF>;qal;;TF>W ;phrase;;;VP;Pred;core;regular;NA;;;
+508731;391112;840901;Nehemiah;13;25;NF>;qal;;M BNTJHM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+508731;391112;840902;Nehemiah;13;25;NF>;qal;;L BNJKM W LKM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 509146;393721;-1;1_Chronicles;5;18;NF>;qal;NF>J ;NF>J MGN W XRB ;;;;;;;;;;;
 509146;393721;842076;1_Chronicles;5;18;NF>;qal;;NF>J ;phrase;;;VP;PreC;core;regular;NA;;;
 509146;393721;842077;1_Chronicles;5;18;NF>;qal;;MGN W XRB ;phrase;;;NP;Objc;complement;NA;direct_object;;;
@@ -2761,7 +2761,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 509975;399256;844486;1_Chronicles;15;15;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
 509975;399256;844487;1_Chronicles;15;15;NF>;qal;;BNJ H LWJM ;phrase;;;NP;Subj;core;NA;subject;;;
 509975;399256;844488;1_Chronicles;15;15;NF>;qal;;>T >RWN H >LHJM ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-509975;399256;844493;1_Chronicles;15;15;NF>;qal;;B KTPM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+509975;399256;844493;1_Chronicles;15;15;NF>;qal;;B KTPM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 509975;399256;844494;1_Chronicles;15;15;NF>;qal;;B  MVWT <LJHM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 510003;399496;-1;1_Chronicles;15;26;NF>;qal;NF>J ;NF>J >RWN BRJT JHWH ;;;;;;;;;;;
 510003;399496;844566;1_Chronicles;15;26;NF>;qal;;NF>J ;phrase;;;VP;PreC;core;regular;NA;;;
@@ -2792,7 +2792,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 510567;402363;846248;1_Chronicles;21;24;NF>;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 510567;402363;846249;1_Chronicles;21;24;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 510567;402363;846250;1_Chronicles;21;24;NF>;qal;;>F> ;phrase;;;VP;Pred;core;regular;NA;;;
-510567;402363;846253;1_Chronicles;21;24;NF>;qal;;L JHWH ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+510567;402363;846253;1_Chronicles;21;24;NF>;qal;;L JHWH ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 510567;402363;510568;1_Chronicles;21;24;NF>;qal;;>CR LK ;clause;NmCl;Objc;;;complement;NA;direct_object;;;
 510731;403228;-1;1_Chronicles;23;22;NF>;qal;JF>WM ;W JF>WM BNJ QJC >XJHM ;;;;;;;;;;;
 510731;403228;846729;1_Chronicles;23;22;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
@@ -2805,15 +2805,15 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 511025;405240;847450;1_Chronicles;27;23;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 511025;405240;847451;1_Chronicles;27;23;NF>;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 511025;405240;847452;1_Chronicles;27;23;NF>;qal;;NF> ;phrase;;;VP;Pred;core;regular;NA;;;
-511025;405240;847453;1_Chronicles;27;23;NF>;qal;;DWJD ;phrase;;;PrNP;Adju;adjunct;NA;NA;;;
-511025;405240;847454;1_Chronicles;27;23;NF>;qal;;MSPRM ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
-511025;405240;847455;1_Chronicles;27;23;NF>;qal;;L M BN <FRJM CNH W L MVH ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+511025;405240;847453;1_Chronicles;27;23;NF>;qal;;DWJD ;phrase;;;PrNP;Subj;core;NA;subject;;;
+511025;405240;847454;1_Chronicles;27;23;NF>;qal;;MSPRM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+511025;405240;847455;1_Chronicles;27;23;NF>;qal;;L M BN <FRJM CNH W L MVH ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 511183;406367;-1;1_Chronicles;29;11;NF>;hit;MTNF> ;W H MTNF> L KL L R>C ;;;;;;;;;;;
 511183;406367;847899;1_Chronicles;29;11;NF>;hit;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 511183;406367;847900;1_Chronicles;29;11;NF>;hit;;H ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
-511183;406367;847901;1_Chronicles;29;11;NF>;hit;;MTNF> ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+511183;406367;847901;1_Chronicles;29;11;NF>;hit;;MTNF> ;phrase;;;VP;PreC;core;regular;NA;;;
 511183;406367;847902;1_Chronicles;29;11;NF>;hit;;L KL ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
-511183;406367;847903;1_Chronicles;29;11;NF>;hit;;L R>C ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+511183;406367;847903;1_Chronicles;29;11;NF>;hit;;L R>C ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 511532;408663;-1;2_Chronicles;5;4;NF>;qal;JF>W ;W JF>W H LWJM >T H >RWN ;;;;;;;;;;;
 511532;408663;848996;2_Chronicles;5;4;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 511532;408663;848997;2_Chronicles;5;4;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -2833,9 +2833,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 512247;412833;851198;2_Chronicles;12;11;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 512247;412833;851199;2_Chronicles;12;11;NF>;qal;;NF>WM ;phrase;;;VP;PreO;core;regular;direct_object;;;
 512351;413431;-1;2_Chronicles;13;21;NF>;qal;JF> ;W JF> LW NCJM >RB< <FRH ;;;;;;;;;;;
-512351;413431;851516;2_Chronicles;13;21;NF>;qal;;W ;phrase;;;CP;Adju;adjunct;NA;NA;;;
+512351;413431;851516;2_Chronicles;13;21;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 512351;413431;851517;2_Chronicles;13;21;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
-512351;413431;851518;2_Chronicles;13;21;NF>;qal;;LW ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+512351;413431;851518;2_Chronicles;13;21;NF>;qal;;LW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 512351;413431;851519;2_Chronicles;13;21;NF>;qal;;NCJM >RB< <FRH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 512384;413617;-1;2_Chronicles;14;7;NF>;qal;NF> ;NF> YNH W RMX ;;;;;;;;;;;
 512384;413617;851620;2_Chronicles;14;7;NF>;qal;;NF> ;phrase;;;VP;PreC;core;regular;NA;;;
@@ -2852,9 +2852,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 512502;414324;851973;2_Chronicles;16;6;NF>;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
 512502;414324;851974;2_Chronicles;16;6;NF>;qal;;>T >BNJ H RMH W >T <YJH ;phrase;;;PP;Objc;complement;NA;direct_object;;;
 513216;418237;-1;2_Chronicles;24;3;NF>;qal;JF> ;W JF> LW JHWJD< NCJM CTJM ;;;;;;;;;;;
-513216;418237;854105;2_Chronicles;24;3;NF>;qal;;W ;phrase;;;CP;Adju;adjunct;NA;NA;;;
+513216;418237;854105;2_Chronicles;24;3;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 513216;418237;854106;2_Chronicles;24;3;NF>;qal;;JF> ;phrase;;;VP;Pred;core;regular;NA;;;
-513216;418237;854107;2_Chronicles;24;3;NF>;qal;;LW ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+513216;418237;854107;2_Chronicles;24;3;NF>;qal;;LW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 513216;418237;854108;2_Chronicles;24;3;NF>;qal;;JHWJD< ;phrase;;;PrNP;Subj;core;NA;subject;;;
 513216;418237;854109;2_Chronicles;24;3;NF>;qal;;NCJM CTJM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 513250;418455;-1;2_Chronicles;24;11;NF>;qal;JF>HW ;W JF>HW ;;;;;;;;;;;
@@ -2866,9 +2866,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 513429;419366;854749;2_Chronicles;25;19;NF>;qal;;LBK ;phrase;;;NP;Subj;core;NA;subject;;;
 513429;419366;513430;2_Chronicles;25;19;NF>;qal;;L HKBJD ;clause;InfC;Adju;;;NA;NA;infinitive_object;;;
 513461;419560;-1;2_Chronicles;25;28;NF>;qal;JF>HW ;W JF>HW <L H SWSJM ;;;;;;;;;;;
-513461;419560;854849;2_Chronicles;25;28;NF>;qal;;W ;phrase;;;CP;Cmpl;complement;NA;*;;;
+513461;419560;854849;2_Chronicles;25;28;NF>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 513461;419560;854850;2_Chronicles;25;28;NF>;qal;;JF>HW ;phrase;;;VP;PreO;core;regular;direct_object;;;
-513461;419560;854851;2_Chronicles;25;28;NF>;qal;;<L H SWSJM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+513461;419560;854851;2_Chronicles;25;28;NF>;qal;;<L H SWSJM ;phrase;;;PP;Cmpl;complement;NA;*;;;
 514108;423624;-1;2_Chronicles;32;23;NF>;nif;JNF> ;W JNF> L <JNJ KL H GWJM M >XRJ KN ;;;;;;;;;;;
 514108;423624;856833;2_Chronicles;32;23;NF>;nif;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 514108;423624;856834;2_Chronicles;32;23;NF>;nif;;JNF> ;phrase;;;VP;Pred;core;regular;NA;;;

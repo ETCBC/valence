@@ -2511,7 +2511,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 462600;190065;-1;1_Kings;17;13;JY>;hif;HWY>T ;W HWY>T LJ ;;;;;;;;;;;
 462600;190065;714561;1_Kings;17;13;JY>;hif;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 462600;190065;714562;1_Kings;17;13;JY>;hif;;HWY>T ;phrase;;;VP;Pred;core;regular;NA;;;
-462600;190065;714563;1_Kings;17;13;JY>;hif;;LJ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+462600;190065;714563;1_Kings;17;13;JY>;hif;;LJ ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
 462981;191620;-1;1_Kings;19;11;JY>;qal;Y> ;Y> ;;;;;;;;;;;
 462981;191620;715606;1_Kings;19;11;JY>;qal;;Y> ;phrase;;;VP;Pred;core;regular;NA;;;
 462996;191689;-1;1_Kings;19;13;JY>;qal;JY> ;W JY> ;;;;;;;;;;;
@@ -3943,7 +3943,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 496497;336485;-1;Job;1;21;JY>;qal;JYTJ ;<RM JYTJ M BVN >MJ ;;;;;;;;;;;
 496497;336485;806913;Job;1;21;JY>;qal;;<RM ;phrase;;;AdjP;PrAd;adjunct;NA;NA;;;
 496497;336485;806914;Job;1;21;JY>;qal;;JYTJ ;phrase;;;VP;Pred;core;regular;NA;;;
-496497;336485;806915;Job;1;21;JY>;qal;;M BVN >MJ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+496497;336485;806915;Job;1;21;JY>;qal;;M BVN >MJ ;phrase;;;PP;Cmpl;complement;NA;*;;;
 496534;336654;-1;Job;2;7;JY>;qal;JY> ;W JY> H FVN M >T PNJ JHWH ;;;;;;;;;;;
 496534;336654;807027;Job;2;7;JY>;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 496534;336654;807028;Job;2;7;JY>;qal;;JY> ;phrase;;;VP;Pred;core;regular;NA;;;

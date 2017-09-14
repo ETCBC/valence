@@ -2,7 +2,7 @@
 @description=verbal valence main classification
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-09-13T11:14:51Z
+@dateWritten=2017-09-14T12:02:20Z
 
 426577	complement
 426603	complement
@@ -7192,9 +7192,9 @@ core
 complement
 adjunct
 adjunct
+core
 complement
 complement
-adjunct
 core
 complement
 NA
@@ -7395,9 +7395,9 @@ core
 core
 605696	core
 core
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -7558,9 +7558,9 @@ core
 605883	NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -7714,9 +7714,9 @@ core
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -7922,9 +7922,9 @@ core
 NA
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 core
 complement
@@ -8042,9 +8042,9 @@ complement
 core
 complement
 adjunct
+core
 complement
 complement
-adjunct
 core
 NA
 core
@@ -8409,9 +8409,9 @@ adjunct
 NA
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 complement
 complement
 core
@@ -8424,9 +8424,9 @@ complement
 606827	NA
 core
 complement
-606837	adjunct
+606837	complement
 core
-complement
+adjunct
 NA
 complement
 core
@@ -8680,9 +8680,9 @@ core
 complement
 NA
 core
-adjunct
+core
 complement
-NA
+adjunct
 NA
 core
 core
@@ -8900,9 +8900,9 @@ complement
 complement
 core
 607379	adjunct
-complement
 core
-adjunct
+core
+complement
 core
 complement
 complement
@@ -9070,9 +9070,9 @@ core
 complement
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 core
@@ -9249,9 +9249,9 @@ core
 core
 adjunct
 complement
-607842	adjunct
+607842	NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -9491,7 +9491,7 @@ adjunct
 NA
 core
 core
-adjunct
+complement
 core
 adjunct
 complement
@@ -9587,9 +9587,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-NA
+core
+adjunct
 complement
 NA
 core
@@ -9678,9 +9678,9 @@ core
 complement
 NA
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 NA
 core
@@ -9864,9 +9864,9 @@ complement
 NA
 core
 adjunct
+core
+complement
 adjunct
-complement
-complement
 608569	core
 core
 complement
@@ -10136,9 +10136,9 @@ NA
 core
 complement
 complement
-complement
+NA
 core
-adjunct
+complement
 complement
 core
 complement
@@ -10221,10 +10221,10 @@ complement
 complement
 core
 complement
+core
+complement
 complement
 
-adjunct
-adjunct
 609000	NA
 core
 NA
@@ -10299,7 +10299,7 @@ core
 core
 complement
 609084	core
-complement
+adjunct
 609089	NA
 core
 core
@@ -10470,7 +10470,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 NA
 core
 complement
@@ -10826,9 +10826,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 core
 NA
 core
@@ -10909,9 +10909,9 @@ complement
 NA
 core
 NA
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 609782	core
 adjunct
@@ -10935,9 +10935,9 @@ core
 adjunct
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 NA
 core
@@ -11093,9 +11093,9 @@ complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 complement
@@ -11145,11 +11145,11 @@ core
 NA
 complement
 complement
-adjunct
+NA
 core
 adjunct
 adjunct
-complement
+adjunct
 NA
 core
 complement
@@ -11302,9 +11302,9 @@ complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 NA
@@ -11643,9 +11643,9 @@ complement
 NA
 core
 complement
+complement
+core
 adjunct
-core
-complement
 NA
 complement
 core
@@ -11657,9 +11657,9 @@ complement
 complement
 NA
 NA
+core
+core
 adjunct
-core
-complement
 NA
 core
 core
@@ -11691,9 +11691,9 @@ complement
 NA
 core
 complement
-610641	adjunct
+610641	NA
 core
-complement
+adjunct
 adjunct
 NA
 core
@@ -11748,9 +11748,9 @@ complement
 NA
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 NA
@@ -11792,9 +11792,9 @@ core
 NA
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 core
 core
 NA
@@ -12001,11 +12001,11 @@ NA
 core
 complement
 adjunct
-adjunct
+NA
 core
 adjunct
 core
-complement
+adjunct
 NA
 core
 complement
@@ -12126,7 +12126,7 @@ NA
 complement
 NA
 core
-adjunct
+NA
 core
 adjunct
 complement
@@ -12198,9 +12198,9 @@ core
 complement
 complement
 NA
-adjunct
 core
-NA
+core
+adjunct
 NA
 core
 core
@@ -12219,32 +12219,32 @@ core
 complement
 complement
 611217	NA
-adjunct
 core
-NA
-NA
-core
-complement
-NA
-core
-complement
-core
-NA
 core
 adjunct
-core
-complement
 NA
 core
 complement
 NA
 core
 complement
+core
 NA
 core
-complement
-complement
 adjunct
+core
+complement
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
+complement
+complement
+complement
 NA
 core
 core
@@ -12270,9 +12270,9 @@ core
 complement
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 adjunct
@@ -12354,9 +12354,9 @@ core
 complement
 NA
 core
-adjunct
-core
 NA
+core
+adjunct
 complement
 NA
 core
@@ -12457,10 +12457,10 @@ core
 complement
 complement
 611494	adjunct
+core
 complement
 complement
-adjunct
-adjunct
+complement
 NA
 core
 core
@@ -12478,7 +12478,7 @@ core
 complement
 611520	complement
 core
-adjunct
+complement
 core
 complement
 core
@@ -12689,9 +12689,9 @@ NA
 complement
 adjunct
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -12724,9 +12724,9 @@ NA
 complement
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -13117,9 +13117,9 @@ complement
 complement
 612250	NA
 core
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 612260	core
@@ -13221,9 +13221,9 @@ complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -13693,34 +13693,34 @@ complement
 NA
 core
 core
-adjunct
-core
 complement
-adjunct
-core
-core
-complement
-NA
-core
-complement
-complement
-NA
-core
-core
-complement
-core
-NA
-core
-complement
-NA
-core
-NA
-core
-core
-complement
-NA
 core
 adjunct
+adjunct
+core
+core
+complement
+NA
+core
+complement
+complement
+NA
+core
+core
+complement
+core
+NA
+core
+complement
+NA
+core
+NA
+core
+core
+complement
+NA
+core
+adjunct
 complement
 NA
 core
@@ -13728,9 +13728,9 @@ core
 NA
 core
 core
-adjunct
-core
 NA
+core
+adjunct
 NA
 core
 NA
@@ -13754,9 +13754,9 @@ complement
 NA
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 adjunct
@@ -13918,27 +13918,27 @@ NA
 core
 complement
 complement
-adjunct
-core
-complement
-complement
-NA
-NA
-core
-NA
-adjunct
-core
-complement
-complement
 NA
 core
 adjunct
+complement
+NA
+NA
 core
+NA
+NA
+core
+adjunct
+complement
 NA
 core
 adjunct
 core
-complement
+NA
+core
+NA
+core
+adjunct
 complement
 NA
 core
@@ -14025,9 +14025,9 @@ NA
 core
 complement
 complement
+NA
+core
 adjunct
-core
-complement
 complement
 NA
 core
@@ -14068,9 +14068,9 @@ core
 core
 complement
 complement
+NA
+core
 adjunct
-core
-complement
 complement
 NA
 core
@@ -14094,9 +14094,9 @@ complement
 complement
 NA
 core
+complement
+complement
 adjunct
-complement
-complement
 NA
 core
 NA
@@ -14415,14 +14415,14 @@ NA
 core
 complement
 NA
-adjunct
-core
 complement
+core
+adjunct
 NA
 complement
+core
 complement
 complement
-adjunct
 NA
 complement
 core
@@ -14517,9 +14517,9 @@ core
 complement
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 NA
@@ -14660,7 +14660,7 @@ core
 NA
 core
 complement
-complement
+NA
 core
 complement
 NA
@@ -14748,7 +14748,7 @@ adjunct
 NA
 core
 complement
-complement
+NA
 core
 complement
 NA
@@ -15050,16 +15050,16 @@ adjunct
 614477	NA
 core
 complement
-adjunct
-core
-complement
-NA
-NA
 complement
 core
 adjunct
 NA
 NA
+complement
+core
+adjunct
+NA
+NA
 core
 NA
 core
@@ -15071,23 +15071,6 @@ adjunct
 core
 complement
 complement
-core
-complement
-NA
-core
-complement
-complement
-adjunct
-NA
-core
-complement
-NA
-adjunct
-NA
-core
-core
-NA
-NA
 core
 complement
 NA
@@ -15095,7 +15078,24 @@ core
 complement
 complement
 adjunct
+NA
+core
+complement
+NA
 adjunct
+NA
+core
+core
+NA
+NA
+core
+complement
+NA
+core
+complement
+complement
+complement
+complement
 NA
 core
 core
@@ -15249,7 +15249,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 NA
 core
 complement
@@ -15560,9 +15560,9 @@ core
 complement
 adjunct
 615007	NA
+core
+core
 adjunct
-core
-complement
 NA
 core
 complement
@@ -15575,9 +15575,9 @@ NA
 core
 complement
 complement
+NA
+core
 adjunct
-core
-complement
 complement
 core
 core
@@ -15671,7 +15671,7 @@ NA
 core
 complement
 complement
-adjunct
+NA
 core
 adjunct
 complement
@@ -15690,7 +15690,7 @@ core
 core
 complement
 complement
-adjunct
+complement
 core
 complement
 NA
@@ -15838,9 +15838,9 @@ complement
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 615320	NA
 core
 adjunct
@@ -16016,7 +16016,7 @@ NA
 core
 core
 615510	core
-complement
+adjunct
 complement
 NA
 core
@@ -16197,9 +16197,9 @@ complement
 615724	NA
 core
 core
-615731	adjunct
+615731	complement
 core
-complement
+adjunct
 adjunct
 615737	NA
 core
@@ -16424,9 +16424,9 @@ core
 complement
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 adjunct
 core
@@ -16554,7 +16554,7 @@ core
 complement
 NA
 core
-complement
+NA
 core
 complement
 NA
@@ -16841,9 +16841,9 @@ complement
 NA
 core
 complement
-adjunct
-NA
 complement
+NA
+adjunct
 core
 complement
 adjunct
@@ -16948,9 +16948,9 @@ core
 complement
 NA
 NA
-adjunct
-core
 complement
+core
+adjunct
 core
 complement
 NA
@@ -16969,46 +16969,25 @@ core
 NA
 complement
 complement
-adjunct
+complement
 NA
 core
 complement
-complement
-core
-complement
-NA
 complement
 core
 complement
 NA
 complement
 core
+complement
+NA
+complement
+core
 NA
 core
 core
 core
 core
-NA
-core
-NA
-core
-complement
-NA
-core
-core
-complement
-core
-complement
-complement
-NA
-NA
-core
-complement
-core
-core
-complement
-NA
-complement
 NA
 core
 NA
@@ -17016,9 +16995,30 @@ core
 complement
 NA
 core
+core
+complement
+core
 complement
 complement
-adjunct
+NA
+NA
+core
+complement
+core
+core
+complement
+NA
+complement
+NA
+core
+NA
+core
+complement
+NA
+core
+complement
+complement
+complement
 NA
 core
 core
@@ -17216,7 +17216,7 @@ NA
 core
 adjunct
 complement
-complement
+adjunct
 NA
 core
 complement
@@ -17242,7 +17242,7 @@ NA
 core
 adjunct
 complement
-complement
+adjunct
 NA
 core
 complement
@@ -17660,9 +17660,9 @@ core
 core
 complement
 adjunct
-617518	adjunct
+617518	NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -18256,9 +18256,9 @@ core
 core
 NA
 core
-complement
+NA
 core
-adjunct
+complement
 complement
 NA
 core
@@ -18711,7 +18711,7 @@ complement
 core
 adjunct
 core
-complement
+adjunct
 core
 NA
 core
@@ -18775,10 +18775,10 @@ core
 core
 complement
 NA
-
-
+core
 complement
-adjunct
+
+
 NA
 core
 core
@@ -18883,9 +18883,9 @@ NA
 core
 complement
 NA
-adjunct
+core
 NA
-complement
+adjunct
 complement
 NA
 core
@@ -18945,9 +18945,9 @@ adjunct
 core
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -19386,7 +19386,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 NA
 core
 core
@@ -19402,9 +19402,9 @@ core
 complement
 NA
 core
+core
 adjunct
 adjunct
-complement
 NA
 core
 complement
@@ -19794,9 +19794,9 @@ complement
 core
 complement
 complement
+NA
+core
 adjunct
-core
-complement
 NA
 NA
 core
@@ -19810,9 +19810,9 @@ core
 core
 complement
 core
+complement
+complement
 
-complement
-adjunct
 NA
 core
 complement
@@ -19828,9 +19828,9 @@ NA
 core
 619993	core
 complement
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -20104,9 +20104,9 @@ core
 core
 complement
 NA
-complement
 core
-adjunct
+core
+complement
 complement
 complement
 NA
@@ -20229,9 +20229,9 @@ NA
 core
 620466	NA
 core
-complement
 core
-adjunct
+core
+complement
 complement
 complement
 core
@@ -20337,9 +20337,9 @@ NA
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -20359,9 +20359,9 @@ adjunct
 NA
 core
 core
-620620	
+620620	NA
 core
-complement
+
 complement
 NA
 core
@@ -20769,9 +20769,9 @@ core
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -20824,7 +20824,7 @@ complement
 621175	NA
 core
 core
-adjunct
+complement
 core
 adjunct
 complement
@@ -20997,9 +20997,9 @@ core
 adjunct
 complement
 core
+complement
+core
 
-core
-complement
 NA
 core
 complement
@@ -21014,9 +21014,9 @@ complement
 NA
 core
 complement
+NA
+core
 
-core
-complement
 NA
 core
 complement
@@ -21087,29 +21087,29 @@ complement
 NA
 complement
 core
-adjunct
-core
-core
-adjunct
 complement
-NA
 core
-core
-NA
-NA
-core
-core
-complement
-complement
-NA
-core
-core
-complement
-NA
 core
 adjunct
 complement
+NA
+core
+core
+NA
+NA
+core
+core
 complement
+complement
+NA
+core
+core
+complement
+NA
+core
+core
+complement
+adjunct
 NA
 core
 core
@@ -21360,9 +21360,9 @@ core
 core
 complement
 NA
+core
+complement
 
-complement
-complement
 NA
 core
 core
@@ -21416,22 +21416,22 @@ core
 core
 complement
 NA
-adjunct
-complement
-complement
-NA
-core
-core
-NA
-core
-complement
-complement
-NA
 core
 complement
 adjunct
+NA
+core
+core
+NA
+core
 complement
 complement
+NA
+core
+complement
+core
+complement
+adjunct
 NA
 core
 complement
@@ -21557,7 +21557,7 @@ complement
 core
 complement
 adjunct
-adjunct
+complement
 622083	core
 NA
 core
@@ -21602,9 +21602,9 @@ core
 NA
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 NA
@@ -21738,7 +21738,7 @@ complement
 core
 complement
 core
-adjunct
+complement
 NA
 core
 core
@@ -22247,9 +22247,9 @@ complement
 core
 adjunct
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 NA
@@ -22264,9 +22264,9 @@ core
 complement
 complement
 622922	NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 NA
 core
@@ -22603,9 +22603,9 @@ NA
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -22652,26 +22652,26 @@ core
 complement
 complement
 NA
+core
 complement
-complement
-adjunct
-NA
-core
-core
-adjunct
-core
-adjunct
-core
 complement
 NA
 core
 core
+adjunct
+core
+core
+core
+adjunct
+NA
+core
+core
 core
 complement
 NA
-complement
 core
-adjunct
+core
+complement
 NA
 core
 complement
@@ -22799,9 +22799,9 @@ complement
 NA
 core
 core
+core
 complement
 complement
-adjunct
 NA
 core
 core
@@ -23145,9 +23145,9 @@ NA
 core
 complement
 NA
+NA
+core
 adjunct
-core
-complement
 adjunct
 NA
 core
@@ -23168,9 +23168,9 @@ complement
 core
 core
 complement
-623924	complement
+623924	core
 NA
-NA
+complement
 complement
 NA
 core
@@ -23206,9 +23206,9 @@ NA
 core
 NA
 core
-adjunct
-core
 NA
+core
+adjunct
 NA
 core
 core
@@ -23365,9 +23365,9 @@ core
 core
 complement
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -23442,9 +23442,9 @@ NA
 complement
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -23509,9 +23509,9 @@ complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -23663,9 +23663,9 @@ core
 core
 core
 complement
+core
+NA
 complement
-NA
-NA
 adjunct
 NA
 core
@@ -23734,9 +23734,9 @@ complement
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 NA
 core
@@ -23806,9 +23806,9 @@ core
 complement
 core
 NA
-adjunct
+core
 NA
-complement
+adjunct
 core
 core
 core
@@ -23909,9 +23909,9 @@ core
 complement
 adjunct
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 adjunct
 core
@@ -23998,7 +23998,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 624829	NA
 core
 core
@@ -24479,9 +24479,9 @@ core
 complement
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -24539,9 +24539,9 @@ core
 core
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -24725,11 +24725,11 @@ core
 complement
 adjunct
 NA
+NA
+core
 adjunct
 core
 complement
-core
-adjunct
 NA
 core
 complement
@@ -25425,9 +25425,9 @@ core
 core
 complement
 626428	core
-adjunct
-complement
 NA
+complement
+adjunct
 NA
 core
 complement
@@ -25509,9 +25509,9 @@ core
 complement
 core
 core
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -25519,13 +25519,13 @@ core
 core
 complement
 complement
-adjunct
-core
-complement
 NA
-adjunct
 core
-complement
+adjunct
+NA
+core
+core
+adjunct
 NA
 core
 core
@@ -25738,9 +25738,9 @@ NA
 core
 complement
 NA
+core
+complement
 
-complement
-complement
 NA
 core
 complement
@@ -25791,7 +25791,7 @@ core
 complement
 adjunct
 NA
-complement
+adjunct
 core
 complement
 626843	NA
@@ -26070,9 +26070,9 @@ core
 complement
 adjunct
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -26115,9 +26115,9 @@ core
 core
 NA
 complement
-adjunct
+NA
 core
-complement
+adjunct
 627200	NA
 core
 adjunct
@@ -26281,19 +26281,19 @@ complement
 adjunct
 core
 adjunct
-adjunct
-core
-complement
-core
-complement
-NA
-core
-complement
-core
-NA
 core
 core
 adjunct
+core
+complement
+NA
+core
+complement
+core
+NA
+core
+core
+adjunct
 NA
 adjunct
 core
@@ -26317,9 +26317,9 @@ NA
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 627426	NA
 core
 complement
@@ -26436,9 +26436,9 @@ NA
 core
 complement
 NA
-complement
 core
-adjunct
+core
+complement
 627554	core
 complement
 627559	core
@@ -26564,9 +26564,9 @@ complement
 627696	core
 core
 adjunct
-adjunct
-core
 complement
+core
+adjunct
 core
 complement
 627708	NA
@@ -26593,9 +26593,9 @@ core
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 NA
 NA
@@ -26633,9 +26633,9 @@ complement
 NA
 core
 NA
-complement
 core
-adjunct
+core
+complement
 adjunct
 627783	core
 core
@@ -26702,9 +26702,9 @@ NA
 core
 core
 NA
-complement
 core
-adjunct
+core
+complement
 adjunct
 627860	NA
 core
@@ -26788,9 +26788,9 @@ complement
 adjunct
 NA
 core
+core
 complement
 complement
-adjunct
 627950	NA
 core
 core
@@ -26808,9 +26808,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -26961,10 +26961,10 @@ core
 complement
 complement
 NA
+core
+core
 complement
 complement
-adjunct
-adjunct
 NA
 core
 core
@@ -27034,11 +27034,11 @@ NA
 core
 complement
 NA
+core
+core
 complement
 core
 adjunct
-core
-complement
 complement
 NA
 adjunct
@@ -27450,9 +27450,9 @@ core
 complement
 core
 complement
-complement
+NA
 core
-adjunct
+complement
 complement
 NA
 core
@@ -27533,9 +27533,9 @@ core
 core
 complement
 core
-adjunct
-core
 complement
+core
+adjunct
 628813	NA
 core
 NA
@@ -27690,9 +27690,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -27749,9 +27749,9 @@ core
 complement
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 629077	NA
 core
@@ -27764,9 +27764,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -27817,15 +27817,15 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 629154	NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -27974,7 +27974,7 @@ NA
 core
 core
 complement
-adjunct
+NA
 core
 adjunct
 complement
@@ -28017,9 +28017,9 @@ core
 complement
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -28103,9 +28103,9 @@ complement
 NA
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 adjunct
@@ -28317,9 +28317,9 @@ core
 complement
 core
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 complement
 629692	NA
 core
@@ -28332,21 +28332,21 @@ complement
 complement
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 NA
 core
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 core
@@ -28465,35 +28465,35 @@ NA
 adjunct
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 complement
-adjunct
-core
-complement
-adjunct
-core
-complement
 NA
 core
+adjunct
 complement
-complement
+core
 adjunct
 NA
 core
 complement
-core
 complement
-NA
-core
-NA
-NA
 adjunct
+NA
 core
 complement
+core
+complement
+NA
+core
+NA
+NA
+complement
+core
+adjunct
 NA
 core
 complement
@@ -28607,20 +28607,20 @@ complement
 core
 adjunct
 core
-complement
-NA
-complement
-core
-complement
-complement
-NA
-core
-NA
-NA
-complement
 adjunct
+NA
+complement
 core
 complement
+complement
+NA
+core
+NA
+NA
+complement
+NA
+core
+adjunct
 NA
 core
 NA
@@ -28638,63 +28638,63 @@ NA
 core
 core
 complement
-adjunct
-core
-complement
-complement
 NA
-core
-complement
-NA
-NA
-core
-core
-complement
 core
 adjunct
-adjunct
-core
-core
+complement
 NA
 core
 complement
 NA
-core
 NA
 core
-complement
-NA
-core
-NA
-core
-complement
-NA
-core
-NA
-core
-complement
-NA
-core
-NA
-NA
-core
-core
-NA
-core
-core
-complement
-adjunct
-NA
-NA
-core
-NA
-core
-complement
-NA
 core
 complement
 core
 adjunct
+adjunct
+core
+core
+NA
+core
+complement
+NA
+core
+NA
+core
+complement
+NA
+core
+NA
+core
+complement
+NA
+core
+NA
+core
+complement
+NA
+core
+NA
+NA
+core
+core
+NA
+core
+core
+complement
+adjunct
+NA
+NA
+core
+NA
+core
+complement
+NA
+core
+NA
+core
+complement
 adjunct
 NA
 core
@@ -28817,7 +28817,7 @@ complement
 core
 adjunct
 core
-complement
+adjunct
 NA
 complement
 core
@@ -29156,10 +29156,10 @@ core
 complement
 core
 complement
+NA
+core
 adjunct
 adjunct
-complement
-complement
 adjunct
 core
 complement
@@ -29277,10 +29277,10 @@ NA
 complement
 core
 core
+NA
+core
 adjunct
 adjunct
-complement
-complement
 adjunct
 core
 complement
@@ -29575,9 +29575,9 @@ NA
 core
 core
 complement
-complement
+NA
 core
-adjunct
+complement
 NA
 complement
 core
@@ -29724,9 +29724,9 @@ core
 complement
 631220	NA
 complement
-631224	adjunct
+631224	NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -29748,9 +29748,9 @@ complement
 complement
 complement
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 NA
@@ -29771,9 +29771,9 @@ NA
 core
 complement
 complement
+core
+complement
 adjunct
-complement
-complement
 complement
 core
 core
@@ -29850,24 +29850,24 @@ complement
 core
 complement
 complement
+NA
+core
 adjunct
+complement
+NA
+NA
+core
+adjunct
+complement
+NA
+NA
 core
 complement
-complement
-NA
 adjunct
+NA
+NA
 core
-complement
-complement
-NA
-NA
 adjunct
-complement
-complement
-NA
-adjunct
-core
-complement
 complement
 NA
 core
@@ -29995,9 +29995,9 @@ core
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 adjunct
 adjunct
 core
@@ -30010,9 +30010,9 @@ core
 complement
 adjunct
 NA
+core
+complement
 adjunct
-complement
-complement
 adjunct
 631616	NA
 core
@@ -30045,36 +30045,36 @@ complement
 adjunct
 core
 NA
-adjunct
-complement
-complement
-complement
-631656	NA
-adjunct
-complement
-complement
-complement
-631668	core
-631671	adjunct
 core
 complement
-NA
 adjunct
 complement
+631656	NA
+core
 complement
+adjunct
+complement
+631668	core
+631671	NA
+core
+adjunct
+NA
+core
+complement
+adjunct
 631680	NA
 complement
 core
 adjunct
 631703	NA
-complement
+adjunct
 adjunct
 core
 complement
 NA
-adjunct
-core
 complement
+core
+adjunct
 adjunct
 NA
 core
@@ -30096,9 +30096,9 @@ core
 core
 631736	NA
 core
+complement
+complement
 adjunct
-complement
-complement
 631751	core
 complement
 complement
@@ -30151,9 +30151,9 @@ adjunct
 complement
 NA
 core
-
 complement
-adjunct
+complement
+
 NA
 core
 complement
@@ -30163,14 +30163,14 @@ complement
 core
 complement
 NA
-adjunct
-complement
-complement
-complement
-complement
-adjunct
 core
 complement
+adjunct
+complement
+complement
+NA
+core
+adjunct
 complement
 NA
 core
@@ -30205,14 +30205,14 @@ core
 631876	adjunct
 core
 complement
-adjunct
+NA
 core
-complement
-complement
-complement
 adjunct
-core
 complement
+complement
+NA
+core
+adjunct
 complement
 adjunct
 NA
@@ -30225,9 +30225,9 @@ core
 core
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -30291,9 +30291,9 @@ complement
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 adjunct
 NA
 core
@@ -30311,9 +30311,9 @@ complement
 632069	NA
 core
 632072	NA
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 NA
@@ -30362,7 +30362,7 @@ core
 core
 complement
 complement
-adjunct
+complement
 adjunct
 NA
 core
@@ -30402,47 +30402,47 @@ adjunct
 core
 632189	core
 adjunct
+NA
+core
 adjunct
+complement
+complement
+NA
 core
-complement
-complement
-complement
 adjunct
-core
-complement
 complement
 NA
 core
 complement
-complement
-NA
-core
-complement
-complement
-adjunct
-NA
-complement
-core
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-complement
-complement
-632225	adjunct
-NA
-core
 complement
 NA
 core
 complement
 complement
 adjunct
+NA
+complement
+core
+complement
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
+complement
+complement
+632225	complement
+NA
+core
+complement
+NA
+core
+complement
+complement
+adjunct
 adjunct
 NA
 core
@@ -30459,15 +30459,15 @@ core
 complement
 NA
 core
+core
+complement
 
 complement
-adjunct
-complement
 core
+complement
+adjunct
 
 
-adjunct
-adjunct
 NA
 core
 complement
@@ -30482,7 +30482,7 @@ core
 core
 complement
 complement
-adjunct
+complement
 adjunct
 NA
 core
@@ -30502,9 +30502,9 @@ core
 complement
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 632306	NA
 core
@@ -30565,19 +30565,19 @@ complement
 NA
 complement
 core
-adjunct
-NA
-complement
-core
-complement
-adjunct
-core
-complement
 complement
 NA
 adjunct
 core
 complement
+NA
+core
+adjunct
+complement
+NA
+complement
+core
+adjunct
 adjunct
 NA
 core
@@ -30594,9 +30594,9 @@ complement
 NA
 core
 complement
+NA
+core
 adjunct
-core
-complement
 complement
 core
 complement
@@ -30618,9 +30618,9 @@ core
 complement
 NA
 core
-632425	adjunct
+632425	NA
 core
-complement
+adjunct
 core
 complement
 core
@@ -30913,9 +30913,9 @@ complement
 complement
 NA
 core
-632770	adjunct
+632770	NA
 core
-complement
+adjunct
 NA
 632775	NA
 core
@@ -30925,9 +30925,9 @@ core
 complement
 NA
 complement
+core
 adjunct
 adjunct
-complement
 NA
 core
 complement
@@ -30969,9 +30969,9 @@ complement
 core
 adjunct
 adjunct
+core
 adjunct
-complement
-complement
+adjunct
 632842	NA
 core
 complement
@@ -31021,37 +31021,37 @@ core
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 NA
-adjunct
-core
 complement
+core
+adjunct
 adjunct
 adjunct
 core
 NA
 core
 complement
-adjunct
-complement
-complement
-NA
 core
 complement
-complement
+adjunct
 NA
 core
 complement
 complement
 NA
+core
 complement
 complement
-adjunct
-632938	adjunct
+NA
+core
+complement
+complement
+632938	
 632941	NA
 core
 complement
@@ -31108,9 +31108,9 @@ NA
 core
 complement
 core
+core
+complement
 
-complement
-complement
 core
 core
 NA
@@ -31160,9 +31160,9 @@ complement
 complement
 633064	core
 NA
+core
 complement
 complement
-adjunct
 NA
 core
 complement
@@ -31284,10 +31284,10 @@ core
 complement
 NA
 NA
+core
+complement
 complement
 
-adjunct
-adjunct
 NA
 core
 complement
@@ -31298,7 +31298,7 @@ complement
 633214	NA
 core
 adjunct
-adjunct
+NA
 core
 adjunct
 core
@@ -31394,9 +31394,9 @@ NA
 core
 core
 complement
+core
+complement
 adjunct
-complement
-complement
 633358	NA
 adjunct
 core
@@ -31432,9 +31432,9 @@ complement
 NA
 core
 complement
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -31524,9 +31524,9 @@ core
 NA
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -31615,9 +31615,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 NA
@@ -31690,9 +31690,9 @@ NA
 core
 core
 complement
-adjunct
-core
 complement
+core
+adjunct
 core
 NA
 core
@@ -31709,9 +31709,9 @@ core
 complement
 633706	NA
 core
-adjunct
-core
 complement
+core
+adjunct
 complement
 NA
 core
@@ -31775,9 +31775,9 @@ complement
 NA
 core
 633791	NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 adjunct
@@ -31820,9 +31820,9 @@ NA
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 633848	NA
 core
@@ -31849,9 +31849,9 @@ core
 complement
 633878	core
 core
+complement
+NA
 core
-NA
-NA
 NA
 core
 complement
@@ -31924,9 +31924,9 @@ complement
 complement
 NA
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 core
@@ -32078,7 +32078,7 @@ complement
 complement
 core
 634131	core
-complement
+adjunct
 NA
 core
 core
@@ -32269,9 +32269,9 @@ core
 complement
 complement
 634331	core
-complement
+NA
 core
-adjunct
+complement
 634338	NA
 core
 complement
@@ -32298,9 +32298,9 @@ NA
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 core
 complement
 NA
@@ -32367,9 +32367,9 @@ core
 complement
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 core
 adjunct
@@ -32410,9 +32410,9 @@ core
 adjunct
 core
 NA
-adjunct
-core
 complement
+core
+adjunct
 634493	NA
 core
 core
@@ -32819,9 +32819,9 @@ core
 core
 NA
 core
+NA
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -32855,9 +32855,9 @@ complement
 adjunct
 adjunct
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 complement
 core
@@ -32881,9 +32881,9 @@ core
 core
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 adjunct
 complement
 core
@@ -32898,9 +32898,9 @@ complement
 adjunct
 adjunct
 NA
-adjunct
-core
 complement
+core
+adjunct
 adjunct
 NA
 core
@@ -32910,54 +32910,54 @@ complement
 core
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 complement
 635070	NA
+core
+complement
 adjunct
-complement
-complement
 complement
 core
 635083	core
 core
 adjunct
+NA
+core
 adjunct
+NA
 core
 complement
-NA
 adjunct
-complement
-complement
 635095	NA
 complement
 core
 adjunct
 635106	NA
-complement
+adjunct
 core
 complement
 635117	NA
-complement
-core
-complement
-NA
 adjunct
 core
 complement
 NA
-core
-core
-adjunct
-NA
-NA
-core
-core
-adjunct
-adjunct
-core
 complement
+core
+adjunct
+NA
+core
+core
+adjunct
+NA
+NA
+core
+core
+adjunct
+NA
+core
+adjunct
 adjunct
 NA
 core
@@ -32992,9 +32992,9 @@ complement
 complement
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -33004,9 +33004,9 @@ core
 complement
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 complement
 core
 NA
@@ -33022,9 +33022,9 @@ complement
 core
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 NA
@@ -33055,7 +33055,7 @@ complement
 core
 complement
 adjunct
-635274	complement
+635274	adjunct
 core
 complement
 adjunct
@@ -33078,20 +33078,20 @@ complement
 core
 complement
 complement
+NA
+core
 adjunct
+complement
+NA
+NA
+core
+adjunct
+complement
+NA
+NA
 core
 complement
-complement
-NA
 adjunct
-core
-complement
-complement
-NA
-NA
-adjunct
-complement
-complement
 NA
 NA
 core
@@ -33167,21 +33167,21 @@ NA
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 NA
-adjunct
+complement
 core
-complement
 adjunct
 adjunct
 adjunct
-635456	adjunct
+adjunct
+635456	core
 complement
-complement
+adjunct
 NA
 core
 complement
@@ -33219,9 +33219,9 @@ complement
 complement
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 adjunct
@@ -33244,9 +33244,9 @@ core
 complement
 complement
 adjunct
+core
+complement
 adjunct
-complement
-complement
 adjunct
 core
 complement
@@ -33276,35 +33276,35 @@ core
 core
 635638	core
 core
+NA
+core
 adjunct
 core
-complement
-core
-adjunct
-NA
-core
-core
-complement
-NA
-core
-core
-complement
-NA
-core
-core
-635657	adjunct
-core
-complement
 adjunct
 NA
 core
 core
 complement
+NA
+core
+core
+complement
+NA
+core
+core
+635657	NA
+core
+adjunct
 adjunct
 NA
+core
+core
+complement
+adjunct
+NA
+core
+core
 
-core
-adjunct
 635673	NA
 core
 complement
@@ -33316,21 +33316,21 @@ core
 complement
 635685	NA
 complement
+core
+complement
+adjunct
+NA
+core
+complement
+NA
+core
+complement
+635699	NA
+core
 adjunct
 complement
-complement
-NA
-core
-complement
-NA
-core
-complement
-635699	adjunct
-core
-complement
-complement
 635707	NA
-complement
+adjunct
 core
 complement
 core
@@ -33355,9 +33355,9 @@ complement
 core
 adjunct
 core
-adjunct
-core
 complement
+core
+adjunct
 core
 complement
 core
@@ -33413,34 +33413,34 @@ complement
 complement
 NA
 core
+complement
+complement
 
-complement
-adjunct
 NA
 complement
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 NA
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 635848	NA
 core
 complement
 NA
+core
 complement
 complement
 complement
 complement
-adjunct
-adjunct
+complement
 NA
 core
 complement
@@ -33464,21 +33464,21 @@ complement
 complement
 635886	NA
 core
+NA
+core
 adjunct
-core
-complement
 complement
 core
 NA
 core
 complement
 NA
+core
 complement
 complement
 complement
 complement
-NA
-adjunct
+complement
 635906	core
 NA
 core
@@ -33486,9 +33486,9 @@ core
 complement
 NA
 core
+complement
+complement
 adjunct
-complement
-complement
 635922	NA
 complement
 complement
@@ -33511,9 +33511,9 @@ complement
 core
 complement
 complement
+core
 complement
 complement
-adjunct
 NA
 core
 core
@@ -33614,9 +33614,9 @@ core
 complement
 complement
 NA
+core
 complement
 complement
-NA
 NA
 core
 complement
@@ -33693,46 +33693,8 @@ core
 complement
 adjunct
 NA
-adjunct
-core
-complement
-NA
 core
 core
-complement
-NA
-core
-NA
-core
-adjunct
-adjunct
-adjunct
-core
-core
-NA
-core
-core
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-complement
-complement
-NA
-core
-complement
-complement
 adjunct
 NA
 core
@@ -33742,10 +33704,73 @@ NA
 core
 NA
 core
+adjunct
+adjunct
+adjunct
+core
+core
+NA
+core
+core
+complement
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
 complement
 complement
 NA
 core
+complement
+complement
+complement
+NA
+core
+core
+complement
+NA
+core
+NA
+core
+complement
+complement
+NA
+core
+complement
+complement
+NA
+core
+complement
+complement
+complement
+NA
+core
+complement
+complement
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
+core
+complement
+NA
+core
+complement
+complement
 complement
 complement
 NA
@@ -33755,39 +33780,14 @@ complement
 adjunct
 NA
 core
-complement
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
 core
 complement
 NA
 core
 complement
 complement
-adjunct
-adjunct
-NA
-core
 complement
 complement
-adjunct
-NA
-core
-core
-complement
-NA
-core
-complement
-complement
-adjunct
-adjunct
 NA
 core
 complement
@@ -33797,10 +33797,10 @@ core
 core
 complement
 NA
+core
 complement
 complement
-adjunct
-adjunct
+complement
 NA
 core
 complement
@@ -33810,9 +33810,9 @@ core
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 complement
 core
@@ -34106,14 +34106,14 @@ core
 complement
 complement
 636621	complement
-complement
+adjunct
 core
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -34213,9 +34213,9 @@ complement
 NA
 core
 complement
-636756	
-complement
-adjunct
+636756	NA
+
+
 core
 NA
 core
@@ -34259,9 +34259,9 @@ core
 NA
 core
 complement
-636821	
-complement
-adjunct
+636821	NA
+
+
 core
 NA
 core
@@ -34315,9 +34315,9 @@ complement
 NA
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -34380,9 +34380,9 @@ complement
 NA
 core
 complement
-636976	
-complement
-adjunct
+636976	NA
+
+
 core
 NA
 core
@@ -34473,15 +34473,15 @@ complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
 adjunct
+NA
 core
-complement
 adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -34519,9 +34519,9 @@ NA
 core
 complement
 NA
+core
+complement
 
-complement
-complement
 NA
 core
 complement
@@ -34578,9 +34578,9 @@ core
 NA
 core
 NA
+core
+complement
 
-complement
-complement
 adjunct
 NA
 core
@@ -34625,9 +34625,9 @@ core
 complement
 NA
 NA
-adjunct
-core
 complement
+core
+adjunct
 adjunct
 core
 NA
@@ -34750,10 +34750,10 @@ core
 complement
 complement
 adjunct
+NA
+core
 adjunct
 
-adjunct
-adjunct
 NA
 core
 complement
@@ -34768,9 +34768,9 @@ complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 637399	NA
 core
@@ -34819,9 +34819,9 @@ complement
 NA
 core
 complement
-
+NA
 core
-complement
+
 adjunct
 NA
 core
@@ -35044,9 +35044,9 @@ core
 core
 complement
 adjunct
-complement
+NA
 core
-adjunct
+complement
 NA
 core
 complement
@@ -35134,7 +35134,7 @@ adjunct
 core
 complement
 637820	adjunct
-complement
+adjunct
 core
 NA
 core
@@ -35237,9 +35237,9 @@ complement
 NA
 core
 complement
-637945	
-complement
-adjunct
+637945	NA
+
+
 core
 NA
 core
@@ -35264,9 +35264,9 @@ core
 core
 637987	NA
 core
-adjunct
-core
 complement
+core
+adjunct
 637993	NA
 core
 complement
@@ -35394,9 +35394,9 @@ complement
 NA
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 NA
 NA
@@ -35478,7 +35478,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 adjunct
 638245	core
 complement
@@ -36498,9 +36498,9 @@ adjunct
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 core
 NA
@@ -37208,9 +37208,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 core
 core
 640400	NA
@@ -37553,7 +37553,7 @@ core
 core
 complement
 640792	complement
-adjunct
+complement
 NA
 NA
 core
@@ -37591,9 +37591,9 @@ NA
 core
 complement
 NA
-complement
 core
-adjunct
+core
+complement
 complement
 NA
 core
@@ -38362,9 +38362,9 @@ complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -38374,9 +38374,9 @@ core
 complement
 adjunct
 NA
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -38684,9 +38684,9 @@ NA
 complement
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -38903,11 +38903,11 @@ complement
 core
 complement
 NA
-
-NA
-adjunct
-core
 complement
+NA
+
+core
+adjunct
 NA
 NA
 core
@@ -38995,9 +38995,9 @@ core
 complement
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 NA
 core
@@ -39024,9 +39024,9 @@ core
 complement
 NA
 complement
-adjunct
+NA
 core
-complement
+adjunct
 642462	NA
 NA
 core
@@ -39332,9 +39332,9 @@ core
 core
 complement
 642801	NA
+core
+complement
 adjunct
-complement
-complement
 core
 core
 core
@@ -40478,7 +40478,7 @@ core
 complement
 complement
 644203	complement
-adjunct
+complement
 NA
 core
 complement
@@ -40575,9 +40575,9 @@ complement
 complement
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 644333	NA
 core
 complement
@@ -40839,7 +40839,7 @@ NA
 core
 complement
 644623	NA
-adjunct
+complement
 complement
 core
 complement
@@ -41150,9 +41150,9 @@ core
 core
 complement
 complement
-644991	adjunct
+644991	NA
 core
-complement
+adjunct
 complement
 NA
 complement
@@ -41300,9 +41300,9 @@ NA
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-NA
 NA
 NA
 NA
@@ -41326,9 +41326,9 @@ complement
 core
 complement
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -41394,10 +41394,10 @@ NA
 core
 complement
 NA
+NA
+core
 adjunct
 adjunct
-complement
-NA
 NA
 NA
 core
@@ -41407,49 +41407,16 @@ NA
 core
 complement
 complement
-NA
-adjunct
-NA
-core
-complement
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-core
-NA
-NA
-adjunct
-NA
-core
-complement
-adjunct
-adjunct
-complement
-NA
-NA
-adjunct
-core
-complement
-adjunct
-NA
-core
-complement
-core
 NA
 adjunct
 NA
 core
 complement
 complement
+NA
+core
+complement
+NA
 core
 complement
 NA
@@ -41457,27 +41424,6 @@ core
 complement
 NA
 core
-complement
-complement
-NA
-core
-complement
-core
-complement
-complement
-NA
-core
-core
-complement
-complement
-NA
-core
-complement
-adjunct
-NA
-core
-NA
-NA
 core
 NA
 NA
@@ -41485,13 +41431,67 @@ adjunct
 NA
 core
 complement
+NA
+core
 adjunct
+adjunct
+NA
+core
+core
+adjunct
+adjunct
+NA
+core
+complement
+core
+NA
+adjunct
+NA
+core
+complement
+complement
+core
+complement
+NA
+core
+complement
+NA
+core
+complement
+complement
+NA
+core
+complement
+core
+complement
+complement
+NA
+core
+core
+complement
+complement
+NA
 core
 complement
 adjunct
+NA
+core
+NA
+NA
+core
+NA
+NA
 adjunct
+NA
 core
 complement
+NA
+core
+adjunct
+adjunct
+NA
+core
+adjunct
 adjunct
 NA
 core
@@ -41640,13 +41640,13 @@ core
 complement
 NA
 NA
+NA
+core
+adjunct
 adjunct
 core
-complement
-adjunct
-adjunct
 core
-complement
+adjunct
 adjunct
 NA
 core
@@ -41715,9 +41715,9 @@ complement
 core
 645581	NA
 core
+core
 complement
 complement
-adjunct
 adjunct
 NA
 core
@@ -41938,9 +41938,9 @@ complement
 core
 complement
 NA
-
+core
 complement
-adjunct
+
 645856	adjunct
 core
 core
@@ -42040,15 +42040,15 @@ adjunct
 adjunct
 core
 complement
-
 core
-complement
+core
+
 645989	core
 complement
 adjunct
+core
+complement
 adjunct
-complement
-complement
 core
 NA
 core
@@ -42120,10 +42120,10 @@ core
 core
 core
 core
+NA
+core
 
 core
-core
-core
 adjunct
 core
 NA
@@ -42135,11 +42135,11 @@ adjunct
 NA
 core
 core
+core
+NA
 
 NA
 core
-NA
-core
 complement
 NA
 core
@@ -42151,9 +42151,9 @@ NA
 core
 NA
 complement
-complement
+NA
 core
-adjunct
+complement
 NA
 core
 core
@@ -42525,9 +42525,9 @@ adjunct
 adjunct
 core
 646690	NA
+core
+complement
 
-complement
-complement
 NA
 core
 complement
@@ -42705,9 +42705,9 @@ core
 complement
 complement
 NA
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 NA
@@ -42751,9 +42751,9 @@ adjunct
 646932	NA
 core
 complement
-646943	adjunct
+646943	NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -42764,7 +42764,7 @@ NA
 core
 complement
 complement
-646962	complement
+646962	adjunct
 core
 complement
 adjunct
@@ -42775,7 +42775,7 @@ complement
 core
 complement
 646983	NA
-adjunct
+complement
 core
 complement
 646991	NA
@@ -43121,11 +43121,11 @@ core
 core
 complement
 complement
-adjunct
+complement
+core
 core
 complement
 complement
-adjunct
 647371	NA
 core
 core
@@ -43235,9 +43235,9 @@ NA
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 NA
@@ -43279,9 +43279,9 @@ NA
 core
 adjunct
 complement
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 NA
 core
@@ -43383,9 +43383,9 @@ core
 complement
 NA
 complement
+core
+complement
 adjunct
-complement
-complement
 adjunct
 NA
 core
@@ -43464,9 +43464,9 @@ core
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -43543,7 +43543,7 @@ NA
 complement
 NA
 core
-647851	complement
+647851	adjunct
 core
 NA
 core
@@ -43669,9 +43669,9 @@ NA
 core
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 core
 core
 complement
@@ -43801,51 +43801,51 @@ core
 core
 complement
 NA
+core
+core
 adjunct
-core
-complement
-adjunct
-NA
-core
-core
-complement
-complement
-adjunct
-core
-complement
-core
-NA
-core
-core
-NA
-core
-complement
-NA
-core
-core
-complement
-complement
-complement
-NA
-core
-complement
-core
-core
-NA
-adjunct
-core
-core
-core
-complement
 adjunct
 NA
 core
 core
 complement
 complement
+NA
+core
 adjunct
 core
+NA
+core
+core
+NA
+core
 complement
+NA
+core
+core
+complement
+complement
+complement
+NA
+core
+complement
+core
+core
+NA
+adjunct
+core
+core
+core
+complement
+adjunct
+NA
+core
+core
+complement
+complement
+NA
+core
+adjunct
 NA
 core
 core
@@ -43873,9 +43873,9 @@ NA
 complement
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 NA
 core
@@ -43970,9 +43970,9 @@ core
 core
 complement
 648596	NA
+core
+complement
 adjunct
-complement
-complement
 adjunct
 adjunct
 core
@@ -44017,9 +44017,9 @@ core
 complement
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 adjunct
 NA
 core
@@ -44133,9 +44133,9 @@ NA
 core
 core
 complement
-adjunct
 core
-complement
+core
+adjunct
 complement
 complement
 core
@@ -44323,9 +44323,9 @@ complement
 core
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -44495,9 +44495,9 @@ core
 core
 NA
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 core
@@ -44526,9 +44526,9 @@ complement
 649245	NA
 NA
 NA
-adjunct
 core
-complement
+core
+adjunct
 core
 NA
 NA
@@ -45094,7 +45094,7 @@ NA
 core
 complement
 complement
-complement
+NA
 core
 complement
 complement
@@ -45304,9 +45304,9 @@ NA
 core
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 NA
@@ -45386,9 +45386,9 @@ NA
 complement
 adjunct
 NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -45473,9 +45473,9 @@ NA
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 core
 core
@@ -45535,9 +45535,9 @@ core
 core
 NA
 NA
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 complement
@@ -45666,15 +45666,15 @@ core
 core
 complement
 NA
-adjunct
-complement
-complement
 core
 complement
-650618	adjunct
 adjunct
+core
 complement
+650618	core
 complement
+adjunct
+adjunct
 NA
 core
 NA
@@ -45717,15 +45717,15 @@ complement
 core
 complement
 adjunct
-650671	adjunct
+650671	NA
 core
-complement
+adjunct
 adjunct
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 core
 core
@@ -45740,9 +45740,9 @@ core
 complement
 core
 650697	NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 NA
@@ -45923,49 +45923,49 @@ complement
 NA
 NA
 core
-adjunct
 core
-complement
-NA
-core
-core
-complement
-NA
-core
-core
-core
-complement
-complement
 core
 adjunct
 NA
 core
-complement
-core
-complement
-NA
-core
-complement
-complement
-NA
-core
-NA
-core
 core
 complement
 NA
 core
 core
-complement
-core
 core
 complement
-NA
-core
 complement
+core
 adjunct
+NA
 core
 complement
+core
+complement
+NA
+core
+complement
+complement
+NA
+core
+NA
+core
+core
+complement
+NA
+core
+core
+complement
+core
+core
+complement
+NA
+core
+complement
+NA
+core
+adjunct
 complement
 adjunct
 NA
@@ -46060,7 +46060,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 adjunct
 NA
 core
@@ -46462,9 +46462,9 @@ complement
 NA
 core
 complement
-adjunct
-core
 NA
+core
+adjunct
 complement
 NA
 core
@@ -46703,10 +46703,10 @@ core
 core
 complement
 complement
-adjunct
-adjunct
-core
 complement
+complement
+core
+adjunct
 core
 complement
 NA
@@ -46811,9 +46811,9 @@ NA
 core
 core
 complement
+core
 complement
 complement
-adjunct
 651918	NA
 core
 core
@@ -46864,56 +46864,56 @@ NA
 core
 complement
 complement
+core
 complement
 complement
 adjunct
-adjunct
-core
-complement
-adjunct
-NA
-core
-complement
-NA
-core
-core
-complement
-core
-NA
-complement
-core
-NA
-core
-complement
-NA
-core
-complement
-complement
-NA
-adjunct
-complement
-complement
-adjunct
-NA
-core
-complement
-complement
-NA
-core
-complement
-core
-adjunct
-NA
-core
 core
 complement
 adjunct
 NA
 core
 complement
-adjunct
+NA
+core
 core
 complement
+core
+NA
+complement
+core
+NA
+core
+complement
+NA
+core
+complement
+complement
+NA
+core
+complement
+adjunct
+complement
+NA
+core
+complement
+complement
+NA
+core
+complement
+core
+adjunct
+NA
+core
+core
+complement
+adjunct
+NA
+core
+complement
+NA
+core
+adjunct
 complement
 complement
 complement
@@ -47447,7 +47447,7 @@ core
 NA
 core
 complement
-652606	complement
+652606	adjunct
 core
 NA
 core
@@ -47657,9 +47657,9 @@ complement
 NA
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 complement
 NA
 core
@@ -47883,40 +47883,40 @@ NA
 complement
 core
 complement
-adjunct
-core
-complement
-adjunct
-core
-complement
 NA
 core
-complement
-NA
-core
-complement
-NA
-core
-complement
-complement
-NA
-core
-complement
-NA
-core
-core
-NA
-core
-complement
 adjunct
 NA
 core
+adjunct
+NA
 core
 complement
 NA
-adjunct
 core
 complement
+NA
+core
+complement
+complement
+NA
+core
+complement
+NA
+core
+core
+NA
+core
+complement
+adjunct
+NA
+core
+core
+complement
+NA
+core
+core
+adjunct
 NA
 core
 core
@@ -47993,7 +47993,7 @@ complement
 core
 adjunct
 adjunct
-complement
+NA
 core
 complement
 complement
@@ -48039,30 +48039,30 @@ NA
 core
 core
 complement
-adjunct
-core
-complement
 NA
-core
-complement
-NA
-core
-core
-NA
-core
 core
 adjunct
 NA
 core
 complement
+NA
+core
+core
+NA
+core
+core
+adjunct
+NA
+core
+complement
 core
 complement
 NA
+core
+core
 
 core
 adjunct
-core
-complement
 NA
 core
 core
@@ -48070,11 +48070,11 @@ NA
 core
 complement
 NA
+core
+core
 core
 core
 adjunct
-core
-complement
 NA
 core
 NA
@@ -48170,9 +48170,9 @@ adjunct
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -48259,9 +48259,9 @@ complement
 NA
 core
 complement
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 NA
@@ -48287,9 +48287,9 @@ adjunct
 adjunct
 NA
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 NA
 core
@@ -48367,18 +48367,18 @@ complement
 NA
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 653644	NA
 core
 complement
 complement
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -48428,9 +48428,9 @@ complement
 complement
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -48588,9 +48588,9 @@ NA
 core
 core
 complement
-adjunct
-core
 complement
+core
+adjunct
 core
 complement
 core
@@ -48969,9 +48969,9 @@ complement
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 NA
 core
@@ -49241,9 +49241,9 @@ NA
 core
 core
 complement
-
 core
-complement
+core
+
 core
 complement
 adjunct
@@ -49404,7 +49404,7 @@ core
 core
 adjunct
 NA
-adjunct
+NA
 core
 adjunct
 NA
@@ -49412,7 +49412,7 @@ NA
 core
 complement
 core
-adjunct
+complement
 core
 core
 NA
@@ -49475,29 +49475,29 @@ complement
 654962	core
 complement
 complement
+complement
+NA
+core
+core
+complement
+complement
+NA
+core
+core
+complement
+core
+complement
+core
+core
+NA
+core
+complement
+complement
 adjunct
 NA
 core
-core
-complement
-complement
-NA
-core
-core
-complement
-core
-complement
-core
-core
-NA
-core
-complement
 complement
 adjunct
-NA
-adjunct
-complement
-complement
 NA
 complement
 core
@@ -49505,9 +49505,9 @@ core
 654993	NA
 core
 654999	NA
+core
+complement
 adjunct
-complement
-complement
 655008	NA
 core
 complement
@@ -49717,9 +49717,9 @@ complement
 655270	core
 core
 core
-655283	
+655283	NA
 core
-complement
+
 adjunct
 core
 655296	adjunct
@@ -49738,13 +49738,13 @@ core
 complement
 655315	core
 complement
-655319	adjunct
+655319	NA
 complement
-complement
-core
 adjunct
 core
 complement
+core
+adjunct
 adjunct
 655329	core
 complement
@@ -49802,9 +49802,9 @@ core
 core
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 complement
 655410	core
 complement
@@ -49863,9 +49863,9 @@ NA
 core
 complement
 complement
-655577	adjunct
+655577	complement
 core
-complement
+adjunct
 adjunct
 adjunct
 adjunct
@@ -50601,7 +50601,7 @@ core
 adjunct
 core
 complement
-adjunct
+complement
 core
 complement
 complement
@@ -50697,7 +50697,7 @@ NA
 NA
 core
 adjunct
-complement
+adjunct
 NA
 core
 complement
@@ -50802,9 +50802,9 @@ NA
 core
 core
 complement
-adjunct
-NA
 complement
+NA
+adjunct
 core
 core
 complement
@@ -50837,10 +50837,10 @@ NA
 core
 complement
 complement
-complement
-complement
 NA
-adjunct
+core
+complement
+complement
 NA
 core
 complement
@@ -51192,11 +51192,11 @@ complement
 NA
 core
 NA
-adjunct
+core
 core
 adjunct
 core
-complement
+adjunct
 NA
 core
 core
@@ -51437,9 +51437,9 @@ core
 core
 adjunct
 NA
-complement
 core
-adjunct
+core
+complement
 complement
 NA
 core
@@ -51488,11 +51488,11 @@ core
 core
 complement
 core
-adjunct
+complement
 NA
 complement
 core
-adjunct
+complement
 core
 core
 complement
@@ -52013,10 +52013,10 @@ core
 NA
 core
 complement
-complement
+NA
 core
 complement
-complement
+NA
 core
 complement
 NA
@@ -52064,7 +52064,7 @@ NA
 core
 complement
 complement
-complement
+NA
 core
 complement
 complement
@@ -52100,7 +52100,7 @@ complement
 NA
 core
 complement
-complement
+NA
 core
 complement
 complement
@@ -52168,9 +52168,9 @@ core
 core
 NA
 core
+core
 complement
 complement
-adjunct
 NA
 core
 core
@@ -52181,9 +52181,9 @@ core
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 core
 complement
 complement
@@ -52426,10 +52426,10 @@ NA
 core
 core
 complement
+core
+core
 complement
 
-complement
-NA
 adjunct
 658428	NA
 core
@@ -52445,44 +52445,34 @@ NA
 core
 NA
 core
-adjunct
+complement
 NA
 core
 core
 complement
 core
-complement
-NA
-NA
-core
-complement
 complement
 NA
 NA
 core
 complement
 complement
+NA
+NA
+core
+complement
+complement
 complement
 NA
 complement
 core
 complement
 complement
-core
-adjunct
-core
-complement
-adjunct
-complement
-core
 core
 adjunct
-NA
-core
 core
 complement
-complement
-NA
+adjunct
 complement
 core
 core
@@ -52490,6 +52480,16 @@ adjunct
 NA
 core
 core
+complement
+complement
+NA
+complement
+core
+core
+adjunct
+NA
+core
+core
 NA
 core
 adjunct
@@ -52497,9 +52497,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -52589,9 +52589,9 @@ core
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -52673,9 +52673,9 @@ core
 NA
 core
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 core
@@ -52787,47 +52787,47 @@ NA
 complement
 core
 complement
-adjunct
-core
-complement
-adjunct
-core
-complement
 NA
 core
-complement
-NA
-core
-core
-complement
-complement
-NA
-core
-NA
-core
-complement
-complement
-NA
-core
-complement
 adjunct
 NA
-core
-core
-NA
-NA
-core
-complement
-adjunct
-core
 core
 adjunct
 NA
 core
 complement
-adjunct
+NA
+core
 core
 complement
+complement
+NA
+core
+NA
+core
+complement
+complement
+NA
+core
+complement
+adjunct
+NA
+core
+core
+NA
+NA
+core
+complement
+adjunct
+core
+core
+adjunct
+NA
+core
+complement
+NA
+core
+adjunct
 core
 complement
 NA
@@ -52872,9 +52872,9 @@ core
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 658906	NA
 complement
 core
@@ -52914,9 +52914,9 @@ core
 complement
 NA
 core
+core
 complement
 complement
-adjunct
 NA
 core
 658960	NA
@@ -52931,13 +52931,13 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -53206,9 +53206,9 @@ adjunct
 adjunct
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 659308	NA
 core
@@ -53284,9 +53284,9 @@ complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -53431,9 +53431,9 @@ complement
 complement
 adjunct
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 core
 adjunct
 adjunct
@@ -53602,9 +53602,9 @@ core
 complement
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 659769	NA
 core
@@ -53616,21 +53616,21 @@ core
 complement
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 NA
 core
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 core
@@ -54161,9 +54161,9 @@ NA
 core
 NA
 NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 core
 NA
@@ -54315,9 +54315,9 @@ complement
 NA
 core
 NA
+core
+core
 adjunct
-core
-complement
 complement
 NA
 core
@@ -54326,9 +54326,9 @@ NA
 core
 core
 NA
+core
+core
 adjunct
-core
-complement
 660561	NA
 complement
 core
@@ -54427,11 +54427,11 @@ NA
 core
 complement
 NA
+core
+core
 
 
 complement
-adjunct
-adjunct
 core
 core
 core
@@ -54585,9 +54585,9 @@ adjunct
 NA
 core
 complement
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -54802,9 +54802,9 @@ core
 NA
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -54837,9 +54837,9 @@ complement
 661116	NA
 core
 661120	core
-adjunct
-core
 complement
+core
+adjunct
 complement
 core
 NA
@@ -55019,7 +55019,7 @@ NA
 core
 complement
 complement
-adjunct
+NA
 core
 adjunct
 complement
@@ -55262,34 +55262,34 @@ NA
 core
 complement
 661584	NA
+core
 adjunct
 adjunct
-complement
 NA
-adjunct
-core
-complement
 NA
-core
-complement
-complement
-core
-complement
-NA
-core
 core
 adjunct
 NA
-adjunct
 core
 complement
+complement
+core
+complement
+NA
+core
+core
+adjunct
+NA
+NA
+core
+adjunct
 adjunct
 core
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -55382,9 +55382,9 @@ NA
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 complement
 NA
 core
@@ -55633,9 +55633,9 @@ core
 complement
 complement
 NA
-adjunct
+core
 NA
-complement
+adjunct
 NA
 complement
 NA
@@ -55751,9 +55751,9 @@ core
 complement
 adjunct
 NA
+core
 complement
 complement
-adjunct
 core
 core
 adjunct
@@ -55873,9 +55873,9 @@ NA
 core
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 complement
 core
@@ -55934,15 +55934,15 @@ core
 NA
 core
 NA
-adjunct
-NA
-complement
-NA
-complement
-NA
-adjunct
 core
+NA
+adjunct
+NA
 complement
+NA
+core
+core
+adjunct
 NA
 complement
 core
@@ -56386,9 +56386,9 @@ NA
 core
 complement
 NA
+core
+complement
 
-complement
-complement
 complement
 core
 NA
@@ -56492,9 +56492,9 @@ NA
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -56594,9 +56594,9 @@ complement
 NA
 core
 complement
-adjunct
+core
 NA
-complement
+adjunct
 core
 NA
 NA
@@ -56656,9 +56656,9 @@ adjunct
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 adjunct
 core
@@ -56796,9 +56796,9 @@ core
 NA
 core
 complement
-adjunct
-core
 complement
+core
+adjunct
 adjunct
 core
 complement
@@ -56838,14 +56838,14 @@ NA
 core
 complement
 complement
+core
 complement
 complement
-adjunct
 NA
+core
+core
 complement
 
-adjunct
-complement
 NA
 core
 complement
@@ -56883,9 +56883,9 @@ core
 adjunct
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 NA
 NA
 core
@@ -56992,23 +56992,23 @@ NA
 core
 complement
 complement
-adjunct
-core
-complement
 NA
 core
-complement
 adjunct
 NA
 core
+complement
+adjunct
+NA
+core
 core
 NA
 core
 core
 adjunct
+NA
+core
 adjunct
-core
-complement
 NA
 core
 NA
@@ -57019,9 +57019,9 @@ NA
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 663553	NA
 core
 adjunct
@@ -57147,9 +57147,9 @@ core
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 NA
 core
 complement
@@ -57227,9 +57227,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -57627,13 +57627,13 @@ NA
 664190	complement
 core
 complement
-adjunct
-core
-complement
 NA
-adjunct
 core
-complement
+adjunct
+NA
+core
+core
+adjunct
 NA
 core
 complement
@@ -57696,9 +57696,9 @@ NA
 NA
 core
 complement
-664280	adjunct
+664280	NA
 core
-complement
+adjunct
 core
 complement
 complement
@@ -57816,37 +57816,37 @@ NA
 NA
 core
 complement
-adjunct
-core
-complement
-complement
 NA
 core
-complement
-NA
-core
-core
-complement
-NA
-core
-complement
 adjunct
 complement
 NA
 core
+complement
+NA
 core
 core
 complement
 NA
-core
-complement
-NA
-core
 core
 complement
 adjunct
+complement
+NA
+core
+core
 core
 complement
+NA
+core
+complement
+NA
+core
+core
+complement
+NA
+core
+adjunct
 664449	adjunct
 NA
 core
@@ -57868,9 +57868,9 @@ core
 complement
 core
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -57908,9 +57908,9 @@ core
 complement
 adjunct
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 core
 NA
@@ -58232,17 +58232,17 @@ NA
 core
 complement
 NA
-adjunct
-core
-complement
 NA
-adjunct
 core
-complement
+adjunct
 NA
-adjunct
+NA
 core
-complement
+adjunct
+NA
+NA
+core
+adjunct
 NA
 core
 complement
@@ -58304,9 +58304,9 @@ NA
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 NA
 core
@@ -58334,10 +58334,10 @@ NA
 core
 complement
 NA
-adjunct
-adjunct
-adjunct
 complement
+core
+adjunct
+adjunct
 NA
 core
 complement
@@ -58350,9 +58350,9 @@ core
 complement
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -58522,7 +58522,7 @@ NA
 core
 complement
 665172	NA
-complement
+adjunct
 NA
 core
 complement
@@ -58979,9 +58979,9 @@ core
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 core
 complement
@@ -59256,50 +59256,50 @@ NA
 core
 NA
 core
-adjunct
-core
-complement
 NA
-NA
-core
-complement
-NA
-core
-core
-complement
-complement
-NA
-core
-core
-NA
-NA
-core
-core
-core
-complement
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-core
-NA
-core
 core
 adjunct
+NA
+NA
+core
+complement
+NA
+core
+core
+complement
+complement
+NA
+core
+core
+NA
+NA
+core
+core
+core
+complement
+complement
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
 core
 NA
 core
 core
 adjunct
 core
+NA
+core
+core
+adjunct
+core
 core
 core
 core
@@ -59318,9 +59318,9 @@ NA
 core
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 adjunct
 core
@@ -59894,7 +59894,7 @@ adjunct
 core
 complement
 NA
-adjunct
+complement
 core
 complement
 core
@@ -59991,7 +59991,7 @@ core
 core
 complement
 adjunct
-adjunct
+complement
 core
 complement
 core
@@ -60084,7 +60084,7 @@ adjunct
 core
 complement
 NA
-adjunct
+complement
 core
 complement
 NA
@@ -60333,7 +60333,7 @@ core
 core
 complement
 complement
-adjunct
+complement
 NA
 core
 core
@@ -60343,9 +60343,9 @@ core
 complement
 667077	NA
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 complement
 NA
@@ -60533,9 +60533,9 @@ core
 core
 NA
 core
+core
 complement
 complement
-adjunct
 complement
 NA
 core
@@ -60568,7 +60568,7 @@ core
 NA
 core
 core
-adjunct
+complement
 adjunct
 adjunct
 NA
@@ -60612,7 +60612,7 @@ core
 core
 adjunct
 adjunct
-complement
+adjunct
 complement
 NA
 core
@@ -60825,9 +60825,9 @@ core
 core
 adjunct
 core
-adjunct
+core
 NA
-complement
+adjunct
 667613	NA
 core
 NA
@@ -61164,26 +61164,26 @@ NA
 core
 core
 NA
-adjunct
 core
-complement
-adjunct
 core
-complement
+adjunct
 NA
 core
-complement
-NA
-core
-core
-complement
-adjunct
-core
-complement
 adjunct
 NA
 core
 complement
+NA
+core
+core
+complement
+NA
+core
+adjunct
+adjunct
+NA
+core
+complement
 core
 NA
 core
@@ -61193,9 +61193,9 @@ NA
 NA
 core
 complement
-668011	adjunct
+668011	NA
 core
-complement
+adjunct
 NA
 core
 NA
@@ -61882,9 +61882,9 @@ complement
 NA
 core
 complement
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -62270,9 +62270,9 @@ adjunct
 NA
 core
 core
+core
 adjunct
 adjunct
-complement
 NA
 core
 core
@@ -62341,18 +62341,18 @@ core
 NA
 core
 NA
-adjunct
-core
-complement
-NA
 core
 core
-NA
-complement
-complement
 adjunct
 NA
 core
+core
+NA
+core
+complement
+complement
+NA
+core
 complement
 NA
 core
@@ -62365,9 +62365,9 @@ core
 complement
 adjunct
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -62444,23 +62444,23 @@ NA
 core
 complement
 core
+complement
+NA
+core
+core
+adjunct
+complement
+NA
+core
+complement
+NA
+core
+core
+complement
 adjunct
 NA
 core
 core
-adjunct
-complement
-NA
-core
-complement
-NA
-core
-core
-complement
-adjunct
-NA
-core
-core
 complement
 NA
 core
@@ -62476,7 +62476,7 @@ NA
 core
 complement
 core
-adjunct
+complement
 NA
 core
 complement
@@ -62657,9 +62657,9 @@ adjunct
 core
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 669744	NA
 core
 complement
@@ -62679,14 +62679,14 @@ complement
 NA
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -62714,9 +62714,9 @@ core
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -63076,16 +63076,16 @@ complement
 670199	NA
 core
 complement
-adjunct
+core
 core
 adjunct
 complement
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -63301,9 +63301,9 @@ complement
 adjunct
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 adjunct
@@ -63338,18 +63338,18 @@ adjunct
 adjunct
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 complement
 NA
 core
 core
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 NA
@@ -63850,7 +63850,7 @@ core
 complement
 671035	complement
 core
-adjunct
+complement
 NA
 complement
 671042	core
@@ -64019,9 +64019,9 @@ core
 complement
 complement
 NA
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 core
@@ -64133,9 +64133,9 @@ core
 complement
 NA
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -64172,34 +64172,34 @@ core
 core
 complement
 671375	core
-adjunct
-complement
-complement
-NA
-core
-complement
-complement
-NA
-core
 NA
 complement
-complement
-core
-NA
-core
-complement
-NA
-core
-core
-complement
-NA
-core
-NA
-core
-core
 adjunct
 NA
+core
 complement
+complement
+NA
+core
+NA
+complement
+complement
+core
+NA
+core
+complement
+NA
+core
+core
+complement
+NA
+core
+NA
+core
+core
+complement
+NA
+adjunct
 core
 NA
 core
@@ -64296,15 +64296,15 @@ core
 core
 complement
 complement
-adjunct
-core
-complement
-adjunct
-core
-complement
-complement
+NA
 core
 adjunct
+NA
+core
+adjunct
+complement
+core
+complement
 core
 adjunct
 core
@@ -64380,9 +64380,9 @@ core
 core
 complement
 core
+complement
+complement
 adjunct
-complement
-complement
 core
 core
 core
@@ -64712,9 +64712,9 @@ NA
 core
 adjunct
 NA
-
 core
-complement
+core
+
 adjunct
 671966	NA
 core
@@ -64759,9 +64759,9 @@ NA
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -64832,10 +64832,10 @@ complement
 672090	NA
 core
 adjunct
-adjunct
+NA
 core
-complement
-672098	complement
+adjunct
+672098	
 672101	NA
 core
 complement
@@ -64886,9 +64886,9 @@ NA
 complement
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 NA
@@ -64947,9 +64947,9 @@ NA
 core
 core
 complement
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 complement
@@ -65030,11 +65030,11 @@ core
 complement
 672319	adjunct
 core
-complement
-core
 adjunct
 core
-complement
+NA
+core
+adjunct
 NA
 NA
 core
@@ -65045,11 +65045,11 @@ NA
 core
 NA
 core
+core
+adjunct
 
 adjunct
 complement
-adjunct
-adjunct
 NA
 core
 NA
@@ -65062,12 +65062,12 @@ core
 complement
 NA
 core
-adjunct
+NA
 core
-complement
 adjunct
+NA
 core
-complement
+adjunct
 NA
 NA
 core
@@ -65366,9 +65366,9 @@ NA
 core
 NA
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -65422,12 +65422,12 @@ core
 672731	NA
 core
 complement
-adjunct
+NA
 core
-complement
 adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -65448,12 +65448,12 @@ complement
 core
 complement
 complement
-adjunct
+NA
 core
-complement
 adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -65477,9 +65477,9 @@ NA
 core
 complement
 672796	adjunct
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 core
 core
@@ -65514,9 +65514,9 @@ complement
 672835	adjunct
 core
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -65534,9 +65534,9 @@ complement
 core
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -65558,16 +65558,16 @@ complement
 672889	NA
 core
 complement
-adjunct
-core
-complement
-adjunct
-core
-complement
 NA
+core
+adjunct
 adjunct
 core
-complement
+adjunct
+NA
+NA
+core
+adjunct
 NA
 core
 core
@@ -65665,9 +65665,9 @@ NA
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 core
@@ -65772,9 +65772,9 @@ core
 NA
 core
 adjunct
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -66048,9 +66048,9 @@ adjunct
 NA
 complement
 NA
+core
 complement
 complement
-adjunct
 NA
 core
 core
@@ -66060,7 +66060,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 673551	core
 673555	NA
 core
@@ -66096,7 +66096,7 @@ complement
 complement
 core
 complement
-complement
+NA
 core
 complement
 complement
@@ -67076,7 +67076,7 @@ core
 core
 complement
 complement
-adjunct
+complement
 adjunct
 core
 complement
@@ -67186,7 +67186,7 @@ NA
 core
 complement
 675042	NA
-adjunct
+complement
 core
 complement
 675050	core
@@ -67404,58 +67404,58 @@ NA
 core
 complement
 675344	core
-adjunct
-core
-adjunct
-complement
-complement
-NA
-core
-complement
-core
-adjunct
-NA
-core
-NA
-core
-complement
-NA
-core
-complement
-core
-core
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-complement
 NA
 core
 adjunct
+complement
+complement
 NA
 core
+complement
 core
+complement
 NA
 core
 NA
 core
 complement
 NA
+core
 complement
+core
+core
 complement
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
+complement
+NA
 core
 adjunct
 NA
-complement
+core
+core
+NA
+core
+NA
 core
 complement
+NA
+complement
+core
+core
+complement
+NA
+complement
+core
+core
 adjunct
-adjunct
+complement
 NA
 NA
 NA
@@ -67625,9 +67625,9 @@ core
 complement
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 675608	core
 core
@@ -67657,9 +67657,9 @@ core
 complement
 NA
 core
-adjunct
+core
 NA
-complement
+adjunct
 core
 complement
 675656	core
@@ -67727,7 +67727,7 @@ core
 core
 complement
 complement
-complement
+NA
 core
 complement
 complement
@@ -67784,9 +67784,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 675814	NA
 core
@@ -68070,9 +68070,9 @@ core
 NA
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -68309,11 +68309,11 @@ core
 complement
 complement
 adjunct
-adjunct
+NA
 core
-complement
-complement
 adjunct
+complement
+complement
 NA
 core
 core
@@ -68377,37 +68377,37 @@ NA
 NA
 core
 complement
-adjunct
-core
-complement
-NA
-complement
 NA
 core
-core
-complement
-core
-complement
-NA
-core
-core
-complement
 adjunct
 NA
+complement
+NA
+core
 core
 complement
 core
+complement
 NA
 core
 core
-NA
-core
-complement
-complement
-NA
-complement
 complement
 adjunct
+NA
+core
+complement
+core
+NA
+core
+core
+NA
+core
+complement
+complement
+NA
+core
+complement
+complement
 NA
 core
 adjunct
@@ -68681,9 +68681,9 @@ complement
 core
 NA
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -68888,32 +68888,32 @@ adjunct
 NA
 core
 complement
-adjunct
-core
-complement
 NA
 core
-core
 adjunct
-NA
-core
-complement
-adjunct
-NA
-core
-core
-complement
 NA
 core
 core
 adjunct
 NA
+core
+complement
+adjunct
+NA
+core
+core
+complement
+NA
+core
+core
+adjunct
+NA
 NA
 core
 complement
-677028	adjunct
+677028	NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -69248,9 +69248,9 @@ core
 complement
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 677397	NA
@@ -69521,21 +69521,21 @@ NA
 core
 complement
 core
-adjunct
-core
-complement
-NA
-core
-NA
-NA
-adjunct
-core
-complement
-NA
-core
 NA
 core
 adjunct
+NA
+core
+NA
+NA
+NA
+core
+adjunct
+NA
+core
+NA
+core
+NA
 core
 adjunct
 NA
@@ -69749,9 +69749,9 @@ adjunct
 complement
 complement
 NA
-adjunct
 core
-NA
+core
+adjunct
 complement
 NA
 core
@@ -69795,7 +69795,7 @@ adjunct
 core
 core
 NA
-complement
+core
 core
 complement
 core
@@ -70191,9 +70191,9 @@ NA
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -70609,9 +70609,9 @@ complement
 core
 complement
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 core
@@ -70865,10 +70865,10 @@ complement
 complement
 NA
 core
+core
 complement
 complement
-adjunct
-adjunct
+complement
 NA
 core
 core
@@ -70918,7 +70918,7 @@ core
 complement
 core
 679308	core
-complement
+adjunct
 core
 complement
 NA
@@ -71263,7 +71263,7 @@ core
 NA
 core
 complement
-adjunct
+NA
 core
 adjunct
 complement
@@ -71279,13 +71279,13 @@ complement
 complement
 NA
 NA
-adjunct
-complement
-complement
-adjunct
-adjunct
 core
 complement
+adjunct
+adjunct
+NA
+core
+adjunct
 NA
 core
 core
@@ -71478,14 +71478,14 @@ core
 complement
 NA
 NA
-adjunct
-core
 complement
+core
+adjunct
 NA
 NA
 adjunct
 core
-complement
+adjunct
 NA
 core
 core
@@ -71515,7 +71515,7 @@ complement
 NA
 adjunct
 core
-complement
+adjunct
 adjunct
 core
 complement
@@ -71574,9 +71574,9 @@ core
 complement
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 complement
@@ -71689,9 +71689,9 @@ NA
 core
 680181	core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -71982,9 +71982,9 @@ core
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 NA
@@ -72132,9 +72132,9 @@ core
 core
 complement
 core
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 680677	NA
 core
@@ -72272,9 +72272,9 @@ NA
 adjunct
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -72312,14 +72312,14 @@ complement
 680860	NA
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
+core
 complement
 complement
-adjunct
 complement
 NA
 core
@@ -72376,9 +72376,9 @@ complement
 complement
 NA
 core
+core
 complement
 complement
-adjunct
 NA
 core
 complement
@@ -72509,9 +72509,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 core
 complement
@@ -72630,22 +72630,22 @@ core
 complement
 681210	core
 complement
+complement
+core
+adjunct
+NA
+core
+complement
+NA
+core
 adjunct
 core
 complement
 NA
 core
 complement
-adjunct
-core
-complement
-core
-complement
-NA
 core
 adjunct
-core
-complement
 complement
 core
 complement
@@ -72659,13 +72659,6 @@ NA
 core
 complement
 core
-NA
-core
-core
-NA
-core
-complement
-adjunct
 NA
 core
 core
@@ -72675,50 +72668,57 @@ complement
 adjunct
 NA
 core
-adjunct
-NA
-core
-complement
-adjunct
-core
-complement
-complement
-NA
 core
 NA
-core
-NA
-core
-complement
-NA
-core
-core
-adjunct
-adjunct
-core
-core
 core
 complement
 adjunct
 NA
 core
+adjunct
+NA
+core
+complement
+NA
+core
+adjunct
+complement
+NA
+core
+NA
 core
 NA
 core
 complement
 NA
 core
-complement
-NA
 core
-core
-complement
-NA
-complement
-NA
+adjunct
 adjunct
 core
+core
+core
 complement
+adjunct
+NA
+core
+core
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
+core
+complement
+NA
+complement
+NA
+core
+core
+adjunct
 complement
 core
 adjunct
@@ -73002,9 +73002,9 @@ NA
 complement
 NA
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 NA
@@ -73099,9 +73099,9 @@ complement
 core
 NA
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -73332,9 +73332,9 @@ complement
 681985	NA
 core
 complement
-adjunct
-core
 NA
+core
+adjunct
 NA
 core
 complement
@@ -73550,9 +73550,9 @@ adjunct
 adjunct
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -73586,9 +73586,9 @@ core
 NA
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -73679,12 +73679,12 @@ NA
 core
 core
 complement
+core
+core
 adjunct
+NA
 core
-complement
 adjunct
-core
-complement
 NA
 core
 core
@@ -73700,18 +73700,18 @@ core
 complement
 core
 NA
+complement
+core
 adjunct
+NA
 core
 complement
 NA
 core
-complement
 adjunct
+NA
 core
-complement
 adjunct
-core
-complement
 NA
 core
 complement
@@ -74006,9 +74006,9 @@ NA
 core
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 core
@@ -74557,15 +74557,15 @@ core
 complement
 NA
 complement
-adjunct
 core
-complement
+core
+adjunct
 683325	NA
 core
 complement
 adjunct
 core
-complement
+adjunct
 core
 NA
 core
@@ -74746,9 +74746,9 @@ core
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -74885,9 +74885,9 @@ core
 adjunct
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -75235,11 +75235,11 @@ complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 684134	NA
-complement
+adjunct
 NA
 core
 complement
@@ -75432,9 +75432,9 @@ core
 684340	NA
 NA
 core
-684349	adjunct
+684349	NA
 core
-complement
+adjunct
 684354	NA
 core
 complement
@@ -75446,9 +75446,9 @@ core
 core
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -75505,7 +75505,7 @@ NA
 core
 NA
 core
-adjunct
+core
 adjunct
 adjunct
 core
@@ -75976,10 +75976,10 @@ core
 adjunct
 core
 complement
+complement
+core
 adjunct
 adjunct
-complement
-complement
 NA
 core
 core
@@ -76071,16 +76071,16 @@ core
 complement
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
+complement
+core
 adjunct
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -76372,9 +76372,9 @@ NA
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -76660,9 +76660,9 @@ core
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -76724,9 +76724,9 @@ adjunct
 core
 complement
 NA
-adjunct
-core
 complement
+core
+adjunct
 core
 NA
 core
@@ -76770,9 +76770,9 @@ adjunct
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 NA
 core
@@ -76849,9 +76849,9 @@ core
 complement
 core
 complement
+core
 complement
 complement
-adjunct
 NA
 core
 complement
@@ -77111,9 +77111,9 @@ core
 complement
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 686220	core
 core
 core
@@ -77185,9 +77185,9 @@ NA
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 NA
@@ -77646,9 +77646,9 @@ complement
 complement
 NA
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 complement
@@ -77735,9 +77735,9 @@ core
 core
 complement
 core
-adjunct
-core
 complement
+core
+adjunct
 core
 adjunct
 core
@@ -77835,23 +77835,23 @@ NA
 core
 complement
 complement
+core
 complement
 complement
+NA
+core
+complement
+NA
+core
+NA
+core
+NA
+complement
+core
+complement
+core
+core
 adjunct
-NA
-core
-complement
-NA
-core
-NA
-core
-NA
-complement
-core
-complement
-adjunct
-core
-complement
 complement
 687028	NA
 core
@@ -77886,9 +77886,9 @@ core
 core
 complement
 complement
-adjunct
+complement
 core
-NA
+adjunct
 NA
 NA
 core
@@ -78294,7 +78294,7 @@ core
 complement
 adjunct
 core
-complement
+adjunct
 complement
 core
 adjunct
@@ -78344,9 +78344,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 687561	core
 complement
 NA
@@ -78380,48 +78380,48 @@ core
 complement
 complement
 core
-adjunct
-core
-complement
-complement
 NA
-core
-complement
-adjunct
-core
-complement
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-complement
-core
-complement
-NA
-complement
-core
-NA
-core
-complement
-NA
-complement
-core
-NA
-core
-complement
-NA
-complement
 core
 adjunct
+complement
+NA
 core
 complement
+NA
+core
+adjunct
+complement
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
+complement
+NA
+complement
+core
+complement
+NA
+complement
+core
+NA
+core
+complement
+NA
+complement
+core
+NA
+core
+complement
+NA
+complement
+core
+NA
+core
+adjunct
 complement
 core
 NA
@@ -78899,33 +78899,33 @@ core
 core
 complement
 complement
-adjunct
-adjunct
-complement
-NA
-core
-complement
-complement
-NA
-core
-complement
-core
-core
-NA
-core
-core
-NA
-NA
-core
-core
-complement
-NA
-core
-complement
 core
 adjunct
+adjunct
+NA
 core
 complement
+complement
+NA
+core
+complement
+core
+core
+NA
+core
+core
+NA
+NA
+core
+core
+complement
+NA
+core
+complement
+core
+complement
+core
+adjunct
 NA
 core
 complement
@@ -78991,9 +78991,9 @@ core
 NA
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 core
@@ -79244,9 +79244,9 @@ NA
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 core
@@ -79364,9 +79364,9 @@ NA
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -79409,9 +79409,9 @@ core
 adjunct
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 688762	NA
 core
@@ -79465,9 +79465,9 @@ adjunct
 NA
 adjunct
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -79590,9 +79590,9 @@ core
 complement
 adjunct
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -79707,9 +79707,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 689095	core
 complement
 NA
@@ -79719,9 +79719,9 @@ NA
 core
 NA
 core
-689107	adjunct
+689107	NA
 core
-complement
+adjunct
 core
 complement
 complement
@@ -79791,7 +79791,7 @@ adjunct
 NA
 core
 core
-adjunct
+core
 complement
 adjunct
 complement
@@ -80153,9 +80153,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 689601	core
 complement
 NA
@@ -80309,9 +80309,9 @@ NA
 core
 core
 complement
-689777	adjunct
+689777	NA
 core
-NA
+adjunct
 NA
 core
 core
@@ -80693,15 +80693,15 @@ NA
 core
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 690202	NA
 core
 adjunct
-adjunct
-NA
 complement
+NA
+adjunct
 core
 adjunct
 NA
@@ -80776,12 +80776,12 @@ core
 core
 core
 NA
-adjunct
 core
-complement
-adjunct
 core
-complement
+adjunct
+NA
+core
+adjunct
 complement
 core
 complement
@@ -80826,9 +80826,9 @@ core
 complement
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 NA
@@ -81133,9 +81133,9 @@ complement
 complement
 NA
 core
-adjunct
+complement
 core
-NA
+adjunct
 NA
 core
 core
@@ -81674,9 +81674,9 @@ complement
 core
 complement
 NA
-adjunct
-core
 complement
+core
+adjunct
 NA
 complement
 core
@@ -81780,9 +81780,9 @@ NA
 core
 complement
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 complement
@@ -81799,9 +81799,9 @@ complement
 core
 adjunct
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 NA
@@ -82370,7 +82370,7 @@ NA
 core
 core
 complement
-adjunct
+NA
 core
 adjunct
 complement
@@ -82681,9 +82681,9 @@ core
 complement
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 core
 NA
 core
@@ -82877,9 +82877,9 @@ NA
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 core
@@ -83034,9 +83034,9 @@ complement
 complement
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -83079,9 +83079,9 @@ core
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 complement
 core
@@ -83150,9 +83150,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 NA
 core
@@ -83176,9 +83176,9 @@ NA
 core
 core
 693020	NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 NA
@@ -83529,9 +83529,9 @@ core
 core
 complement
 NA
-
 core
-complement
+core
+
 NA
 core
 core
@@ -83767,9 +83767,9 @@ core
 complement
 NA
 core
-adjunct
-core
 complement
+core
+adjunct
 core
 NA
 core
@@ -83865,9 +83865,9 @@ complement
 NA
 core
 core
-
-core
 complement
+core
+
 NA
 core
 complement
@@ -84493,9 +84493,9 @@ core
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -84520,9 +84520,9 @@ complement
 core
 complement
 694553	NA
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 complement
@@ -84582,9 +84582,9 @@ core
 NA
 core
 core
-complement
-complement
 adjunct
+complement
+complement
 NA
 core
 core
@@ -84698,9 +84698,9 @@ NA
 core
 core
 adjunct
+NA
+core
 adjunct
-core
-complement
 complement
 NA
 core
@@ -84722,9 +84722,9 @@ core
 core
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 694782	NA
 core
 NA
@@ -84820,9 +84820,9 @@ core
 NA
 core
 NA
-adjunct
+NA
 core
-complement
+adjunct
 core
 adjunct
 core
@@ -84929,7 +84929,7 @@ NA
 core
 NA
 NA
-adjunct
+core
 complement
 adjunct
 core
@@ -85008,9 +85008,9 @@ complement
 complement
 adjunct
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 NA
 core
@@ -85094,9 +85094,9 @@ NA
 complement
 NA
 NA
+core
+core
 adjunct
-core
-complement
 complement
 NA
 complement
@@ -85127,9 +85127,9 @@ complement
 NA
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 NA
 core
@@ -85513,7 +85513,7 @@ complement
 695706	core
 NA
 complement
-695711	adjunct
+695711	NA
 core
 adjunct
 NA
@@ -86136,9 +86136,9 @@ NA
 core
 core
 NA
+core
+core
 adjunct
-core
-complement
 NA
 core
 complement
@@ -86160,9 +86160,9 @@ core
 complement
 adjunct
 adjunct
-adjunct
-core
 complement
+core
+adjunct
 core
 adjunct
 NA
@@ -86224,9 +86224,9 @@ complement
 NA
 core
 complement
-complement
+NA
 core
-adjunct
+complement
 complement
 NA
 core
@@ -86937,9 +86937,9 @@ core
 complement
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -87314,20 +87314,20 @@ core
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
-697780	adjunct
+697780	core
 core
-complement
+adjunct
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -87475,7 +87475,7 @@ core
 NA
 core
 core
-adjunct
+complement
 core
 adjunct
 complement
@@ -87683,9 +87683,9 @@ adjunct
 NA
 core
 698208	adjunct
+core
+complement
 adjunct
-complement
-complement
 NA
 NA
 core
@@ -87696,9 +87696,9 @@ complement
 complement
 adjunct
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 NA
 core
@@ -87708,11 +87708,11 @@ core
 core
 complement
 NA
+NA
+core
 adjunct
 core
 complement
-core
-complement
 complement
 NA
 core
@@ -87721,7 +87721,7 @@ complement
 NA
 NA
 core
-complement
+NA
 core
 complement
 complement
@@ -87784,7 +87784,7 @@ NA
 core
 adjunct
 core
-NA
+adjunct
 complement
 NA
 core
@@ -87834,9 +87834,9 @@ core
 complement
 complement
 698372	NA
-adjunct
 core
-complement
+core
+adjunct
 698378	complement
 NA
 core
@@ -88055,9 +88055,9 @@ NA
 core
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 NA
@@ -88101,9 +88101,9 @@ adjunct
 698660	NA
 core
 core
-698667	adjunct
+698667	core
 core
-complement
+adjunct
 adjunct
 NA
 core
@@ -88351,7 +88351,7 @@ complement
 core
 NA
 core
-core
+complement
 NA
 core
 complement
@@ -88395,9 +88395,9 @@ core
 core
 NA
 NA
-adjunct
 core
-NA
+core
+adjunct
 698992	NA
 core
 core
@@ -88842,9 +88842,9 @@ core
 complement
 NA
 core
+core
+complement
 
-complement
-complement
 699466	core
 core
 699471	NA
@@ -88918,15 +88918,15 @@ NA
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 699552	NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 NA
@@ -88954,9 +88954,9 @@ core
 complement
 core
 NA
-adjunct
-core
 complement
+core
+adjunct
 core
 NA
 core
@@ -89067,15 +89067,15 @@ core
 core
 complement
 complement
-adjunct
-core
-complement
-complement
-adjunct
+NA
 core
 adjunct
 complement
+NA
+core
+adjunct
 complement
+adjunct
 adjunct
 NA
 core
@@ -89326,9 +89326,9 @@ complement
 NA
 core
 core
+core
+complement
 adjunct
-complement
-complement
 700006	NA
 core
 core
@@ -89342,9 +89342,9 @@ core
 700030	NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 700044	NA
@@ -89360,9 +89360,9 @@ core
 700058	NA
 core
 core
-700065	adjunct
+700065	NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -89403,9 +89403,9 @@ core
 NA
 core
 NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 NA
@@ -89496,9 +89496,9 @@ adjunct
 NA
 core
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -90188,18 +90188,18 @@ complement
 NA
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -90454,9 +90454,9 @@ core
 complement
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -90606,9 +90606,9 @@ core
 complement
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -90626,9 +90626,9 @@ core
 adjunct
 701442	NA
 core
-adjunct
-core
 complement
+core
+adjunct
 complement
 701458	NA
 core
@@ -90706,9 +90706,9 @@ core
 core
 NA
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -90837,9 +90837,9 @@ core
 NA
 core
 complement
-701684	adjunct
+701684	NA
 core
-complement
+adjunct
 core
 NA
 NA
@@ -91030,9 +91030,9 @@ NA
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -91274,11 +91274,11 @@ NA
 core
 complement
 NA
-adjunct
 core
-complement
-complement
+core
 adjunct
+complement
+complement
 NA
 core
 core
@@ -91666,9 +91666,9 @@ complement
 NA
 core
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 NA
@@ -91711,9 +91711,9 @@ adjunct
 NA
 core
 core
+core
+core
 
-core
-complement
 NA
 complement
 core
@@ -91740,10 +91740,10 @@ NA
 core
 complement
 NA
+core
 core
 adjunct
 adjunct
-complement
 NA
 core
 adjunct
@@ -92011,7 +92011,7 @@ NA
 core
 complement
 702996	core
-complement
+adjunct
 NA
 core
 complement
@@ -92621,9 +92621,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-NA
+core
+adjunct
 NA
 core
 complement
@@ -92741,9 +92741,9 @@ core
 complement
 NA
 complement
-complement
 core
-adjunct
+core
+complement
 complement
 703899	NA
 core
@@ -92948,9 +92948,9 @@ core
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -93140,9 +93140,9 @@ complement
 NA
 core
 core
-704347	adjunct
+704347	NA
 core
-NA
+adjunct
 NA
 core
 core
@@ -93302,9 +93302,9 @@ NA
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -93448,9 +93448,9 @@ complement
 NA
 complement
 core
-704693	adjunct
+704693	NA
 core
-complement
+adjunct
 core
 NA
 NA
@@ -93620,9 +93620,9 @@ core
 complement
 core
 NA
-adjunct
+NA
 core
-complement
+adjunct
 704891	NA
 core
 704894	core
@@ -93763,9 +93763,9 @@ NA
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -93776,16 +93776,16 @@ adjunct
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 705079	NA
 complement
 NA
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 core
@@ -94231,9 +94231,9 @@ NA
 core
 core
 complement
-adjunct
-core
 complement
+core
+adjunct
 NA
 complement
 core
@@ -94249,9 +94249,9 @@ NA
 core
 complement
 core
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -94785,9 +94785,9 @@ NA
 complement
 core
 706241	NA
+core
+complement
 adjunct
-complement
-complement
 adjunct
 706250	core
 complement
@@ -94806,9 +94806,9 @@ adjunct
 706269	core
 core
 706280	NA
-adjunct
-core
 complement
+core
+adjunct
 core
 adjunct
 NA
@@ -95136,9 +95136,9 @@ complement
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -95416,9 +95416,9 @@ core
 core
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 core
 complement
@@ -96055,13 +96055,13 @@ adjunct
 NA
 core
 core
-adjunct
-core
-complement
+NA
 core
 adjunct
 core
-complement
+NA
+core
+adjunct
 NA
 core
 NA
@@ -96080,9 +96080,9 @@ NA
 core
 complement
 adjunct
-adjunct
-NA
 complement
+NA
+adjunct
 core
 complement
 NA
@@ -96118,9 +96118,9 @@ adjunct
 core
 707775	NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -96240,9 +96240,9 @@ NA
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -96291,9 +96291,9 @@ core
 core
 complement
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 NA
@@ -96309,9 +96309,9 @@ NA
 core
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -96339,9 +96339,9 @@ adjunct
 NA
 core
 NA
+core
 complement
 complement
-adjunct
 NA
 NA
 core
@@ -96413,7 +96413,7 @@ core
 adjunct
 core
 NA
-complement
+core
 core
 complement
 complement
@@ -96630,9 +96630,9 @@ complement
 NA
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -96720,9 +96720,9 @@ complement
 NA
 core
 core
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -96863,9 +96863,9 @@ NA
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 adjunct
 core
 core
@@ -97264,10 +97264,10 @@ complement
 complement
 NA
 core
+core
 complement
 complement
-adjunct
-adjunct
+complement
 NA
 core
 complement
@@ -97343,9 +97343,9 @@ adjunct
 709223	NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -97380,9 +97380,9 @@ complement
 core
 core
 complement
-709283	adjunct
+709283	NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -97395,9 +97395,9 @@ complement
 NA
 709309	NA
 complement
+core
 complement
 complement
-NA
 core
 complement
 709318	core
@@ -97520,9 +97520,9 @@ core
 complement
 adjunct
 complement
-
+NA
 core
-complement
+
 complement
 NA
 core
@@ -97592,9 +97592,9 @@ core
 complement
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 709575	NA
@@ -97660,9 +97660,9 @@ complement
 709676	core
 core
 NA
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 core
@@ -97712,9 +97712,9 @@ complement
 core
 complement
 709771	NA
-adjunct
+NA
 core
-complement
+adjunct
 709792	NA
 core
 complement
@@ -97815,9 +97815,9 @@ core
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 710017	core
 complement
@@ -97826,9 +97826,9 @@ complement
 710035	NA
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 core
 adjunct
@@ -98632,9 +98632,9 @@ NA
 core
 complement
 710948	NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -98754,10 +98754,10 @@ NA
 core
 adjunct
 core
+core
+NA
 adjunct
 NA
-complement
-NA
 core
 NA
 core
@@ -98771,25 +98771,25 @@ core
 complement
 NA
 core
-complement
-NA
-core
-adjunct
-core
-core
-complement
 complement
 NA
 core
 adjunct
+core
+core
+complement
+complement
+NA
+core
+adjunct
 NA
 core
 core
 complement
 core
+core
+complement
 adjunct
-complement
-complement
 adjunct
 adjunct
 core
@@ -98887,9 +98887,9 @@ core
 711228	NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 core
 complement
@@ -99181,9 +99181,9 @@ core
 complement
 NA
 core
+core
 complement
 complement
-adjunct
 complement
 NA
 complement
@@ -99269,9 +99269,9 @@ complement
 complement
 adjunct
 711664	NA
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 core
@@ -99377,9 +99377,9 @@ core
 complement
 complement
 complement
-
+NA
 core
-complement
+
 NA
 core
 complement
@@ -99596,9 +99596,9 @@ core
 complement
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 complement
 core
@@ -99768,7 +99768,7 @@ core
 core
 NA
 core
-complement
+core
 core
 complement
 complement
@@ -99815,7 +99815,7 @@ complement
 core
 core
 NA
-complement
+core
 complement
 complement
 NA
@@ -99940,7 +99940,7 @@ core
 core
 complement
 NA
-complement
+core
 core
 complement
 complement
@@ -100118,9 +100118,9 @@ NA
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 NA
 core
@@ -100158,9 +100158,9 @@ NA
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -100693,9 +100693,9 @@ core
 complement
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 713204	core
 complement
@@ -100848,9 +100848,9 @@ core
 core
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 core
 NA
@@ -101122,9 +101122,9 @@ complement
 713662	NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 NA
 core
@@ -101209,18 +101209,18 @@ core
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
 complement
 NA
 core
-core
+adjunct
 NA
-complement
+core
 NA
 core
 core
@@ -101899,33 +101899,33 @@ core
 complement
 NA
 core
+NA
+core
 adjunct
+NA
+core
+NA
+core
+NA
+core
+complement
+core
+NA
+core
+core
+core
+adjunct
+NA
+core
+adjunct
+adjunct
+complement
+adjunct
+NA
 core
 complement
 NA
-core
-NA
-core
-NA
-core
-complement
-core
-NA
-core
-core
-core
 adjunct
-adjunct
-core
-complement
-adjunct
-complement
-adjunct
-NA
-core
-adjunct
-NA
-complement
 core
 adjunct
 NA
@@ -102116,7 +102116,7 @@ core
 core
 complement
 core
-adjunct
+complement
 complement
 NA
 core
@@ -102710,7 +102710,7 @@ complement
 complement
 NA
 core
-complement
+core
 complement
 complement
 NA
@@ -102943,9 +102943,9 @@ complement
 core
 core
 NA
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 complement
@@ -103088,9 +103088,9 @@ complement
 core
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 NA
@@ -103445,117 +103445,117 @@ core
 complement
 core
 NA
-adjunct
-core
-adjunct
 complement
-NA
-core
-core
-complement
-NA
-core
-adjunct
-core
-NA
-core
-complement
-complement
-NA
-core
-NA
-core
-core
-complement
-adjunct
-core
-NA
-NA
-core
-core
-core
-NA
-core
-complement
-NA
-NA
-core
-complement
-core
-core
-complement
-NA
-core
-core
-NA
-core
-complement
-NA
-core
-core
-NA
-core
-NA
-core
-complement
-NA
-core
-core
-NA
-NA
-core
-core
-NA
-NA
-core
-core
-NA
 core
 adjunct
 complement
 NA
 core
-complement
-NA
-core
-core
-core
-NA
-core
 core
 complement
-NA
-core
-core
-core
-complement
-NA
-NA
-core
-core
-NA
-core
-complement
-complement
-NA
-core
-core
-complement
-NA
-NA
-core
-NA
-core
-core
-core
-NA
-complement
-core
 NA
 core
 adjunct
 core
+NA
+core
 complement
+complement
+NA
+core
+NA
+core
+core
+complement
+adjunct
+core
+NA
+NA
+core
+core
+core
+NA
+core
+complement
+NA
+NA
+core
+complement
+core
+core
+complement
+NA
+core
+core
+NA
+core
+complement
+NA
+core
+core
+NA
+core
+NA
+core
+complement
+NA
+core
+core
+NA
+NA
+core
+core
+NA
+NA
+core
+core
+NA
+core
+adjunct
+complement
+NA
+core
+complement
+NA
+core
+core
+core
+NA
+core
+core
+complement
+NA
+core
+core
+core
+complement
+NA
+NA
+core
+core
+NA
+core
+complement
+complement
+NA
+core
+core
+complement
+NA
+NA
+core
+NA
+core
+core
+core
+NA
+complement
+core
+NA
+core
+core
+core
+adjunct
 716451	NA
 core
 complement
@@ -103973,9 +103973,9 @@ core
 NA
 core
 complement
-adjunct
-core
 NA
+core
+adjunct
 NA
 core
 core
@@ -104107,9 +104107,9 @@ NA
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 NA
@@ -104511,7 +104511,7 @@ NA
 core
 complement
 core
-717523	complement
+717523	core
 NA
 core
 NA
@@ -105031,9 +105031,9 @@ core
 core
 complement
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 complement
@@ -105061,9 +105061,9 @@ NA
 core
 NA
 core
-adjunct
 core
-NA
+core
+adjunct
 718154	NA
 core
 complement
@@ -105634,9 +105634,9 @@ NA
 core
 complement
 core
-adjunct
-core
 complement
+core
+adjunct
 core
 complement
 718798	NA
@@ -105785,7 +105785,7 @@ core
 complement
 complement
 718960	core
-complement
+adjunct
 718964	core
 adjunct
 complement
@@ -105797,7 +105797,7 @@ core
 NA
 core
 718976	core
-complement
+adjunct
 NA
 core
 core
@@ -106496,9 +106496,9 @@ NA
 NA
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 719762	complement
 core
 core
@@ -106666,9 +106666,9 @@ complement
 NA
 core
 complement
-719948	adjunct
+719948	NA
 core
-complement
+adjunct
 adjunct
 complement
 core
@@ -107051,9 +107051,9 @@ core
 core
 720390	NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 NA
@@ -107302,9 +107302,9 @@ complement
 core
 NA
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 core
 720697	NA
@@ -107644,9 +107644,9 @@ NA
 core
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 complement
 core
@@ -107746,9 +107746,9 @@ NA
 core
 complement
 core
+complement
+complement
 
-complement
-complement
 adjunct
 adjunct
 core
@@ -107822,9 +107822,9 @@ complement
 adjunct
 721251	NA
 core
-
-complement
 adjunct
+complement
+
 NA
 core
 core
@@ -108448,9 +108448,9 @@ core
 complement
 NA
 core
+core
 complement
 complement
-adjunct
 complement
 adjunct
 NA
@@ -108673,7 +108673,7 @@ core
 core
 complement
 NA
-adjunct
+core
 core
 adjunct
 complement
@@ -108747,7 +108747,7 @@ core
 core
 adjunct
 722308	core
-complement
+adjunct
 core
 core
 adjunct
@@ -108995,13 +108995,13 @@ core
 NA
 core
 adjunct
-adjunct
-core
-complement
-complement
-complement
+NA
 core
 adjunct
+complement
+NA
+core
+complement
 complement
 NA
 core
@@ -109039,9 +109039,9 @@ NA
 core
 complement
 complement
-complement
+NA
 core
-adjunct
+complement
 complement
 NA
 core
@@ -109072,7 +109072,7 @@ core
 NA
 core
 core
-complement
+core
 NA
 core
 NA
@@ -109203,9 +109203,9 @@ core
 complement
 adjunct
 NA
-adjunct
+NA
 core
-complement
+adjunct
 core
 adjunct
 NA
@@ -109376,9 +109376,9 @@ complement
 722997	NA
 core
 core
-complement
+NA
 core
-adjunct
+complement
 core
 723006	NA
 core
@@ -109630,7 +109630,7 @@ NA
 core
 core
 core
-complement
+core
 NA
 core
 NA
@@ -109931,7 +109931,7 @@ core
 NA
 core
 core
-complement
+core
 NA
 core
 NA
@@ -110204,7 +110204,7 @@ NA
 core
 core
 core
-complement
+core
 NA
 core
 NA
@@ -110648,9 +110648,9 @@ adjunct
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -110875,15 +110875,15 @@ NA
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 complement
 core
@@ -111261,7 +111261,7 @@ core
 complement
 complement
 NA
-adjunct
+core
 core
 adjunct
 complement
@@ -111370,9 +111370,9 @@ complement
 NA
 NA
 core
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -111488,59 +111488,13 @@ NA
 core
 core
 NA
-adjunct
-complement
-complement
-NA
-core
-NA
-core
 core
 complement
-NA
-core
-complement
-core
-NA
-core
-complement
-NA
-core
-core
-NA
-core
-complement
-NA
-core
-NA
-core
-core
-complement
-core
-core
-complement
-complement
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-adjunct
 adjunct
 NA
 core
-core
 NA
 core
-complement
-core
-complement
-NA
-core
-NA
 core
 complement
 NA
@@ -111549,38 +111503,84 @@ complement
 core
 NA
 core
+complement
+NA
+core
+core
+NA
 core
 complement
 NA
 core
 NA
 core
-complement
-complement
-core
-NA
 core
 complement
 core
-NA
-core
-core
-NA
-core
 core
 complement
-core
+complement
 NA
-core
 core
 complement
 NA
 core
-core
+complement
 NA
+core
 adjunct
+adjunct
+NA
+core
+core
+NA
 core
 complement
+core
+complement
+NA
+core
+NA
+core
+complement
+NA
+core
+complement
+core
+NA
+core
+core
+complement
+NA
+core
+NA
+core
+complement
+complement
+core
+NA
+core
+complement
+core
+NA
+core
+core
+NA
+core
+core
+complement
+core
+NA
+core
+core
+complement
+NA
+core
+core
+NA
+core
+core
+adjunct
 core
 NA
 core
@@ -111995,23 +111995,23 @@ complement
 core
 complement
 725868	NA
+core
+core
 complement
 adjunct
-NA
-complement
 NA
 core
 core
 complement
 NA
+core
 complement
+complement
+NA
+core
+adjunct
 complement
 adjunct
-NA
-complement
-adjunct
-NA
-complement
 adjunct
 core
 core
@@ -112085,9 +112085,9 @@ complement
 NA
 core
 core
+NA
+core
 complement
-core
-core
 725966	NA
 NA
 core
@@ -112466,9 +112466,9 @@ NA
 core
 complement
 complement
-726392	
+726392	core
 complement
-complement
+
 NA
 core
 complement
@@ -112504,7 +112504,7 @@ NA
 core
 core
 complement
-complement
+NA
 core
 complement
 complement
@@ -112666,7 +112666,7 @@ NA
 core
 core
 complement
-complement
+NA
 core
 complement
 complement
@@ -112721,9 +112721,9 @@ complement
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 adjunct
@@ -112929,9 +112929,9 @@ core
 core
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 NA
 core
@@ -112952,9 +112952,9 @@ core
 core
 complement
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -112968,9 +112968,9 @@ core
 complement
 NA
 adjunct
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 NA
 complement
@@ -113098,11 +113098,11 @@ core
 adjunct
 core
 complement
-complement
+NA
 core
+complement
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -113299,9 +113299,9 @@ complement
 727289	core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -113458,9 +113458,9 @@ complement
 727477	core
 core
 727480	NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -113875,9 +113875,9 @@ core
 core
 core
 adjunct
-complement
+NA
 core
-adjunct
+complement
 NA
 core
 complement
@@ -114149,9 +114149,9 @@ NA
 core
 core
 NA
+core
 adjunct
 adjunct
-NA
 core
 NA
 adjunct
@@ -114232,7 +114232,7 @@ adjunct
 adjunct
 core
 NA
-adjunct
+core
 core
 adjunct
 complement
@@ -114281,9 +114281,9 @@ complement
 NA
 adjunct
 NA
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -114455,7 +114455,7 @@ adjunct
 NA
 complement
 core
-adjunct
+complement
 728700	core
 complement
 core
@@ -114503,9 +114503,9 @@ NA
 core
 core
 NA
+core
+complement
 
-complement
-complement
 NA
 core
 complement
@@ -115165,9 +115165,9 @@ core
 core
 complement
 core
-complement
+NA
 core
-adjunct
+complement
 core
 complement
 core
@@ -115442,12 +115442,12 @@ core
 core
 core
 complement
-729856	adjunct
+729856	NA
 core
-complement
 adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 NA
@@ -115591,9 +115591,9 @@ adjunct
 core
 NA
 complement
+core
 complement
 complement
-adjunct
 730019	NA
 core
 core
@@ -115603,9 +115603,9 @@ complement
 core
 complement
 adjunct
-730034	complement
+730034	NA
 core
-adjunct
+complement
 NA
 core
 adjunct
@@ -115618,9 +115618,9 @@ core
 adjunct
 core
 complement
+core
 complement
 complement
-adjunct
 core
 complement
 core
@@ -115889,9 +115889,9 @@ core
 core
 complement
 730352	NA
-complement
 core
-adjunct
+core
+complement
 core
 complement
 core
@@ -116118,9 +116118,9 @@ adjunct
 NA
 core
 adjunct
-
+NA
 core
-complement
+
 NA
 core
 NA
@@ -116434,7 +116434,7 @@ core
 NA
 core
 730965	core
-adjunct
+complement
 core
 NA
 core
@@ -116720,9 +116720,9 @@ core
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 core
 NA
 core
@@ -117046,16 +117046,16 @@ core
 complement
 NA
 core
+NA
+core
 adjunct
-core
-NA
 NA
 core
 core
 NA
+core
+core
 adjunct
-core
-NA
 adjunct
 adjunct
 NA
@@ -117264,9 +117264,9 @@ core
 complement
 NA
 core
-complement
+NA
 core
-adjunct
+complement
 NA
 core
 complement
@@ -117822,9 +117822,9 @@ adjunct
 complement
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 complement
 NA
@@ -118043,9 +118043,9 @@ NA
 core
 core
 complement
+core
 complement
 complement
-adjunct
 NA
 core
 core
@@ -118275,9 +118275,9 @@ complement
 core
 core
 complement
-adjunct
-NA
 complement
+NA
+adjunct
 core
 complement
 NA
@@ -118502,7 +118502,7 @@ complement
 NA
 adjunct
 core
-complement
+adjunct
 NA
 core
 core
@@ -118779,7 +118779,7 @@ NA
 core
 complement
 733702	core
-733709	adjunct
+733709	complement
 733712	core
 core
 complement
@@ -118894,7 +118894,7 @@ core
 adjunct
 core
 core
-733845	adjunct
+733845	complement
 core
 NA
 core
@@ -119174,7 +119174,7 @@ adjunct
 734161	NA
 core
 734165	core
-adjunct
+NA
 core
 adjunct
 complement
@@ -119458,9 +119458,9 @@ complement
 core
 core
 adjunct
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 complement
@@ -119902,10 +119902,10 @@ core
 complement
 complement
 NA
+core
+core
 adjunct
 
-adjunct
-complement
 NA
 NA
 core
@@ -120004,9 +120004,9 @@ complement
 NA
 NA
 core
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -120200,9 +120200,9 @@ NA
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 core
 NA
 core
@@ -120371,12 +120371,12 @@ NA
 core
 complement
 complement
-735556	complement
+735556	NA
 core
-adjunct
 complement
+NA
 core
-adjunct
+complement
 735566	core
 adjunct
 complement
@@ -120427,12 +120427,12 @@ complement
 NA
 NA
 core
-complement
-complement
 adjunct
 complement
+complement
+NA
 core
-adjunct
+complement
 core
 NA
 complement
@@ -120566,15 +120566,15 @@ core
 complement
 NA
 core
+adjunct
+adjunct
 complement
 adjunct
 NA
-complement
-NA
+core
+core
 adjunct
 complement
-complement
-adjunct
 NA
 core
 735782	core
@@ -120585,9 +120585,9 @@ core
 core
 adjunct
 core
-complement
-core
 adjunct
+core
+complement
 core
 NA
 core
@@ -121294,10 +121294,10 @@ complement
 complement
 complement
 736610	core
-adjunct
+complement
 complement
 core
-adjunct
+complement
 complement
 NA
 NA
@@ -121364,7 +121364,7 @@ core
 adjunct
 core
 complement
-complement
+NA
 core
 complement
 adjunct
@@ -121432,9 +121432,9 @@ core
 NA
 NA
 core
-complement
+NA
 core
-adjunct
+complement
 complement
 NA
 complement
@@ -121500,9 +121500,9 @@ core
 core
 core
 adjunct
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 complement
@@ -121516,9 +121516,6 @@ core
 complement
 core
 NA
-core
-adjunct
-core
 core
 adjunct
 core
@@ -121526,34 +121523,37 @@ core
 adjunct
 core
 core
-NA
-core
-NA
-core
-complement
-NA
-complement
-core
-NA
-core
-complement
-complement
-NA
-complement
-core
-NA
-core
-complement
-complement
-NA
-core
-complement
-NA
-core
-core
-complement
-complement
 adjunct
+core
+core
+NA
+core
+NA
+core
+complement
+NA
+complement
+core
+NA
+core
+complement
+complement
+NA
+complement
+core
+NA
+core
+complement
+complement
+NA
+core
+complement
+NA
+core
+core
+core
+complement
+complement
 complement
 736930	core
 NA
@@ -121795,9 +121795,9 @@ core
 NA
 core
 core
-complement
+NA
 core
-adjunct
+complement
 complement
 737252	NA
 core
@@ -121824,15 +121824,15 @@ core
 NA
 NA
 core
-complement
+NA
 core
-adjunct
+complement
 complement
 737283	core
 core
-complement
+NA
 core
-adjunct
+complement
 complement
 737291	core
 complement
@@ -122254,9 +122254,9 @@ complement
 NA
 core
 NA
-complement
 core
-adjunct
+core
+complement
 core
 NA
 complement
@@ -122388,9 +122388,9 @@ core
 core
 NA
 NA
-adjunct
 core
-NA
+core
+adjunct
 core
 adjunct
 core
@@ -122521,9 +122521,9 @@ complement
 738147	NA
 core
 adjunct
-complement
+NA
 core
-adjunct
+complement
 738157	NA
 adjunct
 core
@@ -122623,9 +122623,9 @@ NA
 core
 NA
 core
-complement
+NA
 core
-adjunct
+complement
 complement
 complement
 core
@@ -122667,9 +122667,9 @@ complement
 NA
 738323	core
 NA
-complement
+NA
 core
-adjunct
+complement
 738329	NA
 NA
 core
@@ -122683,9 +122683,9 @@ complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 complement
 core
@@ -123271,9 +123271,9 @@ NA
 core
 complement
 adjunct
-complement
+NA
 core
-adjunct
+complement
 core
 NA
 core
@@ -123453,9 +123453,9 @@ core
 core
 739250	core
 complement
-complement
+NA
 core
-adjunct
+complement
 739259	core
 complement
 NA
@@ -123466,7 +123466,7 @@ complement
 core
 complement
 core
-adjunct
+complement
 739274	core
 adjunct
 core
@@ -123802,12 +123802,12 @@ core
 complement
 core
 complement
+core
+core
 complement
 core
-NA
+core
 
-core
-complement
 NA
 core
 NA
@@ -123852,9 +123852,9 @@ NA
 adjunct
 NA
 core
-complement
+NA
 core
-adjunct
+complement
 core
 NA
 core
@@ -123981,9 +123981,9 @@ core
 core
 core
 NA
-complement
-complement
 core
+complement
+complement
 core
 complement
 core
@@ -124406,9 +124406,9 @@ NA
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 complement
 740403	complement
 core
@@ -124496,13 +124496,13 @@ core
 NA
 adjunct
 core
+core
+core
+complement
+core
 complement
 core
 adjunct
-core
-adjunct
-core
-complement
 740518	core
 complement
 NA
@@ -124527,9 +124527,9 @@ complement
 core
 complement
 NA
-complement
-core
 adjunct
+core
+complement
 core
 complement
 adjunct
@@ -124537,7 +124537,7 @@ core
 core
 complement
 NA
-adjunct
+complement
 core
 complement
 NA
@@ -124667,9 +124667,9 @@ core
 core
 NA
 core
-adjunct
-core
 NA
+core
+adjunct
 complement
 complement
 core
@@ -125132,9 +125132,9 @@ complement
 core
 adjunct
 core
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -125305,9 +125305,9 @@ core
 NA
 core
 core
-
+NA
 core
-complement
+
 NA
 core
 complement
@@ -125405,9 +125405,9 @@ core
 complement
 adjunct
 741556	core
-adjunct
-core
 complement
+core
+adjunct
 core
 complement
 complement
@@ -125752,9 +125752,9 @@ complement
 core
 complement
 complement
+core
 adjunct
 adjunct
-complement
 core
 complement
 adjunct
@@ -125953,10 +125953,10 @@ core
 complement
 adjunct
 complement
-complement
+NA
 core
 complement
-742214	adjunct
+742214	complement
 742216	NA
 core
 complement
@@ -126308,7 +126308,7 @@ complement
 NA
 complement
 core
-adjunct
+complement
 NA
 core
 NA
@@ -126423,9 +126423,9 @@ complement
 NA
 adjunct
 complement
-complement
+NA
 core
-adjunct
+complement
 core
 NA
 adjunct
@@ -126511,9 +126511,9 @@ core
 complement
 adjunct
 NA
+core
 complement
-adjunct
-adjunct
+complement
 adjunct
 adjunct
 complement
@@ -126772,9 +126772,9 @@ core
 core
 adjunct
 complement
+core
 complement
 complement
-adjunct
 NA
 core
 743133	core
@@ -126924,9 +126924,9 @@ core
 adjunct
 NA
 NA
-adjunct
-core
 complement
+core
+adjunct
 core
 complement
 adjunct
@@ -127041,9 +127041,9 @@ core
 core
 NA
 core
-743447	adjunct
+743447	NA
 core
-complement
+adjunct
 core
 NA
 core
@@ -127633,9 +127633,9 @@ NA
 complement
 core
 744106	core
+core
+complement
 adjunct
-complement
-complement
 744112	NA
 core
 NA
@@ -127914,9 +127914,9 @@ core
 core
 744449	NA
 core
-744453	adjunct
+744453	NA
 core
-complement
+adjunct
 744457	NA
 core
 core
@@ -127960,18 +127960,18 @@ complement
 adjunct
 NA
 adjunct
-744513	adjunct
+744513	NA
 core
-complement
+adjunct
 complement
 NA
 core
 NA
 core
 adjunct
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -128013,9 +128013,9 @@ NA
 core
 NA
 core
+complement
+complement
 adjunct
-complement
-complement
 744578	NA
 NA
 core
@@ -128128,7 +128128,7 @@ adjunct
 core
 complement
 NA
-adjunct
+complement
 core
 complement
 NA
@@ -128398,9 +128398,9 @@ complement
 NA
 core
 complement
-adjunct
-core
 complement
+core
+adjunct
 NA
 NA
 core
@@ -128560,9 +128560,9 @@ complement
 adjunct
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 745194	core
 complement
@@ -128581,9 +128581,9 @@ complement
 NA
 NA
 core
+NA
+core
 adjunct
-core
-complement
 NA
 core
 core
@@ -128595,9 +128595,9 @@ complement
 NA
 core
 complement
+NA
+core
 adjunct
-core
-complement
 NA
 core
 complement
@@ -128609,25 +128609,25 @@ complement
 core
 complement
 NA
-adjunct
-core
-complement
-complement
 NA
-NA
-core
-complement
-NA
-core
-core
-complement
-NA
-core
-core
-complement
-core
 core
 adjunct
+complement
+NA
+NA
+core
+complement
+NA
+core
+core
+complement
+NA
+core
+core
+complement
+core
+core
+adjunct
 core
 core
 complement
@@ -128637,11 +128637,11 @@ core
 complement
 NA
 core
+core
+complement
 core
 complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -129077,9 +129077,9 @@ complement
 core
 adjunct
 complement
-complement
 core
-adjunct
+core
+complement
 complement
 NA
 core
@@ -129358,9 +129358,9 @@ core
 746100	NA
 core
 core
-746104	
+746104	NA
 core
-complement
+
 complement
 NA
 core
@@ -129739,10 +129739,10 @@ NA
 core
 core
 746579	NA
-NA
 adjunct
+core
 complement
-complement
+adjunct
 746585	core
 complement
 NA
@@ -129751,9 +129751,9 @@ NA
 core
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -129790,9 +129790,9 @@ core
 complement
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 core
 core
 complement
@@ -130526,9 +130526,9 @@ core
 core
 NA
 complement
+core
 complement
 complement
-adjunct
 NA
 core
 core
@@ -130824,9 +130824,9 @@ adjunct
 NA
 complement
 core
-adjunct
 core
-complement
+core
+adjunct
 core
 core
 core
@@ -131060,9 +131060,9 @@ NA
 core
 NA
 core
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -131156,9 +131156,9 @@ core
 core
 adjunct
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 748175	NA
@@ -131524,9 +131524,9 @@ core
 NA
 adjunct
 NA
-adjunct
 core
-complement
+core
+adjunct
 748584	NA
 core
 complement
@@ -131546,9 +131546,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 NA
 core
@@ -131743,7 +131743,7 @@ core
 complement
 adjunct
 core
-complement
+adjunct
 NA
 core
 core
@@ -131858,34 +131858,34 @@ NA
 core
 complement
 adjunct
-adjunct
-core
-complement
 NA
-core
-complement
-NA
-core
-core
-NA
-core
-complement
-NA
-core
-complement
-NA
-NA
-core
-core
-NA
-NA
-adjunct
 core
 adjunct
+NA
+core
+complement
+NA
+core
+core
+NA
+core
+complement
+NA
+core
+complement
+NA
+NA
+core
+core
+NA
+NA
+adjunct
 core
 adjunct
 core
-complement
+NA
+core
+adjunct
 748974	NA
 core
 complement
@@ -132427,9 +132427,9 @@ NA
 core
 749567	adjunct
 core
-adjunct
+core
 NA
-complement
+adjunct
 NA
 core
 NA
@@ -132550,9 +132550,9 @@ complement
 core
 complement
 NA
-complement
+core
 NA
-adjunct
+complement
 core
 complement
 NA
@@ -133204,7 +133204,7 @@ NA
 core
 complement
 adjunct
-adjunct
+complement
 750500	NA
 core
 adjunct
@@ -133478,9 +133478,9 @@ core
 complement
 core
 adjunct
-complement
+core
 NA
-adjunct
+complement
 core
 complement
 NA
@@ -133595,9 +133595,9 @@ core
 complement
 NA
 core
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 NA
 core
@@ -133724,7 +133724,7 @@ NA
 core
 complement
 751070	core
-complement
+adjunct
 adjunct
 NA
 NA
@@ -133864,9 +133864,9 @@ core
 NA
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 complement
 NA
 core
@@ -133875,9 +133875,9 @@ NA
 core
 complement
 adjunct
+NA
+core
 
-core
-complement
 NA
 core
 complement
@@ -134565,9 +134565,9 @@ core
 core
 adjunct
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -134676,9 +134676,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 752100	NA
 complement
 core
@@ -134832,9 +134832,9 @@ complement
 752288	adjunct
 core
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -134964,7 +134964,7 @@ complement
 core
 core
 core
-complement
+core
 adjunct
 core
 core
@@ -135169,9 +135169,9 @@ NA
 core
 752679	core
 complement
-adjunct
-core
 complement
+core
+adjunct
 complement
 core
 complement
@@ -135563,9 +135563,9 @@ NA
 core
 adjunct
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -135582,9 +135582,9 @@ core
 complement
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 NA
@@ -135755,9 +135755,9 @@ core
 NA
 core
 complement
-753353	adjunct
+753353	core
 complement
-complement
+adjunct
 NA
 NA
 core
@@ -135975,9 +135975,9 @@ NA
 core
 adjunct
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -136681,55 +136681,55 @@ complement
 NA
 core
 complement
-adjunct
-core
-complement
-NA
-core
-complement
-NA
-NA
-core
-core
-NA
-core
-core
-complement
-core
-complement
-adjunct
 NA
 core
 adjunct
-core
-core
-core
-adjunct
-core
-core
-complement
-complement
 NA
 core
 complement
-complement
+NA
 NA
 core
+core
+NA
+core
+core
 complement
-adjunct
-adjunct
 core
 complement
 adjunct
 NA
 core
+adjunct
+core
+core
+core
+adjunct
+core
+core
+complement
+complement
+NA
+core
+complement
+complement
+NA
+core
+complement
+adjunct
+adjunct
+core
+complement
+adjunct
+NA
+core
 core
 complement
 NA
 core
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 adjunct
@@ -137142,9 +137142,9 @@ core
 complement
 NA
 NA
+core
 complement
 complement
-adjunct
 NA
 core
 core
@@ -137279,9 +137279,9 @@ core
 complement
 complement
 NA
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 core
@@ -137466,9 +137466,9 @@ core
 755191	core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -137516,7 +137516,7 @@ core
 NA
 complement
 complement
-adjunct
+complement
 NA
 core
 core
@@ -137575,9 +137575,9 @@ core
 complement
 adjunct
 core
-755312	adjunct
+755312	NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -137905,17 +137905,17 @@ complement
 core
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -138572,9 +138572,9 @@ core
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -138975,9 +138975,9 @@ core
 core
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 complement
@@ -139164,7 +139164,7 @@ complement
 NA
 adjunct
 core
-complement
+adjunct
 complement
 core
 NA
@@ -139386,7 +139386,7 @@ core
 adjunct
 complement
 complement
-adjunct
+complement
 NA
 core
 complement
@@ -139424,7 +139424,7 @@ core
 complement
 NA
 core
-complement
+core
 NA
 complement
 core
@@ -139556,9 +139556,9 @@ complement
 757482	NA
 adjunct
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 NA
 core
@@ -140441,9 +140441,9 @@ core
 complement
 complement
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 complement
@@ -140596,9 +140596,9 @@ core
 core
 adjunct
 758696	core
+core
+NA
 adjunct
-NA
-NA
 core
 NA
 complement
@@ -140720,9 +140720,9 @@ core
 758828	core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 core
 complement
 complement
@@ -140854,9 +140854,9 @@ core
 complement
 adjunct
 758991	NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 complement
 core
@@ -141842,9 +141842,9 @@ complement
 760133	core
 core
 760138	NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -142033,9 +142033,9 @@ adjunct
 NA
 core
 core
-complement
 core
-adjunct
+core
+complement
 NA
 core
 core
@@ -142614,7 +142614,7 @@ NA
 core
 complement
 complement
-NA
+complement
 761170	core
 complement
 complement
@@ -142622,7 +142622,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 NA
 core
 complement
@@ -142755,9 +142755,9 @@ core
 complement
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -142866,45 +142866,45 @@ core
 NA
 complement
 NA
-adjunct
+core
 NA
-complement
+adjunct
 761468	NA
 core
 NA
 NA
 core
 core
-761477	adjunct
+761477	NA
 core
-complement
-complement
 adjunct
-adjunct
-core
 complement
-NA
-NA
-core
-NA
-NA
-adjunct
-core
-complement
-NA
 adjunct
 NA
 core
+adjunct
+NA
+NA
 core
-complement
+NA
+NA
+NA
+core
+adjunct
+NA
 adjunct
 NA
 core
 core
 complement
 adjunct
+NA
+core
 core
 complement
+NA
+core
+adjunct
 complement
 NA
 core
@@ -142972,7 +142972,7 @@ core
 core
 adjunct
 761583	core
-complement
+adjunct
 complement
 adjunct
 core
@@ -143119,9 +143119,9 @@ NA
 core
 761740	NA
 complement
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -143331,9 +143331,9 @@ core
 762015	core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -143366,9 +143366,9 @@ core
 762058	complement
 core
 NA
-adjunct
-core
 complement
+core
+adjunct
 adjunct
 core
 complement
@@ -143478,7 +143478,7 @@ NA
 core
 complement
 core
-adjunct
+complement
 NA
 core
 complement
@@ -143654,9 +143654,9 @@ core
 complement
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -143813,9 +143813,9 @@ core
 762607	core
 762611	core
 complement
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 NA
@@ -144103,9 +144103,9 @@ core
 NA
 complement
 NA
-adjunct
+core
 NA
-complement
+adjunct
 763014	core
 NA
 core
@@ -144365,14 +144365,14 @@ core
 763310	core
 763313	NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 core
 NA
 core
-763324	adjunct
+763324	complement
 core
 adjunct
 NA
@@ -145170,44 +145170,44 @@ core
 NA
 core
 complement
-adjunct
-core
-complement
-NA
-core
-complement
-complement
-core
-complement
-complement
-NA
-complement
-core
-adjunct
-complement
-core
-core
-NA
-core
-core
-NA
-core
-complement
-NA
 core
 core
 adjunct
+NA
 core
 complement
+complement
+core
+complement
+complement
+NA
+complement
+core
+adjunct
+complement
+core
+core
+NA
+core
+core
+NA
+core
+complement
+NA
+core
+core
+NA
+core
+adjunct
 764270	NA
 core
 core
 NA
 core
 NA
-adjunct
+core
 NA
-complement
+adjunct
 764280	NA
 core
 core
@@ -145275,9 +145275,9 @@ core
 NA
 core
 complement
-adjunct
 core
-complement
+core
+adjunct
 complement
 764370	NA
 core
@@ -145683,9 +145683,9 @@ NA
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 NA
@@ -145746,9 +145746,9 @@ complement
 764902	NA
 NA
 complement
-adjunct
+core
 NA
-complement
+adjunct
 core
 764911	NA
 core
@@ -146117,9 +146117,9 @@ NA
 NA
 adjunct
 core
-adjunct
-core
 complement
+core
+adjunct
 core
 complement
 NA
@@ -146328,64 +146328,64 @@ complement
 core
 complement
 NA
-adjunct
-NA
-complement
-NA
-core
-complement
-NA
-core
-NA
-complement
-core
-NA
-complement
-core
-complement
-core
-complement
-core
-complement
-NA
-core
-NA
-complement
-core
-complement
-complement
-core
-adjunct
-core
-NA
-complement
-core
-NA
-core
-NA
-core
-complement
-core
-NA
-core
-core
-core
-core
-NA
-NA
-core
-complement
-NA
-core
-complement
-NA
-core
-NA
 core
 NA
 adjunct
+NA
 core
 complement
+NA
+core
+NA
+complement
+core
+NA
+complement
+core
+complement
+core
+complement
+core
+complement
+NA
+core
+NA
+complement
+core
+complement
+complement
+core
+adjunct
+core
+NA
+complement
+core
+NA
+core
+NA
+core
+complement
+core
+NA
+core
+core
+core
+core
+NA
+NA
+core
+complement
+NA
+core
+complement
+NA
+core
+NA
+core
+NA
+NA
+core
+adjunct
 complement
 NA
 core
@@ -146522,9 +146522,9 @@ core
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -146832,22 +146832,22 @@ core
 766080	core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
 adjunct
 NA
+core
+complement
 adjunct
-complement
-complement
 core
 766097	adjunct
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 complement
@@ -146891,9 +146891,9 @@ core
 complement
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 core
 adjunct
 766157	NA
@@ -146960,9 +146960,9 @@ complement
 complement
 adjunct
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 adjunct
 NA
@@ -146971,9 +146971,9 @@ adjunct
 NA
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 adjunct
 core
 complement
@@ -146985,9 +146985,9 @@ complement
 766248	NA
 complement
 core
-766253	complement
+766253	NA
 core
-adjunct
+complement
 NA
 complement
 core
@@ -147070,9 +147070,9 @@ adjunct
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 adjunct
 NA
@@ -147081,9 +147081,9 @@ complement
 adjunct
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 adjunct
 core
 complement
@@ -147161,9 +147161,9 @@ NA
 core
 NA
 complement
-complement
-core
 NA
+core
+complement
 complement
 NA
 core
@@ -147353,10 +147353,10 @@ core
 NA
 core
 766664	core
-
-
-NA
 adjunct
+adjunct
+
+
 766671	NA
 core
 core
@@ -147488,9 +147488,9 @@ NA
 core
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 NA
@@ -147621,9 +147621,9 @@ core
 complement
 core
 core
-
+core
 adjunct
-complement
+
 NA
 core
 core
@@ -147680,7 +147680,7 @@ core
 adjunct
 core
 767026	NA
-adjunct
+core
 core
 adjunct
 NA
@@ -147727,7 +147727,7 @@ core
 complement
 complement
 NA
-adjunct
+core
 core
 adjunct
 core
@@ -147782,9 +147782,9 @@ complement
 core
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 NA
@@ -147813,9 +147813,9 @@ adjunct
 core
 complement
 complement
+core
+complement
 adjunct
-complement
-complement
 core
 adjunct
 adjunct
@@ -147836,18 +147836,18 @@ NA
 complement
 core
 adjunct
-adjunct
-core
-complement
 complement
 core
 adjunct
 complement
 core
 adjunct
-adjunct
-core
 complement
+core
+adjunct
+NA
+core
+adjunct
 core
 complement
 NA
@@ -148239,9 +148239,9 @@ core
 complement
 767677	NA
 core
-adjunct
-core
 complement
+core
+adjunct
 complement
 adjunct
 767686	NA
@@ -148267,9 +148267,9 @@ core
 complement
 adjunct
 767716	complement
+core
 complement
 complement
-NA
 NA
 core
 complement
@@ -148344,9 +148344,9 @@ adjunct
 NA
 core
 core
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 NA
@@ -148539,9 +148539,9 @@ NA
 core
 core
 NA
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -148814,7 +148814,7 @@ core
 core
 adjunct
 complement
-complement
+adjunct
 NA
 core
 core
@@ -148989,18 +148989,18 @@ complement
 complement
 adjunct
 NA
+core
 adjunct
 adjunct
-complement
 NA
 core
 complement
 768538	NA
 core
 core
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -149019,9 +149019,9 @@ complement
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 NA
@@ -149205,9 +149205,9 @@ adjunct
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -149281,7 +149281,7 @@ core
 complement
 core
 768850	core
-complement
+adjunct
 complement
 NA
 core
@@ -149473,9 +149473,9 @@ NA
 core
 complement
 adjunct
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 complement
 NA
@@ -149593,7 +149593,7 @@ core
 core
 core
 769218	core
-complement
+
 NA
 core
 complement
@@ -149915,9 +149915,9 @@ core
 core
 NA
 NA
-complement
+core
 NA
-adjunct
+complement
 NA
 core
 core
@@ -149990,9 +149990,9 @@ complement
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 769680	adjunct
 core
 complement
@@ -150143,9 +150143,9 @@ core
 complement
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -150189,9 +150189,9 @@ core
 complement
 core
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 769904	NA
@@ -150375,10 +150375,10 @@ adjunct
 NA
 core
 complement
+NA
+core
 adjunct
 adjunct
-complement
-complement
 core
 NA
 core
@@ -151701,13 +151701,13 @@ NA
 core
 NA
 core
-771618	adjunct
+771618	NA
 core
-complement
+adjunct
 NA
+core
 adjunct
 adjunct
-complement
 NA
 core
 complement
@@ -151740,14 +151740,14 @@ core
 core
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 771664	NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 core
 771672	NA
@@ -151842,9 +151842,9 @@ core
 771790	complement
 core
 NA
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 core
@@ -151883,9 +151883,9 @@ core
 adjunct
 NA
 core
-771840	complement
+771840	NA
 core
-adjunct
+complement
 complement
 NA
 core
@@ -152185,9 +152185,9 @@ core
 NA
 complement
 core
-adjunct
-core
 complement
+core
+adjunct
 core
 complement
 adjunct
@@ -152451,9 +152451,9 @@ core
 core
 complement
 complement
-complement
-core
 NA
+core
+complement
 NA
 core
 complement
@@ -152582,9 +152582,9 @@ core
 complement
 core
 772630	core
-
 complement
-adjunct
+complement
+
 NA
 core
 complement
@@ -153198,9 +153198,9 @@ core
 core
 complement
 773435	NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 773447	NA
 core
@@ -153383,7 +153383,7 @@ core
 core
 core
 773973	core
-complement
+adjunct
 NA
 adjunct
 core
@@ -153395,13 +153395,13 @@ core
 complement
 774013	core
 core
-774020	adjunct
-core
-complement
+774020	NA
 core
 adjunct
 core
-complement
+NA
+core
+adjunct
 774031	NA
 core
 adjunct
@@ -153801,7 +153801,7 @@ NA
 core
 complement
 NA
-adjunct
+core
 complement
 adjunct
 NA
@@ -154029,9 +154029,9 @@ core
 774901	NA
 complement
 NA
+core
 complement
 complement
-adjunct
 774910	core
 core
 NA
@@ -154195,9 +154195,9 @@ adjunct
 complement
 NA
 adjunct
+core
+complement
 adjunct
-complement
-complement
 complement
 adjunct
 775144	NA
@@ -154343,16 +154343,16 @@ core
 NA
 complement
 core
-adjunct
-adjunct
 complement
+adjunct
+adjunct
 adjunct
 core
 complement
 NA
-adjunct
-core
 complement
+core
+adjunct
 adjunct
 complement
 775328	core
@@ -154474,21 +154474,21 @@ complement
 core
 complement
 adjunct
+NA
+core
 complement
 adjunct
-adjunct
+NA
+core
 complement
 NA
 core
 complement
-complement
 adjunct
-adjunct
-complement
 NA
 core
 complement
-complement
+NA
 core
 complement
 NA
@@ -154849,9 +154849,9 @@ NA
 core
 complement
 NA
-adjunct
+NA
 core
-complement
+adjunct
 NA
 complement
 core
@@ -154902,9 +154902,9 @@ complement
 core
 core
 NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -154925,9 +154925,9 @@ NA
 core
 adjunct
 core
-complement
+NA
 core
-adjunct
+complement
 NA
 core
 complement
@@ -155064,7 +155064,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 776419	NA
 core
 adjunct
@@ -155567,12 +155567,12 @@ complement
 adjunct
 core
 complement
+complement
+core
 adjunct
+777004	complement
 core
-complement
-777004	adjunct
-core
-complement
+adjunct
 777011	core
 core
 adjunct
@@ -156075,9 +156075,9 @@ core
 NA
 core
 complement
-777612	adjunct
+777612	complement
 core
-complement
+adjunct
 core
 complement
 core
@@ -156192,9 +156192,9 @@ core
 777741	core
 complement
 core
-adjunct
+NA
 core
-complement
+adjunct
 777748	adjunct
 adjunct
 NA
@@ -156285,9 +156285,9 @@ core
 core
 complement
 777855	NA
-complement
+NA
 core
-adjunct
+complement
 complement
 core
 adjunct
@@ -156362,7 +156362,7 @@ NA
 NA
 core
 complement
-777950	adjunct
+777950	complement
 core
 complement
 core
@@ -156450,7 +156450,7 @@ NA
 adjunct
 core
 core
-adjunct
+NA
 core
 adjunct
 complement
@@ -156526,9 +156526,9 @@ core
 core
 core
 core
-complement
 core
-adjunct
+core
+complement
 778159	NA
 core
 adjunct
@@ -156580,9 +156580,9 @@ complement
 NA
 core
 complement
+core
+complement
 
-complement
-complement
 core
 complement
 NA
@@ -157082,9 +157082,9 @@ core
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 NA
@@ -157316,13 +157316,13 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -157366,9 +157366,9 @@ NA
 core
 core
 adjunct
-complement
+core
 NA
-adjunct
+complement
 core
 complement
 NA
@@ -157612,9 +157612,9 @@ core
 complement
 complement
 NA
+core
 complement
 complement
-adjunct
 adjunct
 core
 complement
@@ -157667,7 +157667,7 @@ core
 NA
 core
 complement
-adjunct
+NA
 core
 adjunct
 core
@@ -157690,9 +157690,9 @@ core
 complement
 complement
 NA
-adjunct
 core
-NA
+core
+adjunct
 NA
 core
 NA
@@ -157849,9 +157849,9 @@ core
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 779708	NA
 complement
 core
@@ -157885,7 +157885,7 @@ core
 core
 complement
 complement
-adjunct
+complement
 779752	NA
 NA
 core
@@ -157963,13 +157963,13 @@ NA
 NA
 core
 complement
-779841	adjunct
+779841	NA
 core
-complement
-779845	NA
 adjunct
-core
+779845	NA
 complement
+core
+adjunct
 core
 core
 complement
@@ -158231,9 +158231,9 @@ adjunct
 780163	NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -158780,9 +158780,9 @@ NA
 core
 NA
 core
+complement
+complement
 adjunct
-complement
-complement
 780830	NA
 core
 complement
@@ -158965,11 +158965,11 @@ complement
 NA
 core
 adjunct
-complement
+NA
 NA
 complement
 core
-core
+complement
 complement
 core
 781042	NA
@@ -159079,9 +159079,9 @@ core
 complement
 adjunct
 781166	NA
-adjunct
 core
-complement
+core
+adjunct
 core
 core
 complement
@@ -159295,9 +159295,9 @@ complement
 NA
 core
 complement
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 core
@@ -159583,9 +159583,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 NA
 core
@@ -159631,7 +159631,7 @@ NA
 core
 complement
 complement
-adjunct
+NA
 core
 adjunct
 adjunct
@@ -159805,9 +159805,9 @@ core
 complement
 core
 NA
-adjunct
 core
-NA
+core
+adjunct
 core
 complement
 adjunct
@@ -159903,9 +159903,9 @@ core
 complement
 complement
 NA
-adjunct
-core
 NA
+core
+adjunct
 782134	adjunct
 core
 complement
@@ -159994,9 +159994,9 @@ core
 NA
 core
 complement
-complement
+NA
 core
-adjunct
+complement
 782236	core
 adjunct
 core
@@ -160335,9 +160335,9 @@ adjunct
 core
 core
 NA
-complement
 core
-adjunct
+core
+complement
 NA
 core
 NA
@@ -160475,9 +160475,9 @@ core
 782800	NA
 complement
 core
-782804	adjunct
+782804	complement
 core
-complement
+adjunct
 NA
 complement
 core
@@ -160534,7 +160534,7 @@ complement
 782870	NA
 adjunct
 core
-complement
+adjunct
 core
 complement
 core
@@ -161010,9 +161010,9 @@ core
 core
 complement
 783457	NA
-complement
 core
-adjunct
+core
+complement
 783462	NA
 core
 core
@@ -161225,9 +161225,9 @@ complement
 core
 783735	NA
 core
-complement
-NA
 core
+NA
+complement
 core
 adjunct
 core
@@ -161320,8 +161320,8 @@ core
 NA
 core
 783846	NA
-adjunct
-783849	complement
+core
+783849	adjunct
 core
 783853	core
 core
@@ -161484,9 +161484,9 @@ core
 complement
 784042	core
 complement
-complement
-core
 adjunct
+core
+complement
 complement
 core
 complement
@@ -161610,7 +161610,7 @@ NA
 core
 complement
 core
-784206	adjunct
+784206	complement
 core
 core
 NA
@@ -161875,9 +161875,9 @@ core
 784527	NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 complement
 core
@@ -162220,9 +162220,9 @@ core
 complement
 core
 784942	core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -162241,7 +162241,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 core
 complement
 complement
@@ -162455,9 +162455,9 @@ complement
 core
 NA
 core
+core
 complement
 complement
-adjunct
 NA
 core
 adjunct
@@ -162502,7 +162502,7 @@ adjunct
 core
 complement
 complement
-adjunct
+complement
 core
 core
 complement
@@ -162529,7 +162529,7 @@ core
 core
 complement
 785333	NA
-adjunct
+core
 NA
 core
 adjunct
@@ -162626,13 +162626,13 @@ NA
 core
 NA
 core
-adjunct
 core
-complement
-adjunct
-adjunct
 core
-complement
+adjunct
+adjunct
+NA
+core
+adjunct
 adjunct
 785455	core
 core
@@ -163288,9 +163288,9 @@ NA
 core
 complement
 NA
+core
 complement
 complement
-NA
 core
 core
 complement
@@ -163819,9 +163819,9 @@ core
 NA
 core
 complement
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 786900	core
@@ -163945,9 +163945,9 @@ NA
 core
 complement
 787051	complement
-787053	complement
+787053	NA
 core
-adjunct
+complement
 NA
 core
 complement
@@ -164031,9 +164031,9 @@ core
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 787161	complement
 core
 core
@@ -164352,9 +164352,9 @@ adjunct
 NA
 core
 core
+complement
+complement
 adjunct
-complement
-complement
 NA
 complement
 core
@@ -164397,9 +164397,9 @@ complement
 core
 adjunct
 adjunct
+core
 complement
 complement
-adjunct
 787567	NA
 core
 adjunct
@@ -165411,9 +165411,9 @@ complement
 core
 complement
 NA
-adjunct
-core
 NA
+core
+adjunct
 adjunct
 788770	core
 core
@@ -165957,7 +165957,7 @@ core
 789411	core
 789413	adjunct
 core
-complement
+adjunct
 NA
 core
 complement
@@ -166414,7 +166414,7 @@ core
 789961	core
 core
 complement
-789966	NA
+789966	complement
 core
 core
 core
@@ -166517,9 +166517,9 @@ core
 complement
 core
 core
+complement
+core
 adjunct
-core
-complement
 NA
 core
 complement
@@ -166530,9 +166530,9 @@ complement
 NA
 core
 complement
+NA
+core
 adjunct
-core
-complement
 complement
 NA
 complement
@@ -167052,9 +167052,9 @@ core
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 adjunct
 core
 790710	core
@@ -167079,7 +167079,7 @@ core
 complement
 core
 core
-790740	complement
+790740	adjunct
 core
 complement
 complement
@@ -167527,9 +167527,9 @@ core
 core
 complement
 791285	NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 NA
@@ -167915,7 +167915,7 @@ core
 complement
 NA
 core
-adjunct
+NA
 core
 adjunct
 791772	core
@@ -168226,7 +168226,7 @@ core
 792139	NA
 core
 complement
-792144	core
+792144	
 792146	NA
 core
 core
@@ -169754,7 +169754,7 @@ NA
 core
 complement
 core
-NA
+complement
 complement
 NA
 core
@@ -169772,12 +169772,12 @@ NA
 NA
 core
 adjunct
-adjunct
-complement
-complement
-793984	complement
+core
 complement
 adjunct
+793984	core
+complement
+complement
 793990	adjunct
 core
 core
@@ -169785,7 +169785,7 @@ NA
 core
 core
 adjunct
-core
+adjunct
 core
 core
 NA
@@ -169941,9 +169941,9 @@ complement
 complement
 core
 core
+core
 complement
 complement
-adjunct
 core
 complement
 complement
@@ -170899,9 +170899,9 @@ core
 NA
 core
 complement
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 complement
 core
@@ -170944,9 +170944,9 @@ core
 NA
 core
 complement
-adjunct
 core
-complement
+core
+adjunct
 795389	core
 complement
 complement
@@ -171408,9 +171408,9 @@ complement
 796004	core
 core
 NA
+core
 adjunct
 adjunct
-complement
 core
 complement
 adjunct
@@ -171720,9 +171720,9 @@ adjunct
 core
 NA
 core
-796344	adjunct
+796344	NA
 core
-complement
+adjunct
 complement
 adjunct
 core
@@ -172423,9 +172423,9 @@ core
 complement
 adjunct
 797206	core
+core
+complement
 adjunct
-complement
-complement
 797213	core
 complement
 core
@@ -172574,9 +172574,9 @@ core
 core
 complement
 NA
-complement
 core
-NA
+core
+complement
 NA
 core
 core
@@ -173092,7 +173092,7 @@ adjunct
 NA
 complement
 core
-adjunct
+complement
 NA
 core
 complement
@@ -173377,9 +173377,9 @@ complement
 798324	NA
 core
 complement
-complement
+NA
 core
-adjunct
+complement
 complement
 798334	NA
 core
@@ -173685,9 +173685,9 @@ complement
 NA
 core
 complement
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -173780,7 +173780,7 @@ complement
 798784	core
 adjunct
 complement
-798792	complement
+798792	
 core
 core
 complement
@@ -173954,7 +173954,7 @@ core
 core
 complement
 798987	core
-complement
+adjunct
 complement
 core
 adjunct
@@ -174319,9 +174319,9 @@ core
 799471	adjunct
 core
 complement
-adjunct
-NA
 complement
+NA
+adjunct
 core
 complement
 NA
@@ -174518,9 +174518,9 @@ NA
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 799735	NA
 core
@@ -174624,7 +174624,7 @@ adjunct
 core
 core
 799849	adjunct
-adjunct
+complement
 core
 complement
 799855	core
@@ -175679,7 +175679,7 @@ core
 NA
 adjunct
 core
-complement
+adjunct
 NA
 NA
 adjunct
@@ -175781,9 +175781,9 @@ adjunct
 801279	adjunct
 core
 complement
-complement
 core
-adjunct
+core
+complement
 core
 adjunct
 core
@@ -175847,9 +175847,9 @@ NA
 NA
 core
 core
-801363	adjunct
+801363	core
 complement
-complement
+adjunct
 core
 core
 complement
@@ -175887,7 +175887,7 @@ core
 core
 core
 complement
-801413	NA
+801413	complement
 core
 core
 801417	complement
@@ -176052,9 +176052,9 @@ core
 core
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 complement
 complement
@@ -176351,9 +176351,9 @@ NA
 core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 complement
@@ -176725,9 +176725,9 @@ NA
 core
 complement
 complement
-complement
+NA
 core
-adjunct
+complement
 complement
 core
 core
@@ -176906,7 +176906,7 @@ complement
 core
 NA
 core
-core
+complement
 NA
 core
 NA
@@ -177049,9 +177049,9 @@ complement
 core
 core
 adjunct
-adjunct
-core
 complement
+core
+adjunct
 802724	complement
 core
 complement
@@ -177409,9 +177409,9 @@ adjunct
 core
 803189	NA
 core
-adjunct
-core
 complement
+core
+adjunct
 core
 core
 core
@@ -177966,9 +177966,9 @@ core
 complement
 NA
 core
-803817	adjunct
+803817	NA
 core
-complement
+adjunct
 complement
 core
 complement
@@ -178151,9 +178151,9 @@ core
 core
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 adjunct
 NA
 complement
@@ -178934,9 +178934,9 @@ complement
 core
 complement
 adjunct
+core
 complement
 complement
-adjunct
 NA
 core
 complement
@@ -179071,9 +179071,9 @@ complement
 core
 complement
 complement
-805261	complement
+805261	core
 complement
-adjunct
+complement
 805267	core
 complement
 805272	NA
@@ -179858,9 +179858,9 @@ complement
 core
 complement
 adjunct
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 complement
@@ -179994,9 +179994,9 @@ core
 complement
 complement
 806447	NA
-adjunct
+core
 NA
-complement
+adjunct
 806453	NA
 core
 core
@@ -180075,9 +180075,9 @@ core
 adjunct
 core
 adjunct
-806558	adjunct
+806558	core
 complement
-complement
+adjunct
 806563	core
 complement
 adjunct
@@ -180085,7 +180085,7 @@ NA
 complement
 adjunct
 core
-complement
+adjunct
 complement
 806575	core
 complement
@@ -180196,9 +180196,9 @@ core
 core
 complement
 NA
-complement
 core
-adjunct
+core
+complement
 NA
 core
 core
@@ -180405,12 +180405,12 @@ NA
 core
 adjunct
 core
-adjunct
-NA
 complement
-core
+NA
 adjunct
 core
+complement
+core
 core
 NA
 core
@@ -180436,9 +180436,9 @@ core
 core
 complement
 NA
-complement
 core
-adjunct
+core
+complement
 core
 complement
 NA
@@ -181356,9 +181356,9 @@ complement
 NA
 core
 core
-adjunct
 core
-complement
+core
+adjunct
 core
 NA
 core
@@ -181610,9 +181610,9 @@ core
 complement
 core
 complement
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -181842,9 +181842,9 @@ core
 NA
 adjunct
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 core
@@ -182148,21 +182148,21 @@ core
 complement
 808979	core
 core
-adjunct
-complement
-NA
-NA
-complement
 core
-complement
-core
-NA
-core
-complement
 complement
 adjunct
-complement
 NA
+complement
+core
+complement
+core
+NA
+core
+complement
+complement
+core
+complement
+adjunct
 NA
 complement
 core
@@ -182289,9 +182289,9 @@ NA
 core
 complement
 809132	adjunct
+core
+complement
 adjunct
-complement
-complement
 NA
 complement
 core
@@ -182324,9 +182324,9 @@ core
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 complement
 NA
@@ -182683,7 +182683,7 @@ NA
 core
 core
 complement
-809578	core
+809578	adjunct
 core
 core
 NA
@@ -182722,9 +182722,9 @@ core
 complement
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -182927,7 +182927,7 @@ complement
 complement
 809855	NA
 core
-complement
+core
 NA
 complement
 NA
@@ -183478,7 +183478,7 @@ core
 core
 core
 core
-core
+complement
 core
 core
 core
@@ -183587,9 +183587,9 @@ adjunct
 complement
 NA
 core
-complement
 core
-adjunct
+core
+complement
 NA
 core
 adjunct
@@ -184088,9 +184088,9 @@ core
 complement
 complement
 NA
-adjunct
+complement
 core
-NA
+adjunct
 core
 adjunct
 NA
@@ -184367,9 +184367,9 @@ NA
 complement
 core
 core
-complement
+NA
 core
-adjunct
+complement
 core
 NA
 complement
@@ -184597,16 +184597,16 @@ core
 adjunct
 core
 adjunct
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 complement
 core
 adjunct
 core
-complement
+adjunct
 complement
 811854	NA
 core
@@ -184909,7 +184909,7 @@ core
 NA
 core
 adjunct
-complement
+NA
 core
 complement
 core
@@ -184985,9 +184985,9 @@ complement
 NA
 complement
 core
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -185051,9 +185051,9 @@ NA
 core
 complement
 core
-adjunct
 NA
-complement
+NA
+adjunct
 core
 core
 NA
@@ -185638,9 +185638,9 @@ adjunct
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 NA
@@ -185668,9 +185668,9 @@ NA
 core
 complement
 core
-adjunct
+core
 complement
-NA
+adjunct
 NA
 core
 core
@@ -185721,9 +185721,9 @@ core
 NA
 core
 NA
-
+core
 complement
-adjunct
+
 813159	NA
 complement
 core
@@ -185874,9 +185874,9 @@ complement
 NA
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 NA
 core
 complement
@@ -185928,35 +185928,35 @@ core
 core
 complement
 813393	NA
-complement
+NA
 core
 core
 NA
-NA
-core
-complement
-NA
-NA
-core
 NA
 core
 complement
-adjunct
-complement
-core
-NA
-core
-core
-NA
-core
-core
-complement
 NA
 NA
 core
-813424	complement
+NA
+core
 complement
 adjunct
+complement
+core
+NA
+core
+core
+NA
+core
+core
+complement
+NA
+NA
+core
+813424	core
+complement
+complement
 NA
 complement
 core
@@ -186353,9 +186353,9 @@ complement
 NA
 core
 complement
-complement
+NA
 core
-adjunct
+complement
 core
 NA
 NA
@@ -186947,9 +186947,9 @@ core
 814579	core
 NA
 core
-complement
+NA
 core
-adjunct
+complement
 814587	core
 core
 NA
@@ -187033,9 +187033,9 @@ complement
 core
 complement
 complement
-814681	adjunct
+814681	NA
 core
-complement
+adjunct
 complement
 core
 814688	NA
@@ -187121,9 +187121,9 @@ core
 complement
 NA
 complement
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 NA
@@ -187310,9 +187310,9 @@ complement
 complement
 core
 core
-complement
-core
 adjunct
+core
+complement
 core
 complement
 adjunct
@@ -187644,7 +187644,7 @@ core
 core
 complement
 815382	adjunct
-complement
+core
 adjunct
 complement
 NA
@@ -188326,9 +188326,9 @@ core
 complement
 complement
 core
-adjunct
+core
 complement
-NA
+adjunct
 adjunct
 complement
 core
@@ -188474,9 +188474,9 @@ core
 complement
 complement
 core
-adjunct
-core
 complement
+core
+adjunct
 complement
 NA
 core
@@ -188548,7 +188548,7 @@ complement
 core
 complement
 816473	core
-NA
+complement
 816476	core
 complement
 core
@@ -188623,7 +188623,7 @@ NA
 core
 complement
 816559	core
-NA
+complement
 816563	NA
 core
 complement
@@ -188680,9 +188680,9 @@ NA
 core
 core
 core
-adjunct
+complement
 core
-NA
+adjunct
 NA
 core
 complement
@@ -189637,9 +189637,9 @@ complement
 core
 core
 complement
-complement
+NA
 core
-adjunct
+complement
 817961	core
 complement
 core
@@ -190034,9 +190034,9 @@ adjunct
 818495	NA
 core
 core
+NA
+core
 adjunct
-core
-core
 core
 core
 complement
@@ -190314,7 +190314,7 @@ core
 complement
 complement
 818870	core
-complement
+adjunct
 core
 core
 NA
@@ -190539,9 +190539,9 @@ core
 complement
 complement
 819144	NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 core
@@ -190923,12 +190923,12 @@ core
 adjunct
 NA
 core
-adjunct
+NA
 core
-complement
 adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 adjunct
@@ -191283,7 +191283,7 @@ adjunct
 820082	NA
 core
 complement
-complement
+NA
 core
 complement
 complement
@@ -191455,9 +191455,9 @@ complement
 core
 NA
 core
-adjunct
-core
 complement
+core
+adjunct
 core
 NA
 core
@@ -191487,7 +191487,7 @@ core
 NA
 NA
 core
-core
+NA
 core
 core
 core
@@ -192003,7 +192003,7 @@ NA
 core
 complement
 complement
-821020	adjunct
+821020	complement
 core
 adjunct
 821025	core
@@ -192079,9 +192079,9 @@ core
 NA
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 821129	NA
 core
@@ -192127,13 +192127,13 @@ core
 complement
 core
 core
-821178	adjunct
+821178	core
 core
-complement
-complement
 adjunct
-core
 complement
+NA
+core
+adjunct
 core
 core
 complement
@@ -192159,9 +192159,9 @@ NA
 core
 core
 core
-821213	adjunct
+821213	NA
 core
-complement
+adjunct
 821221	NA
 core
 complement
@@ -192247,9 +192247,9 @@ NA
 complement
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 NA
 core
@@ -192467,9 +192467,9 @@ NA
 core
 complement
 core
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 NA
 core
@@ -192607,14 +192607,14 @@ core
 NA
 core
 complement
-adjunct
-core
-complement
 NA
 core
-821716	adjunct
+adjunct
+NA
 core
-complement
+821716	NA
+core
+adjunct
 adjunct
 821721	NA
 core
@@ -192738,9 +192738,9 @@ core
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -192800,9 +192800,9 @@ complement
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -192877,9 +192877,9 @@ core
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 core
@@ -193251,9 +193251,9 @@ core
 822470	core
 core
 adjunct
-822475	adjunct
+822475	complement
 core
-complement
+adjunct
 adjunct
 822482	core
 core
@@ -193312,7 +193312,7 @@ core
 complement
 core
 adjunct
-822588	adjunct
+822588	NA
 core
 adjunct
 NA
@@ -193320,7 +193320,7 @@ NA
 core
 core
 core
-adjunct
+core
 core
 adjunct
 core
@@ -193342,7 +193342,7 @@ core
 complement
 core
 adjunct
-822619	adjunct
+822619	NA
 core
 adjunct
 822623	core
@@ -193432,7 +193432,7 @@ adjunct
 core
 adjunct
 822737	core
-822742	adjunct
+822742	complement
 core
 adjunct
 core
@@ -193477,7 +193477,7 @@ core
 core
 NA
 core
-adjunct
+core
 core
 adjunct
 complement
@@ -193757,9 +193757,9 @@ core
 core
 core
 core
-complement
 core
-adjunct
+core
+complement
 core
 complement
 complement
@@ -193812,9 +193812,9 @@ core
 core
 adjunct
 core
-complement
 core
-adjunct
+core
+complement
 complement
 823346	core
 NA
@@ -193833,9 +193833,9 @@ complement
 NA
 core
 complement
-823369	adjunct
+823369	complement
 core
-complement
+adjunct
 adjunct
 NA
 core
@@ -194067,16 +194067,16 @@ complement
 complement
 core
 complement
-adjunct
-core
 complement
+core
+adjunct
 complement
 NA
 core
 complement
-adjunct
-core
 complement
+core
+adjunct
 complement
 core
 complement
@@ -194098,9 +194098,9 @@ adjunct
 core
 core
 complement
-adjunct
-core
 complement
+core
+adjunct
 complement
 NA
 core
@@ -194923,9 +194923,9 @@ core
 core
 NA
 adjunct
+core
+complement
 adjunct
-complement
-complement
 core
 core
 adjunct
@@ -195223,7 +195223,7 @@ NA
 core
 complement
 core
-adjunct
+complement
 NA
 core
 complement
@@ -195356,9 +195356,9 @@ NA
 core
 adjunct
 NA
+core
 complement
 complement
-adjunct
 825535	complement
 NA
 core
@@ -195367,9 +195367,9 @@ core
 adjunct
 core
 825546	NA
-complement
 core
-NA
+core
+complement
 core
 NA
 core
@@ -195571,9 +195571,9 @@ core
 core
 NA
 adjunct
-adjunct
 core
-complement
+core
+adjunct
 core
 complement
 NA
@@ -195906,10 +195906,10 @@ NA
 core
 core
 adjunct
+core
+core
 adjunct
 complement
-complement
-adjunct
 NA
 core
 complement
@@ -196187,66 +196187,66 @@ core
 adjunct
 complement
 core
-NA
 complement
 complement
-NA
-core
-complement
-adjunct
-core
-complement
-core
-complement
-adjunct
-core
-complement
-adjunct
-NA
-core
-complement
-complement
-core
-adjunct
-complement
-core
-core
-adjunct
-core
-complement
-core
-complement
-core
 complement
 NA
 core
+complement
 adjunct
-complement
-NA
 core
+complement
+core
+complement
 adjunct
-complement
 core
 complement
-core
-core
 adjunct
-complement
 NA
 core
 complement
 complement
 core
-core
+adjunct
 complement
 core
-complement
-core
-complement
-complement
-complement
 core
 adjunct
+core
+complement
+core
+complement
+core
+complement
+NA
+core
+adjunct
+complement
+NA
+core
+adjunct
+complement
+core
+complement
+core
+core
+adjunct
+complement
+NA
+core
+complement
+complement
+core
+core
+complement
+core
+complement
+core
+complement
+complement
+complement
+core
+complement
 adjunct
 core
 core
@@ -196559,7 +196559,7 @@ core
 complement
 826935	core
 826940	NA
-adjunct
+core
 complement
 adjunct
 core
@@ -196627,9 +196627,9 @@ core
 NA
 core
 complement
+core
 complement
 complement
-adjunct
 complement
 core
 core
@@ -196652,7 +196652,7 @@ core
 core
 complement
 core
-adjunct
+complement
 core
 adjunct
 complement
@@ -197066,18 +197066,18 @@ core
 complement
 827507	adjunct
 core
+core
+complement
 adjunct
-complement
-complement
 core
 complement
 adjunct
 NA
 core
 core
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -197101,9 +197101,9 @@ NA
 NA
 core
 core
-adjunct
-core
 complement
+core
+adjunct
 core
 core
 complement
@@ -197152,7 +197152,7 @@ core
 NA
 complement
 827615	core
-complement
+adjunct
 NA
 NA
 core
@@ -197224,9 +197224,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -197361,9 +197361,9 @@ complement
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -197458,12 +197458,12 @@ core
 adjunct
 NA
 core
+core
+complement
 adjunct
-complement
+NA
 complement
 adjunct
-complement
-complement
 core
 NA
 core
@@ -197667,7 +197667,7 @@ core
 core
 complement
 828196	core
-complement
+adjunct
 adjunct
 NA
 core
@@ -197997,9 +197997,9 @@ core
 core
 adjunct
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -198041,9 +198041,9 @@ complement
 core
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 adjunct
 core
@@ -198173,16 +198173,16 @@ NA
 core
 core
 core
+core
+complement
 adjunct
-complement
-complement
 adjunct
 NA
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 core
 NA
 core
@@ -198673,9 +198673,9 @@ core
 complement
 829321	core
 829327	core
+core
 complement
 complement
-adjunct
 core
 complement
 NA
@@ -198690,9 +198690,9 @@ core
 core
 adjunct
 NA
-complement
 core
-adjunct
+core
+complement
 NA
 core
 core
@@ -198759,9 +198759,9 @@ core
 core
 complement
 829426	NA
-complement
 core
-adjunct
+core
+complement
 NA
 core
 core
@@ -198827,9 +198827,9 @@ core
 core
 NA
 NA
-complement
 core
-adjunct
+core
+complement
 NA
 complement
 core
@@ -199104,14 +199104,14 @@ core
 complement
 NA
 core
-829847	adjunct
+829847	NA
 core
-complement
-core
-complement
 adjunct
 core
 complement
+NA
+core
+adjunct
 complement
 829865	NA
 core
@@ -202884,9 +202884,9 @@ core
 NA
 core
 complement
+core
+complement
 adjunct
-complement
-complement
 NA
 adjunct
 core
@@ -203308,9 +203308,9 @@ core
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 834868	core
 NA
 core
@@ -203372,9 +203372,9 @@ NA
 core
 core
 complement
-complement
+NA
 core
-adjunct
+complement
 NA
 core
 core
@@ -203857,9 +203857,9 @@ NA
 NA
 core
 complement
-adjunct
 core
-complement
+core
+adjunct
 complement
 complement
 core
@@ -203928,9 +203928,9 @@ complement
 NA
 core
 complement
-adjunct
 core
-complement
+core
+adjunct
 complement
 complement
 core
@@ -204001,7 +204001,7 @@ NA
 complement
 core
 NA
-complement
+core
 complement
 complement
 core
@@ -204296,9 +204296,9 @@ core
 core
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 core
 NA
 complement
@@ -204618,10 +204618,10 @@ core
 complement
 adjunct
 adjunct
+NA
+core
 complement
 adjunct
-adjunct
-complement
 NA
 core
 core
@@ -204697,7 +204697,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 core
 complement
 core
@@ -204727,7 +204727,7 @@ NA
 core
 complement
 complement
-adjunct
+complement
 836826	complement
 core
 836829	adjunct
@@ -204752,9 +204752,9 @@ core
 complement
 NA
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 NA
 core
@@ -205426,7 +205426,7 @@ NA
 complement
 core
 core
-complement
+NA
 core
 complement
 complement
@@ -205727,9 +205727,9 @@ core
 complement
 complement
 NA
+core
 complement
 complement
-adjunct
 NA
 NA
 core
@@ -205740,25 +205740,11 @@ complement
 NA
 core
 NA
-core
-adjunct
-NA
-core
-complement
-NA
-core
 core
 adjunct
 NA
 core
-core
 complement
-core
-NA
-core
-NA
-core
-core
 NA
 core
 core
@@ -205766,21 +205752,35 @@ adjunct
 NA
 core
 core
-core
-NA
-core
 complement
-NA
-NA
-core
 core
 NA
 core
+NA
 core
-complement
+core
+NA
+core
+core
 adjunct
+NA
+core
+core
+core
+NA
 core
 complement
+NA
+NA
+core
+core
+NA
+core
+core
+complement
+NA
+core
+adjunct
 complement
 NA
 core
@@ -205878,9 +205878,9 @@ complement
 838204	NA
 core
 adjunct
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -205892,7 +205892,7 @@ core
 core
 adjunct
 core
-complement
+adjunct
 NA
 core
 core
@@ -205926,9 +205926,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -206078,9 +206078,9 @@ NA
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 complement
 core
 NA
@@ -206105,9 +206105,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 adjunct
 NA
 core
@@ -206161,9 +206161,9 @@ core
 adjunct
 core
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 adjunct
 adjunct
@@ -206181,42 +206181,42 @@ core
 complement
 838568	adjunct
 complement
-adjunct
-core
-complement
-NA
-core
-NA
-core
-complement
-NA
-core
-complement
-NA
-NA
-core
-complement
-core
-adjunct
-complement
-NA
-core
-complement
-NA
-core
-core
-complement
-core
-core
-NA
-core
-NA
-adjunct
 NA
 core
 adjunct
+NA
+core
+NA
 core
 complement
+NA
+core
+complement
+NA
+NA
+core
+complement
+core
+adjunct
+complement
+NA
+core
+complement
+NA
+core
+core
+complement
+core
+core
+NA
+core
+NA
+adjunct
+NA
+core
+core
+core
+adjunct
 complement
 NA
 core
@@ -206243,10 +206243,10 @@ core
 complement
 adjunct
 NA
+NA
+core
 complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -206404,9 +206404,9 @@ core
 NA
 complement
 NA
-adjunct
+core
 NA
-complement
+adjunct
 core
 core
 adjunct
@@ -206754,9 +206754,9 @@ core
 core
 NA
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 839351	NA
 core
@@ -206889,9 +206889,9 @@ core
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 NA
@@ -206975,9 +206975,9 @@ NA
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 complement
@@ -206991,9 +206991,9 @@ adjunct
 NA
 core
 NA
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -207084,7 +207084,7 @@ NA
 core
 complement
 839717	core
-complement
+adjunct
 adjunct
 NA
 core
@@ -207150,9 +207150,9 @@ NA
 core
 adjunct
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -207311,9 +207311,9 @@ core
 core
 core
 complement
-complement
+NA
 core
-adjunct
+complement
 core
 complement
 NA
@@ -207456,7 +207456,7 @@ adjunct
 core
 complement
 840198	core
-complement
+adjunct
 840225	core
 complement
 840233	NA
@@ -207585,9 +207585,9 @@ core
 adjunct
 NA
 core
-complement
-complement
 adjunct
+core
+complement
 core
 complement
 adjunct
@@ -207656,18 +207656,18 @@ complement
 complement
 840612	core
 complement
-840616	adjunct
+840616	NA
 core
-complement
+adjunct
 complement
 NA
-adjunct
+complement
 core
 adjunct
+core
+complement
 
 complement
-complement
-complement
 NA
 adjunct
 NA
@@ -207688,11 +207688,11 @@ NA
 core
 complement
 NA
-adjunct
+core
 core
 adjunct
 core
-complement
+adjunct
 complement
 adjunct
 NA
@@ -207757,9 +207757,9 @@ NA
 NA
 core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 adjunct
 core
 adjunct
@@ -207914,10 +207914,10 @@ core
 complement
 complement
 NA
+NA
+core
 complement
 adjunct
-adjunct
-complement
 NA
 NA
 adjunct
@@ -208389,13 +208389,13 @@ NA
 core
 core
 complement
+NA
+core
 adjunct
 core
-complement
+NA
 core
 core
-core
-complement
 NA
 core
 NA
@@ -208537,9 +208537,9 @@ core
 adjunct
 NA
 adjunct
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -208569,9 +208569,9 @@ complement
 842085	core
 complement
 NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 complement
@@ -209252,9 +209252,9 @@ NA
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 NA
 complement
 core
@@ -209264,9 +209264,9 @@ core
 core
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -209406,9 +209406,9 @@ core
 core
 complement
 NA
-adjunct
 core
-NA
+core
+adjunct
 843480	NA
 core
 adjunct
@@ -210071,9 +210071,9 @@ core
 core
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 adjunct
 NA
@@ -210146,9 +210146,9 @@ core
 complement
 NA
 core
+core
+adjunct
 complement
-adjunct
-adjunct
 adjunct
 NA
 core
@@ -210580,9 +210580,9 @@ core
 adjunct
 complement
 845048	NA
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 NA
@@ -210616,9 +210616,9 @@ NA
 core
 NA
 core
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 complement
@@ -210939,9 +210939,9 @@ core
 complement
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 845457	NA
 core
 core
@@ -210958,13 +210958,13 @@ complement
 NA
 core
 core
-adjunct
-complement
-complement
-NA
-adjunct
 core
 complement
+adjunct
+NA
+core
+core
+adjunct
 complement
 NA
 core
@@ -211271,9 +211271,9 @@ core
 adjunct
 NA
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -211394,9 +211394,9 @@ complement
 complement
 NA
 core
-complement
+NA
 core
-adjunct
+complement
 NA
 core
 core
@@ -211444,9 +211444,9 @@ core
 adjunct
 complement
 complement
-adjunct
+NA
 core
-complement
+adjunct
 NA
 core
 core
@@ -211471,7 +211471,7 @@ core
 core
 adjunct
 846042	core
-complement
+NA
 core
 complement
 complement
@@ -211657,7 +211657,7 @@ adjunct
 NA
 NA
 core
-846253	complement
+846253	adjunct
 NA
 core
 complement
@@ -212229,9 +212229,9 @@ core
 adjunct
 847323	NA
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 NA
@@ -212248,9 +212248,9 @@ adjunct
 847450	NA
 NA
 core
+core
+complement
 adjunct
-complement
-complement
 NA
 core
 core
@@ -212530,9 +212530,9 @@ core
 847890	adjunct
 847899	NA
 NA
+core
+complement
 adjunct
-complement
-complement
 847907	NA
 core
 core
@@ -212776,9 +212776,9 @@ NA
 core
 core
 complement
-adjunct
 core
-complement
+core
+adjunct
 complement
 NA
 core
@@ -212830,7 +212830,7 @@ complement
 NA
 core
 complement
-complement
+core
 core
 complement
 NA
@@ -212848,9 +212848,9 @@ NA
 core
 NA
 NA
-complement
 core
-adjunct
+core
+complement
 848294	complement
 848296	NA
 core
@@ -212868,9 +212868,9 @@ core
 complement
 NA
 core
+core
 complement
 complement
-adjunct
 complement
 NA
 complement
@@ -213023,9 +213023,9 @@ complement
 complement
 core
 complement
-848509	adjunct
+848509	core
 core
-complement
+adjunct
 NA
 core
 complement
@@ -213259,11 +213259,11 @@ core
 complement
 complement
 adjunct
+NA
+core
 complement
 
 
-complement
-complement
 848853	NA
 core
 complement
@@ -214149,9 +214149,9 @@ core
 complement
 complement
 NA
-adjunct
 core
-complement
+core
+adjunct
 NA
 core
 core
@@ -214883,7 +214883,7 @@ complement
 core
 core
 NA
-complement
+core
 complement
 complement
 NA
@@ -214993,7 +214993,7 @@ core
 core
 complement
 NA
-complement
+core
 core
 complement
 core
@@ -215572,9 +215572,9 @@ core
 NA
 core
 core
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -215877,9 +215877,9 @@ complement
 adjunct
 851876	core
 complement
-adjunct
+NA
 core
-complement
+adjunct
 complement
 NA
 core
@@ -216077,9 +216077,9 @@ NA
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 NA
 core
 complement
@@ -217093,7 +217093,7 @@ core
 complement
 core
 853325	NA
-complement
+core
 NA
 core
 NA
@@ -217394,9 +217394,9 @@ complement
 core
 NA
 core
-
-complement
 adjunct
+complement
+
 NA
 core
 core
@@ -217769,9 +217769,9 @@ complement
 core
 core
 854104	adjunct
-adjunct
+NA
 core
-complement
+adjunct
 core
 complement
 NA
@@ -217826,9 +217826,9 @@ complement
 core
 complement
 NA
+complement
+core
 adjunct
-core
-complement
 NA
 core
 core
@@ -217836,9 +217836,9 @@ NA
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 NA
 core
 complement
@@ -218053,9 +218053,9 @@ complement
 complement
 NA
 core
-adjunct
-NA
 complement
+NA
+adjunct
 core
 complement
 NA
@@ -218189,7 +218189,7 @@ core
 core
 complement
 854561	core
-complement
+adjunct
 NA
 core
 complement
@@ -218450,9 +218450,9 @@ complement
 NA
 core
 adjunct
-complement
+NA
 core
-adjunct
+complement
 NA
 core
 complement
@@ -218943,9 +218943,9 @@ core
 complement
 adjunct
 NA
+core
 complement
 complement
-adjunct
 NA
 core
 complement
@@ -220037,9 +220037,9 @@ NA
 NA
 core
 complement
-adjunct
 core
-complement
+core
+adjunct
 NA
 NA
 core
@@ -220270,9 +220270,9 @@ NA
 core
 complement
 NA
-adjunct
-core
 complement
+core
+adjunct
 adjunct
 core
 NA
@@ -220660,30 +220660,30 @@ NA
 core
 complement
 complement
-adjunct
-core
-complement
-core
-NA
-core
-complement
-NA
-core
-complement
-core
-complement
-adjunct
-NA
-core
-complement
-NA
-core
-core
 NA
 core
 adjunct
-adjunct
+core
+NA
+core
 complement
+NA
+core
+complement
+core
+complement
+adjunct
+NA
+core
+complement
+NA
+core
+core
+NA
+core
+core
+adjunct
+adjunct
 NA
 complement
 core
@@ -220727,7 +220727,7 @@ core
 complement
 complement
 NA
-complement
+core
 NA
 complement
 complement
@@ -220901,7 +220901,7 @@ NA
 core
 core
 complement
-complement
+NA
 core
 complement
 complement
@@ -221304,9 +221304,9 @@ core
 core
 complement
 NA
+core
 complement
 complement
-adjunct
 858104	NA
 core
 NA

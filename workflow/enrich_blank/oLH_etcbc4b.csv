@@ -1312,7 +1312,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 451957;136923;682343;Judges;15;10;<LH;qal;;<LJTM ;phrase;;;VP;Pred;core;regular;NA;;;
 451957;136923;682344;Judges;15;10;<LH;qal;;<LJNW ;phrase;;;PP;Cmpl;complement;NA;*;;;
 451960;136931;-1;Judges;15;10;<LH;qal;<LJNW ;<LJNW ;;;;;;;;;;;
-451960;136931;682349;Judges;15;10;<LH;qal;;<LJNW ;phrase;;;VP;Adju;adjunct;NA;NA;;;
+451960;136931;682349;Judges;15;10;<LH;qal;;<LJNW ;phrase;;;VP;Pred;core;regular;NA;;;
 451960;136931;451961;Judges;15;10;<LH;qal;;L <FWT LW ;clause;InfC;Adju;;;NA;NA;;;;
 451960;136931;451959;Judges;15;10;<LH;qal;;L >SWR >T CMCWN ;clause;InfC;Adju;;;NA;NA;;;;
 451985;137021;-1;Judges;15;13;<LH;hif;J<LWHW ;W J<LWHW MN H SL< ;;;;;;;;;;;

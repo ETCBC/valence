@@ -2,7 +2,7 @@
 @description=constituent role main classification
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-09-13T11:14:48Z
+@dateWritten=2017-09-14T12:02:18Z
 
 426577	direct_object
 426603	direct_object
@@ -257,7 +257,7 @@ infinitive_object
 429850	
 429852	
 
-429863	
+429863	infinitive_object
 429865	
 429871	infinitive_object
 429885	direct_object
@@ -300,7 +300,7 @@ infinitive_object
 430336	
 430338	
 430340	
-430344	
+430344	infinitive_object
 430347	
 430362	direct_object
 430372	
@@ -646,7 +646,7 @@ infinitive_object
 434026	direct_object
 434031	
 434051	infinitive_object
-434053	
+434053	infinitive_object
 434056	
 434068	direct_object
 infinitive_object
@@ -871,7 +871,7 @@ infinitive_object
 436679	infinitive_object
 436686	infinitive_object
 436733	infinitive_object
-436745	
+436745	infinitive_object
 436757	infinitive_object
 436784	
 436821	
@@ -1238,7 +1238,7 @@ infinitive_object
 441851	
 441887	
 441895	
-441914	
+441914	infinitive_object
 441969	
 infinitive_object
 441980	
@@ -3991,7 +3991,7 @@ infinitive_object
 
 472282	infinitive_object
 472284	infinitive_object
-
+infinitive_object
 
 472315	direct_object
 472342	direct_object
@@ -4252,7 +4252,7 @@ infinitive_object
 476161	infinitive_object
 476170	
 
-476179	infinitive_object
+476179	
 476227	
 476241	
 476261	
@@ -4815,9 +4815,9 @@ infinitive_object
 482276	
 482286	
 482291	
+
 infinitive_object
-
-
+infinitive_object
 infinitive_object
 482311	
 482319	
@@ -6278,7 +6278,7 @@ infinitive_object
 507766	direct_object
 507793	
 
-507855	
+507855	infinitive_object
 507867	infinitive_object
 507891	direct_object
 507895	
@@ -6348,7 +6348,7 @@ infinitive_object
 508572	
 508576	infinitive_object
 infinitive_object
-508615	infinitive_object
+508615	
 508626	direct_object
 direct_object
 508630	infinitive_object
@@ -6623,7 +6623,7 @@ infinitive_object
 512105	
 512110	
 512117	
-512122	infinitive_object
+512122	
 512138	
 
 512145	infinitive_object
@@ -7192,11 +7192,11 @@ subject
 direct_object
 NA
 NA
-NP_direct_object
-principal_direct_object
-NA
 NA
 direct_object
+NP_direct_object
+NA
+principal_direct_object
 NA
 NA
 direct_object
@@ -7397,7 +7397,7 @@ subject
 subject
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -7560,7 +7560,7 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -7716,8 +7716,8 @@ NA
 NA
 NA
 subject
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 direct_object
 NA
@@ -7924,7 +7924,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 principal_direct_object
 NA
 direct_object
@@ -8042,10 +8042,10 @@ NA
 subject
 direct_object
 NA
-NP_direct_object
-principal_direct_object
 NA
 direct_object
+NP_direct_object
+principal_direct_object
 NA
 NA
 direct_object
@@ -8409,9 +8409,9 @@ NA
 NA
 subject
 direct_object
+*
 NA
 NA
-indirect_object
 direct_object
 NP_direct_object
 NA
@@ -8424,9 +8424,9 @@ NA
 606827	NA
 NA
 direct_object
-606837	NA
+606837	direct_object
 NA
-L_object
+NA
 NA
 *
 direct_object
@@ -8680,7 +8680,7 @@ subject
 *
 NA
 NA
-NA
+subject
 *
 NA
 NA
@@ -8900,12 +8900,12 @@ NA
 *
 NA
 607379	NA
-*
 NA
 NA
+K_object
 NA
 indirect_object
-direct_object
+principal_direct_object
 direct_object
 NA
 NA
@@ -9072,7 +9072,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -9251,7 +9251,7 @@ NA
 direct_object
 607842	NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -9491,7 +9491,7 @@ NA
 NA
 NA
 subject
-NA
+indirect_object
 NA
 NA
 *
@@ -9678,9 +9678,9 @@ subject
 L_object
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 NA
@@ -9866,7 +9866,7 @@ NA
 NA
 NA
 direct_object
-*
+NA
 608569	subject
 NA
 *
@@ -10136,9 +10136,9 @@ NA
 NA
 direct_object
 *
+NA
+NA
 principal_direct_object
-NA
-NA
 NP_direct_object
 NA
 direct_object
@@ -10221,10 +10221,10 @@ subject
 principal_direct_object
 NA
 L_object
+NA
+principal_direct_object
 *
 
-NA
-NA
 609000	NA
 subject
 NA
@@ -10299,7 +10299,7 @@ NA
 subject
 indirect_object
 609084	NA
-indirect_object
+NA
 609089	NA
 direct_object
 subject
@@ -10469,8 +10469,8 @@ NA
 NA
 NA
 *
-direct_object
-NA
+principal_direct_object
+L_object
 NA
 NA
 indirect_object
@@ -10826,9 +10826,9 @@ NA
 NA
 *
 NA
+subject
 NA
 NA
-*
 direct_object
 NA
 subject
@@ -10911,7 +10911,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 NA
 609782	NA
 NA
@@ -10937,7 +10937,7 @@ direct_object
 *
 NA
 NA
-L_object
+NA
 NA
 NA
 NA
@@ -11095,7 +11095,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 direct_object
@@ -11149,7 +11149,7 @@ NA
 NA
 NA
 NA
-*
+NA
 NA
 NA
 direct_object
@@ -11304,7 +11304,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 NA
 direct_object
 NA
@@ -11643,9 +11643,9 @@ L_object
 NA
 NA
 indirect_object
+direct_object
 NA
 NA
-indirect_object
 NA
 direct_object
 NA
@@ -11659,7 +11659,7 @@ NA
 NA
 NA
 NA
-*
+NA
 NA
 NA
 subject
@@ -11693,7 +11693,7 @@ NA
 indirect_object
 610641	NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -11750,7 +11750,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 NA
@@ -11792,9 +11792,9 @@ subject
 NA
 NA
 subject
+direct_object
 NA
 NA
-indirect_object
 subject
 subject
 NA
@@ -12005,7 +12005,7 @@ NA
 NA
 NA
 NA
-*
+NA
 NA
 NA
 *
@@ -12242,9 +12242,9 @@ NA
 direct_object
 NA
 NA
+direct_object
 *
 *
-NA
 NA
 NA
 subject
@@ -12272,7 +12272,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -12457,10 +12457,10 @@ NA
 indirect_object
 direct_object
 611494	NA
-*
+principal_direct_object
 indirect_object
-NA
-NA
+*
+L_object
 NA
 subject
 NA
@@ -12478,7 +12478,7 @@ NA
 indirect_object
 611520	indirect_object
 direct_object
-NA
+*
 direct_object
 indirect_object
 NA
@@ -12691,7 +12691,7 @@ NA
 NA
 NA
 direct_object
-*
+NA
 NA
 subject
 NA
@@ -12726,7 +12726,7 @@ NA
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 subject
@@ -13119,7 +13119,7 @@ L_object
 subject
 NA
 direct_object
-*
+NA
 NA
 indirect_object
 612260	NA
@@ -13223,7 +13223,7 @@ NA
 indirect_object
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -13693,9 +13693,9 @@ NA
 NA
 NA
 subject
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 subject
@@ -13754,9 +13754,9 @@ NP_direct_object
 NA
 NA
 subject
+indirect_object
 NA
 NA
-*
 NA
 NA
 NA
@@ -13920,15 +13920,15 @@ direct_object
 *
 NA
 NA
-*
-direct_object
-NA
 NA
 direct_object
 NA
 NA
+direct_object
 NA
-*
+NA
+NA
+NA
 direct_object
 NA
 direct_object
@@ -13938,7 +13938,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -14027,7 +14027,7 @@ indirect_object
 direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -14070,7 +14070,7 @@ indirect_object
 direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -14094,9 +14094,9 @@ NA
 direct_object
 NA
 NA
-NA
 principal_direct_object
-L_object
+NP_direct_object
+NA
 NA
 NA
 NA
@@ -14415,14 +14415,14 @@ NA
 NA
 L_object
 NA
+NP_direct_object
+principal_direct_object
 NA
-direct_object
+NA
+principal_direct_object
+NA
 indirect_object
-NA
-direct_object
-*
-indirect_object
-NA
+L_object
 NA
 NP_direct_object
 principal_direct_object
@@ -14519,7 +14519,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -14660,9 +14660,9 @@ subject
 NA
 NA
 *
-direct_object
 NA
-*
+NA
+direct_object
 NA
 NA
 *
@@ -14748,9 +14748,9 @@ NA
 NA
 NA
 direct_object
-direct_object
 NA
-*
+NA
+direct_object
 NA
 NA
 principal_direct_object
@@ -15050,9 +15050,9 @@ NA
 614477	NA
 NA
 indirect_object
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 *
@@ -15093,9 +15093,9 @@ direct_object
 NA
 NA
 indirect_object
-*
-NA
-NA
+principal_direct_object
+indirect_object
+L_object
 NA
 NA
 subject
@@ -15248,8 +15248,8 @@ subject
 NA
 NA
 indirect_object
-direct_object
-NA
+principal_direct_object
+L_object
 NA
 NA
 indirect_object
@@ -15562,7 +15562,7 @@ NA
 615007	NA
 NA
 subject
-L_object
+NA
 NA
 NA
 direct_object
@@ -15577,7 +15577,7 @@ indirect_object
 direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -15688,9 +15688,9 @@ subject
 NA
 NA
 subject
+principal_direct_object
 *
 *
-NA
 subject
 *
 NA
@@ -15838,9 +15838,9 @@ NA
 NA
 direct_object
 NA
+subject
 NA
 NA
-indirect_object
 615320	NA
 NA
 NA
@@ -16016,7 +16016,7 @@ NA
 NA
 NA
 615510	NA
-*
+NA
 direct_object
 NA
 subject
@@ -16197,9 +16197,9 @@ indirect_object
 615724	NA
 subject
 NA
-615731	NA
+615731	direct_object
 NA
-L_object
+NA
 NA
 615737	NA
 NA
@@ -16426,7 +16426,7 @@ NA
 *
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -16554,9 +16554,9 @@ NA
 direct_object
 NA
 direct_object
+NA
+direct_object
 *
-principal_direct_object
-NP_direct_object
 NA
 NA
 616145	NA
@@ -16841,11 +16841,11 @@ NA
 NA
 NA
 indirect_object
+direct_object
 NA
 NA
-L_object
 NA
-principal_direct_object
+direct_object
 NA
 NA
 principal_direct_object
@@ -16948,9 +16948,9 @@ NA
 indirect_object
 NA
 NA
+principal_direct_object
 NA
 NA
-*
 NA
 *
 NA
@@ -16967,9 +16967,9 @@ subject
 *
 NA
 NA
-*
+principal_direct_object
 indirect_object
-NA
+L_object
 NA
 NA
 direct_object
@@ -17017,8 +17017,8 @@ indirect_object
 NA
 NA
 indirect_object
-direct_object
-NA
+principal_direct_object
+L_object
 NA
 NA
 subject
@@ -17215,8 +17215,8 @@ NA
 NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 indirect_object
@@ -17241,8 +17241,8 @@ NA
 NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 direct_object
@@ -17662,7 +17662,7 @@ direct_object
 NA
 617518	NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -18256,9 +18256,9 @@ NA
 subject
 NA
 subject
-*
 NA
 NA
+indirect_object
 L_object
 NA
 direct_object
@@ -18711,7 +18711,7 @@ indirect_object
 NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -18775,10 +18775,10 @@ NA
 subject
 *
 NA
-
-
-*
 NA
+direct_object
+
+
 NA
 subject
 NA
@@ -18885,7 +18885,7 @@ indirect_object
 NA
 NA
 NA
-*
+NA
 direct_object
 NA
 direct_object
@@ -18946,8 +18946,8 @@ NA
 subject
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 direct_object
@@ -19385,8 +19385,8 @@ NP_direct_object
 NA
 NA
 indirect_object
-direct_object
-NA
+principal_direct_object
+L_object
 NA
 NA
 subject
@@ -19402,9 +19402,9 @@ NA
 *
 NA
 NA
+subject
 NA
 NA
-L_object
 NA
 NA
 direct_object
@@ -19796,7 +19796,7 @@ indirect_object
 direct_object
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -19810,9 +19810,9 @@ NA
 subject
 principal_direct_object
 NA
-
+principal_direct_object
 L_object
-NA
+
 NA
 NA
 direct_object
@@ -19830,7 +19830,7 @@ NA
 direct_object
 NA
 subject
-indirect_object
+NA
 NA
 NA
 *
@@ -20104,9 +20104,9 @@ NA
 NA
 *
 NA
-*
+subject
 NA
-NA
+indirect_object
 direct_object
 *
 NA
@@ -20229,9 +20229,9 @@ NA
 NA
 620466	NA
 NA
-*
+subject
 NA
-NA
+indirect_object
 direct_object
 *
 subject
@@ -20339,7 +20339,7 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 NA
 NA
 *
@@ -20359,9 +20359,9 @@ NA
 NA
 NA
 subject
-620620	
+620620	NA
 NA
-direct_object
+
 indirect_object
 NA
 NA
@@ -20771,7 +20771,7 @@ indirect_object
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 subject
@@ -20824,7 +20824,7 @@ subject
 621175	NA
 principal_direct_object
 subject
-NA
+*
 NA
 NA
 direct_object
@@ -20997,9 +20997,9 @@ NA
 NA
 principal_direct_object
 NA
-
+*
 NA
-direct_object
+
 NA
 NA
 direct_object
@@ -21014,9 +21014,9 @@ NA
 NA
 NA
 *
-
 NA
-*
+NA
+
 NA
 NA
 indirect_object
@@ -21087,7 +21087,7 @@ NA
 NA
 L_object
 principal_direct_object
-NA
+*
 subject
 NA
 NA
@@ -21107,9 +21107,9 @@ subject
 *
 NA
 NA
-NA
+subject
 direct_object
-*
+NA
 NA
 NA
 subject
@@ -21360,9 +21360,9 @@ NA
 subject
 direct_object
 NA
-
+NA
 indirect_object
-direct_object
+
 NA
 NA
 subject
@@ -21418,7 +21418,7 @@ direct_object
 NA
 NA
 indirect_object
-*
+NA
 NA
 NA
 subject
@@ -21429,9 +21429,9 @@ indirect_object
 NA
 NA
 indirect_object
-NA
+subject
 direct_object
-*
+NA
 NA
 direct_object
 *
@@ -21557,7 +21557,7 @@ principal_direct_object
 subject
 L_object
 NA
-NA
+*
 622083	subject
 NA
 NA
@@ -21604,7 +21604,7 @@ direct_object
 *
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -21738,7 +21738,7 @@ indirect_object
 NA
 indirect_object
 subject
-NA
+*
 NA
 NA
 direct_object
@@ -22249,8 +22249,8 @@ NA
 direct_object
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 NA
 NA
@@ -22266,7 +22266,7 @@ NP_direct_object
 622922	NA
 NA
 subject
-indirect_object
+NA
 NA
 NA
 direct_object
@@ -22605,7 +22605,7 @@ subject
 direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -22652,9 +22652,12 @@ NA
 *
 direct_object
 NA
+NA
 *
 *
 NA
+NA
+subject
 NA
 NA
 subject
@@ -22662,16 +22665,13 @@ NA
 NA
 NA
 NA
-indirect_object
-NA
-NA
 subject
 NA
 *
 NA
+subject
+NA
 *
-NA
-NA
 NA
 NA
 direct_object
@@ -22799,9 +22799,9 @@ direct_object
 NA
 NA
 subject
-*
+principal_direct_object
 L_object
-NA
+*
 NA
 direct_object
 subject
@@ -23147,7 +23147,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -23168,9 +23168,9 @@ indirect_object
 subject
 NA
 *
-623924	*
+623924	NA
 NA
-NA
+*
 *
 NA
 NA
@@ -23366,8 +23366,8 @@ subject
 indirect_object
 subject
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 subject
 NA
@@ -23444,7 +23444,7 @@ NA
 *
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -23511,7 +23511,7 @@ NA
 *
 NA
 direct_object
-*
+NA
 NA
 subject
 NA
@@ -23663,9 +23663,9 @@ NA
 subject
 NA
 *
+NA
+NA
 *
-NA
-NA
 NA
 NA
 NA
@@ -23736,7 +23736,7 @@ subject
 *
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -23808,7 +23808,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 subject
 NA
 NA
@@ -23911,7 +23911,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 direct_object
@@ -23996,9 +23996,9 @@ principal_direct_object
 L_object
 NA
 NA
-direct_object
+principal_direct_object
 indirect_object
-NA
+NP_direct_object
 624829	NA
 NA
 subject
@@ -24481,7 +24481,7 @@ NA
 NA
 NA
 subject
-*
+NA
 NA
 NA
 direct_object
@@ -24541,7 +24541,7 @@ indirect_object
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 subject
@@ -24727,9 +24727,9 @@ NA
 NA
 NA
 direct_object
+NA
+NA
 *
-NA
-NA
 NA
 NA
 L_object
@@ -25509,9 +25509,9 @@ NA
 direct_object
 subject
 NA
+subject
 NA
 NA
-*
 NA
 NA
 subject
@@ -25521,11 +25521,11 @@ NA
 direct_object
 NA
 NA
-L_object
 NA
 NA
+subject
 NA
-*
+NA
 NA
 NA
 subject
@@ -25738,9 +25738,9 @@ NA
 NA
 *
 NA
+NA
+*
 
-*
-*
 NA
 NA
 direct_object
@@ -25791,7 +25791,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 NA
 direct_object
 626843	NA
@@ -26070,9 +26070,9 @@ NA
 *
 NA
 NA
+subject
 NA
 NA
-K_object
 NA
 NA
 *
@@ -26117,7 +26117,7 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 627200	NA
 NA
 NA
@@ -26283,7 +26283,7 @@ NA
 NA
 NA
 subject
-indirect_object
+NA
 subject
 *
 NA
@@ -26318,8 +26318,8 @@ direct_object
 indirect_object
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 627426	NA
 NA
 indirect_object
@@ -26436,9 +26436,9 @@ NA
 NA
 *
 NA
+subject
+NA
 *
-NA
-NA
 627554	principal_direct_object
 NP_direct_object
 627559	NA
@@ -26564,9 +26564,9 @@ indirect_object
 627696	principal_direct_object
 NA
 NA
+principal_direct_object
 NA
 NA
-indirect_object
 direct_object
 *
 627708	NA
@@ -26595,7 +26595,7 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -26633,9 +26633,9 @@ direct_object
 NA
 direct_object
 NA
-*
-subject
 NA
+subject
+*
 NA
 627783	subject
 NA
@@ -26702,9 +26702,9 @@ NA
 NA
 subject
 NA
-*
-subject
 NA
+subject
+*
 NA
 627860	NA
 NA
@@ -26788,9 +26788,9 @@ NA
 NA
 NA
 subject
-*
-*
 NA
+*
+*
 627950	NA
 NA
 subject
@@ -26810,7 +26810,7 @@ direct_object
 NA
 NA
 subject
-*
+NA
 NA
 NA
 subject
@@ -26961,10 +26961,10 @@ subject
 *
 direct_object
 NA
+subject
+NA
 *
 *
-NA
-NA
 NA
 NA
 subject
@@ -27034,11 +27034,11 @@ NA
 NA
 *
 NA
-*
+NA
 subject
+*
 NA
 NA
-indirect_object
 direct_object
 NA
 NA
@@ -27450,9 +27450,9 @@ subject
 indirect_object
 NA
 direct_object
+NA
+NA
 *
-NA
-NA
 direct_object
 NA
 NA
@@ -27533,9 +27533,9 @@ NA
 subject
 indirect_object
 NA
+direct_object
 NA
 NA
-L_object
 628813	NA
 direct_object
 NA
@@ -27692,7 +27692,7 @@ principal_direct_object
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
@@ -27751,7 +27751,7 @@ principal_direct_object
 NA
 NA
 subject
-L_object
+NA
 NA
 629077	NA
 direct_object
@@ -27766,7 +27766,7 @@ subject
 NA
 NA
 subject
-L_object
+NA
 NA
 direct_object
 *
@@ -27817,15 +27817,15 @@ NA
 subject
 direct_object
 NA
+subject
 NA
 NA
-L_object
 NA
 NA
 629154	NA
+subject
 NA
 NA
-L_object
 NA
 subject
 NA
@@ -28019,7 +28019,7 @@ subject
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 direct_object
@@ -28103,9 +28103,9 @@ indirect_object
 NA
 NA
 subject
+indirect_object
 NA
 NA
-*
 NA
 direct_object
 NA
@@ -28319,7 +28319,7 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 629692	NA
 NA
@@ -28333,20 +28333,20 @@ direct_object
 *
 NA
 NA
-principal_direct_object
-L_object
+direct_object
 NA
 NA
-principal_direct_object
-L_object
+NA
+direct_object
+NA
 NA
 NA
 NA
 subject
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 principal_direct_object
 direct_object
@@ -28467,21 +28467,21 @@ NA
 *
 NA
 NA
+NA
+direct_object
+NA
+direct_object
+NA
+NA
+NA
+direct_object
+NA
+NA
+NA
+NA
 *
 direct_object
 NA
-direct_object
-NA
-NA
-indirect_object
-NA
-NA
-indirect_object
-NA
-NA
-*
-direct_object
-NA
 NA
 NA
 direct_object
@@ -28491,9 +28491,9 @@ NA
 direct_object
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 principal_direct_object
@@ -28607,20 +28607,20 @@ L_object
 principal_direct_object
 NA
 NA
-indirect_object
-NA
-direct_object
-NA
-indirect_object
-direct_object
-NA
-NA
 NA
 NA
 direct_object
 NA
-NA
 indirect_object
+direct_object
+NA
+NA
+NA
+NA
+direct_object
+NA
+NA
+NA
 NA
 NA
 NA
@@ -28640,7 +28640,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -28692,9 +28692,9 @@ NA
 L_object
 NA
 NA
+NA
+NA
 *
-NA
-NA
 NA
 NA
 NA
@@ -28817,7 +28817,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 NA
 direct_object
 NA
@@ -29158,8 +29158,8 @@ NA
 indirect_object
 NA
 NA
-L_object
-L_object
+NA
+NA
 NA
 NA
 *
@@ -29279,8 +29279,8 @@ NA
 subject
 NA
 NA
-L_object
-L_object
+NA
+NA
 NA
 NA
 direct_object
@@ -29575,9 +29575,9 @@ NA
 NA
 subject
 direct_object
+NA
+NA
 *
-NA
-NA
 NA
 direct_object
 NA
@@ -29726,7 +29726,7 @@ NA
 direct_object
 631224	NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -29750,7 +29750,7 @@ direct_object
 direct_object
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -29773,7 +29773,7 @@ principal_direct_object
 *
 NA
 direct_object
-*
+NA
 *
 NA
 subject
@@ -29852,22 +29852,22 @@ direct_object
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
 NA
 NA
 NA
-indirect_object
+NA
+NA
 direct_object
 NA
 NA
@@ -29996,8 +29996,8 @@ subject
 *
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 NA
@@ -30012,7 +30012,7 @@ NA
 NA
 NA
 direct_object
-*
+NA
 NA
 631616	NA
 NA
@@ -30047,34 +30047,34 @@ direct_object
 NA
 NA
 principal_direct_object
-L_object
+NA
 NP_direct_object
 631656	NA
 NA
 principal_direct_object
-L_object
+NA
 NP_direct_object
 631668	NA
 631671	NA
 NA
-L_object
 NA
 NA
-principal_direct_object
-L_object
+NA
+direct_object
+NA
 631680	NA
 direct_object
 NA
 NA
 631703	NA
-*
+NA
 NA
 NA
 direct_object
 NA
+direct_object
 NA
 NA
-L_object
 NA
 NA
 NA
@@ -30096,9 +30096,9 @@ NA
 subject
 631736	NA
 NA
-NA
 principal_direct_object
-L_object
+NP_direct_object
+NA
 631751	NA
 *
 *
@@ -30107,9 +30107,9 @@ direct_object
 NA
 *
 NA
-direct_object
+principal_direct_object
 NA
-*
+NP_direct_object
 631764	NA
 NA
 direct_object
@@ -30151,9 +30151,9 @@ NA
 *
 NA
 NA
-
+direct_object
 *
-NA
+
 NA
 NA
 direct_object
@@ -30165,13 +30165,13 @@ NA
 NA
 NA
 principal_direct_object
-L_object
+NA
 NP_direct_object
 direct_object
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 NA
 principal_direct_object
@@ -30207,12 +30207,12 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 principal_direct_object
 NP_direct_object
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -30226,8 +30226,8 @@ subject
 NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 direct_object
@@ -30292,8 +30292,8 @@ subject
 indirect_object
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 subject
@@ -30313,7 +30313,7 @@ NA
 632072	NA
 NA
 principal_direct_object
-L_object
+NA
 subject
 indirect_object
 NA
@@ -30360,9 +30360,9 @@ NP_direct_object
 NA
 NA
 subject
+direct_object
 *
 *
-NA
 NA
 NA
 NA
@@ -30404,17 +30404,13 @@ NA
 NA
 NA
 NA
-*
+NA
 principal_direct_object
 NP_direct_object
 NA
 NA
-*
-direct_object
-NA
 NA
 direct_object
-*
 NA
 NA
 direct_object
@@ -30422,6 +30418,10 @@ direct_object
 NA
 NA
 direct_object
+*
+NA
+NA
+direct_object
 NA
 *
 NA
@@ -30434,7 +30434,7 @@ NA
 NA
 direct_object
 *
-632225	NA
+632225	*
 NA
 NA
 direct_object
@@ -30459,30 +30459,30 @@ subject
 *
 NA
 NA
+subject
+direct_object
 
+*
+subject
+*
+NA
+
+
+NA
+NA
+*
 direct_object
 NA
+NA
 *
 subject
-
-
-NA
-NA
-NA
-NA
 *
+NA
+NA
+subject
 direct_object
-NA
-NA
-*
-subject
-*
-NA
-NA
-subject
 *
 *
-NA
 NA
 NA
 NA
@@ -30504,7 +30504,7 @@ NA
 NA
 NA
 NA
-*
+NA
 direct_object
 632306	NA
 NA
@@ -30563,40 +30563,40 @@ NA
 principal_direct_object
 NP_direct_object
 NA
-direct_object
-NA
-NA
-NA
-L_object
-NA
 principal_direct_object
 NA
+NP_direct_object
+NA
+NA
+NA
+direct_object
+NA
+NA
+NA
+direct_object
+NA
+direct_object
+NA
+NA
+NA
+NA
+NA
+direct_object
+NA
+NA
+direct_object
+NA
+NA
+direct_object
+NA
+NA
+direct_object
+NA
 NA
 indirect_object
-direct_object
 NA
 NA
 NA
-indirect_object
-NA
-NA
-NA
-direct_object
-NA
-NA
-direct_object
-NA
-NA
-direct_object
-NA
-NA
-direct_object
-NA
-NA
-indirect_object
-NA
-NA
-indirect_object
 principal_direct_object
 NA
 direct_object
@@ -30620,7 +30620,7 @@ NA
 NA
 632425	NA
 NA
-indirect_object
+NA
 NA
 principal_direct_object
 NA
@@ -30915,7 +30915,7 @@ NA
 NA
 632770	NA
 NA
-L_object
+NA
 NA
 632775	NA
 NA
@@ -30927,7 +30927,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 NA
 NA
 *
@@ -30970,8 +30970,8 @@ NA
 NA
 NA
 NA
-indirect_object
-L_object
+NA
+NA
 632842	NA
 NA
 indirect_object
@@ -31023,13 +31023,13 @@ principal_direct_object
 NP_direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 NA
@@ -31038,20 +31038,20 @@ NA
 L_object
 NA
 direct_object
-*
+NA
+NA
+NA
+principal_direct_object
+NP_direct_object
 NA
 NA
 principal_direct_object
 NP_direct_object
 NA
 NA
-principal_direct_object
-NP_direct_object
-NA
-*
 direct_object
-NA
-632938	NA
+*
+632938	
 632941	NA
 NA
 indirect_object
@@ -31108,9 +31108,9 @@ NA
 NA
 *
 subject
+NA
+direct_object
 
-direct_object
-direct_object
 NA
 subject
 NA
@@ -31160,9 +31160,9 @@ principal_direct_object
 NP_direct_object
 633064	NA
 NA
-*
-direct_object
 NA
+direct_object
+*
 NA
 NA
 *
@@ -31284,10 +31284,10 @@ NA
 *
 NA
 NA
+NA
+*
 *
 
-NA
-NA
 NA
 NA
 indirect_object
@@ -31395,8 +31395,8 @@ NA
 subject
 principal_direct_object
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 633358	NA
 NA
 NA
@@ -31434,7 +31434,7 @@ NA
 indirect_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -31524,9 +31524,9 @@ NA
 NA
 *
 NA
+direct_object
 NA
 NA
-indirect_object
 direct_object
 NA
 NA
@@ -31617,7 +31617,7 @@ subject
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 NA
@@ -31690,9 +31690,9 @@ NA
 NA
 subject
 indirect_object
+direct_object
 NA
 NA
-indirect_object
 subject
 NA
 NA
@@ -31709,9 +31709,9 @@ NA
 principal_direct_object
 633706	NA
 NA
-NA
-NA
 indirect_object
+NA
+NA
 direct_object
 NA
 NA
@@ -31777,7 +31777,7 @@ NA
 633791	NA
 NA
 subject
-K_object
+NA
 NA
 NA
 NA
@@ -31822,7 +31822,7 @@ subject
 direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 633848	NA
 NA
@@ -31849,9 +31849,9 @@ NA
 indirect_object
 633878	subject
 NA
+*
+NA
 subject
-NA
-NA
 NA
 NA
 *
@@ -31924,9 +31924,9 @@ direct_object
 *
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 subject
@@ -32078,7 +32078,7 @@ direct_object
 *
 subject
 634131	subject
-*
+NA
 NA
 NA
 subject
@@ -32269,9 +32269,9 @@ NA
 direct_object
 *
 634331	NA
-*
-subject
 NA
+subject
+*
 634338	NA
 NA
 L_object
@@ -32298,9 +32298,9 @@ NA
 NA
 subject
 NA
+subject
 NA
 NA
-*
 NA
 indirect_object
 NA
@@ -32369,7 +32369,7 @@ direct_object
 direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -32410,9 +32410,9 @@ NA
 NA
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 634493	NA
 NA
 subject
@@ -32820,8 +32820,8 @@ subject
 NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 subject
@@ -32857,7 +32857,7 @@ NA
 NA
 NA
 NA
-*
+NA
 NA
 direct_object
 NA
@@ -32882,8 +32882,8 @@ subject
 NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NP_direct_object
 NA
@@ -32898,26 +32898,26 @@ direct_object
 NA
 NA
 NA
+direct_object
 NA
-NA
-*
-NA
-NA
-NA
-principal_direct_object
-NA
-principal_direct_object
 NA
 NA
 NA
 NA
 principal_direct_object
-L_object
+NA
+principal_direct_object
+NA
+NA
+NA
+NA
+principal_direct_object
+NA
 NP_direct_object
 635070	NA
 NA
 principal_direct_object
-L_object
+NA
 NP_direct_object
 NA
 635083	NA
@@ -32925,27 +32925,28 @@ subject
 NA
 NA
 NA
-L_object
 NA
 NA
-principal_direct_object
-L_object
+NA
+direct_object
+NA
 635095	NA
 direct_object
 NA
 NA
 635106	NA
-L_object
 NA
-principal_direct_object
+NA
+direct_object
 635117	NA
-*
+NA
+NA
+direct_object
 NA
 direct_object
 NA
 NA
 NA
-L_object
 NA
 NA
 NA
@@ -32957,7 +32958,6 @@ NA
 NA
 NA
 NA
-L_object
 NA
 NA
 NA
@@ -32994,7 +32994,7 @@ NA
 principal_direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 principal_direct_object
@@ -33006,7 +33006,7 @@ direct_object
 NA
 NA
 principal_direct_object
-L_object
+NA
 NP_direct_object
 NA
 NA
@@ -33024,7 +33024,7 @@ NP_direct_object
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -33055,7 +33055,7 @@ NP_direct_object
 NA
 principal_direct_object
 NA
-635274	*
+635274	NA
 NA
 direct_object
 NA
@@ -33080,18 +33080,18 @@ principal_direct_object
 NP_direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 NA
@@ -33169,19 +33169,19 @@ principal_direct_object
 NP_direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 NA
 635456	NA
 direct_object
-*
+NA
 NA
 NA
 principal_direct_object
@@ -33221,8 +33221,8 @@ NA
 NP_direct_object
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 NA
 NA
@@ -33246,7 +33246,7 @@ principal_direct_object
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 direct_object
@@ -33278,7 +33278,7 @@ NA
 NA
 NA
 NA
-*
+NA
 subject
 NA
 NA
@@ -33294,7 +33294,7 @@ NA
 subject
 635657	NA
 NA
-L_object
+NA
 NA
 NA
 NA
@@ -33302,9 +33302,9 @@ subject
 *
 NA
 NA
+subject
+NA
 
-NA
-NA
 635673	NA
 NA
 *
@@ -33318,7 +33318,7 @@ direct_object
 principal_direct_object
 NA
 NP_direct_object
-L_object
+NA
 NA
 NA
 direct_object
@@ -33327,10 +33327,10 @@ NA
 direct_object
 635699	NA
 NA
-*
+NA
 direct_object
 635707	NA
-*
+NA
 NA
 principal_direct_object
 NA
@@ -33355,9 +33355,9 @@ principal_direct_object
 NA
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 *
 NA
@@ -33413,34 +33413,34 @@ direct_object
 *
 NA
 NA
+direct_object
+*
 
-*
-NA
 NA
 direct_object
 NA
 *
 NA
+direct_object
 *
 *
-NA
 NA
 NA
 direct_object
 NA
-*
-*
 NA
+*
+*
 635848	NA
 NA
 direct_object
 NA
+principal_direct_object
 *
 *
 *
+L_object
 *
-NA
-NA
 NA
 NA
 principal_direct_object
@@ -33466,19 +33466,19 @@ NP_direct_object
 NA
 NA
 NA
-*
-direct_object
-NA
-NA
 NA
 direct_object
 NA
-*
-*
-*
-*
 NA
 NA
+direct_object
+NA
+NA
+principal_direct_object
+*
+*
+*
+*
 635906	NA
 NA
 NA
@@ -33486,9 +33486,9 @@ subject
 direct_object
 NA
 NA
-NA
 principal_direct_object
-L_object
+NP_direct_object
+NA
 635922	NA
 principal_direct_object
 NP_direct_object
@@ -33511,9 +33511,9 @@ direct_object
 NA
 *
 principal_direct_object
-L_object
-*
 NA
+*
+*
 NA
 NA
 subject
@@ -33614,9 +33614,9 @@ NA
 *
 direct_object
 NA
-*
-direct_object
 NA
+direct_object
+*
 NA
 NA
 direct_object
@@ -33695,44 +33695,6 @@ NA
 NA
 NA
 subject
-K_object
-NA
-NA
-subject
-direct_object
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-subject
-NA
-NA
-subject
-direct_object
-NA
-NA
-direct_object
-NA
-NA
-direct_object
-NA
-NA
-direct_object
-NA
-NA
-direct_object
-NA
-NA
-direct_object
-*
-NA
-NA
-*
-*
 NA
 NA
 NA
@@ -33742,6 +33704,44 @@ NA
 NA
 NA
 NA
+NA
+NA
+NA
+NA
+subject
+NA
+NA
+subject
+direct_object
+NA
+NA
+direct_object
+NA
+NA
+direct_object
+NA
+NA
+direct_object
+NA
+NA
+direct_object
+NA
+NA
+direct_object
+*
+NA
+NA
+direct_object
+*
+*
+NA
+NA
+subject
+direct_object
+NA
+NA
+NA
+NA
 direct_object
 *
 NA
@@ -33750,9 +33750,9 @@ direct_object
 *
 NA
 NA
+direct_object
 *
 *
-NA
 NA
 NA
 direct_object
@@ -33769,10 +33769,10 @@ subject
 direct_object
 NA
 NA
+direct_object
 *
 *
-NA
-NA
+*
 NA
 NA
 *
@@ -33784,10 +33784,10 @@ subject
 direct_object
 NA
 NA
+direct_object
 *
 *
-NA
-NA
+*
 NA
 NA
 direct_object
@@ -33797,10 +33797,10 @@ NA
 subject
 direct_object
 NA
+NA
+direct_object
 *
 *
-NA
-NA
 NA
 NA
 *
@@ -33811,8 +33811,8 @@ subject
 direct_object
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 direct_object
 NA
@@ -34106,14 +34106,14 @@ NA
 *
 direct_object
 636621	direct_object
-*
+NA
 NA
 NA
 NA
 principal_direct_object
 NA
 NA
-*
+NA
 L_object
 NA
 direct_object
@@ -34213,10 +34213,10 @@ direct_object
 NA
 NA
 direct_object
-636756	
-NP_direct_object
-NA
-principal_direct_object
+636756	NA
+
+
+direct_object
 NA
 NA
 direct_object
@@ -34259,10 +34259,10 @@ principal_direct_object
 NA
 NA
 direct_object
-636821	
-NP_direct_object
-NA
-principal_direct_object
+636821	NA
+
+
+direct_object
 NA
 direct_object
 subject
@@ -34317,7 +34317,7 @@ NA
 NA
 NA
 NA
-*
+NA
 NA
 subject
 NA
@@ -34380,10 +34380,10 @@ NA
 NA
 NA
 *
-636976	
-NP_direct_object
-NA
-principal_direct_object
+636976	NA
+
+
+direct_object
 NA
 NA
 *
@@ -34475,13 +34475,13 @@ NA
 *
 NA
 NA
-L_object
 NA
 NA
-L_object
 NA
 NA
-indirect_object
+NA
+NA
+NA
 NA
 NA
 *
@@ -34519,9 +34519,9 @@ NA
 NA
 *
 NA
+NA
+direct_object
 
-principal_direct_object
-NP_direct_object
 NA
 NA
 direct_object
@@ -34578,9 +34578,9 @@ subject
 NA
 NA
 NA
+NA
+direct_object
 
-principal_direct_object
-NP_direct_object
 NA
 NA
 NA
@@ -34625,9 +34625,9 @@ NA
 indirect_object
 NA
 NA
-NA
-NA
 direct_object
+NA
+NA
 NA
 direct_object
 NA
@@ -34751,9 +34751,9 @@ principal_direct_object
 L_object
 NA
 NA
+NA
+NA
 
-NA
-NA
 NA
 NA
 *
@@ -34770,7 +34770,7 @@ NA
 principal_direct_object
 NA
 NA
-NP_direct_object
+NA
 L_object
 637399	NA
 NA
@@ -34818,10 +34818,10 @@ subject
 L_object
 NA
 NA
-principal_direct_object
-
+direct_object
 NA
-NP_direct_object
+NA
+
 NA
 NA
 NA
@@ -35044,9 +35044,9 @@ NA
 subject
 direct_object
 NA
-*
-direct_object
 NA
+direct_object
+*
 NA
 NA
 direct_object
@@ -35134,7 +35134,7 @@ NA
 NA
 direct_object
 637820	NA
-*
+NA
 NA
 NA
 direct_object
@@ -35237,10 +35237,10 @@ NA
 NA
 NA
 direct_object
-637945	
-NP_direct_object
-NA
-principal_direct_object
+637945	NA
+
+
+direct_object
 NA
 NA
 direct_object
@@ -35264,9 +35264,9 @@ NA
 NA
 637987	NA
 NA
-NA
-NA
 *
+NA
+NA
 637993	NA
 NA
 direct_object
@@ -35394,9 +35394,9 @@ direct_object
 NA
 NA
 NA
+subject
 NA
 NA
-L_object
 NA
 NA
 NA
@@ -35476,9 +35476,9 @@ NA
 *
 NA
 NA
-*
+principal_direct_object
 L_object
-NA
+L_object
 NA
 638245	NA
 principal_direct_object
@@ -36500,7 +36500,7 @@ subject
 NA
 NA
 subject
-*
+NA
 *
 NA
 NA
@@ -37210,7 +37210,7 @@ subject
 NA
 NA
 subject
-L_object
+NA
 NA
 subject
 640400	NA
@@ -37553,7 +37553,7 @@ NA
 subject
 *
 640792	*
-NA
+*
 NA
 NA
 NA
@@ -37591,9 +37591,9 @@ NA
 NA
 *
 NA
-*
+subject
 NA
-NA
+indirect_object
 L_object
 NA
 NA
@@ -38364,7 +38364,7 @@ NA
 direct_object
 NA
 NA
-L_object
+NA
 NA
 NA
 direct_object
@@ -38376,7 +38376,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 *
@@ -38685,8 +38685,8 @@ NA
 NA
 principal_direct_object
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 subject
@@ -38903,11 +38903,11 @@ principal_direct_object
 NA
 *
 NA
+*
+NA
 
 NA
 NA
-NA
-L_object
 NA
 NA
 NA
@@ -38997,7 +38997,7 @@ NA
 *
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -39026,7 +39026,7 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 642462	NA
 NA
 NA
@@ -39334,7 +39334,7 @@ NA
 642801	NA
 NA
 direct_object
-*
+NA
 subject
 NA
 indirect_object
@@ -40478,7 +40478,7 @@ NA
 principal_direct_object
 NP_direct_object
 644203	*
-NA
+*
 NA
 NA
 *
@@ -40577,7 +40577,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 644333	NA
 NA
 direct_object
@@ -40839,7 +40839,7 @@ NA
 NA
 L_object
 644623	NA
-NA
+*
 principal_direct_object
 NA
 L_object
@@ -41152,7 +41152,7 @@ direct_object
 *
 644991	NA
 NA
-indirect_object
+NA
 direct_object
 NA
 direct_object
@@ -41328,7 +41328,7 @@ direct_object
 subject
 NA
 direct_object
-indirect_object
+NA
 NA
 NA
 *
@@ -41396,88 +41396,6 @@ direct_object
 NA
 NA
 NA
-*
-NA
-NA
-NA
-NA
-NA
-indirect_object
-NA
-NA
-*
-direct_object
-NA
-NA
-NA
-NA
-*
-direct_object
-NA
-NA
-direct_object
-NA
-NA
-direct_object
-NA
-NA
-direct_object
-NA
-NA
-subject
-NA
-NA
-NA
-NA
-NA
-indirect_object
-NA
-NA
-*
-NA
-NA
-NA
-subject
-*
-NA
-NA
-NA
-direct_object
-subject
-NA
-NA
-NA
-NA
-*
-direct_object
-NA
-direct_object
-NA
-NA
-*
-NA
-NA
-direct_object
-*
-NA
-NA
-*
-subject
-indirect_object
-direct_object
-NA
-NA
-subject
-direct_object
-*
-NA
-NA
-direct_object
-NA
-NA
-NA
-NA
-NA
 NA
 NA
 NA
@@ -41488,10 +41406,92 @@ indirect_object
 NA
 NA
 *
+direct_object
+NA
 NA
 NA
 NA
 *
+direct_object
+NA
+NA
+direct_object
+NA
+NA
+direct_object
+NA
+NA
+direct_object
+NA
+NA
+subject
+NA
+NA
+NA
+NA
+NA
+indirect_object
+NA
+NA
+NA
+NA
+NA
+NA
+subject
+NA
+NA
+NA
+NA
+direct_object
+subject
+NA
+NA
+NA
+NA
+*
+direct_object
+NA
+direct_object
+NA
+NA
+*
+NA
+NA
+direct_object
+*
+NA
+NA
+*
+subject
+indirect_object
+direct_object
+NA
+NA
+subject
+direct_object
+*
+NA
+NA
+direct_object
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indirect_object
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -41642,11 +41642,11 @@ NA
 NA
 NA
 NA
-*
 NA
 NA
+subject
 NA
-*
+NA
 NA
 NA
 NA
@@ -41715,9 +41715,9 @@ indirect_object
 NA
 645581	NA
 NA
+subject
 *
 *
-NA
 NA
 NA
 NA
@@ -41938,9 +41938,9 @@ indirect_object
 subject
 direct_object
 NA
-
-direct_object
 NA
+direct_object
+
 645856	NA
 NA
 subject
@@ -42040,15 +42040,15 @@ NA
 NA
 subject
 *
-
 NA
-direct_object
+NA
+
 645989	NA
 direct_object
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 subject
 NA
 NA
@@ -42120,9 +42120,9 @@ subject
 NA
 subject
 NA
-
 NA
-subject
+NA
+
 subject
 NA
 NA
@@ -42135,9 +42135,9 @@ NA
 NA
 NA
 subject
-
 NA
-subject
+NA
+
 NA
 NA
 *
@@ -42151,9 +42151,9 @@ NA
 NA
 NA
 direct_object
+NA
+NA
 *
-NA
-NA
 NA
 subject
 NA
@@ -42525,9 +42525,9 @@ NA
 NA
 NA
 646690	NA
+NA
+direct_object
 
-principal_direct_object
-L_object
 NA
 NA
 *
@@ -42705,9 +42705,9 @@ NA
 direct_object
 *
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 NA
@@ -42753,7 +42753,7 @@ NA
 direct_object
 646943	NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -42764,9 +42764,9 @@ NA
 NA
 *
 *
-646962	L_object
+646962	NA
 NA
-principal_direct_object
+direct_object
 NA
 principal_direct_object
 NA
@@ -42775,7 +42775,7 @@ L_object
 NA
 direct_object
 646983	NA
-NA
+*
 NA
 direct_object
 646991	NA
@@ -43119,13 +43119,13 @@ subject
 L_object
 NA
 subject
-*
+principal_direct_object
 L_object
-NA
-NA
 *
-direct_object
 NA
+subject
+direct_object
+*
 647371	NA
 NA
 subject
@@ -43237,7 +43237,7 @@ direct_object
 *
 NA
 NA
-indirect_object
+NA
 subject
 direct_object
 NA
@@ -43281,7 +43281,7 @@ NA
 *
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -43385,7 +43385,7 @@ NA
 principal_direct_object
 NA
 NP_direct_object
-L_object
+NA
 NA
 NA
 NA
@@ -43466,7 +43466,7 @@ direct_object
 indirect_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -43543,7 +43543,7 @@ NA
 L_object
 NA
 NA
-647851	*
+647851	NA
 NA
 NA
 NA
@@ -43671,7 +43671,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 *
@@ -43803,7 +43803,7 @@ subject
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 NA
@@ -43812,7 +43812,7 @@ principal_direct_object
 L_object
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -43845,7 +43845,7 @@ direct_object
 *
 NA
 NA
-indirect_object
+NA
 NA
 NA
 subject
@@ -43875,7 +43875,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 NA
@@ -43971,8 +43971,8 @@ NA
 L_object
 648596	NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 NA
@@ -44018,8 +44018,8 @@ NA
 subject
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 NA
@@ -44135,7 +44135,7 @@ subject
 indirect_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NP_direct_object
 NA
@@ -44325,7 +44325,7 @@ NA
 NA
 NA
 NA
-*
+NA
 NA
 NA
 subject
@@ -44495,9 +44495,9 @@ subject
 direct_object
 NA
 NA
-NA
+indirect_object
 direct_object
-*
+NA
 NA
 NA
 subject
@@ -44526,9 +44526,9 @@ direct_object
 649245	NA
 NA
 NA
+subject
 NA
 NA
-indirect_object
 direct_object
 NA
 NA
@@ -45094,10 +45094,10 @@ NA
 NA
 *
 *
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 NA
 principal_direct_object
 NP_direct_object
@@ -45306,7 +45306,7 @@ NA
 NA
 NA
 NA
-*
+NA
 direct_object
 *
 NA
@@ -45388,7 +45388,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 *
 NA
 NA
@@ -45475,7 +45475,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 NA
 NA
 subject
@@ -45535,9 +45535,9 @@ subject
 NA
 NA
 NA
+direct_object
 NA
 NA
-L_object
 NA
 NA
 *
@@ -45668,13 +45668,13 @@ indirect_object
 NA
 NA
 principal_direct_object
-L_object
+NA
 NA
 direct_object
 650618	NA
+direct_object
 NA
-L_object
-*
+NA
 NA
 NA
 NA
@@ -45719,13 +45719,13 @@ L_object
 NA
 650671	NA
 NA
-L_object
 NA
 NA
 NA
 NA
 NA
-L_object
+NA
+NA
 NA
 subject
 NA
@@ -45741,8 +45741,8 @@ NA
 subject
 650697	NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 NA
@@ -45923,9 +45923,9 @@ direct_object
 NA
 NA
 NA
+subject
 NA
 NA
-indirect_object
 NA
 NA
 subject
@@ -45965,7 +45965,7 @@ NA
 indirect_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -46060,7 +46060,7 @@ NA
 NA
 *
 direct_object
-NA
+*
 NA
 NA
 NA
@@ -46701,12 +46701,12 @@ subject
 NA
 651771	NA
 NA
+direct_object
 *
-*
+indirect_object
+principal_direct_object
 NA
 NA
-NA
-L_object
 NA
 direct_object
 NA
@@ -46806,14 +46806,14 @@ indirect_object
 NA
 indirect_object
 NA
-direct_object
+principal_direct_object
 NA
 NA
 subject
 L_object
-*
-indirect_object
 NA
+indirect_object
+L_object
 651918	NA
 NA
 subject
@@ -46864,11 +46864,11 @@ NA
 NA
 L_object
 principal_direct_object
-*
+NA
+L_object
 L_object
 NA
 NA
-NA
 indirect_object
 NA
 NA
@@ -46892,8 +46892,8 @@ direct_object
 NA
 NA
 indirect_object
-*
 NA
+*
 NA
 NA
 *
@@ -46913,7 +46913,7 @@ NA
 *
 NA
 NA
-*
+NA
 principal_direct_object
 L_object
 *
@@ -47447,7 +47447,7 @@ subject
 NA
 NA
 direct_object
-652606	*
+652606	NA
 NA
 NA
 NA
@@ -47657,9 +47657,9 @@ subject
 NA
 NA
 subject
-NA
-NA
 indirect_object
+NA
+NA
 direct_object
 NA
 NA
@@ -47885,10 +47885,10 @@ NA
 direct_object
 NA
 NA
-indirect_object
 NA
 NA
-L_object
+NA
+NA
 NA
 NA
 *
@@ -47916,7 +47916,7 @@ direct_object
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
@@ -47993,10 +47993,10 @@ indirect_object
 NA
 NA
 NA
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 NA
 NA
 subject
@@ -48041,7 +48041,7 @@ subject
 indirect_object
 NA
 NA
-*
+NA
 NA
 NA
 direct_object
@@ -48058,11 +48058,11 @@ indirect_object
 NA
 *
 NA
-
+NA
 subject
+
 NA
 NA
-*
 NA
 NA
 subject
@@ -48072,9 +48072,9 @@ indirect_object
 NA
 NA
 NA
+subject
 NA
 NA
-*
 NA
 NA
 NA
@@ -48172,7 +48172,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 NA
 NA
 subject
@@ -48259,9 +48259,9 @@ direct_object
 NA
 NA
 L_object
+direct_object
 NA
 NA
-indirect_object
 NA
 direct_object
 NA
@@ -48289,7 +48289,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -48367,9 +48367,9 @@ indirect_object
 NA
 NA
 subject
+indirect_object
 NA
 NA
-*
 653644	NA
 NA
 indirect_object
@@ -48378,7 +48378,7 @@ NA
 NA
 NA
 subject
-*
+NA
 NA
 NA
 subject
@@ -48430,7 +48430,7 @@ NA
 NA
 NA
 subject
-*
+NA
 NA
 NA
 *
@@ -48588,9 +48588,9 @@ NA
 NA
 subject
 indirect_object
+direct_object
 NA
 NA
-indirect_object
 NA
 direct_object
 principal_direct_object
@@ -48971,7 +48971,7 @@ principal_direct_object
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 NA
@@ -49241,9 +49241,9 @@ NA
 NA
 subject
 indirect_object
-
 NA
-direct_object
+NA
+
 NA
 direct_object
 NA
@@ -49412,7 +49412,7 @@ NA
 NA
 indirect_object
 subject
-NA
+*
 subject
 NA
 NA
@@ -49475,7 +49475,7 @@ subject
 654962	NA
 indirect_object
 direct_object
-NA
+*
 NA
 NA
 subject
@@ -49497,7 +49497,7 @@ NA
 NA
 NA
 direct_object
-indirect_object
+NA
 NA
 *
 NA
@@ -49506,8 +49506,8 @@ NA
 NA
 654999	NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 655008	NA
 NA
 principal_direct_object
@@ -49717,9 +49717,9 @@ principal_direct_object
 655270	subject
 NA
 NA
-655283	
+655283	NA
 subject
-L_object
+
 NA
 NA
 655296	NA
@@ -49739,12 +49739,12 @@ indirect_object
 655315	NA
 *
 655319	NA
-principal_direct_object
-L_object
+direct_object
 NA
 NA
+direct_object
 NA
-L_object
+NA
 NA
 655329	NA
 *
@@ -49804,7 +49804,7 @@ indirect_object
 NA
 NA
 principal_direct_object
-L_object
+NA
 NP_direct_object
 655410	NA
 *
@@ -49863,9 +49863,9 @@ NA
 NA
 principal_direct_object
 NP_direct_object
-655577	NA
+655577	direct_object
 NA
-L_object
+NA
 NA
 NA
 NA
@@ -50601,7 +50601,7 @@ NA
 NA
 subject
 direct_object
-NA
+*
 subject
 direct_object
 *
@@ -50697,7 +50697,7 @@ NA
 NA
 NA
 NA
-*
+NA
 NA
 NA
 *
@@ -50802,9 +50802,9 @@ NA
 NA
 subject
 *
+principal_direct_object
 NA
 NA
-*
 NA
 subject
 direct_object
@@ -50837,10 +50837,10 @@ NA
 NA
 *
 *
-*
-*
 NA
 NA
+*
+*
 NA
 NA
 *
@@ -51196,7 +51196,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 NA
 NA
 subject
@@ -51437,9 +51437,9 @@ NA
 subject
 NA
 NA
+NA
+NA
 *
-NA
-NA
 L_object
 NA
 NA
@@ -51486,13 +51486,13 @@ NA
 subject
 NA
 indirect_object
-*
-NA
-NA
+direct_object
 NA
 *
 NA
+direct_object
 NA
+*
 subject
 NA
 L_object
@@ -52013,12 +52013,12 @@ NA
 NA
 NA
 *
+NA
+NA
 *
 NA
-principal_direct_object
-*
 NA
-NP_direct_object
+*
 NA
 NA
 subject
@@ -52064,10 +52064,10 @@ NA
 NA
 indirect_object
 direct_object
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 NA
 NA
 *
@@ -52100,10 +52100,10 @@ NA
 NA
 NA
 indirect_object
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 NA
 NA
 658077	NA
@@ -52168,9 +52168,9 @@ direct_object
 subject
 NA
 NA
-*
+subject
 direct_object
-NA
+*
 NA
 NA
 subject
@@ -52181,9 +52181,9 @@ subject
 NA
 *
 NA
-*
-*
 NA
+*
+*
 NA
 indirect_object
 principal_direct_object
@@ -52426,10 +52426,10 @@ NA
 subject
 direct_object
 *
+NA
+subject
 *
 
-direct_object
-NA
 NA
 658428	NA
 NA
@@ -52445,7 +52445,7 @@ NA
 NA
 NA
 NA
-NA
+*
 NA
 NA
 subject
@@ -52499,7 +52499,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
@@ -52591,7 +52591,7 @@ NA
 *
 NA
 NA
-L_object
+NA
 NA
 NA
 *
@@ -52675,7 +52675,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -52789,10 +52789,10 @@ NA
 direct_object
 NA
 NA
-indirect_object
 NA
 NA
-L_object
+NA
+NA
 NA
 NA
 *
@@ -52827,7 +52827,7 @@ NA
 direct_object
 NA
 NA
-L_object
+NA
 NA
 direct_object
 NA
@@ -52874,7 +52874,7 @@ direct_object
 NA
 NA
 direct_object
-*
+NA
 658906	NA
 L_object
 NA
@@ -52914,9 +52914,9 @@ subject
 direct_object
 NA
 subject
-*
-indirect_object
 NA
+indirect_object
+*
 NA
 NA
 658960	NA
@@ -52933,11 +52933,11 @@ direct_object
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
-L_object
+NA
 NA
 subject
 NA
@@ -53208,7 +53208,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 659308	NA
 NA
@@ -53286,7 +53286,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 direct_object
@@ -53433,7 +53433,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -53604,7 +53604,7 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 659769	NA
 NA
@@ -53617,20 +53617,20 @@ direct_object
 *
 NA
 NA
-principal_direct_object
-L_object
+direct_object
 NA
 NA
-principal_direct_object
-L_object
+NA
+direct_object
+NA
 NA
 NA
 NA
 subject
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 principal_direct_object
 direct_object
@@ -54163,7 +54163,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -54317,18 +54317,18 @@ NA
 NA
 NA
 subject
-L_object
-direct_object
-NA
-NA
-subject
 NA
 direct_object
+NA
+NA
+subject
+NA
+direct_object
 subject
 NA
 NA
 subject
-L_object
+NA
 660561	NA
 direct_object
 NA
@@ -54427,11 +54427,11 @@ NA
 NA
 direct_object
 NA
+direct_object
+subject
 
 
 *
-NA
-NA
 principal_direct_object
 principal_direct_object
 NA
@@ -54585,9 +54585,9 @@ NA
 NA
 NA
 *
+subject
 NA
 NA
-indirect_object
 direct_object
 NA
 NA
@@ -54802,9 +54802,9 @@ NA
 NA
 *
 NA
+direct_object
 NA
 NA
-indirect_object
 direct_object
 NA
 NA
@@ -54837,9 +54837,9 @@ NA
 661116	NA
 NA
 661120	NA
+L_object
 NA
 NA
-indirect_object
 direct_object
 NA
 NA
@@ -55264,11 +55264,11 @@ direct_object
 661584	NA
 NA
 NA
-L_object
 NA
 NA
 NA
-L_object
+NA
+NA
 NA
 NA
 direct_object
@@ -55282,14 +55282,14 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 NA
 subject
 *
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 subject
@@ -55382,9 +55382,9 @@ NA
 NA
 direct_object
 NA
-*
-principal_direct_object
 NA
+principal_direct_object
+*
 L_object
 NA
 NA
@@ -55635,7 +55635,7 @@ direct_object
 NA
 NA
 NA
-L_object
+NA
 NA
 *
 NA
@@ -55751,9 +55751,9 @@ NA
 direct_object
 NA
 NA
-*
-indirect_object
 NA
+indirect_object
+*
 subject
 direct_object
 NA
@@ -55875,7 +55875,7 @@ subject
 NA
 NA
 direct_object
-*
+NA
 NA
 direct_object
 NA
@@ -55936,13 +55936,13 @@ subject
 NA
 NA
 NA
-L_object
-NA
-principal_direct_object
 NA
 NA
+direct_object
 NA
-L_object
+NA
+NA
+NA
 NA
 principal_direct_object
 NA
@@ -56386,9 +56386,9 @@ NA
 NA
 direct_object
 NA
+NA
+direct_object
 
-principal_direct_object
-L_object
 direct_object
 NA
 NA
@@ -56494,7 +56494,7 @@ NA
 indirect_object
 NA
 NA
-*
+NA
 indirect_object
 NA
 NA
@@ -56596,7 +56596,7 @@ NA
 indirect_object
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -56657,8 +56657,8 @@ NA
 direct_object
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 direct_object
@@ -56796,9 +56796,9 @@ NA
 NA
 NA
 direct_object
+direct_object
 NA
 NA
-indirect_object
 NA
 subject
 *
@@ -56838,14 +56838,14 @@ NA
 NA
 indirect_object
 direct_object
-*
+NA
 indirect_object
-NA
-NA
 *
-
 NA
-L_object
+subject
+NA
+indirect_object
+
 NA
 NA
 principal_direct_object
@@ -56885,7 +56885,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -56994,7 +56994,7 @@ indirect_object
 direct_object
 NA
 NA
-*
+NA
 NA
 NA
 indirect_object
@@ -57008,7 +57008,7 @@ NA
 NA
 NA
 direct_object
-*
+NA
 NA
 direct_object
 NA
@@ -57019,9 +57019,9 @@ NA
 NA
 *
 NA
-*
-indirect_object
 NA
+indirect_object
+*
 663553	NA
 NA
 NA
@@ -57147,9 +57147,9 @@ NA
 subject
 *
 NA
-L_object
-*
 NA
+*
+*
 NA
 NA
 direct_object
@@ -57229,7 +57229,7 @@ indirect_object
 NA
 NA
 NA
-K_object
+NA
 NA
 NA
 *
@@ -57629,11 +57629,11 @@ NA
 *
 NA
 NA
-indirect_object
 NA
 NA
 NA
-L_object
+NA
+NA
 NA
 NA
 direct_object
@@ -57698,7 +57698,7 @@ NA
 *
 664280	NA
 NA
-*
+NA
 NA
 indirect_object
 *
@@ -57818,7 +57818,7 @@ NA
 *
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -57846,7 +57846,7 @@ subject
 indirect_object
 NA
 NA
-L_object
+NA
 664449	NA
 NA
 subject
@@ -57870,7 +57870,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 L_object
@@ -57908,9 +57908,9 @@ NA
 direct_object
 NA
 NA
+subject
 NA
 NA
-*
 direct_object
 direct_object
 NA
@@ -58234,15 +58234,15 @@ indirect_object
 NA
 NA
 NA
-L_object
 NA
 NA
 NA
-L_object
 NA
 NA
 NA
-L_object
+NA
+NA
+NA
 NA
 NA
 *
@@ -58305,8 +58305,8 @@ NA
 direct_object
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 NA
@@ -58334,10 +58334,10 @@ NA
 NA
 direct_object
 NA
+direct_object
 NA
 NA
 NA
-*
 NA
 NA
 *
@@ -58352,7 +58352,7 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -58522,10 +58522,10 @@ NA
 NA
 *
 665172	NA
-L_object
 NA
 NA
-principal_direct_object
+NA
+direct_object
 665181	NA
 NA
 subject
@@ -58981,7 +58981,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 NA
 subject
 *
@@ -59258,7 +59258,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 NA
@@ -59320,7 +59320,7 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 subject
@@ -59894,7 +59894,7 @@ NA
 NA
 indirect_object
 NA
-NA
+*
 NA
 *
 NA
@@ -59989,9 +59989,9 @@ NA
 NA
 subject
 NA
+direct_object
+NA
 *
-NA
-NA
 NA
 *
 direct_object
@@ -60084,7 +60084,7 @@ NA
 NA
 indirect_object
 NA
-NA
+*
 NA
 *
 NA
@@ -60333,7 +60333,7 @@ NA
 subject
 *
 direct_object
-NA
+*
 NA
 NA
 subject
@@ -60344,8 +60344,8 @@ direct_object
 667077	NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 direct_object
 NA
@@ -60533,9 +60533,9 @@ subject
 NA
 NA
 NA
-*
+subject
 indirect_object
-NA
+*
 direct_object
 NA
 NA
@@ -60568,7 +60568,7 @@ NA
 NA
 direct_object
 subject
-NA
+*
 NA
 NA
 NA
@@ -60612,7 +60612,7 @@ NA
 subject
 NA
 NA
-L_object
+NA
 NP_direct_object
 NA
 NA
@@ -60825,9 +60825,9 @@ NA
 subject
 NA
 NA
+subject
 NA
 NA
-L_object
 667613	NA
 NA
 NA
@@ -61166,10 +61166,10 @@ subject
 NA
 NA
 subject
-indirect_object
 NA
 NA
-L_object
+NA
+NA
 NA
 NA
 direct_object
@@ -61179,7 +61179,7 @@ subject
 *
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -61195,7 +61195,7 @@ NA
 *
 668011	NA
 NA
-*
+NA
 NA
 direct_object
 NA
@@ -61883,8 +61883,8 @@ NA
 NA
 indirect_object
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 subject
 NA
@@ -62272,7 +62272,7 @@ principal_direct_object
 subject
 NA
 NA
-L_object
+NA
 NA
 NA
 subject
@@ -62343,14 +62343,14 @@ NA
 NA
 NA
 NA
-K_object
+NA
 NA
 direct_object
 subject
 NA
-*
-*
 NA
+*
+*
 NA
 NA
 *
@@ -62367,7 +62367,7 @@ NA
 NA
 NA
 NA
-K_object
+NA
 NA
 NA
 *
@@ -62444,7 +62444,7 @@ NA
 NA
 indirect_object
 subject
-NA
+*
 NA
 subject
 NA
@@ -62476,7 +62476,7 @@ NA
 NA
 indirect_object
 subject
-NA
+*
 NA
 NA
 principal_direct_object
@@ -62659,7 +62659,7 @@ subject
 NA
 NA
 NA
-L_object
+NA
 669744	NA
 NA
 direct_object
@@ -62681,12 +62681,12 @@ indirect_object
 *
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
 subject
-*
+NA
 direct_object
 NA
 NA
@@ -62716,7 +62716,7 @@ indirect_object
 direct_object
 NA
 NA
-*
+NA
 direct_object
 NA
 direct_object
@@ -63085,7 +63085,7 @@ direct_object
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 direct_object
@@ -63303,7 +63303,7 @@ subject
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 NA
@@ -63338,9 +63338,9 @@ NA
 NA
 NA
 subject
-NA
-NA
 indirect_object
+NA
+NA
 direct_object
 NA
 NA
@@ -63349,7 +63349,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 subject
 direct_object
 NA
@@ -63848,9 +63848,9 @@ NA
 direct_object
 NA
 *
-671035	*
+671035	direct_object
 NA
-NA
+*
 NA
 direct_object
 671042	NA
@@ -64019,9 +64019,9 @@ NA
 direct_object
 *
 NA
+direct_object
 NA
 NA
-L_object
 NA
 NA
 subject
@@ -64135,7 +64135,7 @@ NA
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 subject
@@ -64173,8 +64173,8 @@ subject
 indirect_object
 671375	NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 indirect_object
@@ -64197,9 +64197,9 @@ NA
 NA
 subject
 NA
+L_object
 NA
 NA
-K_object
 NA
 NA
 NA
@@ -64298,13 +64298,13 @@ NA
 direct_object
 NA
 NA
-L_object
 NA
 NA
-L_object
+NA
+NA
 direct_object
 NA
-NA
+indirect_object
 NA
 NA
 NA
@@ -64380,9 +64380,9 @@ NA
 subject
 direct_object
 NA
-NA
+direct_object
 *
-K_object
+NA
 NA
 NA
 NA
@@ -64712,9 +64712,9 @@ NA
 NA
 NA
 NA
-
+subject
 NA
-*
+
 NA
 671966	NA
 NA
@@ -64761,7 +64761,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
@@ -64834,8 +64834,8 @@ NA
 NA
 NA
 NA
-L_object
-672098	L_object
+NA
+672098	
 672101	NA
 NA
 indirect_object
@@ -64888,7 +64888,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 subject
 direct_object
 NA
@@ -64947,9 +64947,9 @@ NA
 NA
 NA
 *
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 direct_object
@@ -65030,11 +65030,11 @@ NA
 direct_object
 672319	NA
 NA
-indirect_object
 NA
 NA
 NA
-indirect_object
+NA
+NA
 NA
 NA
 NA
@@ -65045,6 +65045,8 @@ NA
 direct_object
 NA
 direct_object
+subject
+NA
 
 NA
 *
@@ -65053,8 +65055,6 @@ NA
 NA
 NA
 NA
-NA
-NA
 subject
 NA
 NA
@@ -65064,10 +65064,10 @@ NA
 direct_object
 NA
 NA
-L_object
 NA
 NA
-L_object
+NA
+NA
 NA
 NA
 NA
@@ -65368,7 +65368,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 NA
 subject
 NA
@@ -65424,10 +65424,10 @@ NA
 direct_object
 NA
 NA
-L_object
 NA
 NA
-L_object
+NA
+NA
 NA
 NA
 subject
@@ -65450,10 +65450,10 @@ NA
 direct_object
 NA
 NA
-L_object
 NA
 NA
-L_object
+NA
+NA
 NA
 NA
 subject
@@ -65479,7 +65479,7 @@ direct_object
 672796	NA
 NA
 NA
-L_object
+NA
 NA
 NA
 subject
@@ -65516,7 +65516,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 subject
@@ -65536,7 +65536,7 @@ direct_object
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 direct_object
@@ -65560,14 +65560,14 @@ NA
 direct_object
 NA
 NA
-L_object
-NA
-NA
-L_object
 NA
 NA
 NA
-L_object
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 subject
@@ -65667,7 +65667,7 @@ indirect_object
 direct_object
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -65774,7 +65774,7 @@ direct_object
 NA
 NA
 subject
-*
+NA
 direct_object
 NA
 NA
@@ -66048,9 +66048,9 @@ NA
 NA
 L_object
 NA
-*
-principal_direct_object
 NA
+principal_direct_object
+*
 NA
 NA
 subject
@@ -66058,9 +66058,9 @@ NA
 NA
 NA
 NA
-*
+principal_direct_object
 L_object
-NA
+*
 673551	NA
 673555	NA
 NA
@@ -66096,10 +66096,10 @@ principal_direct_object
 *
 NA
 direct_object
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 673597	NA
 subject
 NA
@@ -67074,9 +67074,9 @@ NA
 NA
 NA
 subject
-*
+principal_direct_object
 L_object
-NA
+*
 NA
 NA
 indirect_object
@@ -67186,7 +67186,7 @@ NA
 NA
 direct_object
 675042	NA
-NA
+*
 NA
 direct_object
 675050	subject
@@ -67413,7 +67413,7 @@ NA
 NA
 indirect_object
 subject
-NA
+*
 NA
 NA
 NA
@@ -67447,15 +67447,15 @@ NA
 *
 NA
 L_object
-*
-subject
 NA
+subject
+*
 NA
 L_object
 NA
+subject
+NA
 *
-NA
-NA
 NA
 NA
 NA
@@ -67627,7 +67627,7 @@ direct_object
 NA
 NA
 NA
-*
+NA
 direct_object
 675608	subject
 NA
@@ -67659,7 +67659,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 NA
 direct_object
 675656	NA
@@ -67727,10 +67727,10 @@ NA
 subject
 *
 *
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 NA
 NA
 subject
@@ -67786,7 +67786,7 @@ direct_object
 NA
 NA
 subject
-L_object
+NA
 NA
 675814	NA
 NA
@@ -68072,7 +68072,7 @@ NA
 subject
 NA
 NA
-*
+NA
 NA
 NA
 *
@@ -68311,9 +68311,9 @@ L_object
 NA
 NA
 NA
-indirect_object
-direct_object
 NA
+direct_object
+*
 NA
 NA
 subject
@@ -68379,35 +68379,35 @@ NA
 direct_object
 NA
 NA
-L_object
-NA
-direct_object
-NA
-NA
-subject
-*
-NA
-*
-NA
-NA
-subject
-*
-NA
-NA
-NA
-L_object
-NA
-NA
-subject
-NA
 NA
 NA
 direct_object
+NA
+NA
+subject
 *
 NA
 *
+NA
+NA
+subject
+*
+NA
+NA
+NA
+L_object
+NA
+NA
+subject
+NA
+NA
+NA
+direct_object
+*
+NA
+NA
 indirect_object
-NA
+*
 NA
 NA
 NA
@@ -68683,7 +68683,7 @@ NA
 NP_direct_object
 NA
 NA
-*
+NA
 direct_object
 NA
 principal_direct_object
@@ -68890,7 +68890,7 @@ NA
 direct_object
 NA
 NA
-L_object
+NA
 NA
 NA
 subject
@@ -68913,7 +68913,7 @@ NA
 direct_object
 677028	NA
 NA
-L_object
+NA
 NA
 NA
 subject
@@ -69250,7 +69250,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 subject
 direct_object
 677397	NA
@@ -69523,14 +69523,14 @@ indirect_object
 subject
 NA
 NA
-*
 NA
 NA
 NA
 NA
 NA
 NA
-*
+NA
+NA
 NA
 NA
 NA
@@ -69795,9 +69795,9 @@ NA
 NA
 subject
 NA
-*
+subject
 NA
-direct_object
+*
 NA
 subject
 NA
@@ -70193,7 +70193,7 @@ direct_object
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 subject
@@ -70611,7 +70611,7 @@ indirect_object
 subject
 NA
 NA
-*
+NA
 subject
 NA
 NA
@@ -70865,10 +70865,10 @@ direct_object
 *
 NA
 NA
+subject
 *
 *
-NA
-NA
+*
 NA
 NA
 subject
@@ -70918,7 +70918,7 @@ NA
 indirect_object
 subject
 679308	NA
-indirect_object
+NA
 NA
 indirect_object
 NA
@@ -71281,11 +71281,11 @@ NA
 NA
 NA
 direct_object
-*
 NA
 NA
 NA
-*
+NA
+NA
 NA
 NA
 subject
@@ -71478,14 +71478,14 @@ NA
 direct_object
 NA
 NA
-NA
-NA
-*
-NA
+direct_object
 NA
 NA
 NA
-indirect_object
+NA
+NA
+NA
+NA
 NA
 NA
 subject
@@ -71515,7 +71515,7 @@ direct_object
 NA
 NA
 NA
-*
+NA
 NA
 NA
 *
@@ -71576,7 +71576,7 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 subject
 direct_object
 *
@@ -71691,7 +71691,7 @@ subject
 indirect_object
 NA
 NA
-indirect_object
+NA
 NA
 NA
 subject
@@ -71984,7 +71984,7 @@ subject
 direct_object
 NA
 NA
-L_object
+NA
 NA
 direct_object
 NA
@@ -72134,7 +72134,7 @@ indirect_object
 NA
 NA
 subject
-indirect_object
+NA
 NA
 680677	NA
 direct_object
@@ -72274,7 +72274,7 @@ NA
 indirect_object
 NA
 NA
-*
+NA
 NA
 NA
 *
@@ -72314,12 +72314,12 @@ NA
 NA
 NA
 subject
-*
 NA
 NA
-*
+NA
+subject
 direct_object
-NA
+*
 *
 NA
 NA
@@ -72376,9 +72376,9 @@ direct_object
 *
 NA
 NA
+subject
 *
 *
-NA
 NA
 NA
 *
@@ -72509,9 +72509,9 @@ NA
 NA
 indirect_object
 NA
+subject
 NA
 NA
-*
 principal_direct_object
 NA
 *
@@ -72630,22 +72630,22 @@ NA
 indirect_object
 681210	NA
 direct_object
-NA
-NA
 indirect_object
+NA
+NA
 NA
 NA
 *
 NA
 NA
-indirect_object
+NA
 subject
 direct_object
 NA
 NA
-NA
-NA
 indirect_object
+NA
+NA
 direct_object
 NA
 *
@@ -72681,7 +72681,7 @@ NA
 indirect_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -72718,7 +72718,7 @@ indirect_object
 NA
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -73002,9 +73002,9 @@ NA
 indirect_object
 NA
 principal_direct_object
+direct_object
 NA
 NA
-L_object
 NA
 NA
 NA
@@ -73101,7 +73101,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -73550,9 +73550,9 @@ NA
 NA
 NA
 NA
-NA
+subject
 direct_object
-*
+NA
 NA
 NA
 NA
@@ -73588,7 +73588,7 @@ NA
 NA
 NA
 subject
-*
+NA
 direct_object
 NA
 NA
@@ -73681,10 +73681,10 @@ NA
 direct_object
 NA
 NA
-indirect_object
 NA
 NA
-indirect_object
+NA
+NA
 NA
 NA
 subject
@@ -73700,18 +73700,18 @@ NA
 *
 subject
 NA
+direct_object
+NA
+NA
 NA
 NA
 indirect_object
 NA
 NA
-indirect_object
 NA
 NA
-indirect_object
 NA
 NA
-indirect_object
 NA
 NA
 indirect_object
@@ -74008,7 +74008,7 @@ direct_object
 NA
 NA
 NA
-*
+NA
 subject
 NA
 NA
@@ -74557,15 +74557,15 @@ direct_object
 *
 NA
 direct_object
+subject
 NA
 NA
-*
 683325	NA
 NA
 indirect_object
 NA
 NA
-indirect_object
+NA
 subject
 NA
 direct_object
@@ -74748,7 +74748,7 @@ direct_object
 *
 NA
 NA
-*
+NA
 NA
 NA
 indirect_object
@@ -74887,7 +74887,7 @@ NA
 subject
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -75237,12 +75237,12 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 684134	NA
-L_object
 NA
 NA
-principal_direct_object
+NA
+direct_object
 NA
 NA
 NA
@@ -75434,7 +75434,7 @@ NA
 NA
 684349	NA
 NA
-L_object
+NA
 684354	NA
 NA
 principal_direct_object
@@ -75448,7 +75448,7 @@ L_object
 NA
 NA
 NA
-*
+NA
 NA
 NA
 subject
@@ -75976,10 +75976,10 @@ NA
 NA
 subject
 *
+direct_object
 NA
 NA
-indirect_object
-L_object
+NA
 NA
 subject
 NA
@@ -76071,16 +76071,16 @@ NA
 L_object
 NA
 NA
-NA
+subject
 direct_object
-*
+NA
 NA
 NA
 subject
+direct_object
 NA
 NA
-L_object
-L_object
+NA
 NA
 NA
 *
@@ -76374,7 +76374,7 @@ subject
 NA
 NA
 NA
-L_object
+NA
 NA
 subject
 NA
@@ -76662,7 +76662,7 @@ subject
 *
 NA
 NA
-L_object
+NA
 NA
 NA
 *
@@ -76724,9 +76724,9 @@ NA
 NA
 direct_object
 NA
+direct_object
 NA
 NA
-indirect_object
 subject
 NA
 NA
@@ -76772,7 +76772,7 @@ direct_object
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 NA
@@ -76849,9 +76849,9 @@ NA
 *
 NA
 principal_direct_object
-L_object
-principal_direct_object
 NA
+direct_object
+*
 NA
 NA
 L_object
@@ -77113,7 +77113,7 @@ NA
 subject
 NA
 direct_object
-*
+NA
 686220	direct_object
 NA
 subject
@@ -77187,7 +77187,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -77646,9 +77646,9 @@ direct_object
 indirect_object
 NA
 NA
+direct_object
 NA
 NA
-L_object
 NA
 NA
 *
@@ -77735,9 +77735,9 @@ NA
 subject
 L_object
 NA
+direct_object
 NA
 NA
-L_object
 direct_object
 NA
 principal_direct_object
@@ -77835,9 +77835,9 @@ NA
 NA
 indirect_object
 direct_object
-*
-*
 NA
+*
+*
 NA
 NA
 direct_object
@@ -77849,9 +77849,9 @@ NA
 *
 NA
 *
+subject
 NA
 NA
-indirect_object
 direct_object
 687028	NA
 NA
@@ -77886,7 +77886,7 @@ NA
 subject
 *
 *
-NA
+*
 NA
 NA
 NA
@@ -78294,7 +78294,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 principal_direct_object
 direct_object
 NA
@@ -78344,9 +78344,9 @@ NA
 NA
 direct_object
 NA
+subject
 NA
 NA
-indirect_object
 687561	NA
 *
 NA
@@ -78382,14 +78382,14 @@ direct_object
 NA
 NA
 NA
-indirect_object
-*
-NA
 NA
 *
 NA
 NA
-indirect_object
+*
+NA
+NA
+NA
 direct_object
 NA
 NA
@@ -78421,7 +78421,7 @@ direct_object
 NA
 NA
 NA
-L_object
+NA
 direct_object
 NA
 NA
@@ -78899,9 +78899,9 @@ principal_direct_object
 subject
 *
 L_object
+subject
 NA
 NA
-*
 NA
 NA
 direct_object
@@ -78923,9 +78923,9 @@ NA
 NA
 indirect_object
 NA
+direct_object
 NA
 NA
-L_object
 NA
 NA
 *
@@ -78991,9 +78991,9 @@ NA
 NA
 NA
 subject
-NA
-NA
 indirect_object
+NA
+NA
 NA
 NA
 subject
@@ -79246,7 +79246,7 @@ NA
 L_object
 NA
 NA
-*
+NA
 subject
 NA
 NA
@@ -79366,7 +79366,7 @@ NA
 *
 NA
 NA
-L_object
+NA
 NA
 NA
 subject
@@ -79411,7 +79411,7 @@ NA
 indirect_object
 NA
 NA
-indirect_object
+NA
 NA
 688762	NA
 NA
@@ -79465,9 +79465,9 @@ NA
 NA
 NA
 NA
-NA
+subject
 direct_object
-*
+NA
 NA
 NA
 subject
@@ -79592,7 +79592,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 NA
 NA
 subject
@@ -79707,9 +79707,9 @@ NA
 NA
 direct_object
 NA
+subject
 NA
 NA
-*
 689095	NA
 indirect_object
 NA
@@ -79721,7 +79721,7 @@ NA
 NA
 689107	NA
 NA
-*
+NA
 NA
 indirect_object
 direct_object
@@ -80155,7 +80155,7 @@ NA
 NA
 NA
 subject
-indirect_object
+NA
 689601	NA
 *
 NA
@@ -80695,13 +80695,13 @@ NA
 NA
 NA
 direct_object
-*
+NA
 690202	NA
 NA
 NA
-NA
-NA
 *
+NA
+NA
 NA
 NA
 NA
@@ -80778,10 +80778,10 @@ NA
 NA
 NA
 subject
-L_object
 NA
 NA
-indirect_object
+NA
+NA
 *
 subject
 *
@@ -80828,7 +80828,7 @@ NA
 subject
 NA
 direct_object
-*
+NA
 subject
 *
 NA
@@ -81133,7 +81133,7 @@ indirect_object
 direct_object
 NA
 NA
-NA
+indirect_object
 subject
 NA
 NA
@@ -81674,9 +81674,9 @@ principal_direct_object
 NA
 L_object
 NA
+direct_object
 NA
 NA
-L_object
 NA
 direct_object
 NA
@@ -81780,9 +81780,9 @@ NA
 NA
 *
 NA
+direct_object
 NA
 NA
-L_object
 NA
 NA
 direct_object
@@ -81801,7 +81801,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 NA
 direct_object
 NA
@@ -82681,9 +82681,9 @@ NA
 direct_object
 NA
 NA
+subject
+direct_object
 NA
-principal_direct_object
-L_object
 NA
 NA
 NA
@@ -82811,9 +82811,9 @@ NA
 NA
 *
 NA
-direct_object
+principal_direct_object
 NA
-*
+NP_direct_object
 NA
 NA
 *
@@ -82879,7 +82879,7 @@ indirect_object
 direct_object
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -83036,7 +83036,7 @@ NA
 subject
 NA
 NA
-indirect_object
+NA
 NA
 NA
 subject
@@ -83081,7 +83081,7 @@ subject
 NA
 NA
 direct_object
-*
+NA
 NA
 *
 NA
@@ -83152,7 +83152,7 @@ direct_object
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 NA
@@ -83178,7 +83178,7 @@ NA
 693020	NA
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -83529,9 +83529,9 @@ subject
 NA
 *
 NA
-
+NA
 subject
-*
+
 NA
 NA
 subject
@@ -83767,9 +83767,9 @@ subject
 *
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 subject
 NA
 direct_object
@@ -83865,9 +83865,9 @@ NA
 NA
 NA
 NA
-
+direct_object
 NA
-*
+
 NA
 NA
 indirect_object
@@ -84495,7 +84495,7 @@ direct_object
 *
 NA
 NA
-indirect_object
+NA
 NA
 NA
 *
@@ -84522,7 +84522,7 @@ L_object
 694553	NA
 NA
 principal_direct_object
-L_object
+NA
 NA
 direct_object
 *
@@ -84582,9 +84582,9 @@ subject
 NA
 direct_object
 subject
-*
-*
 NA
+*
+*
 NA
 NA
 direct_object
@@ -84700,7 +84700,7 @@ NA
 NA
 NA
 NA
-*
+NA
 direct_object
 NA
 direct_object
@@ -84724,7 +84724,7 @@ NP_direct_object
 NA
 NA
 NA
-indirect_object
+NA
 694782	NA
 NA
 NA
@@ -84822,7 +84822,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 subject
@@ -85010,7 +85010,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 NA
@@ -85096,8 +85096,8 @@ NA
 NA
 NA
 subject
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 direct_object
 subject
@@ -85129,11 +85129,11 @@ NA
 NA
 NA
 subject
-L_object
 NA
 NA
 NA
-principal_direct_object
+NA
+direct_object
 NA
 principal_direct_object
 L_object
@@ -86138,7 +86138,7 @@ NA
 NA
 NA
 subject
-indirect_object
+NA
 NA
 NA
 *
@@ -86160,9 +86160,9 @@ NA
 direct_object
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 subject
 NA
 NA
@@ -86224,9 +86224,9 @@ indirect_object
 NA
 subject
 *
+NA
+NA
 *
-NA
-NA
 direct_object
 NA
 NA
@@ -86939,7 +86939,7 @@ subject
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
@@ -87316,18 +87316,18 @@ L_object
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 direct_object
 697780	NA
 subject
-*
+NA
 direct_object
 NA
+subject
 NA
 NA
-*
 direct_object
 NA
 NA
@@ -87475,7 +87475,7 @@ NA
 NA
 subject
 NA
-NA
+indirect_object
 NA
 NA
 *
@@ -87685,7 +87685,7 @@ NA
 698208	NA
 NA
 direct_object
-*
+NA
 NA
 NA
 direct_object
@@ -87698,7 +87698,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 NA
@@ -87710,21 +87710,21 @@ L_object
 NA
 NA
 NA
-indirect_object
-NA
-direct_object
-*
 NA
 NA
 direct_object
 *
 NA
 NA
-NA
+direct_object
 *
 NA
-principal_direct_object
-NP_direct_object
+NA
+NA
+NA
+NA
+*
+direct_object
 subject
 direct_object
 NA
@@ -87836,8 +87836,8 @@ indirect_object
 698372	NA
 NA
 subject
-L_object
-698378	principal_direct_object
+NA
+698378	direct_object
 NA
 NA
 subject
@@ -88057,7 +88057,7 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -88103,7 +88103,7 @@ NA
 subject
 698667	NA
 subject
-L_object
+NA
 NA
 NA
 NA
@@ -88351,10 +88351,10 @@ L_object
 NA
 NA
 NA
-subject
+*
 NA
-principal_direct_object
-NP_direct_object
+subject
+direct_object
 NA
 NA
 NA
@@ -88842,9 +88842,9 @@ NA
 *
 NA
 NA
-
+subject
 *
-direct_object
+
 699466	NA
 NA
 699471	NA
@@ -88920,13 +88920,13 @@ direct_object
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 699552	NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 direct_object
 NA
@@ -88954,9 +88954,9 @@ NA
 indirect_object
 subject
 NA
+direct_object
 NA
 NA
-indirect_object
 subject
 NA
 NA
@@ -89069,13 +89069,13 @@ indirect_object
 L_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 NA
@@ -89327,8 +89327,8 @@ NA
 NA
 subject
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 700006	NA
 subject
 NA
@@ -89344,7 +89344,7 @@ NA
 L_object
 NA
 NA
-*
+NA
 direct_object
 NA
 700044	NA
@@ -89362,7 +89362,7 @@ NA
 subject
 700065	NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -89405,7 +89405,7 @@ NA
 NA
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -89498,7 +89498,7 @@ NA
 subject
 NA
 direct_object
-*
+NA
 NA
 NA
 subject
@@ -90188,9 +90188,9 @@ L_object
 NA
 NA
 NA
+*
 NA
 NA
-L_object
 NA
 NA
 indirect_object
@@ -90199,7 +90199,7 @@ NA
 direct_object
 NA
 principal_direct_object
-L_object
+NA
 NA
 NA
 indirect_object
@@ -90456,7 +90456,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -90608,7 +90608,7 @@ direct_object
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 subject
@@ -90626,9 +90626,9 @@ NA
 NA
 701442	NA
 NA
+*
 NA
 NA
-indirect_object
 direct_object
 701458	NA
 NA
@@ -90708,7 +90708,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -90839,7 +90839,7 @@ NA
 indirect_object
 701684	NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -91032,7 +91032,7 @@ indirect_object
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
@@ -91276,9 +91276,9 @@ principal_direct_object
 NA
 NA
 NA
-L_object
-principal_direct_object
 NA
+direct_object
+*
 NA
 NA
 subject
@@ -91668,7 +91668,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 subject
 direct_object
 NA
@@ -91711,9 +91711,9 @@ NA
 NA
 NA
 subject
+subject
+direct_object
 
-principal_direct_object
-NP_direct_object
 NA
 *
 NA
@@ -91741,9 +91741,9 @@ NA
 indirect_object
 NA
 NA
+subject
 NA
 NA
-L_object
 NA
 NA
 NA
@@ -92011,7 +92011,7 @@ NA
 NA
 *
 702996	NA
-indirect_object
+NA
 NA
 NA
 *
@@ -92741,9 +92741,9 @@ NA
 direct_object
 NA
 direct_object
-*
-subject
 NA
+subject
+*
 *
 703899	NA
 NA
@@ -92950,7 +92950,7 @@ direct_object
 *
 NA
 NA
-*
+NA
 direct_object
 NA
 subject
@@ -93304,7 +93304,7 @@ subject
 NA
 NA
 subject
-*
+NA
 NA
 subject
 NA
@@ -93450,7 +93450,7 @@ L_object
 NA
 704693	NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -93622,7 +93622,7 @@ subject
 NA
 NA
 NA
-*
+NA
 704891	NA
 NA
 704894	subject
@@ -93765,7 +93765,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 NA
 NA
 *
@@ -93776,16 +93776,16 @@ NA
 NA
 subject
 NA
+subject
 NA
 NA
-indirect_object
 705079	NA
 direct_object
 NA
 NA
+*
 NA
 NA
-indirect_object
 NA
 NA
 subject
@@ -94231,9 +94231,9 @@ NA
 NA
 subject
 *
+direct_object
 NA
 NA
-indirect_object
 NA
 *
 NA
@@ -94251,7 +94251,7 @@ direct_object
 subject
 NA
 NA
-indirect_object
+NA
 NA
 NA
 *
@@ -94786,8 +94786,8 @@ L_object
 NA
 706241	NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 706250	NA
 *
@@ -94806,9 +94806,9 @@ NA
 706269	NA
 subject
 706280	NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 NA
@@ -95138,7 +95138,7 @@ indirect_object
 direct_object
 NA
 NA
-indirect_object
+NA
 NA
 NA
 subject
@@ -95418,7 +95418,7 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 *
@@ -96057,11 +96057,11 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
-L_object
+NA
 NA
 direct_object
 NA
@@ -96080,11 +96080,11 @@ NA
 NA
 direct_object
 NA
+*
 NA
 NA
-L_object
 NA
-principal_direct_object
+direct_object
 NA
 NA
 NA
@@ -96120,7 +96120,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 NA
 NA
 direct_object
@@ -96241,8 +96241,8 @@ NA
 *
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 L_object
@@ -96293,7 +96293,7 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -96311,7 +96311,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -96339,9 +96339,9 @@ NA
 NA
 direct_object
 NA
-*
-direct_object
 NA
+direct_object
+*
 NA
 NA
 NA
@@ -96413,10 +96413,10 @@ NA
 NA
 NA
 NA
-*
+NA
 subject
+*
 principal_direct_object
-NP_direct_object
 NA
 NA
 NA
@@ -96632,7 +96632,7 @@ NA
 subject
 NA
 NA
-L_object
+NA
 NA
 NA
 subject
@@ -96720,9 +96720,9 @@ indirect_object
 NA
 NA
 subject
+subject
 NA
 NA
-*
 direct_object
 NA
 NA
@@ -96864,8 +96864,8 @@ NA
 direct_object
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 subject
@@ -97264,10 +97264,10 @@ NA
 *
 NA
 subject
+principal_direct_object
+NP_direct_object
 *
 *
-NA
-NA
 NA
 NA
 indirect_object
@@ -97345,7 +97345,7 @@ NA
 *
 NA
 NA
-*
+NA
 NA
 NA
 subject
@@ -97382,8 +97382,8 @@ subject
 L_object
 709283	NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 NA
 NA
@@ -97395,9 +97395,9 @@ direct_object
 NA
 709309	NA
 principal_direct_object
-*
-L_object
 NA
+L_object
+*
 NA
 *
 709318	subject
@@ -97520,9 +97520,9 @@ subject
 principal_direct_object
 NA
 NP_direct_object
-
 NA
-*
+NA
+
 *
 NA
 principal_direct_object
@@ -97594,8 +97594,8 @@ direct_object
 NA
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 709575	NA
 NA
@@ -97660,9 +97660,9 @@ NA
 709676	NA
 NA
 NA
+direct_object
 NA
 NA
-L_object
 NA
 NA
 subject
@@ -97714,7 +97714,7 @@ direct_object
 709771	NA
 NA
 NA
-L_object
+NA
 709792	NA
 NA
 principal_direct_object
@@ -97817,8 +97817,8 @@ NA
 direct_object
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 710017	NA
 direct_object
 710025	NA
@@ -97828,8 +97828,8 @@ subject
 NA
 NA
 subject
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 NA
 direct_object
@@ -98634,7 +98634,7 @@ L_object
 710948	NA
 NA
 subject
-L_object
+NA
 NA
 NA
 NA
@@ -98754,9 +98754,9 @@ NA
 NA
 NA
 NA
+subject
 NA
 NA
-L_object
 NA
 NA
 NA
@@ -98789,7 +98789,7 @@ direct_object
 subject
 NA
 direct_object
-*
+NA
 NA
 NA
 NA
@@ -98889,7 +98889,7 @@ NA
 *
 NA
 NA
-*
+NA
 subject
 NA
 *
@@ -99181,9 +99181,9 @@ direct_object
 *
 NA
 NA
-*
+subject
 principal_direct_object
-NA
+*
 K_object
 NA
 principal_direct_object
@@ -99271,7 +99271,7 @@ NA
 711664	NA
 NA
 NA
-L_object
+NA
 NA
 NA
 NA
@@ -99377,9 +99377,9 @@ NA
 direct_object
 *
 *
-
 NA
-*
+NA
+
 NA
 NA
 indirect_object
@@ -99596,9 +99596,9 @@ NA
 direct_object
 *
 NA
-NA
-indirect_object
 direct_object
+indirect_object
+NA
 NA
 L_object
 NA
@@ -99768,10 +99768,10 @@ NA
 NA
 NA
 subject
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 NA
 NA
 indirect_object
@@ -99815,9 +99815,9 @@ direct_object
 subject
 NA
 NA
+NA
+direct_object
 *
-NP_direct_object
-principal_direct_object
 NA
 NA
 indirect_object
@@ -99940,10 +99940,10 @@ NA
 subject
 indirect_object
 NA
-*
+NA
 subject
+*
 principal_direct_object
-NP_direct_object
 NA
 712403	NA
 NA
@@ -100120,7 +100120,7 @@ direct_object
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 NA
@@ -100159,8 +100159,8 @@ NA
 *
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 *
@@ -100695,7 +100695,7 @@ NA
 NA
 NA
 NA
-*
+NA
 direct_object
 713204	NA
 direct_object
@@ -100850,7 +100850,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 principal_direct_object
 direct_object
 NA
@@ -101124,7 +101124,7 @@ NA
 *
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -101210,17 +101210,17 @@ direct_object
 *
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 subject
 direct_object
 NA
 NA
-subject
 NA
-direct_object
+NA
+subject
 NA
 NA
 subject
@@ -101901,7 +101901,7 @@ NA
 NA
 NA
 direct_object
-indirect_object
+NA
 NA
 direct_object
 NA
@@ -101917,15 +101917,15 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 NA
 direct_object
 NA
 NA
 NA
-NA
-NA
 indirect_object
+NA
+NA
 NA
 NA
 NA
@@ -102116,7 +102116,7 @@ NA
 subject
 indirect_object
 NA
-NA
+*
 *
 NA
 NA
@@ -102710,9 +102710,9 @@ direct_object
 *
 NA
 subject
+NA
 *
 *
-direct_object
 NA
 NA
 NA
@@ -102943,9 +102943,9 @@ indirect_object
 NA
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 *
@@ -103090,7 +103090,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -103445,7 +103445,7 @@ subject
 *
 NA
 NA
-NA
+direct_object
 NA
 NA
 *
@@ -103553,9 +103553,9 @@ direct_object
 NA
 NA
 NA
+subject
 NA
 NA
-*
 716451	NA
 NA
 indirect_object
@@ -104109,7 +104109,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 subject
 direct_object
 NA
@@ -104511,7 +104511,7 @@ NA
 NA
 *
 NA
-717523	direct_object
+717523	subject
 NA
 NA
 NA
@@ -105031,9 +105031,9 @@ subject
 NA
 indirect_object
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 *
@@ -105061,7 +105061,7 @@ NA
 NA
 NA
 NA
-NA
+subject
 NA
 NA
 718154	NA
@@ -105634,9 +105634,9 @@ NA
 NA
 indirect_object
 subject
+direct_object
 NA
 NA
-indirect_object
 NA
 indirect_object
 718798	NA
@@ -105785,7 +105785,7 @@ NA
 indirect_object
 direct_object
 718960	NA
-indirect_object
+NA
 718964	NA
 NA
 indirect_object
@@ -105797,7 +105797,7 @@ NA
 NA
 NA
 718976	NA
-indirect_object
+NA
 NA
 NA
 subject
@@ -106496,9 +106496,9 @@ NA
 NA
 NA
 NA
+subject
+direct_object
 NA
-principal_direct_object
-L_object
 719762	L_object
 NA
 subject
@@ -106668,7 +106668,7 @@ NA
 *
 719948	NA
 NA
-indirect_object
+NA
 NA
 principal_direct_object
 NA
@@ -107053,7 +107053,7 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -107304,7 +107304,7 @@ NA
 indirect_object
 NA
 NA
-indirect_object
+NA
 subject
 NA
 720697	NA
@@ -107646,8 +107646,8 @@ NA
 NA
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 direct_object
 NA
 *
@@ -107746,9 +107746,9 @@ NA
 NA
 indirect_object
 NA
+indirect_object
+direct_object
 
-principal_direct_object
-L_object
 NA
 NA
 NA
@@ -107822,9 +107822,9 @@ direct_object
 NA
 721251	NA
 NA
-
-L_object
 NA
+L_object
+
 NA
 NA
 subject
@@ -108448,9 +108448,9 @@ NA
 direct_object
 NA
 NA
-NP_direct_object
-principal_direct_object
 NA
+principal_direct_object
+NP_direct_object
 *
 NA
 NA
@@ -108673,7 +108673,7 @@ NA
 NA
 direct_object
 NA
-NA
+subject
 NA
 NA
 *
@@ -108747,7 +108747,7 @@ NA
 subject
 NA
 722308	NA
-L_object
+NA
 subject
 NA
 NA
@@ -108997,11 +108997,11 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
+NA
+NA
 *
-NA
-NA
 *
 NA
 NA
@@ -109039,9 +109039,9 @@ NA
 NA
 direct_object
 *
+NA
+NA
 *
-NA
-NA
 *
 NA
 NA
@@ -109070,9 +109070,9 @@ NA
 subject
 722678	NA
 NA
-subject
-subject
 direct_object
+subject
+subject
 NA
 NA
 NA
@@ -109205,7 +109205,7 @@ NA
 NA
 NA
 NA
-*
+NA
 subject
 NA
 NA
@@ -109376,9 +109376,9 @@ principal_direct_object
 722997	NA
 direct_object
 subject
-*
-principal_direct_object
 NA
+principal_direct_object
+K_object
 NA
 723006	NA
 NA
@@ -109630,7 +109630,7 @@ NA
 NA
 subject
 NA
-direct_object
+subject
 NA
 NA
 NA
@@ -109929,9 +109929,9 @@ NA
 NA
 723605	NA
 NA
+NA
 subject
 subject
-direct_object
 NA
 NA
 NA
@@ -110204,7 +110204,7 @@ NA
 NA
 subject
 NA
-direct_object
+subject
 NA
 NA
 NA
@@ -110650,7 +110650,7 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -110877,13 +110877,13 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 NA
 direct_object
 NA
 NA
 NA
-indirect_object
+NA
 NA
 direct_object
 NA
@@ -111370,9 +111370,9 @@ indirect_object
 NA
 NA
 NA
+subject
 NA
 NA
-*
 direct_object
 NA
 NA
@@ -111490,7 +111490,7 @@ subject
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 NA
@@ -111580,7 +111580,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 direct_object
 NA
 subject
@@ -111995,23 +111995,23 @@ L_object
 NA
 *
 725868	NA
+NA
+subject
 *
 NA
-NA
-*
 NA
 NA
 subject
 indirect_object
 NA
-*
-principal_direct_object
 NA
-NA
+direct_object
 *
 NA
 NA
-NP_direct_object
+NA
+*
+NA
 NA
 NA
 subject
@@ -112085,9 +112085,9 @@ direct_object
 NA
 subject
 NA
-direct_object
 NA
-subject
+NA
+direct_object
 725966	NA
 NA
 NA
@@ -112466,9 +112466,9 @@ NA
 NA
 principal_direct_object
 L_object
-726392	
+726392	NA
 direct_object
-L_object
+
 NA
 NA
 principal_direct_object
@@ -112504,10 +112504,10 @@ NA
 NA
 subject
 *
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 NA
 NA
 NA
@@ -112666,10 +112666,10 @@ NA
 subject
 NA
 *
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 NA
 NA
 subject
@@ -112723,7 +112723,7 @@ NA
 direct_object
 NA
 NA
-L_object
+NA
 NA
 direct_object
 NA
@@ -112931,7 +112931,7 @@ NA
 subject
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -112953,8 +112953,8 @@ subject
 principal_direct_object
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 *
@@ -112970,7 +112970,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 direct_object
@@ -113098,11 +113098,11 @@ subject
 NA
 NA
 *
-principal_direct_object
 NA
 NA
+direct_object
 *
-NP_direct_object
+NA
 NA
 NA
 subject
@@ -113299,9 +113299,9 @@ NP_direct_object
 727289	subject
 NA
 NA
-NA
-subject
 direct_object
+subject
+NA
 *
 NA
 NA
@@ -113460,7 +113460,7 @@ subject
 727480	NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
@@ -113875,9 +113875,9 @@ NA
 NA
 subject
 NA
+NA
+NA
 *
-NA
-NA
 NA
 NA
 indirect_object
@@ -114283,7 +114283,7 @@ NA
 NA
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -114453,9 +114453,9 @@ NA
 direct_object
 NA
 NA
+direct_object
+NA
 *
-NA
-NA
 728700	NA
 direct_object
 subject
@@ -114503,9 +114503,9 @@ NA
 subject
 NA
 NA
+NA
+direct_object
 
-principal_direct_object
-L_object
 NA
 NA
 indirect_object
@@ -115165,9 +115165,9 @@ subject
 NA
 direct_object
 subject
+NA
+NA
 *
-NA
-NA
 NA
 direct_object
 NA
@@ -115444,10 +115444,10 @@ subject
 L_object
 729856	NA
 NA
-L_object
 NA
 NA
-L_object
+NA
+NA
 NA
 NA
 NA
@@ -115591,9 +115591,9 @@ NA
 direct_object
 NA
 direct_object
-*
-*
 NA
+*
+*
 730019	NA
 NA
 subject
@@ -115603,9 +115603,9 @@ NA
 subject
 direct_object
 NA
-730034	*
+730034	NA
 direct_object
-NA
+*
 NA
 NA
 NA
@@ -115618,11 +115618,11 @@ subject
 NA
 NA
 *
-*
-*
 NA
+*
+L_object
 NA
-direct_object
+principal_direct_object
 NA
 *
 NA
@@ -115889,9 +115889,9 @@ NA
 NA
 direct_object
 730352	NA
-*
-subject
 NA
+subject
+*
 NA
 direct_object
 NA
@@ -116118,9 +116118,9 @@ NA
 NA
 NA
 NA
-
 NA
-direct_object
+NA
+
 NA
 NA
 NA
@@ -116434,7 +116434,7 @@ subject
 NA
 NA
 730965	NA
-NA
+*
 direct_object
 NA
 NA
@@ -116720,9 +116720,9 @@ NA
 subject
 direct_object
 NA
-K_object
-principal_direct_object
 NA
+direct_object
+*
 NA
 NA
 NA
@@ -117264,9 +117264,9 @@ NA
 direct_object
 NA
 subject
+NA
+NA
 *
-NA
-NA
 NA
 NA
 direct_object
@@ -117824,9 +117824,9 @@ NA
 NA
 NA
 subject
-L_object
 NA
-principal_direct_object
+NA
+direct_object
 NA
 NA
 NA
@@ -118043,9 +118043,9 @@ NA
 subject
 NA
 *
-L_object
-principal_direct_object
 NA
+direct_object
+*
 NA
 NA
 subject
@@ -118275,16 +118275,16 @@ direct_object
 NA
 NA
 direct_object
-NA
-NA
 *
 NA
-direct_object
-NA
-NA
 NA
 NA
 direct_object
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 principal_direct_object
@@ -118502,7 +118502,7 @@ L_object
 NA
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -118779,7 +118779,7 @@ NA
 NA
 indirect_object
 733702	NA
-733709	NA
+733709	*
 733712	subject
 NA
 *
@@ -118894,7 +118894,7 @@ NA
 NA
 NA
 subject
-733845	NA
+733845	*
 NA
 NA
 NA
@@ -119458,9 +119458,9 @@ direct_object
 subject
 NA
 NA
-NA
-NA
 direct_object
+NA
+NA
 NA
 NA
 direct_object
@@ -119903,9 +119903,9 @@ indirect_object
 direct_object
 NA
 NA
-
 NA
-direct_object
+NA
+
 NA
 NA
 NA
@@ -120004,9 +120004,9 @@ indirect_object
 NA
 NA
 NA
+subject
 NA
 NA
-*
 direct_object
 NA
 NA
@@ -120202,7 +120202,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 direct_object
 NA
 subject
@@ -120371,12 +120371,12 @@ NA
 NA
 direct_object
 *
-735556	*
+735556	NA
 direct_object
-NA
 *
 NA
 NA
+*
 735566	NA
 NA
 direct_object
@@ -120427,12 +120427,12 @@ NP_direct_object
 NA
 NA
 NA
-*
+NA
 direct_object
-NA
 *
 NA
 NA
+*
 NA
 NA
 *
@@ -120563,18 +120563,18 @@ NA
 NA
 subject
 NA
-principal_direct_object
-NA
-NA
-*
-NA
-NA
-NP_direct_object
-NA
-NA
-*
 direct_object
 NA
+NA
+NA
+NA
+*
+NA
+NA
+NA
+subject
+NA
+*
 NA
 NA
 735782	subject
@@ -120585,9 +120585,9 @@ subject
 NA
 NA
 NA
+NA
+NA
 *
-NA
-NA
 NA
 NA
 NA
@@ -121294,10 +121294,10 @@ direct_object
 principal_direct_object
 L_object
 736610	NA
+*
+direct_object
 NA
 *
-NA
-NA
 direct_object
 NA
 NA
@@ -121364,9 +121364,9 @@ NA
 NA
 NA
 *
-*
 NA
-direct_object
+NA
+*
 NA
 736700	NA
 direct_object
@@ -121432,9 +121432,9 @@ NA
 NA
 NA
 NA
+NA
+NA
 *
-NA
-NA
 direct_object
 NA
 L_object
@@ -121502,8 +121502,8 @@ subject
 NA
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 direct_object
 NA
@@ -121551,9 +121551,9 @@ NA
 NA
 NA
 direct_object
-*
-principal_direct_object
 NA
+principal_direct_object
+*
 L_object
 736930	direct_object
 NA
@@ -121795,9 +121795,9 @@ NA
 NA
 NA
 subject
+NA
+NA
 *
-NA
-NA
 direct_object
 737252	NA
 NA
@@ -121824,15 +121824,15 @@ NA
 NA
 NA
 direct_object
+NA
+NA
 *
-NA
-NA
 direct_object
 737283	direct_object
 subject
+NA
+NA
 *
-NA
-NA
 direct_object
 737291	NA
 direct_object
@@ -122254,9 +122254,9 @@ direct_object
 NA
 subject
 NA
-*
-subject
 NA
+subject
+*
 NA
 NA
 direct_object
@@ -122521,9 +122521,9 @@ indirect_object
 738147	NA
 NA
 NA
+NA
+NA
 *
-NA
-NA
 738157	NA
 NA
 subject
@@ -122623,9 +122623,9 @@ NA
 subject
 NA
 NA
+NA
+NA
 *
-NA
-NA
 principal_direct_object
 L_object
 NA
@@ -122667,9 +122667,9 @@ direct_object
 NA
 738323	NA
 NA
+NA
+NA
 *
-NA
-NA
 738329	NA
 NA
 NA
@@ -122685,7 +122685,7 @@ direct_object
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 *
 NA
@@ -123271,9 +123271,9 @@ NA
 NA
 direct_object
 NA
-*
-subject
 NA
+subject
+*
 NA
 NA
 NA
@@ -123453,9 +123453,9 @@ subject
 direct_object
 739250	NA
 *
+NA
+NA
 *
-NA
-NA
 739259	NA
 *
 NA
@@ -123464,9 +123464,9 @@ NA
 739266	NA
 direct_object
 NA
+direct_object
+NA
 *
-NA
-NA
 739274	NA
 NA
 NA
@@ -123802,12 +123802,12 @@ NA
 direct_object
 NA
 L_object
+NA
+subject
 direct_object
 subject
 NA
 
-NA
-direct_object
 NA
 NA
 NA
@@ -123852,9 +123852,9 @@ NA
 NA
 NA
 NA
+NA
+NA
 *
-NA
-NA
 subject
 NA
 direct_object
@@ -123981,9 +123981,9 @@ NA
 direct_object
 NA
 NA
+NA
 principal_direct_object
 NP_direct_object
-subject
 NA
 direct_object
 NA
@@ -124406,9 +124406,9 @@ NA
 NA
 *
 NA
-*
-indirect_object
 NA
+indirect_object
+*
 direct_object
 740403	direct_object
 NA
@@ -124496,13 +124496,13 @@ NA
 NA
 NA
 NA
+subject
+NA
+*
+NA
 *
 NA
 NA
-NA
-NA
-NA
-direct_object
 740518	NA
 *
 NA
@@ -124527,17 +124527,17 @@ direct_object
 NA
 direct_object
 NA
+NA
+NA
 *
-NA
-NA
 NA
 direct_object
 NA
 NA
 NA
+direct_object
+NA
 *
-NA
-NA
 NA
 direct_object
 NA
@@ -125132,9 +125132,9 @@ direct_object
 NA
 NA
 subject
+subject
 NA
 NA
-*
 NA
 NA
 L_object
@@ -125305,9 +125305,9 @@ NA
 NA
 NA
 NA
+NA
+direct_object
 
-principal_direct_object
-L_object
 NA
 NA
 direct_object
@@ -125405,9 +125405,9 @@ NA
 principal_direct_object
 NA
 741556	NA
+principal_direct_object
 NA
 NA
-L_object
 NA
 indirect_object
 direct_object
@@ -125754,7 +125754,7 @@ NA
 direct_object
 NA
 NA
-direct_object
+NA
 NA
 principal_direct_object
 NA
@@ -125953,10 +125953,10 @@ NA
 direct_object
 NA
 indirect_object
-*
 NA
-direct_object
-742214	NA
+NA
+*
+742214	*
 742216	NA
 NA
 direct_object
@@ -126306,9 +126306,9 @@ subject
 NA
 *
 NA
-*
+direct_object
 NA
-NA
+indirect_object
 NA
 NA
 NA
@@ -126423,9 +126423,9 @@ direct_object
 NA
 NA
 direct_object
+NA
+NA
 *
-NA
-NA
 NA
 NA
 NA
@@ -126511,9 +126511,9 @@ NA
 direct_object
 NA
 NA
+NA
+direct_object
 *
-NA
-NA
 NA
 NA
 *
@@ -126772,9 +126772,9 @@ subject
 NA
 NA
 principal_direct_object
+subject
 *
 *
-NA
 NA
 NA
 743133	subject
@@ -126924,9 +126924,9 @@ direct_object
 NA
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 subject
 direct_object
 NA
@@ -127043,7 +127043,7 @@ NA
 direct_object
 743447	NA
 NA
-indirect_object
+NA
 NA
 NA
 direct_object
@@ -127635,7 +127635,7 @@ NA
 744106	subject
 NA
 direct_object
-indirect_object
+NA
 744112	NA
 NA
 NA
@@ -127916,7 +127916,7 @@ NA
 NA
 744453	NA
 NA
-indirect_object
+NA
 744457	NA
 NA
 subject
@@ -127962,7 +127962,7 @@ NA
 NA
 744513	NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -127971,7 +127971,7 @@ NA
 NA
 NA
 subject
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -128013,9 +128013,9 @@ NA
 NA
 NA
 NA
-NA
 principal_direct_object
-L_object
+NP_direct_object
+NA
 744578	NA
 NA
 direct_object
@@ -128126,9 +128126,9 @@ NA
 NA
 NA
 NA
+direct_object
+NA
 *
-NA
-NA
 NA
 direct_object
 NA
@@ -128398,9 +128398,9 @@ direct_object
 NA
 NA
 *
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 NA
@@ -128562,7 +128562,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 NA
 745194	subject
 direct_object
@@ -128583,7 +128583,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 NA
 NA
 subject
@@ -128597,7 +128597,7 @@ NA
 indirect_object
 NA
 NA
-L_object
+NA
 NA
 NA
 direct_object
@@ -128611,7 +128611,7 @@ NA
 NA
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -128640,8 +128640,8 @@ subject
 NA
 direct_object
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 principal_direct_object
@@ -129077,9 +129077,9 @@ NP_direct_object
 NA
 NA
 direct_object
-*
+subject
 principal_direct_object
-NA
+*
 NP_direct_object
 NA
 NA
@@ -129358,9 +129358,9 @@ NA
 746100	NA
 subject
 NA
-746104	
+746104	NA
 NA
-*
+
 *
 NA
 NA
@@ -129741,8 +129741,8 @@ subject
 746579	NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 746585	NA
 L_object
 NA
@@ -129753,7 +129753,7 @@ NA
 NA
 NA
 NA
-*
+NA
 direct_object
 NA
 subject
@@ -129792,7 +129792,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 principal_direct_object
 NA
 L_object
@@ -130526,9 +130526,9 @@ NA
 indirect_object
 NA
 direct_object
-*
-indirect_object
 NA
+indirect_object
+*
 NA
 NA
 subject
@@ -130826,7 +130826,7 @@ L_object
 principal_direct_object
 NA
 direct_object
-*
+NA
 subject
 NA
 subject
@@ -131062,7 +131062,7 @@ NA
 subject
 NA
 NA
-*
+NA
 NA
 subject
 NA
@@ -131158,7 +131158,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 subject
 direct_object
 748175	NA
@@ -131526,7 +131526,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 748584	NA
 NA
 *
@@ -131548,7 +131548,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -131629,7 +131629,7 @@ principal_direct_object
 *
 *
 NA
-direct_object
+*
 748695	NA
 NA
 NA
@@ -131743,7 +131743,7 @@ NA
 *
 NA
 NA
-*
+NA
 NA
 NA
 subject
@@ -131860,7 +131860,7 @@ direct_object
 NA
 NA
 NA
-direct_object
+NA
 NA
 NA
 indirect_object
@@ -131885,7 +131885,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 748974	NA
 NA
 principal_direct_object
@@ -132427,9 +132427,9 @@ NA
 NA
 749567	NA
 NA
+subject
 NA
 NA
-L_object
 NA
 NA
 NA
@@ -132550,9 +132550,9 @@ NA
 NA
 *
 NA
+NA
+NA
 *
-NA
-NA
 NA
 direct_object
 NA
@@ -133204,7 +133204,7 @@ NA
 principal_direct_object
 L_object
 NA
-NA
+L_object
 750500	NA
 direct_object
 NA
@@ -133478,9 +133478,9 @@ NA
 indirect_object
 subject
 NA
+NA
+NA
 *
-NA
-NA
 NA
 direct_object
 NA
@@ -133597,7 +133597,7 @@ NA
 subject
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -133724,7 +133724,7 @@ NA
 NA
 *
 751070	NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -133864,9 +133864,9 @@ NA
 NA
 NA
 subject
-NA
-NA
 indirect_object
+NA
+NA
 direct_object
 NA
 direct_object
@@ -133874,10 +133874,10 @@ direct_object
 NA
 direct_object
 indirect_object
+NA
+NA
 NA
 
-NA
-*
 NA
 NA
 principal_direct_object
@@ -134567,7 +134567,7 @@ NA
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 direct_object
@@ -134676,9 +134676,9 @@ NA
 NA
 *
 NA
+subject
 NA
 NA
-L_object
 752100	NA
 direct_object
 NA
@@ -134834,7 +134834,7 @@ NA
 subject
 NA
 direct_object
-indirect_object
+NA
 NA
 subject
 NA
@@ -134962,9 +134962,9 @@ NA
 direct_object
 *
 subject
-subject
+NA
 direct_object
-principal_direct_object
+subject
 NA
 subject
 NA
@@ -135169,14 +135169,14 @@ NA
 direct_object
 752679	NA
 indirect_object
-NA
-NA
-indirect_object
 direct_object
 NA
-*
+NA
+direct_object
+NA
+principal_direct_object
 L_object
-direct_object
+*
 NA
 NA
 752692	NA
@@ -135564,8 +135564,8 @@ NA
 NA
 subject
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 direct_object
@@ -135584,7 +135584,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -135756,8 +135756,8 @@ NA
 NA
 principal_direct_object
 753353	NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 principal_direct_object
@@ -135975,9 +135975,9 @@ NA
 NA
 NA
 NA
+subject
 NA
 NA
-indirect_object
 NA
 NA
 subject
@@ -136683,7 +136683,7 @@ NA
 direct_object
 NA
 NA
-K_object
+NA
 NA
 NA
 direct_object
@@ -136729,7 +136729,7 @@ NA
 subject
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -137142,9 +137142,9 @@ NA
 *
 NA
 NA
-*
-direct_object
 NA
+direct_object
+*
 NA
 subject
 NA
@@ -137279,9 +137279,9 @@ NA
 direct_object
 *
 NA
+direct_object
 NA
 NA
-L_object
 NA
 NA
 subject
@@ -137468,7 +137468,7 @@ subject
 principal_direct_object
 NA
 NA
-L_object
+NA
 NA
 NA
 *
@@ -137514,9 +137514,9 @@ subject
 indirect_object
 NA
 NA
+direct_object
 *
 *
-NA
 NA
 NA
 subject
@@ -137577,7 +137577,7 @@ NA
 NA
 755312	NA
 NA
-indirect_object
+NA
 direct_object
 NA
 direct_object
@@ -137907,7 +137907,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -137915,7 +137915,7 @@ NA
 indirect_object
 NA
 NA
-*
+NA
 NA
 NA
 subject
@@ -138574,7 +138574,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 NA
 NA
 *
@@ -138977,7 +138977,7 @@ NA
 subject
 NA
 principal_direct_object
-indirect_object
+NA
 NA
 indirect_object
 principal_direct_object
@@ -139164,7 +139164,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 principal_direct_object
 direct_object
 NA
@@ -139384,9 +139384,9 @@ direct_object
 757280	NA
 NA
 NA
-*
+principal_direct_object
 L_object
-NA
+*
 NA
 NA
 *
@@ -139424,9 +139424,9 @@ NA
 *
 NA
 subject
-*
 NA
-direct_object
+NA
+*
 NA
 NA
 NA
@@ -139556,9 +139556,9 @@ direct_object
 757482	NA
 NA
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 subject
@@ -140441,9 +140441,9 @@ NA
 direct_object
 direct_object
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 *
@@ -140596,7 +140596,7 @@ NA
 NA
 NA
 758696	NA
-NA
+subject
 NA
 NA
 NA
@@ -140722,7 +140722,7 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 NA
 direct_object
 *
@@ -140856,7 +140856,7 @@ NA
 758991	NA
 NA
 NA
-indirect_object
+NA
 NA
 *
 NA
@@ -141844,7 +141844,7 @@ subject
 760138	NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
@@ -142033,9 +142033,9 @@ NA
 NA
 NA
 subject
-*
-subject
 NA
+subject
+*
 NA
 NA
 subject
@@ -142614,15 +142614,15 @@ NA
 NA
 *
 direct_object
-NA
+*
 761170	NA
 indirect_object
 direct_object
 NA
 NA
+principal_direct_object
+NP_direct_object
 *
-direct_object
-NA
 NA
 NA
 direct_object
@@ -142757,7 +142757,7 @@ direct_object
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 indirect_object
@@ -142868,7 +142868,7 @@ direct_object
 NA
 NA
 NA
-K_object
+NA
 761468	NA
 NA
 NA
@@ -142877,12 +142877,11 @@ NA
 subject
 761477	NA
 NA
-*
+NA
 direct_object
 NA
 NA
 NA
-*
 NA
 NA
 NA
@@ -142890,7 +142889,8 @@ NA
 NA
 NA
 NA
-*
+NA
+NA
 NA
 NA
 NA
@@ -142904,7 +142904,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -142972,7 +142972,7 @@ NA
 NA
 NA
 761583	subject
-*
+NA
 direct_object
 NA
 subject
@@ -143121,7 +143121,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -143331,9 +143331,9 @@ NA
 762015	subject
 NA
 NA
+subject
 NA
 NA
-direct_object
 NA
 NA
 *
@@ -143366,9 +143366,9 @@ NA
 762058	L_object
 principal_direct_object
 NA
+direct_object
 NA
 NA
-*
 NA
 principal_direct_object
 indirect_object
@@ -143476,9 +143476,9 @@ direct_object
 NA
 NA
 NA
-*
+direct_object
 subject
-NA
+*
 NA
 NA
 direct_object
@@ -143654,9 +143654,9 @@ NA
 direct_object
 *
 NA
+subject
 NA
 NA
-*
 NA
 NA
 subject
@@ -143815,7 +143815,7 @@ NA
 principal_direct_object
 NA
 NA
-K_object
+NA
 NA
 direct_object
 NA
@@ -143847,7 +143847,7 @@ NA
 subject
 NA
 NA
-direct_object
+NA
 subject
 NA
 subject
@@ -144105,7 +144105,7 @@ direct_object
 NA
 NA
 NA
-K_object
+NA
 763014	NA
 NA
 NA
@@ -144367,12 +144367,12 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 *
 NA
 NA
 subject
-763324	NA
+763324	*
 NA
 NA
 NA
@@ -145170,9 +145170,9 @@ NA
 NA
 NA
 *
+subject
 NA
 NA
-L_object
 NA
 NA
 *
@@ -145198,7 +145198,7 @@ subject
 NA
 NA
 NA
-L_object
+NA
 764270	NA
 subject
 direct_object
@@ -145207,7 +145207,7 @@ NA
 NA
 NA
 NA
-L_object
+NA
 764280	NA
 NA
 subject
@@ -145275,9 +145275,9 @@ NA
 NA
 NA
 *
+subject
 NA
 NA
-indirect_object
 direct_object
 764370	NA
 NA
@@ -145685,7 +145685,7 @@ direct_object
 *
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -145748,7 +145748,7 @@ NA
 *
 NA
 NA
-*
+NA
 NA
 764911	NA
 NA
@@ -145950,10 +145950,10 @@ NA
 NA
 *
 NA
-principal_direct_object
-NP_direct_object
-765133	*
 direct_object
+*
+765133	NP_direct_object
+principal_direct_object
 NA
 NA
 NA
@@ -146117,9 +146117,9 @@ NA
 NA
 NA
 NA
-NA
+direct_object
 subject
-*
+NA
 NA
 principal_direct_object
 NA
@@ -146330,62 +146330,62 @@ direct_object
 NA
 NA
 NA
-*
-NA
-subject
-direct_object
-NA
-NA
-NA
-*
-NA
-NA
-direct_object
-NA
-direct_object
-NA
-direct_object
-NA
-direct_object
-NA
-NA
-NA
-*
-NA
-direct_object
-direct_object
-NA
-NA
-NA
-NA
-direct_object
-NA
-NA
-NA
-NA
-NA
-direct_object
-NA
 NA
 NA
 subject
-NA
-NA
-NA
-NA
-NA
 direct_object
-NA
-NA
-direct_object
-NA
-NA
-NA
-NA
 NA
 NA
 NA
 *
+NA
+NA
+direct_object
+NA
+direct_object
+NA
+direct_object
+NA
+direct_object
+NA
+NA
+NA
+*
+NA
+direct_object
+direct_object
+NA
+NA
+NA
+NA
+direct_object
+NA
+NA
+NA
+NA
+NA
+direct_object
+NA
+NA
+NA
+subject
+NA
+NA
+NA
+NA
+NA
+direct_object
+NA
+NA
+direct_object
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 *
 NA
 NA
@@ -146523,8 +146523,8 @@ subject
 *
 NA
 NA
-principal_direct_object
-K_object
+direct_object
+NA
 NA
 NA
 subject
@@ -146833,8 +146833,8 @@ subject
 *
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 indirect_object
@@ -146842,12 +146842,12 @@ NA
 NA
 NA
 principal_direct_object
-indirect_object
+NA
 NA
 766097	NA
 NA
 principal_direct_object
-indirect_object
+NA
 direct_object
 *
 *
@@ -146893,7 +146893,7 @@ direct_object
 NA
 NA
 NA
-*
+NA
 NA
 NA
 766157	NA
@@ -146962,7 +146962,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -146973,7 +146973,7 @@ NA
 subject
 NA
 principal_direct_object
-indirect_object
+NA
 NA
 NA
 direct_object
@@ -146985,9 +146985,9 @@ direct_object
 766248	NA
 *
 NA
-766253	*
+766253	NA
 NA
-NA
+*
 NA
 direct_object
 NA
@@ -147072,7 +147072,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -147083,7 +147083,7 @@ NA
 subject
 NA
 principal_direct_object
-indirect_object
+NA
 NA
 NA
 direct_object
@@ -147161,9 +147161,9 @@ NA
 NA
 NA
 direct_object
+NA
+NA
 *
-NA
-NA
 direct_object
 NA
 NA
@@ -147353,10 +147353,10 @@ NA
 NA
 NA
 766664	subject
-
-
 NA
 NA
+
+
 766671	NA
 NA
 subject
@@ -147488,9 +147488,9 @@ NA
 NA
 subject
 NA
+subject
 NA
 NA
-direct_object
 NA
 NA
 NA
@@ -147621,9 +147621,9 @@ NA
 principal_direct_object
 NA
 NA
-
+subject
 NA
-*
+
 NA
 NA
 subject
@@ -147784,7 +147784,7 @@ subject
 NA
 NA
 principal_direct_object
-*
+NA
 NA
 *
 NA
@@ -147815,7 +147815,7 @@ direct_object
 direct_object
 NA
 *
-L_object
+NA
 NA
 NA
 NA
@@ -147836,9 +147836,9 @@ NA
 *
 NA
 NA
+direct_object
 NA
 NA
-*
 direct_object
 NA
 NA
@@ -147847,7 +147847,7 @@ NA
 NA
 NA
 subject
-*
+NA
 NA
 direct_object
 NA
@@ -148239,9 +148239,9 @@ NA
 *
 767677	NA
 NA
+direct_object
 NA
 NA
-*
 direct_object
 NA
 767686	NA
@@ -148267,9 +148267,9 @@ NA
 *
 NA
 767716	direct_object
-*
-*
 NA
+*
+*
 NA
 NA
 *
@@ -148346,7 +148346,7 @@ NA
 subject
 NA
 direct_object
-indirect_object
+NA
 subject
 *
 NA
@@ -148541,7 +148541,7 @@ subject
 NA
 NA
 NA
-K_object
+NA
 NA
 NA
 direct_object
@@ -148814,7 +148814,7 @@ NA
 subject
 NA
 L_object
-K_object
+NA
 NA
 NA
 NA
@@ -148991,7 +148991,7 @@ NA
 NA
 NA
 NA
-K_object
+NA
 NA
 NA
 direct_object
@@ -149000,7 +149000,7 @@ NA
 subject
 NA
 subject
-*
+NA
 NA
 NA
 direct_object
@@ -149021,7 +149021,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -149207,7 +149207,7 @@ NA
 *
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -149281,7 +149281,7 @@ subject
 indirect_object
 NA
 768850	NA
-*
+NA
 direct_object
 NA
 NA
@@ -149475,7 +149475,7 @@ indirect_object
 NA
 NA
 NA
-indirect_object
+NA
 NA
 direct_object
 NA
@@ -149593,7 +149593,7 @@ subject
 indirect_object
 NA
 769218	NA
-direct_object
+
 NA
 NA
 indirect_object
@@ -149915,9 +149915,9 @@ NA
 NA
 NA
 NA
+NA
+NA
 *
-NA
-NA
 NA
 principal_direct_object
 NA
@@ -149992,7 +149992,7 @@ indirect_object
 direct_object
 NA
 NA
-indirect_object
+NA
 769680	NA
 NA
 direct_object
@@ -150145,7 +150145,7 @@ direct_object
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 direct_object
@@ -150191,7 +150191,7 @@ NA
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 769904	NA
@@ -150208,9 +150208,9 @@ NA
 769918	NA
 NA
 NA
-principal_direct_object
-NA
 *
+NA
+principal_direct_object
 direct_object
 principal_direct_object
 NA
@@ -150377,8 +150377,8 @@ direct_object
 *
 NA
 NA
-indirect_object
-K_object
+NA
+NA
 direct_object
 NA
 direct_object
@@ -150593,9 +150593,9 @@ NA
 NA
 NA
 NA
-NA
 subject
-direct_object
+subject
+NA
 NA
 NA
 direct_object
@@ -151703,11 +151703,11 @@ NA
 NA
 771618	NA
 NA
-K_object
 NA
 NA
 NA
-*
+NA
+NA
 NA
 NA
 *
@@ -151740,14 +151740,14 @@ NA
 subject
 NA
 subject
+direct_object
 NA
 NA
-indirect_object
 771664	NA
 NA
 NA
 NA
-indirect_object
+NA
 NA
 NA
 771672	NA
@@ -151842,9 +151842,9 @@ NA
 771790	direct_object
 NA
 NA
+direct_object
 NA
 NA
-L_object
 NA
 NA
 NA
@@ -151883,9 +151883,9 @@ NA
 NA
 NA
 NA
-771840	*
+771840	NA
 NA
-NA
+*
 direct_object
 NA
 direct_object
@@ -152185,9 +152185,9 @@ subject
 NA
 principal_direct_object
 NA
+L_object
 NA
 NA
-indirect_object
 NA
 principal_direct_object
 NA
@@ -152451,9 +152451,9 @@ subject
 NA
 direct_object
 *
+NA
+NA
 *
-NA
-NA
 NA
 NA
 direct_object
@@ -152582,9 +152582,9 @@ subject
 indirect_object
 NA
 772630	NA
-
+direct_object
 indirect_object
-NA
+
 NA
 NA
 *
@@ -153073,10 +153073,10 @@ direct_object
 *
 NA
 NA
-subject
 NA
-principal_direct_object
-NP_direct_object
+NA
+subject
+direct_object
 *
 NA
 NA
@@ -153198,9 +153198,9 @@ NA
 direct_object
 *
 773435	NA
+subject
 NA
 NA
-L_object
 NA
 773447	NA
 NA
@@ -153383,7 +153383,7 @@ NA
 NA
 subject
 773973	NA
-*
+NA
 NA
 NA
 subject
@@ -153397,11 +153397,11 @@ indirect_object
 NA
 774020	NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
-L_object
+NA
 774031	NA
 subject
 NA
@@ -153431,7 +153431,7 @@ NA
 subject
 L_object
 *
-774140	subject
+774140	NA
 NA
 NA
 indirect_object
@@ -153443,7 +153443,7 @@ subject
 NA
 NA
 direct_object
-774163	subject
+774163	NA
 NA
 NA
 NA
@@ -154029,9 +154029,9 @@ NA
 774901	NA
 direct_object
 NA
-*
-indirect_object
 NA
+indirect_object
+*
 774910	subject
 direct_object
 NA
@@ -154197,7 +154197,7 @@ NA
 NA
 NA
 principal_direct_object
-L_object
+NA
 NP_direct_object
 NA
 775144	NA
@@ -154343,18 +154343,18 @@ subject
 NA
 principal_direct_object
 NA
-NA
-NA
-L_object
-NA
-NA
-direct_object
+NP_direct_object
 NA
 NA
 NA
-*
 NA
 direct_object
+NA
+principal_direct_object
+NA
+NA
+NA
+NP_direct_object
 775328	NA
 direct_object
 775332	NA
@@ -154474,23 +154474,23 @@ subject
 NA
 direct_object
 NA
-*
-NA
-NA
-direct_object
-NA
 NA
 direct_object
 *
 NA
 NA
-direct_object
 NA
+direct_object
 NA
 direct_object
 *
-principal_direct_object
-NP_direct_object
+NA
+NA
+NA
+direct_object
+NA
+direct_object
+*
 NA
 NA
 direct_object
@@ -154512,9 +154512,9 @@ NA
 775535	NA
 direct_object
 NA
-subject
-*
 direct_object
+*
+subject
 775546	NA
 NA
 indirect_object
@@ -154851,7 +154851,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 NA
 direct_object
 NA
@@ -154904,7 +154904,7 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -154925,9 +154925,9 @@ NA
 direct_object
 NA
 subject
-*
-direct_object
 NA
+principal_direct_object
+K_object
 NA
 principal_direct_object
 K_object
@@ -155064,7 +155064,7 @@ NA
 NA
 indirect_object
 direct_object
-NA
+*
 776419	NA
 NA
 NA
@@ -155567,12 +155567,12 @@ indirect_object
 NA
 NA
 direct_object
+direct_object
 NA
 NA
-indirect_object
-777004	NA
+777004	direct_object
 NA
-indirect_object
+NA
 777011	NA
 NA
 NA
@@ -156075,9 +156075,9 @@ NA
 NA
 NA
 direct_object
-777612	NA
+777612	direct_object
 NA
-indirect_object
+NA
 NA
 direct_object
 NA
@@ -156194,7 +156194,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 777748	NA
 NA
 NA
@@ -156285,9 +156285,9 @@ NA
 NA
 direct_object
 777855	NA
+NA
+NA
 *
-NA
-NA
 *
 NA
 NA
@@ -156362,7 +156362,7 @@ NA
 NA
 NA
 *
-777950	NA
+777950	*
 NA
 direct_object
 NA
@@ -156526,9 +156526,9 @@ NA
 subject
 NA
 subject
-*
+subject
 NA
-NA
+indirect_object
 778159	NA
 NA
 NA
@@ -156580,11 +156580,11 @@ direct_object
 NA
 NA
 indirect_object
-
-indirect_object
-principal_direct_object
 NA
-NP_direct_object
+indirect_object
+
+NA
+direct_object
 NA
 NA
 direct_object
@@ -157084,7 +157084,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -157316,13 +157316,13 @@ NA
 subject
 direct_object
 NA
-NA
-NA
-*
+subject
 NA
 NA
 NA
-*
+subject
+NA
+NA
 NA
 subject
 *
@@ -157366,9 +157366,9 @@ NA
 NA
 subject
 NA
+NA
+NA
 *
-NA
-NA
 NA
 direct_object
 NA
@@ -157612,9 +157612,9 @@ NA
 direct_object
 *
 NA
-*
-principal_direct_object
 NA
+principal_direct_object
+*
 NA
 NA
 direct_object
@@ -157851,7 +157851,7 @@ NA
 NA
 NA
 direct_object
-*
+NA
 779708	NA
 *
 NA
@@ -157885,7 +157885,7 @@ subject
 NA
 indirect_object
 direct_object
-NA
+*
 779752	NA
 NA
 NA
@@ -157965,11 +157965,11 @@ NA
 *
 779841	NA
 NA
-indirect_object
+NA
 779845	NA
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 direct_object
@@ -158233,7 +158233,7 @@ NA
 direct_object
 NA
 NA
-indirect_object
+NA
 NA
 NA
 direct_object
@@ -158780,9 +158780,9 @@ NA
 direct_object
 NA
 NA
-NA
+direct_object
 *
-L_object
+NA
 780830	NA
 NA
 *
@@ -158965,11 +158965,11 @@ direct_object
 NA
 NA
 NA
+NA
+NA
 *
 NA
 direct_object
-NA
-subject
 *
 direct_object
 781042	NA
@@ -159081,7 +159081,7 @@ NA
 781166	NA
 NA
 NA
-indirect_object
+NA
 subject
 NA
 *
@@ -159295,9 +159295,9 @@ indirect_object
 NA
 NA
 indirect_object
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 subject
@@ -159585,7 +159585,7 @@ subject
 NA
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -159793,9 +159793,9 @@ direct_object
 NA
 *
 NA
-direct_object
+principal_direct_object
 NA
-*
+NP_direct_object
 NA
 NA
 NA
@@ -159994,9 +159994,9 @@ NA
 NA
 NA
 direct_object
-*
-direct_object
 NA
+principal_direct_object
+K_object
 782236	NA
 NA
 NA
@@ -160335,9 +160335,9 @@ NA
 subject
 NA
 NA
+subject
+NA
 *
-NA
-NA
 NA
 NA
 NA
@@ -160475,9 +160475,9 @@ NA
 782800	NA
 *
 NA
-782804	NA
+782804	direct_object
 NA
-indirect_object
+NA
 NA
 NP_direct_object
 principal_direct_object
@@ -160534,7 +160534,7 @@ direct_object
 782870	NA
 NA
 NA
-*
+NA
 subject
 L_object
 NA
@@ -161010,9 +161010,9 @@ subject
 NA
 direct_object
 783457	NA
-*
-subject
 NA
+subject
+*
 783462	NA
 NA
 NA
@@ -161225,9 +161225,9 @@ direct_object
 NA
 783735	NA
 NA
-direct_object
-NA
 subject
+NA
+direct_object
 NA
 NA
 NA
@@ -161321,8 +161321,8 @@ NA
 NA
 783846	NA
 NA
-783849	L_object
-principal_direct_object
+783849	NA
+direct_object
 783853	NA
 principal_direct_object
 783856	NA
@@ -161484,9 +161484,9 @@ NA
 *
 784042	NA
 principal_direct_object
-L_object
 NA
 NA
+*
 principal_direct_object
 NA
 *
@@ -161610,7 +161610,7 @@ NA
 subject
 K_object
 NA
-784206	NA
+784206	*
 NA
 subject
 NA
@@ -161877,7 +161877,7 @@ NA
 L_object
 NA
 NA
-K_object
+NA
 NA
 L_object
 NA
@@ -162222,7 +162222,7 @@ NA
 784942	subject
 NA
 direct_object
-*
+NA
 NA
 NA
 direct_object
@@ -162239,9 +162239,9 @@ direct_object
 direct_object
 NA
 NA
-*
+principal_direct_object
 L_object
-NA
+*
 subject
 direct_object
 *
@@ -162455,9 +162455,9 @@ NP_direct_object
 NA
 NA
 NA
-*
+subject
 direct_object
-NA
+*
 NA
 NA
 NA
@@ -162500,9 +162500,9 @@ NA
 direct_object
 NA
 NA
+direct_object
 *
 *
-NA
 direct_object
 NA
 *
@@ -162529,7 +162529,7 @@ subject
 NA
 direct_object
 785333	NA
-NA
+subject
 NA
 NA
 NA
@@ -162626,13 +162626,13 @@ NA
 NA
 NA
 NA
+subject
 NA
 NA
-indirect_object
 NA
 NA
 NA
-*
+NA
 NA
 785455	NA
 subject
@@ -163288,9 +163288,9 @@ NA
 NA
 *
 NA
-*
-*
 NA
+*
+*
 subject
 NA
 direct_object
@@ -163821,7 +163821,7 @@ NA
 *
 NA
 NA
-*
+NA
 NA
 NA
 786900	NA
@@ -163945,9 +163945,9 @@ NA
 NA
 direct_object
 787051	*
-787053	*
-direct_object
-NA
+787053	NA
+principal_direct_object
+K_object
 NA
 subject
 *
@@ -164031,9 +164031,9 @@ NA
 subject
 direct_object
 NA
-*
-direct_object
 NA
+principal_direct_object
+K_object
 787161	*
 NA
 subject
@@ -164352,9 +164352,9 @@ NA
 NA
 subject
 NA
-NA
 principal_direct_object
-L_object
+NP_direct_object
+NA
 NA
 *
 NA
@@ -164397,9 +164397,9 @@ indirect_object
 subject
 NA
 NA
-*
-direct_object
 NA
+principal_direct_object
+K_object
 787567	NA
 NA
 NA
@@ -165957,7 +165957,7 @@ NA
 789411	NA
 789413	NA
 NA
-*
+NA
 NA
 NA
 indirect_object
@@ -166414,7 +166414,7 @@ subject
 789961	direct_object
 direct_object
 *
-789966	NA
+789966	*
 subject
 NA
 NA
@@ -166517,9 +166517,9 @@ NA
 *
 subject
 NA
+*
 NA
 NA
-direct_object
 NA
 NA
 direct_object
@@ -166532,8 +166532,8 @@ NA
 *
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 direct_object
 NA
@@ -167053,8 +167053,8 @@ NA
 direct_object
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 790710	subject
@@ -167079,9 +167079,9 @@ subject
 *
 NA
 subject
-790740	L_object
+790740	NA
 NA
-principal_direct_object
+direct_object
 *
 790747	NA
 *
@@ -167529,8 +167529,8 @@ NA
 791285	NA
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 NA
 NA
@@ -168226,7 +168226,7 @@ subject
 792139	NA
 NA
 L_object
-792144	NA
+792144	
 792146	NA
 NA
 subject
@@ -168599,7 +168599,7 @@ direct_object
 NA
 NA
 NA
-direct_object
+NA
 subject
 NA
 NA
@@ -168784,7 +168784,7 @@ NA
 principal_direct_object
 L_object
 792826	NA
-direct_object
+NA
 subject
 NA
 subject
@@ -169754,7 +169754,7 @@ NA
 NA
 *
 direct_object
-NA
+*
 *
 NA
 subject
@@ -169772,12 +169772,12 @@ NA
 NA
 NA
 NA
-NA
 principal_direct_object
-L_object
-793984	*
-direct_object
+NP_direct_object
 NA
+793984	principal_direct_object
+NP_direct_object
+*
 793990	NA
 subject
 NA
@@ -169787,7 +169787,7 @@ direct_object
 NA
 NA
 subject
-direct_object
+NA
 NA
 NA
 direct_object
@@ -169941,9 +169941,9 @@ NA
 *
 NA
 subject
-*
+principal_direct_object
 L_object
-NA
+*
 NA
 direct_object
 *
@@ -170901,7 +170901,7 @@ NA
 direct_object
 NA
 subject
-indirect_object
+NA
 NA
 direct_object
 NA
@@ -170946,7 +170946,7 @@ NA
 direct_object
 NA
 subject
-indirect_object
+NA
 795389	NA
 direct_object
 indirect_object
@@ -171408,9 +171408,9 @@ direct_object
 796004	subject
 direct_object
 NA
+direct_object
 NA
 NA
-*
 NA
 direct_object
 NA
@@ -171722,7 +171722,7 @@ NA
 NA
 796344	NA
 NA
-L_object
+NA
 indirect_object
 NA
 NA
@@ -172423,9 +172423,9 @@ NA
 direct_object
 NA
 797206	NA
+subject
+direct_object
 NA
-principal_direct_object
-L_object
 797213	NA
 direct_object
 NA
@@ -172574,9 +172574,9 @@ subject
 NA
 *
 NA
-*
-subject
 NA
+subject
+*
 NA
 subject
 NA
@@ -173090,9 +173090,9 @@ NA
 direct_object
 NA
 NA
+direct_object
+NA
 *
-NA
-NA
 NA
 NA
 principal_direct_object
@@ -173377,9 +173377,9 @@ principal_direct_object
 798324	NA
 direct_object
 *
+NA
+NA
 *
-NA
-NA
 direct_object
 798334	NA
 NA
@@ -173685,9 +173685,9 @@ NP_direct_object
 NA
 direct_object
 *
-NA
 principal_direct_object
-L_object
+NP_direct_object
+NA
 NA
 subject
 NA
@@ -173780,8 +173780,8 @@ direct_object
 798784	NA
 NA
 direct_object
-798792	NP_direct_object
-principal_direct_object
+798792	
+direct_object
 direct_object
 *
 direct_object
@@ -173954,7 +173954,7 @@ NA
 NA
 L_object
 798987	NA
-indirect_object
+NA
 K_object
 NA
 NA
@@ -174319,11 +174319,11 @@ direct_object
 799471	NA
 NA
 indirect_object
+direct_object
 NA
 NA
-L_object
 NA
-principal_direct_object
+direct_object
 NA
 subject
 NA
@@ -174520,8 +174520,8 @@ NA
 indirect_object
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 799735	NA
 NA
 subject
@@ -174624,9 +174624,9 @@ NA
 subject
 NA
 799849	NA
+principal_direct_object
 NA
-NA
-direct_object
+NP_direct_object
 799855	NA
 NA
 NA
@@ -175679,7 +175679,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -175781,9 +175781,9 @@ NA
 801279	NA
 direct_object
 *
-*
-subject
 NA
+subject
+*
 NA
 NA
 NA
@@ -175848,8 +175848,8 @@ NA
 subject
 NA
 801363	NA
-principal_direct_object
-L_object
+direct_object
+NA
 subject
 NA
 direct_object
@@ -175887,7 +175887,7 @@ NA
 NA
 subject
 direct_object
-801413	NA
+801413	*
 subject
 NA
 801417	principal_direct_object
@@ -176052,9 +176052,9 @@ direct_object
 subject
 NA
 direct_object
-NA
 principal_direct_object
-L_object
+NP_direct_object
+NA
 NA
 direct_object
 *
@@ -176353,7 +176353,7 @@ NA
 NA
 NA
 principal_direct_object
-indirect_object
+NA
 NA
 direct_object
 *
@@ -176725,10 +176725,10 @@ NA
 NA
 direct_object
 *
-*
 NA
 NA
-direct_object
+K_object
+principal_direct_object
 NA
 subject
 NA
@@ -176906,9 +176906,9 @@ principal_direct_object
 NA
 NA
 NA
-NA
-NA
 direct_object
+NA
+NA
 NA
 NA
 NA
@@ -177049,9 +177049,9 @@ L_object
 subject
 NA
 NA
+direct_object
 NA
 NA
-L_object
 802724	principal_direct_object
 NA
 L_object
@@ -177409,9 +177409,9 @@ NA
 subject
 803189	NA
 NA
+direct_object
 NA
 NA
-indirect_object
 subject
 subject
 indirect_object
@@ -177726,9 +177726,9 @@ NA
 NA
 L_object
 NA
-NA
-NA
 direct_object
+NA
+NA
 subject
 803554	NA
 NA
@@ -177922,9 +177922,9 @@ direct_object
 NA
 NA
 subject
-NA
-NA
 direct_object
+NA
+NA
 subject
 NA
 NA
@@ -177968,7 +177968,7 @@ NA
 NA
 803817	NA
 NA
-*
+NA
 direct_object
 NA
 indirect_object
@@ -178151,9 +178151,9 @@ direct_object
 subject
 subject
 NA
+L_object
 NA
 NA
-*
 NA
 NA
 NP_direct_object
@@ -178934,9 +178934,9 @@ direct_object
 NA
 *
 NA
-*
-direct_object
 NA
+direct_object
+*
 NA
 NA
 direct_object
@@ -179071,9 +179071,9 @@ direct_object
 NA
 direct_object
 *
-805261	L_object
-principal_direct_object
-NA
+805261	NA
+direct_object
+*
 805267	NA
 direct_object
 805272	NA
@@ -179859,8 +179859,8 @@ NA
 direct_object
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 principal_direct_object
 L_object
@@ -179996,7 +179996,7 @@ L_object
 806447	NA
 NA
 NA
-L_object
+NA
 806453	NA
 direct_object
 NA
@@ -180077,7 +180077,7 @@ NA
 NA
 806558	NA
 principal_direct_object
-*
+NA
 806563	NA
 principal_direct_object
 NA
@@ -180085,7 +180085,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 direct_object
 806575	NA
 direct_object
@@ -180196,9 +180196,9 @@ subject
 NA
 *
 NA
-*
-subject
 NA
+subject
+*
 NA
 NA
 subject
@@ -180405,11 +180405,11 @@ NA
 NA
 NA
 NA
-NA
-NA
 *
 NA
 NA
+NA
+*
 subject
 NA
 NA
@@ -180436,9 +180436,9 @@ subject
 NA
 *
 NA
-*
-subject
 NA
+subject
+*
 NA
 *
 NA
@@ -181356,9 +181356,9 @@ direct_object
 NA
 NA
 direct_object
+subject
 NA
 NA
-*
 subject
 NA
 direct_object
@@ -181612,7 +181612,7 @@ NA
 direct_object
 NA
 direct_object
-*
+NA
 NA
 subject
 NA
@@ -181842,9 +181842,9 @@ principal_direct_object
 NA
 NA
 direct_object
+direct_object
 NA
 NA
-*
 NA
 subject
 NA
@@ -182291,7 +182291,7 @@ NA
 809132	NA
 NA
 direct_object
-*
+NA
 NA
 direct_object
 NA
@@ -182326,7 +182326,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 NA
 *
 NA
@@ -182685,7 +182685,7 @@ NA
 L_object
 809578	NA
 subject
-direct_object
+NA
 NA
 NA
 NA
@@ -182724,7 +182724,7 @@ direct_object
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 direct_object
@@ -182927,9 +182927,9 @@ L_object
 *
 809855	NA
 subject
-*
 NA
-direct_object
+NA
+*
 NA
 NA
 NA
@@ -183480,7 +183480,7 @@ subject
 NA
 indirect_object
 subject
-direct_object
+NA
 NA
 NA
 direct_object
@@ -183587,9 +183587,9 @@ NA
 direct_object
 NA
 subject
+NA
+NA
 direct_object
-NA
-NA
 NA
 NA
 NA
@@ -184088,7 +184088,7 @@ NA
 *
 direct_object
 NA
-NA
+*
 NA
 NA
 NA
@@ -184367,9 +184367,9 @@ NA
 direct_object
 NA
 subject
+NA
+NA
 *
-NA
-NA
 subject
 NA
 *
@@ -184599,15 +184599,15 @@ NA
 NA
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 direct_object
 NA
 NA
 subject
-L_object
-principal_direct_object
+NA
+direct_object
 811854	NA
 direct_object
 NA
@@ -184909,10 +184909,10 @@ direct_object
 NA
 direct_object
 NA
-*
 NA
-NP_direct_object
-principal_direct_object
+NA
+*
+direct_object
 812207	NA
 NA
 *
@@ -184987,7 +184987,7 @@ direct_object
 NA
 NA
 NA
-*
+NA
 NA
 NA
 *
@@ -185053,7 +185053,7 @@ NP_direct_object
 principal_direct_object
 NA
 NA
-*
+NA
 subject
 direct_object
 NA
@@ -185640,7 +185640,7 @@ NA
 L_object
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -185721,9 +185721,9 @@ subject
 NA
 NA
 NA
-
-direct_object
 NA
+direct_object
+
 813159	NA
 direct_object
 NA
@@ -185874,9 +185874,9 @@ NA
 NA
 NA
 subject
+direct_object
 NA
 NA
-indirect_object
 NA
 NA
 direct_object
@@ -185928,7 +185928,7 @@ direct_object
 NA
 indirect_object
 813393	NA
-direct_object
+NA
 NA
 subject
 NA
@@ -185954,9 +185954,9 @@ indirect_object
 NA
 NA
 direct_object
-813424	*
-direct_object
-NA
+813424	NA
+principal_direct_object
+L_object
 NA
 L_object
 NA
@@ -186353,9 +186353,9 @@ direct_object
 NA
 NA
 direct_object
+NA
+NA
 *
-NA
-NA
 NA
 NA
 NA
@@ -186947,9 +186947,9 @@ subject
 814579	NA
 NA
 subject
+NA
+NA
 *
-NA
-NA
 814587	NA
 NA
 NA
@@ -187035,7 +187035,7 @@ principal_direct_object
 L_object
 814681	NA
 NA
-L_object
+NA
 direct_object
 NA
 814688	NA
@@ -187123,7 +187123,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 direct_object
 NA
 NA
@@ -187310,9 +187310,9 @@ direct_object
 direct_object
 NA
 subject
+NA
+NA
 *
-NA
-NA
 NA
 direct_object
 NA
@@ -187644,9 +187644,9 @@ NA
 NA
 L_object
 815382	NA
-*
 NA
-direct_object
+NA
+*
 NA
 subject
 NA
@@ -188474,10 +188474,10 @@ subject
 direct_object
 *
 NA
-NA
+direct_object
 subject
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 subject
 NA
@@ -188548,7 +188548,7 @@ direct_object
 NA
 *
 816473	NA
-NA
+*
 816476	NA
 indirect_object
 NA
@@ -188623,7 +188623,7 @@ NA
 NA
 direct_object
 816559	NA
-NA
+*
 816563	NA
 NA
 indirect_object
@@ -188680,7 +188680,7 @@ NA
 subject
 NA
 NA
-NA
+*
 NA
 NA
 NA
@@ -188747,7 +188747,7 @@ direct_object
 816718	NA
 direct_object
 816724	subject
-direct_object
+NA
 NA
 direct_object
 NA
@@ -188933,7 +188933,7 @@ direct_object
 NA
 NA
 direct_object
-direct_object
+NA
 NA
 *
 subject
@@ -189637,9 +189637,9 @@ direct_object
 subject
 NA
 direct_object
-*
-direct_object
 NA
+direct_object
+*
 817961	NA
 principal_direct_object
 NA
@@ -190036,7 +190036,7 @@ subject
 NA
 NA
 NA
-subject
+NA
 NA
 subject
 direct_object
@@ -190314,7 +190314,7 @@ NA
 *
 direct_object
 818870	NA
-*
+NA
 subject
 direct_object
 NA
@@ -190541,7 +190541,7 @@ direct_object
 819144	NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -190925,10 +190925,10 @@ NA
 NA
 NA
 NA
-indirect_object
 NA
 NA
-indirect_object
+NA
+NA
 NA
 L_object
 NA
@@ -191283,10 +191283,10 @@ NA
 820082	NA
 NA
 direct_object
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 subject
 NA
 direct_object
@@ -191455,9 +191455,9 @@ NA
 NA
 NA
 NA
+*
 NA
 NA
-direct_object
 NA
 NA
 subject
@@ -191489,7 +191489,7 @@ NA
 NA
 NA
 subject
-direct_object
+NA
 subject
 NA
 direct_object
@@ -192003,7 +192003,7 @@ NA
 NA
 L_object
 *
-821020	NA
+821020	direct_object
 NA
 NA
 821025	NA
@@ -192081,7 +192081,7 @@ NA
 subject
 NA
 NA
-indirect_object
+NA
 direct_object
 821129	NA
 NA
@@ -192129,11 +192129,11 @@ NA
 NA
 821178	NA
 subject
-*
+NA
 direct_object
 NA
 NA
-*
+NA
 NA
 subject
 indirect_object
@@ -192161,7 +192161,7 @@ subject
 NA
 821213	NA
 NA
-*
+NA
 821221	NA
 NA
 indirect_object
@@ -192249,7 +192249,7 @@ NA
 NA
 NA
 subject
-indirect_object
+NA
 NA
 NA
 NA
@@ -192469,7 +192469,7 @@ indirect_object
 subject
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -192609,12 +192609,12 @@ NA
 L_object
 NA
 NA
-*
+NA
 NA
 NA
 821716	NA
 NA
-*
+NA
 NA
 821721	NA
 NA
@@ -192740,7 +192740,7 @@ NA
 *
 NA
 NA
-K_object
+NA
 NA
 direct_object
 subject
@@ -192802,7 +192802,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 NA
 NA
 subject
@@ -192879,7 +192879,7 @@ indirect_object
 direct_object
 NA
 NA
-indirect_object
+NA
 subject
 NA
 NA
@@ -193251,9 +193251,9 @@ principal_direct_object
 822470	NA
 subject
 NA
-822475	NA
+822475	direct_object
 NA
-indirect_object
+NA
 NA
 822482	subject
 NA
@@ -193432,7 +193432,7 @@ NA
 NA
 NA
 822737	NA
-822742	NA
+822742	direct_object
 NA
 NA
 subject
@@ -193477,7 +193477,7 @@ NA
 subject
 NA
 NA
-NA
+subject
 NA
 NA
 *
@@ -193757,9 +193757,9 @@ NA
 subject
 NA
 subject
-*
-subject
 NA
+subject
+*
 NA
 direct_object
 indirect_object
@@ -193812,9 +193812,9 @@ direct_object
 subject
 NA
 NA
-*
 direct_object
-NA
+principal_direct_object
+K_object
 *
 823346	subject
 NA
@@ -193833,9 +193833,9 @@ direct_object
 NA
 NA
 indirect_object
-823369	NA
+823369	direct_object
 NA
-L_object
+NA
 NA
 NA
 NA
@@ -194067,16 +194067,16 @@ indirect_object
 direct_object
 NA
 indirect_object
+direct_object
 NA
 NA
-indirect_object
 direct_object
 NA
 NA
 *
+direct_object
 NA
 NA
-indirect_object
 principal_direct_object
 NA
 *
@@ -194098,9 +194098,9 @@ NA
 NA
 NA
 indirect_object
+direct_object
 NA
 NA
-indirect_object
 direct_object
 NA
 NA
@@ -194924,8 +194924,8 @@ NA
 NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 subject
 NA
@@ -195223,7 +195223,7 @@ NA
 NA
 indirect_object
 subject
-NA
+*
 NA
 NA
 principal_direct_object
@@ -195356,9 +195356,9 @@ NA
 NA
 NA
 NA
-*
-indirect_object
 NA
+indirect_object
+*
 825535	direct_object
 NA
 NA
@@ -195367,9 +195367,9 @@ NA
 NA
 NA
 825546	NA
+subject
+NA
 *
-NA
-NA
 NA
 NA
 NA
@@ -195573,9 +195573,9 @@ NA
 NA
 NA
 subject
-L_object
 NA
-principal_direct_object
+NA
+direct_object
 NA
 subject
 NA
@@ -195906,10 +195906,10 @@ NA
 subject
 direct_object
 NA
+subject
+NA
 NA
 *
-*
-NA
 NA
 NA
 *
@@ -196185,9 +196185,9 @@ NA
 direct_object
 NA
 NA
+direct_object
+NA
 *
-NA
-NA
 direct_object
 *
 NA
@@ -196244,9 +196244,9 @@ direct_object
 NA
 *
 direct_object
+direct_object
+NA
 *
-NA
-NA
 NA
 NA
 subject
@@ -196627,9 +196627,9 @@ NA
 NA
 NA
 *
-*
-direct_object
 NA
+direct_object
+*
 *
 subject
 NA
@@ -196650,9 +196650,9 @@ NA
 NA
 NA
 subject
+NP_direct_object
+principal_direct_object
 *
-direct_object
-NA
 NA
 NA
 direct_object
@@ -197068,7 +197068,7 @@ subject
 subject
 NA
 principal_direct_object
-L_object
+NA
 subject
 direct_object
 NA
@@ -197077,11 +197077,11 @@ NA
 subject
 NA
 subject
-L_object
+NA
 NA
 NA
 *
-principal_direct_object
+direct_object
 NA
 NA
 subject
@@ -197101,9 +197101,9 @@ NA
 NA
 NA
 subject
+*
 NA
 NA
-K_object
 subject
 NA
 direct_object
@@ -197152,7 +197152,7 @@ NA
 NA
 *
 827615	NA
-*
+NA
 NA
 NA
 NA
@@ -197226,7 +197226,7 @@ subject
 NA
 NA
 subject
-K_object
+NA
 NA
 NA
 principal_direct_object
@@ -197361,9 +197361,9 @@ NA
 NA
 direct_object
 NA
+subject
 NA
 NA
-*
 NA
 NA
 subject
@@ -197458,12 +197458,12 @@ direct_object
 NA
 NA
 NA
+subject
+direct_object
 NA
-principal_direct_object
-L_object
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 NA
@@ -197667,7 +197667,7 @@ subject
 NA
 indirect_object
 828196	NA
-*
+NA
 NA
 NA
 NA
@@ -197999,7 +197999,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 NA
 NA
 subject
@@ -198043,7 +198043,7 @@ subject
 *
 NA
 NA
-indirect_object
+NA
 NA
 NA
 NA
@@ -198174,15 +198174,15 @@ NA
 subject
 subject
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 NA
 NA
 subject
 NA
 NA
-*
+NA
 subject
 NA
 NA
@@ -198673,9 +198673,9 @@ NA
 direct_object
 829321	NA
 829327	subject
-L_object
-principal_direct_object
 NA
+direct_object
+*
 NA
 L_object
 NA
@@ -198690,9 +198690,9 @@ NA
 NA
 NA
 NA
+subject
+NA
 *
-NA
-NA
 NA
 subject
 NA
@@ -198759,9 +198759,9 @@ NA
 subject
 *
 829426	NA
+subject
+NA
 *
-NA
-NA
 NA
 subject
 NA
@@ -198827,9 +198827,9 @@ subject
 NA
 NA
 NA
-*
-subject
 NA
+subject
+*
 NA
 direct_object
 NA
@@ -199106,13 +199106,13 @@ NA
 NA
 829847	NA
 NA
-indirect_object
+NA
 subject
 direct_object
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 829865	NA
 NA
 subject
@@ -202886,7 +202886,7 @@ NA
 *
 NA
 direct_object
-*
+NA
 NA
 NA
 NA
@@ -203308,9 +203308,9 @@ NA
 subject
 principal_direct_object
 NA
-*
-principal_direct_object
 NA
+principal_direct_object
+*
 834868	NA
 NA
 NA
@@ -203372,9 +203372,9 @@ NA
 NA
 subject
 *
-*
-direct_object
 NA
+direct_object
+*
 NA
 direct_object
 subject
@@ -203857,9 +203857,9 @@ NA
 NA
 NA
 indirect_object
+subject
 NA
 NA
-indirect_object
 direct_object
 direct_object
 NA
@@ -203928,9 +203928,9 @@ L_object
 NA
 NA
 indirect_object
+subject
 NA
 NA
-indirect_object
 direct_object
 direct_object
 NA
@@ -204001,9 +204001,9 @@ NA
 NP_direct_object
 principal_direct_object
 NA
-*
+NA
 indirect_object
-direct_object
+*
 NA
 NA
 NA
@@ -204298,7 +204298,7 @@ NA
 subject
 NA
 L_object
-*
+NA
 NA
 NA
 *
@@ -204618,10 +204618,10 @@ subject
 *
 NA
 NA
+NA
+NA
 *
 NA
-NA
-indirect_object
 NA
 NA
 subject
@@ -204697,7 +204697,7 @@ NA
 NA
 indirect_object
 direct_object
-NA
+*
 NA
 direct_object
 subject
@@ -204727,7 +204727,7 @@ NA
 NA
 indirect_object
 direct_object
-NA
+*
 836826	direct_object
 NA
 836829	NA
@@ -204751,10 +204751,10 @@ NA
 NA
 L_object
 NA
-principal_direct_object
+direct_object
 NA
 NA
-L_object
+NA
 NA
 NA
 NA
@@ -205426,10 +205426,10 @@ NA
 *
 subject
 NA
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 NA
 NA
 indirect_object
@@ -205727,9 +205727,9 @@ NA
 direct_object
 *
 NA
-*
+principal_direct_object
 L_object
-NA
+*
 NA
 NA
 NA
@@ -205780,7 +205780,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -205878,9 +205878,9 @@ subject
 838204	NA
 NA
 NA
+subject
 NA
 NA
-*
 NA
 subject
 NA
@@ -205892,7 +205892,7 @@ subject
 NA
 NA
 NA
-*
+NA
 NA
 subject
 NA
@@ -205926,9 +205926,9 @@ subject
 NA
 indirect_object
 NA
+subject
 NA
 NA
-*
 NA
 subject
 NA
@@ -206078,9 +206078,9 @@ NA
 NA
 direct_object
 NA
+principal_direct_object
 NA
 NA
-K_object
 direct_object
 NA
 NA
@@ -206107,7 +206107,7 @@ direct_object
 NA
 NA
 subject
-K_object
+NA
 NA
 NA
 NA
@@ -206161,9 +206161,9 @@ NA
 NA
 NA
 NA
+subject
 NA
 NA
-indirect_object
 NA
 NA
 NA
@@ -206183,7 +206183,7 @@ indirect_object
 direct_object
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -206216,7 +206216,7 @@ NA
 subject
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -206243,10 +206243,10 @@ NA
 indirect_object
 NA
 NA
+NA
+NA
 *
 NA
-principal_direct_object
-K_object
 NA
 NA
 indirect_object
@@ -206406,7 +206406,7 @@ NA
 NA
 NA
 NA
-*
+NA
 NA
 subject
 NA
@@ -206756,7 +206756,7 @@ NA
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 839351	NA
 NA
@@ -206891,7 +206891,7 @@ NA
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -206977,7 +206977,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 NA
 NA
 direct_object
@@ -206993,7 +206993,7 @@ direct_object
 NA
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -207084,7 +207084,7 @@ NA
 principal_direct_object
 *
 839717	NA
-*
+NA
 NA
 NA
 NA
@@ -207152,7 +207152,7 @@ NA
 NA
 NA
 direct_object
-*
+NA
 NA
 direct_object
 *
@@ -207311,9 +207311,9 @@ NA
 NA
 NA
 *
+NA
+NA
 *
-NA
-NA
 NA
 *
 NA
@@ -207456,7 +207456,7 @@ NA
 NA
 *
 840198	NA
-L_object
+NA
 840225	NA
 L_object
 840233	NA
@@ -207584,10 +207584,10 @@ NA
 subject
 NA
 NA
+NA
+NA
 subject
 *
-principal_direct_object
-NA
 NA
 *
 NA
@@ -207658,15 +207658,15 @@ direct_object
 *
 840616	NA
 NA
-indirect_object
+NA
+direct_object
+NA
 *
 NA
 NA
 NA
-NA
+direct_object
 
-principal_direct_object
-NP_direct_object
 direct_object
 NA
 NA
@@ -207692,7 +207692,7 @@ NA
 subject
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -207759,7 +207759,7 @@ NA
 direct_object
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -207914,10 +207914,10 @@ NA
 principal_direct_object
 L_object
 NA
+NA
+NA
 *
 NA
-NA
-L_object
 NA
 NA
 NA
@@ -208391,11 +208391,11 @@ subject
 *
 NA
 NA
-*
-direct_object
-subject
 NA
-principal_direct_object
+direct_object
+NA
+NA
+subject
 NA
 NA
 NA
@@ -208539,7 +208539,7 @@ NA
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 *
@@ -208571,7 +208571,7 @@ direct_object
 NA
 NA
 direct_object
-*
+NA
 NA
 NA
 *
@@ -209252,9 +209252,9 @@ NA
 NA
 direct_object
 NA
+NA
+direct_object
 *
-direct_object
-NA
 NA
 direct_object
 NA
@@ -209266,7 +209266,7 @@ direct_object
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
@@ -210073,7 +210073,7 @@ direct_object
 *
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -210146,9 +210146,9 @@ subject
 direct_object
 NA
 NA
+subject
+NA
 *
-NA
-NA
 NA
 NA
 NA
@@ -210581,8 +210581,8 @@ NA
 direct_object
 845048	NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 NA
 direct_object
 NA
@@ -210616,9 +210616,9 @@ NA
 NA
 NA
 NA
+subject
 NA
 NA
-*
 NA
 NA
 direct_object
@@ -210940,8 +210940,8 @@ subject
 NA
 NA
 NA
-principal_direct_object
-L_object
+direct_object
+NA
 845457	NA
 subject
 NA
@@ -210960,11 +210960,11 @@ NA
 subject
 NA
 direct_object
-*
+NA
 NA
 NA
 subject
-*
+NA
 direct_object
 NA
 NA
@@ -211273,7 +211273,7 @@ NA
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
@@ -211394,9 +211394,9 @@ direct_object
 direct_object
 NA
 subject
+NA
+NA
 *
-NA
-NA
 NA
 NA
 subject
@@ -211446,7 +211446,7 @@ direct_object
 *
 NA
 NA
-indirect_object
+NA
 NA
 NA
 subject
@@ -211471,10 +211471,10 @@ subject
 NA
 NA
 846042	NA
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 NA
 NA
 subject
@@ -211657,7 +211657,7 @@ NA
 NA
 NA
 NA
-846253	L_object
+846253	NA
 NA
 NA
 direct_object
@@ -212228,10 +212228,10 @@ NA
 subject
 NA
 847323	NA
-principal_direct_object
-NA
+direct_object
+subject
 *
-L_object
+NA
 NA
 subject
 NA
@@ -212248,9 +212248,9 @@ NA
 847450	NA
 NA
 NA
+subject
+direct_object
 NA
-principal_direct_object
-L_object
 NA
 NA
 subject
@@ -212532,7 +212532,7 @@ subject
 NA
 NA
 L_object
-*
+NA
 847907	NA
 subject
 NA
@@ -212776,9 +212776,9 @@ NA
 NA
 subject
 L_object
+subject
 NA
 NA
-*
 direct_object
 NA
 direct_object
@@ -212828,9 +212828,9 @@ NA
 NA
 direct_object
 NA
-subject
-*
 direct_object
+*
+subject
 NA
 indirect_object
 NA
@@ -212848,9 +212848,9 @@ NA
 NA
 NA
 NA
-*
-subject
 NA
+subject
+L_object
 848294	*
 848296	NA
 NA
@@ -212868,9 +212868,9 @@ direct_object
 *
 NA
 NA
-*
+subject
 principal_direct_object
-NA
+*
 K_object
 NA
 principal_direct_object
@@ -213025,7 +213025,7 @@ NA
 direct_object
 848509	NA
 NA
-*
+NA
 NA
 NA
 direct_object
@@ -213259,11 +213259,11 @@ NA
 principal_direct_object
 NP_direct_object
 NA
+NA
+NA
 *
 
 
-direct_object
-*
 848853	NA
 NA
 direct_object
@@ -214151,7 +214151,7 @@ L_object
 NA
 NA
 subject
-L_object
+NA
 NA
 NA
 subject
@@ -214883,9 +214883,9 @@ direct_object
 subject
 NA
 NA
+NA
+direct_object
 *
-NP_direct_object
-principal_direct_object
 NA
 NA
 indirect_object
@@ -214993,9 +214993,9 @@ NA
 subject
 indirect_object
 NA
-*
+NA
 subject
-principal_direct_object
+*
 NA
 850838	NA
 NA
@@ -215574,7 +215574,7 @@ NA
 subject
 NA
 NA
-indirect_object
+NA
 direct_object
 NA
 NA
@@ -215879,8 +215879,8 @@ NA
 *
 NA
 NA
-L_object
-principal_direct_object
+NA
+direct_object
 NA
 NA
 subject
@@ -216077,9 +216077,9 @@ NA
 NA
 *
 NA
-*
-direct_object
 NA
+direct_object
+*
 NA
 NA
 direct_object
@@ -217093,7 +217093,7 @@ NA
 *
 NA
 853325	NA
-direct_object
+subject
 NA
 NA
 NA
@@ -217394,9 +217394,9 @@ NA
 NA
 NA
 NA
-
-L_object
 NA
+L_object
+
 NA
 NA
 subject
@@ -217771,7 +217771,7 @@ subject
 854104	NA
 NA
 NA
-indirect_object
+NA
 subject
 direct_object
 NA
@@ -217826,9 +217826,9 @@ L_object
 NA
 direct_object
 NA
+direct_object
 NA
 NA
-L_object
 NA
 NA
 subject
@@ -217836,9 +217836,9 @@ NA
 NA
 direct_object
 NA
+direct_object
 *
 *
-NA
 NA
 NA
 principal_direct_object
@@ -218053,9 +218053,9 @@ NA
 direct_object
 NA
 NA
+direct_object
 NA
 NA
-*
 NA
 direct_object
 NA
@@ -218189,7 +218189,7 @@ NA
 subject
 L_object
 854561	NA
-L_object
+NA
 NA
 NA
 L_object
@@ -218450,9 +218450,9 @@ NA
 NA
 direct_object
 NA
-*
-direct_object
 NA
+direct_object
+*
 NA
 NA
 direct_object
@@ -218943,9 +218943,9 @@ direct_object
 *
 NA
 NA
+direct_object
 *
 *
-NA
 NA
 NA
 *
@@ -220036,10 +220036,10 @@ NA
 NA
 NA
 NA
-principal_direct_object
+direct_object
 NA
 subject
-L_object
+NA
 NA
 NA
 NA
@@ -220270,9 +220270,9 @@ NA
 direct_object
 *
 NA
+direct_object
 NA
 NA
-indirect_object
 NA
 subject
 NA
@@ -220662,7 +220662,7 @@ principal_direct_object
 *
 NA
 NA
-*
+NA
 NA
 NA
 NA
@@ -220683,7 +220683,7 @@ NA
 subject
 NA
 NA
-*
+NA
 NA
 *
 NA
@@ -220727,10 +220727,10 @@ subject
 direct_object
 *
 NA
-*
 NA
+NA
+*
 principal_direct_object
-NP_direct_object
 NA
 direct_object
 NA
@@ -220901,10 +220901,10 @@ NA
 subject
 NA
 *
-*
 NA
-principal_direct_object
-NP_direct_object
+NA
+*
+direct_object
 NA
 NA
 subject
@@ -221304,9 +221304,9 @@ NA
 subject
 L_object
 NA
+direct_object
 *
 *
-NA
 858104	NA
 NA
 NA

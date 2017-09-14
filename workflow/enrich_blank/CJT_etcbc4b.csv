@@ -12,9 +12,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 426990;2091;606396;Genesis;4;25;CJT;qal;;ZR< >XR ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 426990;2091;606397;Genesis;4;25;CJT;qal;;TXT HBL ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 429858;16305;-1;Genesis;30;40;CJT;qal;JCT ;W JCT LW <DRJM L BDW ;;;;;;;;;;;
-429858;16305;615127;Genesis;30;40;CJT;qal;;W ;phrase;;;CP;Adju;adjunct;NA;NA;;;
+429858;16305;615127;Genesis;30;40;CJT;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 429858;16305;615128;Genesis;30;40;CJT;qal;;JCT ;phrase;;;VP;Pred;core;regular;NA;;;
-429858;16305;615129;Genesis;30;40;CJT;qal;;LW ;phrase;;;PP;Supp;adjunct;NA;NA;;;benefactive
+429858;16305;615129;Genesis;30;40;CJT;qal;;LW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 429858;16305;615130;Genesis;30;40;CJT;qal;;<DRJM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 429858;16305;615131;Genesis;30;40;CJT;qal;;L BDW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 429859;16312;-1;Genesis;30;40;CJT;qal;CTM ;W L> CTM <L Y>N LBN ;;;;;;;;;;;
@@ -140,9 +140,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 468624;219069;-1;Isaiah;22;7;CJT;qal;CT ;W H PRCJM CT CTW H C<RH ;;;;;;;;;;;
 468624;219069;731937;Isaiah;22;7;CJT;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 468624;219069;731938;Isaiah;22;7;CJT;qal;;H PRCJM ;phrase;;;NP;Subj;core;NA;subject;;;
-468624;219069;731939;Isaiah;22;7;CJT;qal;;CT ;phrase;;;AdvP;Cmpl;complement;NA;*;;;
+468624;219069;731939;Isaiah;22;7;CJT;qal;;CT ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
 468624;219069;731940;Isaiah;22;7;CJT;qal;;CTW ;phrase;;;VP;Pred;core;regular;NA;;;
-468624;219069;731941;Isaiah;22;7;CJT;qal;;H C<RH ;phrase;;;AdvP;Loca;adjunct;NA;NA;;location;location
+468624;219069;731941;Isaiah;22;7;CJT;qal;;H C<RH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
 468907;220287;-1;Isaiah;26;1;CJT;qal;JCJT ;JCW<H JCJT XWMWT W XL ;;;;;;;;;;;
 468907;220287;732668;Isaiah;26;1;CJT;qal;;JCW<H ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
 468907;220287;732669;Isaiah;26;1;CJT;qal;;JCJT ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -167,7 +167,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 475172;245429;749545;Jeremiah;22;6;CJT;qal;;MDBR ;phrase;;;NP;Objc;complement;NA;NP_direct_object;;;
 476276;251020;-1;Jeremiah;31;21;CJT;qal;CTJ ;CTJ LBK L  MSLH ;;;;;;;;;;;
 476276;251020;752685;Jeremiah;31;21;CJT;qal;;CTJ ;phrase;;;VP;Pred;core;regular;NA;;;
-476276;251020;752686;Jeremiah;31;21;CJT;qal;;LBK ;phrase;;;NP;Cmpl;complement;NA;*;;;
+476276;251020;752686;Jeremiah;31;21;CJT;qal;;LBK ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
 476276;251020;752687;Jeremiah;31;21;CJT;qal;;L  MSLH ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
 478330;261904;-1;Jeremiah;50;3;CJT;qal;JCJT ;HW> JCJT >T >RYH L CMH ;;;;;;;;;;;
 478330;261904;758682;Jeremiah;50;3;CJT;qal;;HW> ;phrase;;;PPrP;Subj;core;NA;subject;;;
@@ -235,9 +235,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 489971;313546;790967;Psalms;21;13;CJT;qal;;TCJTMW ;phrase;;;VP;PreO;core;regular;principal_direct_object;;;
 489971;313546;790968;Psalms;21;13;CJT;qal;;CKM ;phrase;;;NP;Objc;complement;NA;NP_direct_object;;;
 491298;318045;-1;Psalms;45;17;CJT;qal;TCJTMW ;TCJTMW L FRJM B KL H >RY ;;;;;;;;;;;
-491298;318045;794184;Psalms;45;17;CJT;qal;;TCJTMW ;phrase;;;VP;Cmpl;complement;NA;*;;;
+491298;318045;794184;Psalms;45;17;CJT;qal;;TCJTMW ;phrase;;;VP;PreO;core;regular;principal_direct_object;;;
 491298;318045;794185;Psalms;45;17;CJT;qal;;L FRJM ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
-491298;318045;794186;Psalms;45;17;CJT;qal;;B KL H >RY ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+491298;318045;794186;Psalms;45;17;CJT;qal;;B KL H >RY ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
 491400;318389;-1;Psalms;48;14;CJT;qal;CJTW ;CJTW LBKM L XJLH ;;;;;;;;;;;
 491400;318389;794405;Psalms;48;14;CJT;qal;;CJTW ;phrase;;;VP;Pred;core;regular;NA;;;
 491400;318389;794406;Psalms;48;14;CJT;qal;;LBKM ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;

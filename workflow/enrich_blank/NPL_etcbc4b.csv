@@ -158,9 +158,9 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 439794;68749;645451;Leviticus;26;36;NPL;qal;;NPLW ;phrase;;;VP;Pred;core;regular;NA;;;
 440446;73171;-1;Numbers;5;21;NPL;qal;NPLT ;B TT JHWH >T JRKK NPLT ;;;;;;;;;;;
 440446;73171;647364;Numbers;5;21;NPL;qal;;B TT ;phrase;;;VP;Pred;core;regular;NA;;;
-440446;73171;647365;Numbers;5;21;NPL;qal;;JHWH ;phrase;;;PrNP;Cmpl;complement;NA;*;;;
+440446;73171;647365;Numbers;5;21;NPL;qal;;JHWH ;phrase;;;PrNP;Subj;core;NA;subject;;;
 440446;73171;647366;Numbers;5;21;NPL;qal;;>T JRKK ;phrase;;;PP;Objc;complement;NA;direct_object;;;
-440446;73171;647367;Numbers;5;21;NPL;qal;;NPLT ;phrase;;;AdjP;PrAd;adjunct;NA;NA;;;
+440446;73171;647367;Numbers;5;21;NPL;qal;;NPLT ;phrase;;;AdjP;Cmpl;complement;NA;*;;;
 440450;73191;-1;Numbers;5;22;NPL;hif;NPL ;W L NPL JRK ;;;;;;;;;;;
 440450;73191;647377;Numbers;5;22;NPL;hif;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 440450;73191;647378;Numbers;5;22;NPL;hif;;L NPL ;phrase;;;VP;Pred;core;regular;NA;;;
@@ -478,7 +478,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 454556;149367;690202;1_Samuel;14;45;NPL;qal;;>M ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 454556;149367;690203;1_Samuel;14;45;NPL;qal;;JPL ;phrase;;;VP;Pred;core;regular;NA;;;
 454556;149367;690204;1_Samuel;14;45;NPL;qal;;M F<RT R>CW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
-454556;149367;690205;1_Samuel;14;45;NPL;qal;;>RYH ;phrase;;;AdvP;Adju;adjunct;NA;NA;;;
+454556;149367;690205;1_Samuel;14;45;NPL;qal;;>RYH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
 455010;151477;-1;1_Samuel;17;32;NPL;qal;JPL ;>L JPL LB >DM <LJW ;;;;;;;;;;;
 455010;151477;691535;1_Samuel;17;32;NPL;qal;;>L ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
 455010;151477;691536;1_Samuel;17;32;NPL;qal;;JPL ;phrase;;;VP;Pred;core;regular;NA;;;

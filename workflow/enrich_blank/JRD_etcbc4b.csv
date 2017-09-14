@@ -860,7 +860,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 460348;177422;707727;1_Kings;2;6;JRD;hif;;TWRD ;phrase;;;VP;Pred;core;regular;NA;;;
 460348;177422;707728;1_Kings;2;6;JRD;hif;;FJBTW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
 460348;177422;707729;1_Kings;2;6;JRD;hif;;B CLM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
-460348;177422;707730;1_Kings;2;6;JRD;hif;;C>L ;phrase;;;NP;Adju;adjunct;NA;NA;;;
+460348;177422;707730;1_Kings;2;6;JRD;hif;;C>L ;phrase;;;NP;Cmpl;complement;NA;*;;;
 460356;177472;-1;1_Kings;2;8;JRD;qal;JRD ;W HW> JRD H JRDN ;;;;;;;;;;;
 460356;177472;707755;1_Kings;2;8;JRD;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
 460356;177472;707756;1_Kings;2;8;JRD;qal;;HW> ;phrase;;;PPrP;Subj;core;NA;subject;;;
@@ -1017,7 +1017,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 465956;205486;724173;2_Kings;16;17;JRD;hif;;M <L H BQR H NXCT ;phrase;;;PP;Cmpl;complement;NA;*;;;
 466518;208417;-1;2_Kings;20;11;JRD;qal;JRDH ;>CR JRDH B M<LWT >XZ ;;;;;;;;;;;
 466518;208417;725881;2_Kings;20;11;JRD;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
-466518;208417;725882;2_Kings;20;11;JRD;qal;;JRDH ;phrase;;;VP;Cmpl;complement;NA;*;;;
+466518;208417;725882;2_Kings;20;11;JRD;qal;;JRDH ;phrase;;;VP;Pred;core;regular;NA;;;
 466518;208417;725883;2_Kings;20;11;JRD;qal;;B M<LWT >XZ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 467433;213660;-1;Isaiah;5;14;JRD;qal;JRD ;W JRD HDRH W HMWNH W C>WNH W <LZ BH ;;;;;;;;;;;
 467433;213660;728609;Isaiah;5;14;JRD;qal;;W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
@@ -1071,7 +1071,7 @@ cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;te
 470046;225147;-1;Isaiah;38;8;JRD;qal;JRDH ;>CR JRDH B M<LWT >XZ B  CMC ;;;;;;;;;;;
 470046;225147;735768;Isaiah;38;8;JRD;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
 470046;225147;735769;Isaiah;38;8;JRD;qal;;JRDH ;phrase;;;VP;Pred;core;regular;NA;;;
-470046;225147;735770;Isaiah;38;8;JRD;qal;;B M<LWT >XZ ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+470046;225147;735770;Isaiah;38;8;JRD;qal;;B M<LWT >XZ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 470046;225147;735771;Isaiah;38;8;JRD;qal;;B  CMC ;phrase;;;PP;Adju;adjunct;NA;NA;;;
 470048;225167;-1;Isaiah;38;8;JRD;qal;JRDH ;>CR JRDH ;;;;;;;;;;;
 470048;225167;735779;Isaiah;38;8;JRD;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA

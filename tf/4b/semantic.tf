@@ -2,7 +2,7 @@
 @description=additional semantic characteristics
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-09-13T11:14:50Z
+@dateWritten=2017-09-14T12:02:20Z
 
 426577	
 426603	
@@ -7558,7 +7558,7 @@ NA
 605883	NA
 
 
-
+NA
 
 
 
@@ -8409,7 +8409,7 @@ NA
 NA
 
 
-
+location
 
 
 
@@ -8682,7 +8682,7 @@ NA
 
 
 location
-NA
+
 NA
 
 
@@ -9070,7 +9070,7 @@ NA
 
 NA
 
-
+NA
 
 
 
@@ -9249,7 +9249,7 @@ NA
 
 benefactive
 
-607842	
+607842	NA
 
 
 
@@ -9493,7 +9493,7 @@ NA
 
 
 
-benefactive
+
 location
 location
 NA
@@ -9589,7 +9589,7 @@ location
 NA
 
 
-NA
+
 location
 NA
 
@@ -9866,7 +9866,7 @@ NA
 time
 
 
-location
+
 608569	
 
 location
@@ -10136,7 +10136,7 @@ NA
 
 
 location
-
+NA
 
 
 
@@ -10224,7 +10224,7 @@ time
 
 
 location
-location
+
 609000	NA
 
 NA
@@ -10909,7 +10909,7 @@ NA
 NA
 
 NA
-
+NA
 
 
 
@@ -10935,7 +10935,7 @@ NA
 location
 
 location
-
+NA
 
 
 
@@ -11093,7 +11093,7 @@ NA
 NA
 
 location
-
+NA
 
 
 
@@ -11145,7 +11145,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -11302,7 +11302,7 @@ location
 NA
 
 
-
+NA
 
 
 
@@ -11691,7 +11691,7 @@ location
 NA
 
 
-610641	
+610641	NA
 
 
 location
@@ -12001,11 +12001,11 @@ NA
 
 
 
+NA
 
 
 
 
-location
 NA
 
 location
@@ -12126,9 +12126,9 @@ NA
 
 NA
 
+NA
 
 
-benefactive
 location
 NA
 
@@ -12200,7 +12200,7 @@ location
 NA
 
 
-NA
+
 NA
 
 
@@ -12221,17 +12221,17 @@ NA
 611217	NA
 
 
-NA
-NA
-
-location
-NA
-
-
 
 NA
 
 location
+NA
+
+
+
+NA
+
+location
 
 
 NA
@@ -12244,7 +12244,7 @@ NA
 
 
 location
-location
+
 NA
 
 
@@ -12270,7 +12270,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -12354,9 +12354,9 @@ NA
 
 NA
 
-
-
 NA
+
+
 location
 NA
 
@@ -12478,7 +12478,7 @@ location
 
 611520	
 
-
+location
 
 
 
@@ -13221,7 +13221,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -13728,9 +13728,9 @@ NA
 NA
 
 
-
-
 NA
+
+
 NA
 
 NA
@@ -13918,7 +13918,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -13926,10 +13926,6 @@ NA
 NA
 
 NA
-
-
-
-
 NA
 
 
@@ -13937,6 +13933,10 @@ NA
 NA
 
 
+
+NA
+
+NA
 
 
 
@@ -14025,7 +14025,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -14068,7 +14068,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -14517,7 +14517,7 @@ NA
 
 NA
 
-
+NA
 
 
 NA
@@ -14660,9 +14660,9 @@ NA
 NA
 
 location
+NA
 
 
-location
 NA
 
 location
@@ -14748,9 +14748,9 @@ time
 NA
 
 
+NA
 
 
-location
 NA
 
 
@@ -15575,7 +15575,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -15671,9 +15671,9 @@ NA
 
 
 location
+NA
 
 
-benefactive
 
 
 NA
@@ -16424,7 +16424,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -16554,7 +16554,7 @@ NA
 
 NA
 
-
+NA
 
 
 NA
@@ -16950,7 +16950,7 @@ NA
 NA
 
 
-location
+
 
 
 NA
@@ -17214,7 +17214,7 @@ NA
 location
 NA
 
-
+location
 
 
 NA
@@ -17240,7 +17240,7 @@ NA
 location
 NA
 
-
+location
 
 
 NA
@@ -17660,7 +17660,7 @@ NA
 
 
 
-617518	
+617518	NA
 
 
 
@@ -18256,9 +18256,9 @@ NA
 
 NA
 
+NA
 
 
-benefactive
 
 NA
 
@@ -18777,8 +18777,8 @@ NA
 NA
 
 
-location
-location
+
+
 NA
 
 
@@ -19794,7 +19794,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -19812,7 +19812,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -20337,7 +20337,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -20359,7 +20359,7 @@ location
 NA
 
 
-620620	
+620620	NA
 
 
 
@@ -20771,7 +20771,7 @@ NA
 NA
 
 
-location
+
 NA
 
 
@@ -20824,9 +20824,9 @@ location
 621175	NA
 
 
+location
 
 
-benefactive
 
 location
 NA
@@ -20997,7 +20997,7 @@ NA
 
 
 
-
+location
 
 
 NA
@@ -21014,7 +21014,7 @@ location
 NA
 
 location
-
+NA
 
 
 NA
@@ -21109,7 +21109,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -21418,20 +21418,20 @@ NA
 NA
 
 
-location
-NA
-
 
 NA
-
 
 
 NA
 
 
 
+NA
 
-location
+
+
+
+
 NA
 
 location
@@ -21602,7 +21602,7 @@ location
 NA
 
 location
-
+NA
 
 
 
@@ -22247,7 +22247,7 @@ location
 
 location
 
-
+NA
 
 
 
@@ -22603,7 +22603,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -23145,7 +23145,7 @@ NA
 
 
 NA
-
+NA
 
 
 location
@@ -23170,7 +23170,7 @@ NA
 
 623924	
 NA
-NA
+location
 location
 NA
 
@@ -23206,9 +23206,9 @@ NA
 
 NA
 
-
-
 NA
+
+
 NA
 
 
@@ -23442,9 +23442,9 @@ NA
 
 
 location
+NA
 
 
-location
 
 NA
 
@@ -23509,9 +23509,9 @@ location
 NA
 
 location
+NA
 
 
-location
 NA
 
 
@@ -23665,7 +23665,7 @@ NA
 
 
 NA
-NA
+location
 location
 NA
 
@@ -23734,9 +23734,9 @@ NA
 
 
 
+NA
 
 
-location
 NA
 NA
 
@@ -23909,7 +23909,7 @@ NA
 
 time
 
-
+NA
 
 
 NA
@@ -24479,9 +24479,9 @@ NA
 
 NA
 
+NA
 
 
-location
 NA
 
 
@@ -24539,7 +24539,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -24725,9 +24725,9 @@ NA
 
 
 NA
+NA
 
 
-location
 
 location
 NA
@@ -25425,9 +25425,9 @@ NA
 
 
 626428	
-time
-
 NA
+
+time
 NA
 
 
@@ -25519,7 +25519,7 @@ NA
 
 location
 
-
+NA
 
 
 NA
@@ -25740,7 +25740,7 @@ NA
 NA
 
 
-location
+
 NA
 
 
@@ -25791,7 +25791,7 @@ NA
 
 
 NA
-location
+
 
 
 626843	NA
@@ -26115,7 +26115,7 @@ NA
 
 NA
 
-
+NA
 
 
 627200	NA
@@ -26438,7 +26438,7 @@ location
 NA
 
 
-
+location
 627554	
 
 627559	
@@ -26593,7 +26593,7 @@ NA
 NA
 
 
-
+NA
 
 
 time
@@ -26810,7 +26810,7 @@ NA
 NA
 
 
-location
+
 NA
 
 
@@ -26961,9 +26961,9 @@ NA
 
 
 NA
+
+
 location
-
-
 location
 NA
 
@@ -27036,7 +27036,7 @@ NA
 NA
 
 
-
+location
 
 
 
@@ -27450,7 +27450,7 @@ NA
 
 
 
-
+NA
 
 location
 
@@ -27974,9 +27974,9 @@ NA
 
 
 
+NA
 
 
-benefactive
 location
 time
 
@@ -28017,7 +28017,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -28317,7 +28317,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -28465,13 +28465,13 @@ NA
 
 
 
-
+NA
 
 
 
 NA
 
-
+NA
 
 
 
@@ -28618,7 +28618,7 @@ NA
 NA
 NA
 
-
+NA
 
 
 NA
@@ -28638,7 +28638,7 @@ NA
 
 
 location
-
+NA
 
 
 
@@ -28692,7 +28692,7 @@ NA
 
 NA
 
-
+NA
 
 location
 
@@ -29156,7 +29156,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -29277,7 +29277,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -29575,9 +29575,9 @@ NA
 
 
 
+NA
 
-
-
+location
 NA
 
 
@@ -29724,7 +29724,7 @@ NA
 
 631220	NA
 
-631224	
+631224	NA
 
 
 
@@ -29748,7 +29748,7 @@ NA
 
 location
 
-
+NA
 
 
 
@@ -29773,7 +29773,7 @@ NA
 location
 
 
-location
+
 location
 
 
@@ -29850,12 +29850,7 @@ NA
 
 
 
-
-
-
-
 NA
-
 
 
 
@@ -29865,7 +29860,12 @@ NA
 
 
 NA
+NA
 
+
+
+NA
+NA
 
 
 
@@ -30055,7 +30055,7 @@ NA
 
 
 631668	
-631671	
+631671	NA
 
 
 NA
@@ -30067,7 +30067,7 @@ NA
 
 
 631703	NA
-location
+
 location
 
 
@@ -30153,7 +30153,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -30168,7 +30168,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -30205,12 +30205,12 @@ NA
 631876	
 
 
+NA
 
 
 
 
-
-
+NA
 
 
 
@@ -30362,7 +30362,7 @@ NA
 
 
 location
-location
+
 
 NA
 
@@ -30402,12 +30402,12 @@ NA
 
 632189	
 
+NA
 
 
 
 
-
-
+NA
 
 
 
@@ -30466,6 +30466,22 @@ NA
 
 
 
+
+
+NA
+
+
+
+NA
+
+
+
+location
+NA
+
+
+
+
 location
 time
 NA
@@ -30475,22 +30491,6 @@ NA
 NA
 
 
-
-location
-NA
-
-
-location
-
-location
-time
-NA
-
-
-
-NA
-
-
 location
 location
 
@@ -30502,7 +30502,7 @@ NA
 
 NA
 
-
+NA
 
 
 
@@ -30570,7 +30570,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -30594,7 +30594,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -30618,7 +30618,7 @@ NA
 
 NA
 
-632425	
+632425	NA
 
 
 
@@ -30913,7 +30913,7 @@ NA
 location
 NA
 
-632770	
+632770	NA
 
 
 NA
@@ -31021,7 +31021,7 @@ location
 
 
 
-
+NA
 
 
 
@@ -31038,20 +31038,20 @@ NA
 
 
 
+
+NA
+
+
+
+NA
+
+
+
+NA
+
+
 location
-NA
-
-
-
-NA
-
-
-
-NA
-
-
-location
-632938	location
+632938	
 632941	NA
 
 
@@ -31287,7 +31287,7 @@ NA
 
 
 location
-location
+
 NA
 
 
@@ -31298,9 +31298,9 @@ location
 633214	NA
 
 
+NA
 
 
-benefactive
 
 
 
@@ -31820,7 +31820,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -31849,9 +31849,9 @@ NA
 
 633878	
 
+location
+NA
 
-NA
-NA
 NA
 
 
@@ -32269,9 +32269,9 @@ NA
 
 location
 634331	
+NA
 
-
-
+location
 634338	NA
 
 
@@ -32367,7 +32367,7 @@ NA
 
 location
 
-
+NA
 
 
 
@@ -32819,7 +32819,7 @@ location
 
 NA
 
-
+NA
 
 
 NA
@@ -32855,9 +32855,9 @@ NA
 
 location
 
+NA
 
 
-location
 
 
 
@@ -32923,7 +32923,7 @@ NA
 635083	
 
 
-
+NA
 
 
 NA
@@ -32939,10 +32939,6 @@ location
 
 
 635117	NA
-location
-
-
-NA
 
 
 
@@ -32951,11 +32947,15 @@ NA
 
 
 NA
+
+
+
+NA
 NA
 
 
 
-
+NA
 
 
 location
@@ -32992,7 +32992,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -33022,7 +33022,7 @@ NA
 
 
 location
-
+NA
 
 
 
@@ -33078,12 +33078,12 @@ NA
 
 
 
-
+NA
 
 
 
 NA
-
+NA
 
 
 
@@ -33167,7 +33167,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -33181,7 +33181,7 @@ location
 location
 635456	
 
-location
+
 NA
 
 
@@ -33219,7 +33219,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -33246,7 +33246,7 @@ location
 location
 
 
-location
+
 
 
 
@@ -33276,7 +33276,7 @@ NA
 
 635638	
 
-
+NA
 
 
 
@@ -33292,7 +33292,7 @@ NA
 NA
 
 
-635657	
+635657	NA
 
 
 
@@ -33325,9 +33325,9 @@ NA
 NA
 
 
-635699	
+635699	NA
 
-location
+
 
 635707	NA
 
@@ -33415,22 +33415,22 @@ NA
 
 
 
-location
-NA
-
-
 
 NA
 
-
-location
-NA
 
 
 NA
 
 
 location
+NA
+
+
+NA
+
+
+
 635848	NA
 
 
@@ -33439,8 +33439,8 @@ NA
 
 location
 location
-location
-location
+
+
 NA
 
 
@@ -33464,7 +33464,7 @@ NA
 
 635886	NA
 
-
+NA
 
 
 
@@ -33477,7 +33477,7 @@ NA
 
 location
 
-NA
+location
 location
 635906	
 NA
@@ -33616,7 +33616,7 @@ location
 NA
 
 
-NA
+location
 NA
 
 
@@ -33772,23 +33772,9 @@ NA
 
 location
 location
-location
-NA
-
-
-
-location
-NA
-
-
 
 NA
 
-
-location
-location
-location
-NA
 
 
 location
@@ -33798,7 +33784,21 @@ NA
 
 NA
 
+
 location
+
+location
+NA
+
+
+location
+NA
+
+
+
+NA
+
+
 location
 location
 NA
@@ -34106,12 +34106,12 @@ NA
 
 
 636621	
-location
+
 
 NA
 
 
-
+NA
 
 
 
@@ -34213,7 +34213,7 @@ NA
 NA
 
 
-636756	
+636756	NA
 
 
 
@@ -34259,7 +34259,7 @@ NA
 NA
 
 
-636821	
+636821	NA
 
 
 
@@ -34315,7 +34315,7 @@ NA
 NA
 NA
 
-
+NA
 
 
 NA
@@ -34380,7 +34380,7 @@ location
 NA
 
 
-636976	
+636976	NA
 
 
 
@@ -34473,13 +34473,13 @@ location
 NA
 
 location
+NA
 
 
+NA
 
 
-
-
-
+NA
 
 
 NA
@@ -34750,17 +34750,6 @@ NA
 
 
 
-
-
-
-
-NA
-
-
-
-
-NA
-NA
 NA
 
 
@@ -34769,6 +34758,17 @@ NA
 
 
 
+
+NA
+NA
+NA
+
+
+
+NA
+
+
+NA
 
 
 
@@ -34819,7 +34819,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -35044,9 +35044,9 @@ NA
 
 
 location
+NA
 
-
-
+location
 NA
 
 
@@ -35134,7 +35134,7 @@ time
 
 
 637820	location
-location
+
 
 NA
 
@@ -35237,7 +35237,7 @@ NA
 NA
 
 
-637945	
+637945	NA
 
 
 
@@ -35264,9 +35264,9 @@ location
 
 637987	NA
 
-
-
 location
+
+
 637993	NA
 
 
@@ -36500,7 +36500,7 @@ NA
 NA
 
 
-location
+
 location
 
 NA
@@ -37593,7 +37593,7 @@ location
 NA
 
 
-benefactive
+
 
 NA
 
@@ -38362,7 +38362,7 @@ location
 NA
 
 
-
+NA
 
 
 NA
@@ -38374,7 +38374,7 @@ NA
 
 
 NA
-
+NA
 
 
 NA
@@ -38995,9 +38995,9 @@ NA
 
 
 
+NA
 
 
-location
 NA
 NA
 
@@ -39024,7 +39024,7 @@ NA
 
 NA
 
-
+NA
 
 
 642462	NA
@@ -39334,7 +39334,7 @@ location
 642801	NA
 
 
-location
+
 
 
 
@@ -40478,7 +40478,7 @@ NA
 
 
 644203	
-
+location
 NA
 
 
@@ -40575,7 +40575,7 @@ NA
 location
 NA
 
-
+NA
 
 
 644333	NA
@@ -41150,7 +41150,7 @@ location
 
 
 location
-644991	
+644991	NA
 
 
 
@@ -41302,7 +41302,7 @@ NA
 NA
 
 
-NA
+
 NA
 NA
 NA
@@ -41394,10 +41394,10 @@ NA
 
 
 NA
-
-
-
 NA
+
+
+
 NA
 NA
 
@@ -41431,21 +41431,21 @@ NA
 NA
 
 
-
-
-
-NA
-NA
-
-
-
-
 NA
 
 
 
 NA
 
+
+
+
+NA
+
+
+
+NA
+
 NA
 
 
@@ -41453,26 +41453,26 @@ NA
 
 
 NA
-
-location
-NA
-
-
-location
-NA
-
-location
-
-
-
-NA
-
-
 
 location
 NA
 
 
+location
+NA
+
+location
+
+
+
+NA
+
+
+
+location
+NA
+
+
 
 NA
 
@@ -41485,11 +41485,11 @@ NA
 NA
 
 
+NA
 
 
 
-
-
+NA
 
 
 
@@ -41640,7 +41640,7 @@ NA
 location
 NA
 NA
-
+NA
 
 
 
@@ -41940,7 +41940,7 @@ NA
 NA
 
 
-time
+
 645856	time
 
 
@@ -42120,7 +42120,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -42151,9 +42151,9 @@ NA
 
 NA
 
+NA
 
-
-
+location
 NA
 
 
@@ -42751,7 +42751,7 @@ location
 646932	NA
 
 
-646943	
+646943	NA
 
 
 NA
@@ -42775,7 +42775,7 @@ NA
 
 
 646983	NA
-
+location
 
 
 646991	NA
@@ -43235,7 +43235,7 @@ NA
 
 
 location
-
+NA
 
 
 
@@ -43279,7 +43279,7 @@ NA
 
 time
 
-
+NA
 
 
 
@@ -43464,7 +43464,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -43543,7 +43543,7 @@ NA
 
 NA
 
-647851	location
+647851	
 
 NA
 
@@ -43669,7 +43669,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -43810,7 +43810,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -43843,7 +43843,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -43873,7 +43873,7 @@ NA
 
 NA
 
-
+NA
 
 
 
@@ -44323,7 +44323,7 @@ NA
 location
 NA
 
-
+NA
 
 
 NA
@@ -44497,7 +44497,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -45094,7 +45094,7 @@ NA
 
 
 location
-
+NA
 
 
 
@@ -45304,9 +45304,9 @@ NA
 
 location
 
+NA
 
 
-location
 
 location
 NA
@@ -45386,7 +45386,7 @@ NA
 
 
 NA
-
+NA
 
 
 location
@@ -45473,7 +45473,7 @@ NA
 NA
 
 location
-
+NA
 
 
 location
@@ -45717,13 +45717,13 @@ NA
 
 
 
-650671	
+650671	NA
 
 
 
 NA
 
-
+NA
 
 
 
@@ -45963,7 +45963,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -46462,9 +46462,9 @@ NA
 NA
 
 
-
-
 NA
+
+
 
 NA
 
@@ -46703,7 +46703,7 @@ location
 
 
 location
-benefactive
+
 
 
 
@@ -46893,7 +46893,7 @@ NA
 
 
 
-
+location
 NA
 
 
@@ -46911,7 +46911,7 @@ NA
 NA
 
 location
-
+NA
 
 
 
@@ -47447,7 +47447,7 @@ NA
 NA
 
 
-652606	location
+652606	
 
 NA
 
@@ -47883,10 +47883,10 @@ NA
 location
 
 
+NA
 
 
-
-
+NA
 
 
 NA
@@ -47993,7 +47993,7 @@ NA
 
 location
 time
-
+NA
 
 
 
@@ -48039,7 +48039,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -48170,7 +48170,7 @@ time
 NA
 
 
-
+NA
 
 
 NA
@@ -49404,9 +49404,9 @@ NA
 
 
 NA
+NA
 
 
-location
 NA
 NA
 
@@ -49717,7 +49717,7 @@ location
 655270	
 
 
-655283	
+655283	NA
 
 
 
@@ -49738,7 +49738,7 @@ NA
 
 655315	
 location
-655319	
+655319	NA
 
 
 
@@ -50601,7 +50601,7 @@ NA
 
 
 
-
+location
 
 
 
@@ -50804,7 +50804,7 @@ NA
 location
 
 NA
-location
+
 
 
 
@@ -50837,9 +50837,9 @@ NA
 
 location
 location
-
-
 NA
+
+location
 location
 NA
 
@@ -51439,7 +51439,7 @@ NA
 NA
 
 
-
+location
 
 NA
 
@@ -51486,11 +51486,11 @@ location
 
 
 
-location
+
 
 location
 NA
-location
+
 
 location
 
@@ -52013,12 +52013,12 @@ NA
 NA
 
 location
+NA
 
+location
+NA
 
-
-
-
-
+location
 NA
 
 
@@ -52064,7 +52064,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -52100,7 +52100,7 @@ location
 NA
 
 
-
+NA
 
 
 
@@ -52428,8 +52428,8 @@ NA
 location
 
 
+location
 
-NA
 time
 658428	NA
 
@@ -52445,7 +52445,7 @@ NA
 
 NA
 
-
+location
 NA
 
 
@@ -52589,7 +52589,7 @@ NA
 NA
 
 location
-
+NA
 
 
 NA
@@ -52673,7 +52673,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -52787,10 +52787,10 @@ NA
 location
 
 
+NA
 
 
-
-
+NA
 
 
 NA
@@ -52825,7 +52825,7 @@ location
 NA
 
 
-
+NA
 
 
 
@@ -53206,7 +53206,7 @@ location
 location
 NA
 
-
+NA
 
 
 
@@ -53284,7 +53284,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -53431,7 +53431,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -53602,7 +53602,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -54161,7 +54161,7 @@ NA
 
 NA
 NA
-
+NA
 
 
 
@@ -54430,7 +54430,7 @@ NA
 
 
 
-time
+
 location
 
 
@@ -55019,9 +55019,9 @@ NA
 
 
 location
+NA
 
 
-benefactive
 
 NA
 
@@ -55266,7 +55266,7 @@ NA
 location
 
 NA
-
+NA
 
 
 NA
@@ -55280,14 +55280,14 @@ NA
 
 time
 NA
-
+NA
 
 
 location
 
 location
 NA
-
+NA
 
 
 NA
@@ -55875,7 +55875,7 @@ NA
 NA
 
 
-location
+
 NA
 
 
@@ -56492,7 +56492,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -56844,7 +56844,7 @@ location
 NA
 
 
-benefactive
+
 
 NA
 
@@ -56883,7 +56883,7 @@ NA
 benefactive
 
 location
-
+NA
 
 
 NA
@@ -56992,7 +56992,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -57006,7 +57006,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -57627,7 +57627,7 @@ NA
 664190	
 
 location
-
+NA
 
 
 NA
@@ -57696,7 +57696,7 @@ NA
 NA
 
 
-664280	
+664280	NA
 
 
 
@@ -57816,7 +57816,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -57844,7 +57844,7 @@ NA
 
 
 
-
+NA
 
 
 664449	
@@ -57868,7 +57868,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -58232,15 +58232,15 @@ NA
 
 
 NA
-
-
-
 NA
 
 
-
+NA
 NA
 
+
+NA
+NA
 
 
 NA
@@ -58336,7 +58336,7 @@ NA
 NA
 
 
-benefactive
+
 
 NA
 
@@ -58350,7 +58350,7 @@ NA
 
 NA
 
-
+NA
 
 
 
@@ -59256,60 +59256,60 @@ NA
 
 NA
 
-
-
-
-NA
-NA
-
-
-NA
-
-
-location
-
 NA
 
 
 NA
 NA
-
-
-
-
-
-NA
-
-
-NA
-
-location
-NA
-
-
-NA
-
-
-NA
-
-
-
-
-NA
-
-
-
-
-
-
-
-
 
 
 NA
 
 
 location
+
+NA
+
+
+NA
+NA
+
+
+
+
+
+NA
+
+
+NA
+
+location
+NA
+
+
+NA
+
+
+NA
+
+
+
+
+NA
+
+
+
+
+
+
+
+
+
+
+NA
+
+
+location
 NA
 
 
@@ -59318,7 +59318,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -59894,7 +59894,7 @@ location
 
 
 NA
-
+location
 
 location
 
@@ -60084,7 +60084,7 @@ location
 
 
 NA
-
+location
 
 location
 NA
@@ -60333,7 +60333,7 @@ NA
 
 
 
-
+location
 NA
 
 
@@ -60568,9 +60568,9 @@ NA
 NA
 
 
-
-
 location
+
+
 NA
 
 
@@ -60610,7 +60610,7 @@ NA
 NA
 
 
-
+location
 location
 
 
@@ -61167,7 +61167,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -61177,23 +61177,23 @@ NA
 
 
 location
-
-
-
-
 NA
 
 
 
 NA
 
+
+
+NA
+
 NA
 
 NA
 NA
 
 
-668011	
+668011	NA
 
 
 NA
@@ -62657,7 +62657,7 @@ NA
 
 location
 NA
-
+NA
 
 
 669744	NA
@@ -62679,14 +62679,14 @@ NA
 NA
 
 location
-
+NA
 
 
 
 NA
 
 
-location
+
 
 NA
 
@@ -62714,7 +62714,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -63078,7 +63078,7 @@ benefactive
 
 
 
-benefactive
+
 location
 
 
@@ -63347,7 +63347,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -64135,7 +64135,7 @@ NA
 NA
 
 
-location
+
 NA
 
 
@@ -64172,9 +64172,9 @@ NA
 
 
 671375	
+NA
 
 
-location
 NA
 
 
@@ -64296,6 +64296,10 @@ location
 
 location
 
+NA
+
+
+NA
 
 
 
@@ -64303,10 +64307,6 @@ location
 
 
 
-
-
-
-benefactive
 
 
 location
@@ -64832,7 +64832,7 @@ NA
 672090	NA
 
 location
-
+NA
 
 
 672098	
@@ -64886,7 +64886,7 @@ NA
 
 NA
 
-
+NA
 
 
 
@@ -65032,7 +65032,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -65047,7 +65047,7 @@ NA
 
 
 time
-location
+
 time
 location
 NA
@@ -65062,10 +65062,10 @@ NA
 
 NA
 
+NA
 
 
-
-
+NA
 
 
 NA
@@ -65422,10 +65422,10 @@ NA
 672731	NA
 
 
+NA
 
 
-
-
+NA
 
 
 NA
@@ -65448,10 +65448,10 @@ location
 
 location
 
+NA
 
 
-
-
+NA
 
 
 NA
@@ -65477,7 +65477,7 @@ NA
 
 location
 672796	
-
+NA
 
 
 time
@@ -65514,7 +65514,7 @@ NA
 672835	time
 
 
-
+NA
 
 
 NA
@@ -65534,7 +65534,7 @@ location
 
 
 
-
+NA
 
 
 NA
@@ -65558,14 +65558,14 @@ NA
 672889	NA
 
 
+NA
 
 
-
-
+time
 
 
 NA
-
+NA
 
 
 NA
@@ -65665,7 +65665,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -66096,7 +66096,7 @@ location
 location
 
 
-
+NA
 
 
 
@@ -67404,9 +67404,9 @@ NA
 
 
 675344	
+NA
 
 
-benefactive
 
 location
 NA
@@ -67625,7 +67625,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -67727,7 +67727,7 @@ NA
 
 location
 
-
+NA
 
 
 
@@ -68070,9 +68070,9 @@ NA
 NA
 
 
+NA
 
 
-location
 NA
 
 location
@@ -68309,7 +68309,7 @@ NA
 
 
 time
-
+NA
 
 
 
@@ -68377,7 +68377,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -68681,7 +68681,7 @@ NA
 
 NA
 
-
+NA
 
 
 
@@ -68888,7 +68888,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -68911,7 +68911,7 @@ NA
 NA
 
 
-677028	
+677028	NA
 
 
 NA
@@ -69248,7 +69248,7 @@ NA
 location
 
 
-
+NA
 
 
 
@@ -69521,21 +69521,21 @@ NA
 
 
 
-
+NA
 
 
 NA
 
 NA
 NA
-
+NA
 
 
 NA
 
 NA
 
-
+NA
 
 
 NA
@@ -69751,7 +69751,7 @@ location
 NA
 
 
-NA
+
 
 NA
 
@@ -70005,7 +70005,7 @@ NA
 location
 
 
-benefactive
+
 
 
 678271	NA
@@ -70191,7 +70191,7 @@ NA
 
 
 location
-
+NA
 
 
 
@@ -70609,7 +70609,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -71263,9 +71263,9 @@ NA
 NA
 
 location
+NA
 
 
-benefactive
 
 
 NA
@@ -71281,11 +71281,11 @@ NA
 NA
 
 
-location
 
 
+NA
 
-location
+
 NA
 
 
@@ -71480,7 +71480,7 @@ NA
 NA
 
 
-location
+
 NA
 NA
 
@@ -71515,7 +71515,7 @@ location
 NA
 
 
-location
+
 time
 
 location
@@ -71574,7 +71574,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -71689,7 +71689,7 @@ NA
 
 680181	
 
-
+NA
 
 
 NA
@@ -71982,7 +71982,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -72272,7 +72272,7 @@ NA
 time
 
 
-
+NA
 
 
 NA
@@ -72314,7 +72314,7 @@ location
 NA
 
 
-location
+
 NA
 
 
@@ -72376,7 +72376,7 @@ NA
 location
 NA
 
-location
+
 location
 location
 NA
@@ -72636,7 +72636,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -72679,7 +72679,7 @@ time
 NA
 
 
-
+NA
 
 
 
@@ -73099,9 +73099,9 @@ NA
 
 NA
 
+NA
 
 
-location
 
 NA
 
@@ -73332,9 +73332,9 @@ NA
 681985	NA
 
 
-
-
 NA
+
+
 NA
 
 
@@ -73552,7 +73552,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -73682,7 +73682,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -73706,10 +73706,10 @@ NA
 NA
 
 
+NA
 
 
-
-
+NA
 
 
 NA
@@ -74006,9 +74006,9 @@ NA
 
 location
 NA
+NA
 
 
-location
 
 NA
 
@@ -74559,7 +74559,7 @@ NA
 
 
 
-location
+
 683325	NA
 
 
@@ -74746,7 +74746,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -74885,7 +74885,7 @@ NA
 time
 
 
-
+NA
 
 
 
@@ -75235,7 +75235,7 @@ NA
 NA
 
 
-
+NA
 
 
 684134	NA
@@ -75343,9 +75343,9 @@ time
 
 
 location
+time
 
 
-benefactive
 
 
 NA
@@ -75432,7 +75432,7 @@ NA
 684340	NA
 NA
 
-684349	
+684349	NA
 
 
 684354	NA
@@ -75446,9 +75446,9 @@ NA
 
 
 
+NA
 
 
-location
 NA
 
 
@@ -76073,7 +76073,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -76660,7 +76660,7 @@ NA
 
 
 location
-
+NA
 
 
 NA
@@ -76851,7 +76851,7 @@ location
 
 
 
-
+location
 NA
 
 
@@ -77113,7 +77113,7 @@ NA
 
 
 
-location
+
 686220	
 
 
@@ -77185,7 +77185,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -77837,7 +77837,7 @@ NA
 
 
 location
-location
+
 NA
 
 
@@ -77886,9 +77886,9 @@ NA
 
 location
 location
+location
 
 
-NA
 NA
 NA
 
@@ -78292,7 +78292,7 @@ NA
 NA
 
 location
-
+time
 
 
 
@@ -78380,26 +78380,13 @@ NA
 
 
 
-
+NA
 
 
 location
 NA
 
 location
-
-
-
-
-NA
-
-
-NA
-
-
-NA
-
-
 NA
 
 
@@ -78416,10 +78403,23 @@ NA
 NA
 
 
+
 NA
 
 
+NA
 
+
+NA
+
+
+NA
+
+
+NA
+
+
+NA
 
 
 
@@ -79244,7 +79244,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -79364,7 +79364,7 @@ NA
 
 
 location
-
+NA
 
 
 NA
@@ -79409,7 +79409,7 @@ NA
 time
 
 
-
+NA
 
 
 
@@ -79467,7 +79467,7 @@ time
 
 
 
-location
+
 NA
 
 
@@ -79590,7 +79590,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -79709,7 +79709,7 @@ NA
 NA
 
 
-location
+
 689095	
 
 NA
@@ -79719,9 +79719,9 @@ NA
 
 NA
 
-689107	
+689107	NA
 
-location
+
 
 
 
@@ -79793,7 +79793,7 @@ NA
 
 
 
-benefactive
+
 
 689191	
 
@@ -80309,9 +80309,9 @@ NA
 
 
 
-689777	
+689777	NA
 
-NA
+
 NA
 
 
@@ -80695,11 +80695,11 @@ NA
 NA
 
 
-location
+
 690202	NA
 
 
-
+location
 NA
 
 
@@ -80779,7 +80779,7 @@ NA
 
 
 
-
+NA
 
 
 location
@@ -80828,7 +80828,7 @@ NA
 
 
 
-location
+
 
 location
 NA
@@ -81135,7 +81135,7 @@ NA
 
 
 
-NA
+
 NA
 
 
@@ -81799,7 +81799,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -82370,9 +82370,9 @@ NA
 
 
 
+NA
 
 
-benefactive
 
 NA
 
@@ -82813,7 +82813,7 @@ NA
 NA
 
 
-location
+
 NA
 
 location
@@ -82877,7 +82877,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -83034,7 +83034,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -83176,7 +83176,7 @@ NA
 
 
 693020	NA
-
+NA
 
 
 
@@ -84493,7 +84493,7 @@ NA
 
 
 location
-
+NA
 
 
 NA
@@ -84582,7 +84582,7 @@ time
 NA
 
 
-
+time
 location
 location
 NA
@@ -84698,7 +84698,7 @@ NA
 
 
 time
-
+NA
 
 
 
@@ -84722,7 +84722,7 @@ NA
 
 
 
-
+NA
 
 
 694782	NA
@@ -84820,7 +84820,7 @@ NA
 NA
 
 NA
-
+NA
 
 
 
@@ -84929,9 +84929,9 @@ NA
 
 NA
 NA
-time
 
-location
+
+time
 
 
 
@@ -85513,9 +85513,9 @@ location
 695706	
 NA
 
-695711	
+695711	NA
 
-benefactive
+
 NA
 
 
@@ -86224,7 +86224,7 @@ NA
 NA
 
 location
-
+NA
 
 location
 
@@ -87477,7 +87477,7 @@ NA
 
 
 
-benefactive
+
 location
 NA
 
@@ -87708,7 +87708,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -87721,7 +87721,7 @@ location
 NA
 NA
 
-
+NA
 
 
 
@@ -87784,7 +87784,7 @@ NA
 
 
 
-NA
+
 location
 NA
 
@@ -88055,7 +88055,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -88397,7 +88397,7 @@ NA
 NA
 
 
-NA
+
 698992	NA
 
 
@@ -88918,7 +88918,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -88926,7 +88926,7 @@ NA
 699552	NA
 
 
-location
+
 NA
 
 NA
@@ -89067,11 +89067,11 @@ NA
 
 
 
+NA
 
 
 
-
-
+NA
 
 
 
@@ -89342,7 +89342,7 @@ NA
 700030	NA
 
 
-
+NA
 
 
 
@@ -89360,7 +89360,7 @@ NA
 700058	NA
 
 
-700065	
+700065	NA
 
 
 
@@ -89403,7 +89403,7 @@ NA
 NA
 
 NA
-
+NA
 
 
 
@@ -90197,7 +90197,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -90454,7 +90454,7 @@ NA
 location
 NA
 
-
+NA
 
 
 
@@ -90606,7 +90606,7 @@ NA
 
 location
 NA
-
+NA
 
 
 NA
@@ -90626,7 +90626,7 @@ NA
 
 701442	NA
 
-
+location
 
 
 
@@ -90706,7 +90706,7 @@ location
 
 NA
 location
-
+NA
 
 
 
@@ -90837,7 +90837,7 @@ NA
 NA
 
 
-701684	
+701684	NA
 
 
 
@@ -91278,7 +91278,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -91666,7 +91666,7 @@ NA
 NA
 
 time
-
+NA
 
 
 
@@ -92623,7 +92623,7 @@ NA
 NA
 
 
-NA
+
 NA
 
 location
@@ -92743,7 +92743,7 @@ NA
 
 
 
-
+location
 
 703899	NA
 
@@ -92948,9 +92948,9 @@ NA
 
 
 location
+NA
 
 
-location
 
 NA
 
@@ -93140,9 +93140,9 @@ NA
 NA
 
 
-704347	
+704347	NA
 
-NA
+
 NA
 
 
@@ -93304,7 +93304,7 @@ NA
 NA
 
 
-location
+
 NA
 
 
@@ -93448,7 +93448,7 @@ NA
 NA
 
 
-704693	
+704693	NA
 
 
 
@@ -93620,7 +93620,7 @@ NA
 
 
 NA
-
+NA
 
 
 704891	NA
@@ -93763,7 +93763,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -95136,7 +95136,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -95416,7 +95416,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -96055,11 +96055,11 @@ NA
 NA
 
 
+NA
 
 
 
-
-
+NA
 
 
 NA
@@ -96118,7 +96118,7 @@ NA
 
 707775	NA
 
-
+NA
 
 
 NA
@@ -96291,7 +96291,7 @@ NA
 
 location
 
-
+NA
 
 
 
@@ -96309,7 +96309,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -96341,7 +96341,7 @@ NA
 NA
 
 
-
+location
 NA
 NA
 
@@ -96630,7 +96630,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -97343,9 +97343,9 @@ location
 709223	NA
 
 location
+NA
 
 
-location
 NA
 
 
@@ -97380,7 +97380,7 @@ NA
 
 
 
-709283	
+709283	NA
 
 
 
@@ -97397,7 +97397,7 @@ NA
 
 
 
-NA
+location
 
 location
 709318	
@@ -97520,9 +97520,9 @@ NA
 
 
 
+NA
 
 
-location
 location
 NA
 
@@ -97592,7 +97592,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -97712,7 +97712,7 @@ NA
 
 
 709771	NA
-
+NA
 
 
 709792	NA
@@ -97815,7 +97815,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -98789,7 +98789,7 @@ NA
 
 
 
-location
+
 
 time
 
@@ -98887,9 +98887,9 @@ NA
 711228	NA
 
 location
+NA
 
 
-location
 
 
 location
@@ -99269,7 +99269,7 @@ time
 
 location
 711664	NA
-
+NA
 
 
 
@@ -99377,9 +99377,9 @@ NA
 
 
 location
+NA
 
 
-location
 NA
 
 
@@ -100693,7 +100693,7 @@ NA
 location
 NA
 
-
+NA
 
 
 
@@ -100848,7 +100848,7 @@ NA
 location
 NA
 
-
+NA
 
 
 
@@ -101122,9 +101122,9 @@ location
 713662	NA
 
 location
+NA
 
 
-location
 NA
 NA
 
@@ -101218,7 +101218,7 @@ NA
 
 NA
 
-
+location
 NA
 
 NA
@@ -101899,7 +101899,7 @@ NA
 
 NA
 
-
+NA
 
 
 NA
@@ -101915,7 +101915,7 @@ NA
 
 
 
-
+NA
 
 
 location
@@ -102712,7 +102712,7 @@ NA
 
 
 location
-
+location
 NA
 
 NA
@@ -103088,7 +103088,7 @@ NA
 
 NA
 
-
+NA
 
 
 
@@ -103447,7 +103447,7 @@ NA
 NA
 
 
-benefactive
+
 location
 NA
 
@@ -103973,9 +103973,9 @@ NA
 NA
 
 location
-
-
 NA
+
+
 NA
 
 
@@ -104107,7 +104107,7 @@ NA
 
 
 location
-
+NA
 
 
 
@@ -105063,7 +105063,7 @@ NA
 
 
 
-NA
+
 718154	NA
 
 location
@@ -106666,7 +106666,7 @@ location
 NA
 
 location
-719948	
+719948	NA
 
 
 location
@@ -107051,7 +107051,7 @@ NA
 
 720390	NA
 
-
+NA
 
 
 
@@ -107302,7 +107302,7 @@ NA
 
 NA
 
-
+NA
 
 
 
@@ -107644,7 +107644,7 @@ NA
 
 NA
 
-
+NA
 
 
 
@@ -107824,7 +107824,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -108675,7 +108675,7 @@ NA
 NA
 
 
-benefactive
+
 location
 
 NA
@@ -108995,13 +108995,13 @@ NA
 NA
 
 location
+NA
 
 
 
+NA
 
-
-
-
+location
 location
 NA
 
@@ -109039,9 +109039,9 @@ NA
 
 
 location
+NA
 
-
-
+location
 location
 NA
 
@@ -109203,9 +109203,9 @@ NA
 location
 
 NA
+NA
 
 
-location
 
 
 NA
@@ -109376,7 +109376,7 @@ NA
 722997	NA
 
 
-
+NA
 
 
 
@@ -110648,7 +110648,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -110875,7 +110875,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -111263,7 +111263,7 @@ NA
 NA
 
 
-benefactive
+
 
 
 NA
@@ -111997,10 +111997,6 @@ NA
 725868	NA
 
 
-NA
-
-NA
-
 
 
 NA
@@ -112010,7 +112006,11 @@ NA
 NA
 
 
+location
 NA
+
+
+
 
 time
 
@@ -112085,7 +112085,7 @@ NA
 NA
 
 
-
+NA
 
 
 725966	NA
@@ -112504,7 +112504,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -112666,7 +112666,7 @@ NA
 
 
 location
-
+NA
 
 
 
@@ -112721,7 +112721,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -112929,7 +112929,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -113098,7 +113098,7 @@ NA
 location
 
 location
-
+NA
 
 
 location
@@ -113875,7 +113875,7 @@ time
 
 
 location
-
+NA
 
 
 NA
@@ -114151,7 +114151,7 @@ NA
 NA
 
 
-NA
+
 
 NA
 
@@ -114232,9 +114232,9 @@ NA
 
 
 NA
+
+
 location
-
-
 
 time
 728429	NA
@@ -114281,9 +114281,9 @@ location
 NA
 
 NA
+NA
 
 
-location
 NA
 
 
@@ -115165,9 +115165,9 @@ NA
 
 
 
+NA
 
-
-
+location
 
 
 
@@ -115442,10 +115442,10 @@ NA
 
 
 
-729856	
+729856	NA
 
 
-
+NA
 
 
 NA
@@ -115593,7 +115593,7 @@ NA
 
 
 
-
+location
 730019	NA
 
 
@@ -115603,9 +115603,9 @@ NA
 
 
 
-730034	
+730034	NA
 
-
+location
 NA
 
 time
@@ -115620,7 +115620,7 @@ time
 location
 
 location
-location
+
 
 
 
@@ -116118,7 +116118,7 @@ time
 NA
 
 
-
+NA
 
 
 NA
@@ -117046,9 +117046,6 @@ NA
 
 NA
 
-
-
-NA
 NA
 
 
@@ -117056,6 +117053,9 @@ NA
 
 
 NA
+
+
+
 time
 
 NA
@@ -117264,7 +117264,7 @@ NA
 
 NA
 
-
+NA
 
 location
 NA
@@ -118502,7 +118502,7 @@ NA
 NA
 
 
-location
+
 NA
 
 
@@ -119174,9 +119174,9 @@ NA
 734161	NA
 
 734165	
+NA
 
 
-benefactive
 
 NA
 
@@ -119904,7 +119904,7 @@ NA
 NA
 
 
-benefactive
+
 
 NA
 NA
@@ -120371,12 +120371,12 @@ NA
 
 
 location
-735556	
+735556	NA
 
+location
+NA
 
-
-
-
+location
 735566	
 time
 
@@ -120429,10 +120429,10 @@ NA
 
 
 
+location
+NA
 
-
-
-
+location
 
 NA
 location
@@ -120566,15 +120566,15 @@ NA
 
 NA
 
-location
+
+
+
 
 NA
 
-NA
+
 
 location
-
-
 NA
 
 735782	
@@ -120585,9 +120585,9 @@ NA
 
 time
 
-location
 
-time
+
+
 
 NA
 
@@ -121364,7 +121364,7 @@ NA
 
 
 location
-
+NA
 
 
 
@@ -121432,7 +121432,7 @@ NA
 NA
 NA
 
-
+NA
 
 location
 
@@ -121553,7 +121553,7 @@ NA
 
 
 
-
+location
 
 736930	
 NA
@@ -121795,7 +121795,7 @@ location
 NA
 
 
-
+NA
 
 location
 
@@ -121824,13 +121824,13 @@ time
 NA
 NA
 
-
+NA
 
 location
 
 737283	
 
-
+NA
 
 location
 
@@ -122256,7 +122256,7 @@ NA
 NA
 
 
-
+location
 
 NA
 
@@ -122390,7 +122390,7 @@ NA
 NA
 
 
-NA
+
 
 
 
@@ -122521,9 +122521,9 @@ location
 738147	NA
 
 time
+NA
 
 
-time
 738157	NA
 time
 
@@ -122623,7 +122623,7 @@ NA
 
 NA
 
-
+NA
 
 location
 
@@ -122667,9 +122667,9 @@ NA
 NA
 738323	
 NA
+NA
 
-
-
+location
 738329	NA
 NA
 
@@ -122683,7 +122683,7 @@ NA
 NA
 
 location
-
+NA
 
 
 
@@ -123271,7 +123271,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -123453,7 +123453,7 @@ NA
 
 739250	
 location
-
+NA
 
 
 739259	
@@ -123466,7 +123466,7 @@ location
 
 
 
-
+location
 739274	
 
 
@@ -123804,7 +123804,7 @@ location
 
 
 
-NA
+
 
 
 
@@ -123852,9 +123852,9 @@ NA
 
 NA
 
+NA
 
-
-
+location
 
 NA
 
@@ -124667,9 +124667,9 @@ NA
 
 NA
 
-
-
 NA
+
+
 location
 
 
@@ -125134,7 +125134,7 @@ location
 
 
 
-location
+
 NA
 
 
@@ -125305,7 +125305,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -125953,10 +125953,10 @@ location
 
 time
 
+NA
 
-
-
-742214	
+location
+742214	location
 742216	NA
 
 
@@ -126423,7 +126423,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -127041,7 +127041,7 @@ time
 
 NA
 
-743447	
+743447	NA
 
 
 
@@ -127817,7 +127817,7 @@ NA
 
 
 744339	
-benefactive
+
 
 NA
 
@@ -127914,7 +127914,7 @@ NA
 
 744449	NA
 
-744453	
+744453	NA
 
 
 744457	NA
@@ -127960,7 +127960,7 @@ location
 
 NA
 time
-744513	
+744513	NA
 
 
 
@@ -128015,7 +128015,7 @@ NA
 
 
 
-location
+
 744578	NA
 NA
 
@@ -128560,7 +128560,7 @@ location
 time
 NA
 
-
+NA
 
 
 
@@ -128581,7 +128581,7 @@ NA
 NA
 NA
 
-
+NA
 
 
 NA
@@ -128595,7 +128595,7 @@ location
 NA
 
 
-
+NA
 
 
 NA
@@ -128609,7 +128609,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -129358,9 +129358,9 @@ location
 746100	NA
 
 
-746104	
+746104	NA
 
-location
+
 location
 NA
 
@@ -129739,7 +129739,7 @@ NA
 
 
 746579	NA
-NA
+
 
 
 
@@ -129751,7 +129751,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -129790,7 +129790,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -131156,7 +131156,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -131741,9 +131741,9 @@ NA
 
 
 location
+time
 
 
-location
 NA
 
 
@@ -131858,7 +131858,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -131883,7 +131883,7 @@ location
 
 
 
-
+NA
 
 
 748974	NA
@@ -133204,7 +133204,7 @@ NA
 
 
 
-location
+
 750500	NA
 
 location
@@ -133480,7 +133480,7 @@ NA
 location
 
 NA
-location
+
 
 
 NA
@@ -133875,7 +133875,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -134567,7 +134567,7 @@ NA
 NA
 
 
-location
+
 NA
 
 
@@ -135176,7 +135176,7 @@ NA
 
 
 
-
+location
 
 
 752692	
@@ -135582,7 +135582,7 @@ NA
 
 location
 time
-
+NA
 
 
 
@@ -136681,7 +136681,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -137466,7 +137466,7 @@ NA
 755191	
 
 
-
+NA
 
 
 NA
@@ -137516,7 +137516,7 @@ NA
 NA
 
 location
-
+location
 NA
 
 
@@ -137575,7 +137575,7 @@ NA
 
 
 
-755312	
+755312	NA
 
 
 
@@ -137905,7 +137905,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -137913,7 +137913,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -138572,7 +138572,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -140598,7 +140598,7 @@ time
 758696	
 
 NA
-NA
+
 
 NA
 
@@ -142035,7 +142035,7 @@ NA
 
 
 
-
+location
 NA
 
 
@@ -142614,7 +142614,7 @@ NA
 
 
 
-NA
+location
 761170	
 
 
@@ -142875,25 +142875,7 @@ NA
 NA
 
 
-761477	
-
-location
-
-
-
-
-location
-NA
-NA
-
-NA
-NA
-
-
-
-NA
-
-NA
+761477	NA
 
 
 
@@ -142901,10 +142883,28 @@ NA
 NA
 
 
+NA
+NA
+
+NA
+NA
+NA
+
+
+NA
+
+NA
 
 
 
-location
+
+NA
+
+
+
+NA
+
+
 
 NA
 
@@ -142972,7 +142972,7 @@ NA
 
 
 761583	
-location
+
 
 
 
@@ -143368,7 +143368,7 @@ NA
 NA
 
 
-location
+
 
 
 
@@ -143478,7 +143478,7 @@ NA
 
 
 
-
+location
 NA
 
 
@@ -143656,7 +143656,7 @@ NA
 NA
 
 
-location
+
 NA
 
 
@@ -143847,7 +143847,7 @@ NA
 
 
 location
-
+location
 
 NA
 
@@ -144276,7 +144276,7 @@ NA
 763208	NA
 
 763211	
-benefactive
+
 
 NA
 
@@ -144365,16 +144365,16 @@ NA
 763310	
 763313	NA
 
-
+NA
 
 
 location
 
 NA
 
-763324	time
+763324	
 
-
+time
 NA
 
 location
@@ -145196,7 +145196,7 @@ NA
 NA
 
 
-
+NA
 
 
 764270	NA
@@ -145683,9 +145683,9 @@ NA
 
 
 location
+NA
 
 
-location
 
 
 NA
@@ -145748,7 +145748,7 @@ NA
 location
 
 NA
-location
+
 
 764911	NA
 
@@ -145951,7 +145951,7 @@ NA
 location
 NA
 
-
+location
 765133	
 
 NA
@@ -146119,7 +146119,7 @@ NA
 
 
 
-location
+
 
 
 NA
@@ -146383,7 +146383,7 @@ NA
 NA
 
 NA
-
+NA
 
 
 location
@@ -146891,7 +146891,7 @@ NA
 
 location
 location
-
+NA
 
 
 
@@ -146960,7 +146960,7 @@ NA
 
 location
 
-
+NA
 
 
 
@@ -146985,9 +146985,9 @@ NA
 766248	NA
 location
 
-766253	
+766253	NA
 
-
+location
 NA
 
 
@@ -147070,7 +147070,7 @@ location
 NA
 
 
-
+NA
 
 
 
@@ -147161,9 +147161,9 @@ NA
 
 NA
 
-
-
 NA
+
+location
 
 NA
 
@@ -147355,7 +147355,7 @@ NA
 766664	
 
 
-NA
+
 
 766671	NA
 
@@ -147623,7 +147623,7 @@ location
 
 
 
-location
+
 NA
 
 
@@ -147680,9 +147680,9 @@ NA
 
 
 767026	NA
+
+
 time
-
-
 NA
 
 
@@ -147727,9 +147727,9 @@ NA
 
 
 NA
+
+
 time
-
-
 
 
 767091	NA
@@ -147838,7 +147838,6 @@ location
 
 
 
-location
 
 
 
@@ -147846,6 +147845,7 @@ location
 
 
 
+NA
 
 
 
@@ -148241,7 +148241,7 @@ NA
 
 
 
-location
+
 
 
 767686	NA
@@ -148269,7 +148269,7 @@ NA
 767716	
 
 
-NA
+location
 NA
 
 location
@@ -148539,7 +148539,7 @@ NA
 
 
 NA
-
+NA
 
 
 NA
@@ -149000,7 +149000,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -149019,9 +149019,9 @@ NA
 NA
 
 
+NA
 
 
-location
 
 
 NA
@@ -149205,7 +149205,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -149281,7 +149281,7 @@ time
 
 
 768850	
-location
+
 
 NA
 
@@ -149473,7 +149473,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -149990,7 +149990,7 @@ location
 
 
 
-
+NA
 
 
 769680	time
@@ -150145,7 +150145,7 @@ location
 NA
 
 
-location
+
 NA
 
 
@@ -150191,7 +150191,7 @@ location
 NA
 
 
-location
+
 NA
 
 769904	NA
@@ -150375,7 +150375,7 @@ NA
 NA
 
 location
-
+NA
 
 
 
@@ -151701,13 +151701,13 @@ NA
 
 NA
 
-771618	
+771618	NA
 
 
 NA
 
 
-location
+
 NA
 
 location
@@ -151745,7 +151745,7 @@ NA
 
 771664	NA
 
-
+NA
 
 
 
@@ -151883,7 +151883,7 @@ NA
 
 NA
 
-771840	
+771840	NA
 
 
 
@@ -152451,9 +152451,9 @@ NA
 
 
 location
-
-
 NA
+
+location
 NA
 
 
@@ -152584,7 +152584,7 @@ NA
 772630	
 
 
-location
+
 NA
 
 
@@ -153383,7 +153383,7 @@ NA
 
 
 773973	
-location
+
 NA
 
 
@@ -153395,11 +153395,11 @@ NA
 
 774013	
 
-774020	
+774020	NA
 
 
 
-
+NA
 
 
 774031	NA
@@ -153431,7 +153431,7 @@ location
 
 
 
-774140	
+774140	location
 NA
 
 
@@ -153443,7 +153443,7 @@ location
 NA
 
 
-774163	
+774163	location
 NA
 NA
 
@@ -153803,7 +153803,7 @@ NA
 NA
 
 
-benefactive
+
 NA
 
 
@@ -154474,21 +154474,21 @@ NA
 
 
 
+NA
 
-
-
+location
 
 NA
 
 
+NA
 
-
-
+location
 
 NA
 
 
-
+NA
 
 
 NA
@@ -154849,7 +154849,7 @@ NA
 
 
 NA
-
+NA
 
 
 NA
@@ -154902,7 +154902,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -154925,9 +154925,9 @@ NA
 
 
 
+NA
 
-
-
+location
 NA
 
 location
@@ -156192,7 +156192,7 @@ NA
 777741	
 
 
-
+NA
 
 
 777748	
@@ -156285,9 +156285,9 @@ NA
 
 
 777855	NA
+NA
 
-
-
+location
 location
 
 
@@ -156362,7 +156362,7 @@ NA
 NA
 
 
-777950	
+777950	location
 
 
 
@@ -156450,9 +156450,9 @@ NA
 time
 
 
+NA
 
 
-benefactive
 
 778064	
 
@@ -157082,7 +157082,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -157667,7 +157667,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -157692,7 +157692,7 @@ location
 NA
 
 
-NA
+
 NA
 
 NA
@@ -157851,7 +157851,7 @@ NA
 NA
 
 
-location
+
 779708	NA
 
 
@@ -157963,7 +157963,7 @@ NA
 NA
 
 
-779841	
+779841	NA
 
 
 779845	NA
@@ -158231,7 +158231,7 @@ time
 780163	NA
 
 
-
+NA
 
 
 NA
@@ -158965,9 +158965,9 @@ location
 NA
 
 
-
 NA
-
+NA
+location
 
 
 location
@@ -159631,9 +159631,9 @@ NA
 
 location
 
+NA
 
 
-benefactive
 location
 
 NA
@@ -159807,7 +159807,7 @@ NA
 NA
 
 
-NA
+
 
 
 
@@ -159903,9 +159903,9 @@ NA
 location
 
 NA
-
-
 NA
+
+
 782134	time
 
 
@@ -159994,7 +159994,7 @@ NA
 NA
 
 
-
+NA
 
 
 782236	
@@ -160337,7 +160337,7 @@ time
 NA
 
 
-
+location
 NA
 
 NA
@@ -161610,7 +161610,7 @@ NA
 
 
 
-784206	
+784206	location
 
 
 NA
@@ -161875,7 +161875,7 @@ location
 784527	NA
 
 
-
+NA
 
 
 NA
@@ -162220,9 +162220,9 @@ location
 
 
 784942	
-time
 
-location
+
+time
 NA
 
 
@@ -162457,7 +162457,7 @@ NA
 
 
 
-
+location
 NA
 
 
@@ -162630,7 +162630,7 @@ NA
 
 
 
-
+NA
 
 
 time
@@ -163290,7 +163290,7 @@ NA
 NA
 
 location
-NA
+
 
 
 
@@ -163945,7 +163945,7 @@ NA
 
 
 787051	
-787053	
+787053	NA
 
 
 NA
@@ -164354,7 +164354,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -165411,9 +165411,9 @@ NA
 
 
 NA
-
-
 NA
+
+
 
 788770	
 
@@ -165957,7 +165957,7 @@ NA
 789411	
 789413	
 
-location
+
 NA
 
 
@@ -166414,7 +166414,7 @@ NA
 789961	
 
 
-789966	NA
+789966	location
 
 
 
@@ -166517,7 +166517,7 @@ NA
 location
 
 
-
+location
 
 
 NA
@@ -166530,7 +166530,7 @@ location
 NA
 
 
-
+NA
 
 
 
@@ -167079,7 +167079,7 @@ NA
 location
 
 
-790740	location
+790740	
 
 
 location
@@ -167527,7 +167527,7 @@ NA
 
 location
 791285	NA
-
+NA
 
 
 
@@ -167915,9 +167915,9 @@ NA
 
 NA
 
+NA
+
 time
-
-
 791772	
 
 791775	
@@ -169754,7 +169754,7 @@ NA
 
 location
 
-NA
+
 
 NA
 
@@ -169777,7 +169777,7 @@ NA
 
 793984	
 
-
+location
 793990	time
 
 
@@ -171410,7 +171410,7 @@ location
 NA
 
 
-location
+
 
 
 
@@ -171720,7 +171720,7 @@ NA
 
 NA
 
-796344	
+796344	NA
 
 
 
@@ -172576,7 +172576,7 @@ location
 NA
 
 
-NA
+
 NA
 
 
@@ -173092,7 +173092,7 @@ NA
 NA
 
 
-
+location
 NA
 
 
@@ -173377,7 +173377,7 @@ NA
 798324	NA
 
 
-
+NA
 
 location
 
@@ -174518,9 +174518,9 @@ NA
 
 
 
+NA
+
 time
-
-
 
 799735	NA
 
@@ -175887,7 +175887,7 @@ NA
 
 
 
-801413	NA
+801413	location
 
 
 801417	
@@ -176054,7 +176054,7 @@ NA
 
 
 
-location
+
 NA
 
 location
@@ -176725,7 +176725,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -177966,9 +177966,9 @@ location
 
 NA
 
-803817	
+803817	NA
 
-location
+
 
 
 
@@ -179073,7 +179073,7 @@ location
 location
 805261	
 
-
+location
 805267	
 
 805272	NA
@@ -180077,7 +180077,7 @@ location
 
 806558	
 
-location
+
 806563	
 
 
@@ -180085,7 +180085,7 @@ NA
 
 
 
-location
+
 
 806575	
 
@@ -180198,7 +180198,7 @@ NA
 NA
 
 
-
+location
 NA
 
 
@@ -180438,7 +180438,7 @@ NA
 NA
 
 
-
+location
 
 
 NA
@@ -181358,7 +181358,7 @@ NA
 
 
 
-location
+
 
 NA
 
@@ -182150,7 +182150,7 @@ NA
 
 
 
-NA
+
 NA
 
 
@@ -182162,7 +182162,7 @@ NA
 location
 
 
-NA
+
 NA
 
 
@@ -182291,7 +182291,7 @@ NA
 809132	
 
 
-location
+
 NA
 
 
@@ -182324,7 +182324,7 @@ time
 NA
 
 
-
+NA
 
 
 NA
@@ -182683,7 +182683,7 @@ NA
 
 
 
-809578	location
+809578	
 
 
 NA
@@ -184090,7 +184090,7 @@ NA
 NA
 
 
-NA
+
 
 
 NA
@@ -184367,7 +184367,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -184909,7 +184909,7 @@ location
 NA
 
 
-
+NA
 
 
 
@@ -184985,7 +184985,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -185051,9 +185051,9 @@ NA
 
 
 
-
 NA
-location
+NA
+
 
 
 NA
@@ -185638,7 +185638,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -185670,7 +185670,7 @@ NA
 
 
 
-NA
+
 NA
 
 
@@ -185928,7 +185928,7 @@ NA
 
 
 813393	NA
-
+NA
 
 
 NA
@@ -186353,9 +186353,9 @@ NA
 NA
 
 
+NA
 
 
-location
 
 NA
 NA
@@ -186947,9 +186947,9 @@ NA
 814579	
 NA
 
+NA
 
-
-
+location
 814587	
 
 NA
@@ -187033,7 +187033,7 @@ NA
 
 
 
-814681	
+814681	NA
 
 
 
@@ -187646,7 +187646,7 @@ NA
 815382	time
 
 
-
+location
 NA
 
 NA
@@ -188328,7 +188328,7 @@ location
 
 
 location
-NA
+
 
 
 
@@ -188476,7 +188476,7 @@ location
 
 
 
-location
+
 
 NA
 
@@ -188548,7 +188548,7 @@ NA
 
 
 816473	
-NA
+
 816476	
 
 
@@ -188623,7 +188623,7 @@ NA
 
 
 816559	
-NA
+
 816563	NA
 
 
@@ -188680,9 +188680,9 @@ NA
 
 
 
+location
 
 
-NA
 NA
 
 
@@ -189637,9 +189637,9 @@ NA
 
 
 
+NA
 
-
-
+location
 817961	
 
 
@@ -190034,7 +190034,7 @@ NA
 818495	NA
 
 
-
+NA
 
 
 
@@ -190314,7 +190314,7 @@ NA
 
 
 818870	
-location
+
 
 
 NA
@@ -190539,7 +190539,7 @@ NA
 
 location
 819144	NA
-
+NA
 
 
 
@@ -190772,7 +190772,7 @@ location
 NA
 
 
-benefactive
+
 
 NA
 
@@ -190923,10 +190923,10 @@ NA
 
 NA
 
+NA
 
 
-
-
+NA
 
 
 
@@ -191283,7 +191283,7 @@ time
 820082	NA
 
 
-
+NA
 
 
 
@@ -191455,7 +191455,7 @@ location
 
 NA
 
-
+location
 
 
 
@@ -191487,7 +191487,7 @@ NA
 NA
 NA
 
-
+NA
 
 
 
@@ -192005,7 +192005,7 @@ NA
 
 821020	
 
-benefactive
+
 821025	
 location
 
@@ -192079,7 +192079,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -192131,7 +192131,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -192159,7 +192159,7 @@ NA
 
 
 
-821213	
+821213	NA
 
 
 821221	NA
@@ -192467,7 +192467,7 @@ NA
 
 
 
-
+NA
 
 
 time
@@ -192607,12 +192607,12 @@ NA
 NA
 
 
-
+NA
 
 
 NA
 
-821716	
+821716	NA
 
 
 time
@@ -192738,7 +192738,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -192877,7 +192877,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -193312,9 +193312,9 @@ NA
 
 
 benefactive
-822588	
+822588	NA
 
-benefactive
+
 NA
 NA
 
@@ -193322,7 +193322,7 @@ NA
 
 
 
-benefactive
+
 
 
 location
@@ -193342,9 +193342,9 @@ NA
 
 
 benefactive
-822619	
+822619	NA
 
-benefactive
+
 822623	
 
 
@@ -193434,7 +193434,7 @@ location
 822737	
 822742	
 
-benefactive
+
 
 
 
@@ -193479,7 +193479,7 @@ NA
 
 
 
-benefactive
+
 location
 822836	
 location
@@ -195369,7 +195369,7 @@ NA
 825546	NA
 
 
-NA
+location
 
 NA
 
@@ -195909,7 +195909,7 @@ NA
 
 
 
-
+location
 NA
 
 location
@@ -196185,9 +196185,9 @@ NA
 
 
 
-location
 
-NA
+
+
 
 
 NA
@@ -196559,9 +196559,9 @@ NA
 
 826935	
 826940	NA
+
+
 time
-
-
 
 NA
 NA
@@ -196652,7 +196652,7 @@ benefactive
 
 
 
-
+location
 
 
 
@@ -197101,7 +197101,7 @@ NA
 NA
 
 
-
+location
 
 
 
@@ -197152,7 +197152,7 @@ NA
 NA
 location
 827615	
-location
+
 NA
 NA
 
@@ -197363,7 +197363,7 @@ location
 NA
 
 
-location
+
 NA
 
 
@@ -197461,7 +197461,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -197667,7 +197667,7 @@ NA
 
 
 828196	
-location
+
 
 NA
 
@@ -197997,7 +197997,7 @@ NA
 
 time
 
-
+NA
 
 
 NA
@@ -198041,7 +198041,7 @@ NA
 
 
 
-
+NA
 
 
 NA
@@ -198180,7 +198180,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -198761,7 +198761,7 @@ NA
 829426	NA
 
 
-
+location
 NA
 
 
@@ -199104,12 +199104,12 @@ time
 location
 NA
 
-829847	
+829847	NA
 
 
 
 
-
+NA
 
 
 
@@ -203372,7 +203372,7 @@ NA
 
 
 location
-
+NA
 
 location
 NA
@@ -204618,7 +204618,7 @@ NA
 location
 
 
-
+NA
 
 
 
@@ -204752,7 +204752,7 @@ NA
 
 NA
 
-
+NA
 
 
 NA
@@ -205426,7 +205426,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -205778,7 +205778,7 @@ NA
 
 
 location
-
+NA
 
 
 
@@ -205880,7 +205880,7 @@ NA
 time
 
 
-location
+
 NA
 
 
@@ -205892,7 +205892,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -205928,7 +205928,7 @@ location
 NA
 
 
-location
+
 NA
 
 
@@ -206181,7 +206181,7 @@ NA
 
 838568	
 
-
+NA
 
 
 NA
@@ -206243,7 +206243,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -206754,7 +206754,7 @@ NA
 
 NA
 
-
+NA
 
 
 
@@ -206889,7 +206889,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -206975,7 +206975,7 @@ NA
 NA
 
 
-
+NA
 
 
 NA
@@ -206991,7 +206991,7 @@ NA
 NA
 
 NA
-
+NA
 
 
 
@@ -207084,7 +207084,7 @@ NA
 
 location
 839717	
-location
+
 
 NA
 
@@ -207152,7 +207152,7 @@ NA
 
 
 
-location
+
 NA
 
 location
@@ -207311,9 +207311,9 @@ location
 
 
 
+NA
 
-
-
+location
 
 location
 NA
@@ -207585,7 +207585,7 @@ NA
 location
 NA
 
-location
+time
 
 
 
@@ -207656,7 +207656,7 @@ NA
 location
 840612	
 location
-840616	
+840616	NA
 
 
 
@@ -207757,9 +207757,9 @@ NA
 NA
 
 
+NA
 
 
-location
 time
 
 location
@@ -207914,7 +207914,7 @@ NA
 
 
 NA
-
+NA
 
 
 
@@ -208389,11 +208389,11 @@ NA
 
 
 
+NA
 
 
 
-
-
+NA
 
 
 NA
@@ -209408,7 +209408,7 @@ NA
 NA
 
 
-NA
+
 843480	NA
 
 
@@ -210071,7 +210071,7 @@ NA
 
 
 
-
+NA
 
 
 
@@ -210148,7 +210148,7 @@ NA
 
 
 
-
+location
 
 NA
 
@@ -210582,7 +210582,7 @@ NA
 845048	NA
 
 
-location
+
 NA
 
 NA
@@ -211394,9 +211394,9 @@ NA
 
 NA
 
+NA
 
-
-
+location
 NA
 
 
@@ -211444,7 +211444,7 @@ NA
 benefactive
 
 
-
+NA
 
 
 NA
@@ -211471,7 +211471,7 @@ NA
 
 location
 846042	
-
+NA
 
 
 
@@ -212532,7 +212532,7 @@ NA
 NA
 
 
-location
+
 847907	NA
 
 
@@ -213025,7 +213025,7 @@ NA
 
 848509	
 
-location
+
 NA
 
 
@@ -213259,9 +213259,9 @@ NA
 
 
 
+NA
 
-
-
+location
 
 
 848853	NA
@@ -215572,7 +215572,7 @@ NA
 NA
 
 
-
+NA
 
 
 
@@ -215877,7 +215877,7 @@ NA
 
 851876	
 
-
+NA
 
 
 
@@ -217396,7 +217396,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -217769,7 +217769,7 @@ location
 
 
 854104	time
-
+NA
 
 
 
@@ -218450,7 +218450,7 @@ location
 NA
 
 location
-
+NA
 
 
 NA
@@ -218945,7 +218945,7 @@ location
 NA
 
 location
-
+location
 NA
 
 location
@@ -220660,9 +220660,9 @@ NA
 
 
 
+NA
 
 
-location
 
 NA
 
@@ -220683,7 +220683,7 @@ NA
 
 
 
-location
+
 NA
 
 
@@ -220901,7 +220901,7 @@ NA
 
 
 location
-
+NA
 
 
 
