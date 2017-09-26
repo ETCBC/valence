@@ -1,5 +1,7 @@
 # Verbal Valence
-Study of verbal valence patterns in Biblical Hebrew. Part of the SYNVAR project.
+Study of verbal valence patterns in Biblical Hebrew.
+
+Part of the SYNVAR project.
 
 # Results
 
@@ -9,7 +11,7 @@ It might be helpful to consult a description of the
 first.
 
 * **Visualization**: a 
-  [tutorial notebook](https://github.com/ETCBC/valence/blob/master/notebooks/senses.ipynb)
+  [tutorial notebook](https://github.com/ETCBC/valence/blob/master/programs/senses.ipynb)
   showing the sense distribution of the 10 most frequent verbs;
 * **Annotations**: a set of
   [annotations](https://shebanq.ancient-data.org/hebrew/note?version=4b&id=Mnx2YWxlbmNl&tp=txt_tb1&nget=v)
@@ -24,7 +26,7 @@ first.
   [wiki](https://github.com/ETCBC/valence/wiki)
   of this repository;
 * **Program code**: a
-  [bunch of Jupyter notebooks](https://github.com/ETCBC/valence/tree/master/notebooks)
+  [bunch of Jupyter notebooks](https://github.com/ETCBC/valence/tree/master/programs)
   that describe and execute the following tasks:
   1. the data correction workflow, followed by enrichment;
   2. the application of the flowcharts to the whole corpus.
