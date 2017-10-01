@@ -1,3 +1,5 @@
+![etcbc](programs/images/etcbc.png)
+
 # Verbal Valence
 Study of verbal valence patterns in Biblical Hebrew.
 
@@ -30,6 +32,8 @@ first.
   that describe and execute the following tasks:
   1. the data correction workflow, followed by enrichment;
   2. the application of the flowcharts to the whole corpus.
+
+![tf](programs/images/tf-small.png)
 
 For more information, go to the [wiki of this repo](https://github.com/ETCBC/valence/wiki).
 
