@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# <img align="right" src="images/tf-small.png"/>
+# <img align="right" src="images/etcbc.png"/>
 # 
 # # Corrections and enrichment
 # 
@@ -46,13 +46,11 @@
 
 
 if 'SCRIPT' not in locals():
-    #SCRIPT = False
     SCRIPT = False
     FORCE = True
-    FORCE_MATRIX = False
     CORE_NAME = 'bhsa'
-    VERSION= '4b'
-    CORE_MODULE = 'core'
+    NAME = 'valence'
+    VERSION= 'c'
 
 def stop(good=False):
     if SCRIPT: sys.exit(0 if good else 1)
@@ -97,20 +95,17 @@ from tf.fabric import Fabric
 # In[3]:
 
 
-module = 'valence'
-coreModule = CORE_MODULE
 repoBase = os.path.expanduser('~/github/etcbc')
 coreRepo = '{}/{}'.format(repoBase, CORE_NAME)
-thisRepo = '{}/{}'.format(repoBase, module)
+thisRepo = '{}/{}'.format(repoBase, NAME)
 
 coreTf = '{}/tf/{}'.format(coreRepo, VERSION)
 
 thisSource = '{}/source/{}'.format(thisRepo, VERSION)
 thisTemp = '{}/_temp/{}'.format(thisRepo, VERSION)
-thisSave = '{}/{}'.format(thisTemp, module)
+thisTempTf = '{}/tf'.format(thisTemp)
 
 thisTf = '{}/tf/{}'.format(thisRepo, VERSION)
-thisDeliver = '{}/{}'.format(thisTf, module)
 
 
 # # Test
@@ -122,7 +117,7 @@ thisDeliver = '{}/{}'.format(thisTf, module)
 
 
 if SCRIPT:
-    (good, work) = utils.mustRun(None, '{}/.tf/{}.tfx'.format(thisDeliver, 'valence'), force=FORCE)
+    (good, work) = utils.mustRun(None, '{}/.tf/{}.tfx'.format(thisTf, 'valence'), force=FORCE)
     print(good, work)
     if not good: stop(good=False)
     if not work: stop(good=True)
@@ -136,7 +131,7 @@ if SCRIPT:
 
 
 utils.caption(4, 'Load the existing TF dataset')
-TF = Fabric(locations=coreTf, modules=coreModule)
+TF = Fabric(locations=coreTf, modules=[''])
 
 
 # We instruct the API to load data.
@@ -155,7 +150,7 @@ api.makeAvailableIn(globals())
 
 # # Locations
 
-# In[7]:
+# In[15]:
 
 
 linkShebanq = 'https://shebanq.ancient-data.org/hebrew/text'
@@ -180,7 +175,7 @@ def vfile(verb, kind):
         utils.caption(0, 'ERROR: Unknown kind `{}`'.format(kind))
         return None
     baseName = verb.replace('>','a').replace('<', 'o')
-    return (baseName, '{}/{}_{}.csv'.format(kdir[kind], baseName, coreModule))
+    return (baseName, '{}/{}.csv'.format(kdir[kind], baseName))
 
 
 # # Domain
@@ -190,7 +185,7 @@ def vfile(verb, kind):
 # 
 # Manual additions in the correction and enrichment workflow can only happen for selected verbs.
 
-# In[8]:
+# In[16]:
 
 
 verbs_initial = set('''
@@ -234,7 +229,7 @@ verbs = verbs_initial | motion_verbs | double_object_verbs | complex_qal_verbs
 # When we receive the corrections, we check whether they have legal values.
 # Here we look up the possible values.
 
-# In[9]:
+# In[17]:
 
 
 predicate_functions = {
@@ -242,7 +237,7 @@ predicate_functions = {
 }
 
 
-# In[10]:
+# In[18]:
 
 
 legal_values = dict(
@@ -253,7 +248,7 @@ legal_values = dict(
 # We generate a list of occurrences of those verbs, organized by the lexeme of the verb.
 # We need some extra values, to indicate other coding errors.
 
-# In[11]:
+# In[19]:
 
 
 error_values = dict(
@@ -265,7 +260,7 @@ error_values = dict(
 
 # We add the error_values to the legal values.
 
-# In[12]:
+# In[20]:
 
 
 for feature in set(legal_values.keys()) | set(error_values.keys()):
@@ -277,7 +272,7 @@ if not SCRIPT:
     utils.caption(0, '{}'.format(legal_values))
 
 
-# In[13]:
+# In[21]:
 
 
 utils.caption(4, 'Finding occurrences ...')
@@ -337,7 +332,7 @@ for verb in sorted(verbs):
 # * original value of the `function` feature
 # * corrected value of the `function` feature (generated as empty)
 
-# In[14]:
+# In[22]:
 
 
 utils.caption(4, 'Generating blank correction sheets ...')
@@ -414,7 +409,7 @@ utils.caption(0, '\tTotal phrases seen: {}'.format(len(phrases_seen)))
 # We store the corrections in a dictionary keyed by the phrase node.
 # We check whether we get multiple corrections for the same phrase.
 
-# In[15]:
+# In[23]:
 
 
 utils.caption(4, 'Processing filled correction sheets ...')
@@ -515,7 +510,7 @@ utils.caption(0, '\tTotal phrases seen: {}'.format(len(phrases_seen)))
 # 
 # We create blank sheets for new feature assignments, based on the corrected data.
 
-# In[16]:
+# In[24]:
 
 
 enrich_field_spec = '''
@@ -582,7 +577,7 @@ for (ef, fields) in sorted(enrich_fields.items()):
         utils.caption(0, '\t\t{}'.format(field))
 
 
-# In[17]:
+# In[25]:
 
 
 enrich_baseline_rules = dict(
@@ -621,7 +616,7 @@ InfC	Infinitive Construct clause	NA	NA				''',
 )
 
 
-# In[18]:
+# In[26]:
 
 
 utils.caption(4, '\tChecking enrich baseline rules')
@@ -655,7 +650,7 @@ else:
 
 # Let us prettyprint the baseline rules of enrichment for easier reference.
 
-# In[19]:
+# In[27]:
 
 
 if not SCRIPT:
@@ -681,7 +676,7 @@ if not SCRIPT:
 # 
 # [More on direct objects](https://github.com/ETCBC/valence/wiki/Discussion#direct-objects)
 
-# In[20]:
+# In[28]:
 
 
 objectfuncs = set('''
@@ -697,7 +692,7 @@ absent n/a
 '''.strip().split())
 
 
-# In[21]:
+# In[29]:
 
 
 body_parts = set('''
@@ -722,7 +717,7 @@ ZRW</
 '''.strip().split())
 
 
-# In[22]:
+# In[30]:
 
 
 utils.caption(4, 'Finding direct objects and determining the principal one')
@@ -884,7 +879,7 @@ for kind in object_kinds:
 # 
 # (5) $ loc > 0 \wedge ind > 0 \wedge |ind - loc| <= 1 \Rightarrow C$
 
-# In[23]:
+# In[31]:
 
 
 complfuncs = set('''
@@ -896,7 +891,7 @@ L >L
 '''.strip().split())
 
 
-# In[24]:
+# In[32]:
 
 
 locative_lexemes = set('''
@@ -952,7 +947,7 @@ ZKWR/ ZMR=/ ZR</
 '''.strip().split())
 
 
-# In[25]:
+# In[33]:
 
 
 utils.caption(4, 'Determinig kind of complements')
@@ -1016,7 +1011,7 @@ utils.caption(0, '\tTotal complements : {:>6}'.format(ncomplements))
 utils.caption(0, '\tTotal phrases     : {:>6}'.format(nphrases))
 
 
-# In[26]:
+# In[34]:
 
 
 def has_L(vl, pn):
@@ -1041,7 +1036,7 @@ def has_H_locale(vl, pn):
 # This is the function that applies the generic rules about (in)direct objects and locatives.
 # It takes a phrase node and a set of new label values, and modifies those values.
 
-# In[27]:
+# In[35]:
 
 
 grule_as_str = {
@@ -1162,7 +1157,7 @@ generic_logic = dict(
 # * an ETCBC feature for phrases or clauses : value, 
 #   which is true iff that feature has that value for the phrase or clause in question
 
-# In[28]:
+# In[36]:
 
 
 dbl_obj_rules = (
@@ -1190,7 +1185,7 @@ enrich_logic = dict(
 )
 
 
-# In[29]:
+# In[37]:
 
 
 rule_index = collections.defaultdict(lambda: [])
@@ -1252,7 +1247,7 @@ def check_logic():
 check_logic()
 
 
-# In[30]:
+# In[38]:
 
 
 rule_cases = collections.defaultdict(lambda: collections.defaultdict(lambda: {}))
@@ -1297,7 +1292,7 @@ def apply_logic(kind, vl, n, init_values):
 # We store the enriched features in a dictionary, first keyed by the type of constituent that
 # receives the enrichments (`phrase` or `clause`), and then by the node number of the constituent.
 
-# In[31]:
+# In[39]:
 
 
 utils.caption(4, 'Generating enrichments')
@@ -1331,7 +1326,7 @@ utils.caption(0, '\tGenerated enrichment values for {} verbs:'.format(len(verb_c
 utils.caption(0, '\tEnriched values for {:>5} nodes'.format(len(enrichFields)))
 
 
-# In[32]:
+# In[40]:
 
 
 utils.caption(0, '\tOverview of rule applications:')
@@ -1371,7 +1366,7 @@ for kind in seen:
 
 # For selected verbs, we write the enrichments to spreadsheets.
 
-# In[33]:
+# In[41]:
 
 
 COMMON_FIELDS = '''
@@ -1405,7 +1400,7 @@ fillrows =  pfillrows + cfillrows + len(enrich_fields)
 if not SCRIPT: print('\n'.join(field_names))    
 
 
-# In[34]:
+# In[42]:
 
 
 utils.caption(4, 'Generate blank enrichment sheets')
@@ -1465,7 +1460,7 @@ for verb in verbs: gen_sheet_enrich(verb)
 utils.caption(0, '\tDone')
 
 
-# In[35]:
+# In[43]:
 
 
 def showcase(n):
@@ -1480,7 +1475,7 @@ def showcase(n):
     ), continuation=True)
 
 
-# In[36]:
+# In[44]:
 
 
 if not SCRIPT:
@@ -1489,7 +1484,7 @@ if not SCRIPT:
     #showcase(426954)
 
 
-# In[37]:
+# In[45]:
 
 
 def check_h(vl, show_results=False):
@@ -1520,7 +1515,7 @@ if not SCRIPT:
 # If the filled-in sheet does not exist, we take the blank sheet, with the default assignment of the new features.
 # If a phrase got conflicting features, because it occurs in sheets for multiple verbs, the values in the filled-in sheet take precedence over the values in the blank sheet. If both occur in a filled in sheet, a warning will be issued.
 
-# In[38]:
+# In[46]:
 
 
 def read_enrich():
@@ -1726,7 +1721,7 @@ def read_enrich():
     return results
 
 
-# In[39]:
+# In[47]:
 
 
 utils.caption(4, 'Processing enrichment sheets ...')
@@ -1737,14 +1732,14 @@ objects_seen = collections.defaultdict(collections.Counter)
 sheetResults = read_enrich()
 
 
-# In[40]:
+# In[48]:
 
 
 if not SCRIPT:
     list(enrichFields.items())[0:10]
 
 
-# In[41]:
+# In[49]:
 
 
 if not SCRIPT:
@@ -1753,7 +1748,7 @@ if not SCRIPT:
 
 # Combine the sheet results with the generic results in one single dictionary, keyed by node number.
 
-# In[42]:
+# In[50]:
 
 
 utils.caption(4, 'Combine the manual results with the generic results')
@@ -1772,7 +1767,7 @@ utils.caption(0, '\tResulting in annotations for {} nodes'.format(len(allResults
 # 
 # We write the correction and enrichment data as a data module in text-fabric format.
 
-# In[43]:
+# In[51]:
 
 
 newFeatures = list(enrich_fields.keys())+['function', 'f_correction', 's_manual']
@@ -1820,7 +1815,7 @@ metaData = {
 for f in newFeatures: metaData[f]['valueType'] = 'str'
 
 
-# In[44]:
+# In[52]:
 
 
 nodeFeatures = dict()
@@ -1839,11 +1834,11 @@ for (oldF, newF) in RENAMES:
         del data[oldF]
 
 
-# In[45]:
+# In[53]:
 
 
 utils.caption(4, 'Writing TF enrichment features')
-TF = Fabric(locations=thisSave, silent=True)
+TF = Fabric(locations=thisTempTf, silent=True)
 TF.save(nodeFeatures=nodeFeatures, edgeFeatures={}, metaData=metaData)
 
 
@@ -1851,30 +1846,30 @@ TF.save(nodeFeatures=nodeFeatures, edgeFeatures={}, metaData=metaData)
 # 
 # Check differences with previous versions.
 
-# In[46]:
+# In[54]:
 
 
-utils.checkDiffs(thisSave, thisDeliver, only=set(nodeFeatures))
+utils.checkDiffs(thisTempTf, thisTf, only=set(nodeFeatures))
 
 
 # # Stage: Deliver 
 # 
 # Copy the new TF features from the temporary location where they have been created to their final destination.
 
-# In[47]:
+# In[55]:
 
 
-utils.deliverFeatures(thisSave, thisDeliver, nodeFeatures)
+utils.deliverFeatures(thisTempTf, thisTf, nodeFeatures)
 
 
 # # Stage: compile TF
 
-# In[48]:
+# In[56]:
 
 
 utils.caption(4, 'Load and compile the new TF features')
 
-TF = Fabric(locations=[coreTf, thisTf], modules=[coreModule, module])
+TF = Fabric(locations=[coreTf, thisTf], modules=[''])
 api = TF.load('''
     lex gloss lex_utf8
     sp vs lex rela typ
@@ -1887,7 +1882,7 @@ api.makeAvailableIn(globals())
 # Take the first 10 phrases and retrieve the corrected and uncorrected function feature.
 # Note that the corrected function feature is only filled in, if it occurs in a clause in which a selected verb occurs.
 
-# In[49]:
+# In[57]:
 
 
 for i in list(F.otype.s('phrase'))[0:10]: 
