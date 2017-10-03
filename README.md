@@ -1,9 +1,12 @@
 ![etcbc](programs/images/etcbc.png)
 
 # Verbal Valence
-Study of verbal valence patterns in Biblical Hebrew.
+Study of verbal valence patterns in Biblical Hebrew,
 
-Part of the SYNVAR project.
+Part of the
+[SYNVAR](https://www.nwo.nl/en/research-and-results/research-projects/i/30/9930.html)
+project carried out at the 
+[ETCBC](http://etcbc.nl)
 
 # Results
 
@@ -39,13 +42,13 @@ For more information, go to the [wiki of this repo](https://github.com/ETCBC/val
 
 # Authors
 * [Janet Dyk](mailto:j.w.dyk@vu.nl) -
-  [VU ETCBC](https://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx) -
+  [VU ETCBC](http://etcbc.nl) -
   linguistic researcher in Biblical Hebrew -
   author of the *flowcharts*;
 * [Dirk Roorda](mailto:dirk.roorda@dans.knaw.nl) -
   [DANS](https://dans.knaw.nl/en/front-page?set_language=en) -
   author of the notebooks and documentation and the supporting library
-  [Text-Fabric](https://github.com/ETCBC/text-fabric).
+  [Text-Fabric](https://github.com/Dans-labs/text-fabric).
 
 # Date
 
