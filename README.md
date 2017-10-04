@@ -22,7 +22,7 @@ first.
   [annotations](https://shebanq.ancient-data.org/hebrew/note?version=4b&id=Mnx2YWxlbmNl&tp=txt_tb1&nget=v)
   in **SHEBANQ** showing the verbal valence analysis in context;
 * **Data module**: a set of 
-  [higher level features](https://github.com/ETCBC/valence/tree/master/tf/4b)
+  [higher level features](https://github.com/ETCBC/valence/tree/master/tf)
   in **text-fabric** format, storing the flowchart input data and outcomes;
 * **Spreadsheets**: a set of
   [CSV files](https://github.com/ETCBC/valence/tree/master/source/4b)
