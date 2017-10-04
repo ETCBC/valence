@@ -25,7 +25,7 @@ first.
   [higher level features](https://github.com/ETCBC/valence/tree/master/tf/4b)
   in **text-fabric** format, storing the flowchart input data and outcomes;
 * **Spreadsheets**: a set of
-  [CSV files](https://github.com/ETCBC/valence/tree/master/workflow)
+  [CSV files](https://github.com/ETCBC/valence/tree/master/source/4b)
   used in the workflows for data entry;
 * **Documents**: a number flowcharts for individual verbs, to be found in the
   [wiki](https://github.com/ETCBC/valence/wiki)
