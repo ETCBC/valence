@@ -873,6 +873,8 @@ metaData = dict(
     sense=dict(
         valueType='str',
         description='sense label verb occurrences, computed by the flowchart algorithm, see https://github.com/ETCBC/valence/wiki/Legend',
+        coreData='BHSA',
+        coreVersion=VERSION,
     )
 )
 

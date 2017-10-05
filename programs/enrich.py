@@ -1779,6 +1779,8 @@ description = dict(
     method='Generated blank correction and enrichment spreadsheets with selected clauses',
     steps='sheets filled out by researcher; read back in by program; generated new features based on contents',
     author='The content and nature of the features are by Janet Dyk, the workflow is by Dirk Roorda',
+    coreData='BHSA',
+    coreVersion=VERSION,
 )
 
 metaData = {

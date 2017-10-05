@@ -1,5 +1,7 @@
 @node
 @author=The content and nature of the features are by Janet Dyk, the workflow is by Dirk Roorda
+@coreData=BHSA
+@coreVersion=c
 @description=whether the generated enrichment features have been manually changed
 @method=Generated blank correction and enrichment spreadsheets with selected clauses
 @purpose=Support the decision process of assigning valence to verbs
@@ -7,7 +9,7 @@
 @title=Correction and enrichment features
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-10-03T05:54:22Z
+@dateWritten=2017-10-05T12:03:09Z
 
 427558	
 427584	

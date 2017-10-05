@@ -1,8 +1,10 @@
 @node
+@coreData=BHSA
+@coreVersion=4
 @description=sense label verb occurrences, computed by the flowchart algorithm, see https://github.com/ETCBC/valence/wiki/Legend
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-09-29T20:32:41Z
+@dateWritten=2017-10-05T11:24:46Z
 
 3	d-
 15	--
