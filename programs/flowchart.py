@@ -243,7 +243,7 @@ api.makeAvailableIn(globals())
 # In[8]:
 
 
-resultDir = '{}/annotations'.format(thisTemp)
+resultDir = '{}/shebanq/{}'.format(thisRepo, VERSION)
 flowchartBase = 'https://github.com/ETCBC/valence/wiki'
 
 if not os.path.exists(resultDir):
