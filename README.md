@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/103229517.svg)](https://zenodo.org/badge/latestdoi/103229517)
 ![etcbc](programs/images/etcbc.png)
 
 # Verbal Valence
