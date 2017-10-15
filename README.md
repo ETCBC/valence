@@ -38,6 +38,7 @@ first.
   2. the application of the flowcharts to the whole corpus.
 
 ![tf](programs/images/tf-small.png)
+![dans](programs/images/dans.png)
 
 For more information, go to the [wiki of this repo](https://github.com/ETCBC/valence/wiki).
 
