@@ -34,8 +34,8 @@ first.
 * **Program code**: a
   [bunch of Jupyter notebooks](https://github.com/ETCBC/valence/tree/master/programs)
   that describe and execute the following tasks:
-  1. the data correction workflow, followed by enrichment;
-  2. the application of the flowcharts to the whole corpus.
+  1. The data correction workflow, followed by enrichment;
+  2. The application of the flowcharts to the whole corpus.
 
 ![tf](programs/images/tf-small.png)
 ![dans](programs/images/dans.png)
