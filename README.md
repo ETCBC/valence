@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/103229517.svg)](https://zenodo.org/badge/latestdoi/103229517)
-![etcbc](programs/images/etcbc.png)
+[![etcbc](programs/images/etcbc.png)](http://www.etcbc.nl)
 
 # Verbal Valence
 Study of verbal valence patterns in Biblical Hebrew,
@@ -38,7 +38,7 @@ first.
   2. The application of the flowcharts to the whole corpus.
 
 ![tf](programs/images/tf-small.png)
-![dans](programs/images/dans.png)
+[![dans](programs/images/dans.png)](https://www.dans.knaw.nl)
 
 For more information, go to the [wiki of this repo](https://github.com/ETCBC/valence/wiki).
 
