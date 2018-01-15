@@ -1,12 +1,15 @@
 
 # coding: utf-8
 
+# <img align="right" src="images/dans-small.png"/>
+# <img align="right" src="images/tf-small.png"/>
 # <img align="right" src="images/etcbc.png"/>
+# 
 # 
 # # Corrections and enrichment
 # 
 # In order to do
-# [flowchart analysis](https://github.com/ETCBC/valence/blob/master/notebooks/flowchart.ipynb)
+# [verbal valence analysis](flowchart.ipynb)
 # on verbs, we need to correct some coding errors.
 # 
 # We also need to enrich constituents surrounding the 
@@ -25,7 +28,7 @@
 # and in that process the node numbers have changed.
 # As the sheets rely on node numbers to let the entered data flow back to the right nodes,
 # these sheets no longer work on this version.
-# It should be possible to identify the meterial in those sheets on the basis of
+# It should be possible to identify the material in those sheets on the basis of
 # book, chapter and verse info.
 # But we leave that as an exercise to posterity.
 # 
@@ -67,7 +70,7 @@ def stop(good=False):
 # [References](https://github.com/ETCBC/valence/wiki/References)
 
 # ## Data
-# We have carried out the valence project against the Hebrew Text Database of the ETCBC, version 4b.
+# We have carried out the valence project against the Hebrew Text Database BHSA, version `4b`.
 # See the description of the [sources](https://github.com/ETCBC/valence/wiki/Sources).
 # 
 # However, we can run our stuff also against the newer versions.
@@ -258,7 +261,7 @@ error_values = dict(
 )
 
 
-# We add the error_values to the legal values.
+# We add the `error_values` to the legal values.
 
 # In[12]:
 
@@ -328,7 +331,7 @@ for verb in sorted(verbs):
 # The fields per row are the node numbers of the clause in which the verb occurs, the node number of the verb occurrence, the text of the verb occurrence (in ETCBC transliteration, consonantal) a passage label (book, chapter, verse), and then 4 columns for each phrase in the clause:
 # 
 # * phrase node number
-# * phrase text (ETCBC translit consonantal)
+# * phrase text (ETCBC transliterated consonantal)
 # * original value of the `function` feature
 # * corrected value of the `function` feature (generated as empty)
 
@@ -648,7 +651,7 @@ else:
     utils.caption(0, '\tEnrich baseline rules are OK ({} good)'.format(good))
 
 
-# Let us prettyprint the baseline rules of enrichment for easier reference.
+# Let us pretty-print the baseline rules of enrichment for easier reference.
 
 # In[19]:
 
@@ -858,7 +861,7 @@ for kind in object_kinds:
 
 # ## 2.3 Indirect objects
 # 
-# The ETCBC database has not feature that marks indirect objects.
+# The BHSA database has not feature that marks indirect objects.
 # We will use computation to determine whether a complement is an indirect object or a locative.
 # This computation is just an approximation.
 # 
@@ -1154,8 +1157,8 @@ generic_logic = dict(
 # A condition can take the shape of
 # 
 # * a function, taking a phrase or clause node as argument and returning a boolean value
-# * an ETCBC feature for phrases or clauses : value, 
-#   which is true iff that feature has that value for the phrase or clause in question
+# * an BHSA feature for phrases or clauses : value, 
+#   which is true if and only if that feature has that value for the phrase or clause in question
 
 # In[28]:
 
@@ -1904,9 +1907,9 @@ if SCRIPT:
 
 # ## Results
 # 
-# We put all corrections and enrichments in a single csv file for checking.
+# We put all corrections and enrichments in a single CSV file for checking.
 # 
-# We also generate a smaller csv, with only the data for selected verbs in it.
+# We also generate a smaller CSV, with only the data for selected verbs in it.
 
 # In[80]:
 
