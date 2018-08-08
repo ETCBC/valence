@@ -4,7 +4,7 @@
 @description=sense label verb occurrences, computed by the flowchart algorithm, see https://github.com/ETCBC/valence/wiki/Legend
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2018-04-13T12:26:13Z
+@dateWritten=2018-08-08T14:38:21Z
 
 3	d-
 15	--
@@ -13713,7 +13713,7 @@ d-
 128914	--
 128919	dp
 128928	-c
-128933	d-
+128933	--
 128939	--
 128948	d-
 128965	d-
@@ -13769,7 +13769,7 @@ d-
 129310	l.
 129319	i.
 129322	--
-129358	d-
+129358	--
 129365	-p
 129391	d-
 129399	--

@@ -1201,7 +1201,7 @@ def rule_as_str_s(vl, i):
                 *c.split(':')
             ) if type(c) is str else '{:<15}'.format(
                 c.__name__
-            ) for c in conditions,
+            ) for c in conditions
     ))
     ass = []
     for (i, sfa) in enumerate(sfassignments):
