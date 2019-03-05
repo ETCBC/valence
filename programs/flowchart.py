@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # <img align="right" src="images/dans-small.png"/>
@@ -1028,4 +1028,10 @@ def show_decision(verbs=None, labels=None, books=None): # show all clauses that 
 
 
 show_decision(verbs={'FJM'}, books={'Isaiah'})
+
+
+# In[ ]:
+
+
+
 
