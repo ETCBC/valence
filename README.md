@@ -1,3 +1,4 @@
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/ETCBC/valence/)](https://archive.softwareheritage.org/browse/origin/https://github.com/ETCBC/valence/)
 [![DOI](https://zenodo.org/badge/103229517.svg)](https://zenodo.org/badge/latestdoi/103229517)
 [![etcbc](programs/images/etcbc.png)](http://www.etcbc.nl)
 
