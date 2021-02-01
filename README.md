@@ -51,7 +51,7 @@ For more information, go to the [wiki of this repo](https://github.com/ETCBC/val
 * [Dirk Roorda](mailto:dirk.roorda@dans.knaw.nl) -
   [DANS](https://dans.knaw.nl/en/front-page?set_language=en) -
   author of the notebooks and documentation and the supporting library
-  [Text-Fabric](https://github.com/Dans-labs/text-fabric).
+  [Text-Fabric](https://github.com/annotation/text-fabric).
 
 # Date
 
