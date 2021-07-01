@@ -1,0 +1,1594 @@
+cnode#;vnode#;onode#;book;chapter;verse;verb_lexeme;verb_stem;verb_occurrence;text;constituent;type;rela;type;function;valence;predication;grammatical;original;lexical;semantic
+428423;5043;-1;Genesis;11;5;JRD;qal;JRD ;WJRD JHWH ;;;;;;;;;;;
+428423;5043;654279;Genesis;11;5;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+428423;5043;654280;Genesis;11;5;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+428423;5043;654281;Genesis;11;5;JRD;qal;;JHWH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+428423;5043;428424;Genesis;11;5;JRD;qal;;LR>T >T&H<JR W>T&HMGDL ;clause;InfC;Adju;;;NA;NA;;;;
+428436;5086;-1;Genesis;11;7;JRD;qal;NRDH ;NRDH ;;;;;;;;;;;
+428436;5086;654309;Genesis;11;7;JRD;qal;;NRDH ;phrase;;;VP;Pred;core;regular;NA;;;
+428541;5680;-1;Genesis;12;10;JRD;qal;JRD ;WJRD >BRM MYRJMH ;;;;;;;;;;;
+428541;5680;654653;Genesis;12;10;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+428541;5680;654654;Genesis;12;10;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+428541;5680;654655;Genesis;12;10;JRD;qal;;>BRM ;phrase;;;PrNP;Subj;core;NA;subject;;;
+428541;5680;654656;Genesis;12;10;JRD;qal;;MYRJMH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+428541;5680;428542;Genesis;12;10;JRD;qal;;LGWR CM ;clause;InfC;Adju;;;NA;NA;;;;
+428770;6851;-1;Genesis;15;11;JRD;qal;JRD ;WJRD H<JV <L&HPGRJM ;;;;;;;;;;;
+428770;6851;655338;Genesis;15;11;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+428770;6851;655339;Genesis;15;11;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+428770;6851;655340;Genesis;15;11;JRD;qal;;H<JV ;phrase;;;NP;Subj;core;NA;subject;;;
+428770;6851;655341;Genesis;15;11;JRD;qal;;<L&HPGRJM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+429037;8162;-1;Genesis;18;21;JRD;qal;>RDH&;>RDH&N> ;;;;;;;;;;;
+429037;8162;656160;Genesis;18;21;JRD;qal;;>RDH&;phrase;;;VP;Pred;core;regular;NA;;;
+429037;8162;656161;Genesis;18;21;JRD;qal;;N> ;phrase;;;InjP;Intj;NA;NA;NA;;NA;NA
+429728;11454;-1;Genesis;24;16;JRD;qal;TRD ;WTRD H<JNH ;;;;;;;;;;;
+429728;11454;658258;Genesis;24;16;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+429728;11454;658259;Genesis;24;16;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+429728;11454;658260;Genesis;24;16;JRD;qal;;H<JNH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+429739;11483;-1;Genesis;24;18;JRD;hif;TRD ;WTRD KDH <L&JDH ;;;;;;;;;;;
+429739;11483;658282;Genesis;24;18;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+429739;11483;658283;Genesis;24;18;JRD;hif;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+429739;11483;658284;Genesis;24;18;JRD;hif;;KDH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+429739;11483;658285;Genesis;24;18;JRD;hif;;<L&JDH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+429858;11994;-1;Genesis;24;45;JRD;qal;TRD ;WTRD H<JNH ;;;;;;;;;;;
+429858;11994;658619;Genesis;24;45;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+429858;11994;658620;Genesis;24;45;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+429858;11994;658621;Genesis;24;45;JRD;qal;;H<JNH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+429863;12007;-1;Genesis;24;46;JRD;hif;TWRD ;WTWRD KDH M<LJH ;;;;;;;;;;;
+429863;12007;658631;Genesis;24;46;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+429863;12007;658632;Genesis;24;46;JRD;hif;;TWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+429863;12007;658633;Genesis;24;46;JRD;hif;;KDH ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+429863;12007;658634;Genesis;24;46;JRD;hif;;M<LJH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+430079;13010;-1;Genesis;26;2;JRD;qal;TRD ;>L&TRD MYRJMH ;;;;;;;;;;;
+430079;13010;659259;Genesis;26;2;JRD;qal;;>L&;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+430079;13010;659260;Genesis;26;2;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+430079;13010;659261;Genesis;26;2;JRD;qal;;MYRJMH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+430488;14724;-1;Genesis;28;12;JRD;qal;JRDJM ;WJRDJM BW00 ;;;;;;;;;;;
+430488;14724;660458;Genesis;28;12;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+430488;14724;660459;Genesis;28;12;JRD;qal;;JRDJM ;phrase;;;VP;PreC;core;regular;NA;;;
+430488;14724;660460;Genesis;28;12;JRD;qal;;BW00 ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+431754;20645;-1;Genesis;37;25;JRD;hif;HWRJD ;LHWRJD MYRJMH00 ;;;;;;;;;;;
+431754;20645;664266;Genesis;37;25;JRD;hif;;LHWRJD ;phrase;;;VP;Pred;core;regular;NA;;;
+431754;20645;664267;Genesis;37;25;JRD;hif;;MYRJMH00 ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+431802;20822;-1;Genesis;37;35;JRD;qal;>RD ;KJ&>RD >L&BNJ ;;;;;;;;;;;
+431802;20822;664396;Genesis;37;35;JRD;qal;;KJ&;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+431802;20822;664397;Genesis;37;35;JRD;qal;;>RD ;phrase;;;VP;Pred;core;regular;NA;;;
+431802;20822;664398;Genesis;37;35;JRD;qal;;>L&BNJ ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+431807;20853;-1;Genesis;38;1;JRD;qal;JRD ;WJRD JHWDH M>T >XJW ;;;;;;;;;;;
+431807;20853;664414;Genesis;38;1;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+431807;20853;664415;Genesis;38;1;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+431807;20853;664416;Genesis;38;1;JRD;qal;;JHWDH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+431807;20853;664417;Genesis;38;1;JRD;qal;;M>T >XJW ;phrase;;;PP;Cmpl;complement;NA;*;;;
+431955;21418;-1;Genesis;39;1;JRD;hof;HWRD ;WJWSP HWRD MYRJMH ;;;;;;;;;;;
+431955;21418;664838;Genesis;39;1;JRD;hof;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+431955;21418;664839;Genesis;39;1;JRD;hof;;JWSP ;phrase;;;PrNP;Subj;core;NA;subject;;;
+431955;21418;664840;Genesis;39;1;JRD;hof;;HWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+431955;21418;664841;Genesis;39;1;JRD;hof;;MYRJMH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+431957;21435;-1;Genesis;39;1;JRD;hif;HWRDHW ;>CR HWRDHW CMH00 ;;;;;;;;;;;
+431957;21435;664846;Genesis;39;1;JRD;hif;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+431957;21435;664847;Genesis;39;1;JRD;hif;;HWRDHW ;phrase;;;VP;PreO;core;regular;direct_object;;;
+431957;21435;664848;Genesis;39;1;JRD;hif;;CMH00 ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+432343;23455;-1;Genesis;42;2;JRD;qal;RDW&;RDW&CMH ;;;;;;;;;;;
+432343;23455;666066;Genesis;42;2;JRD;qal;;RDW&;phrase;;;VP;Pred;core;regular;NA;;;
+432343;23455;666067;Genesis;42;2;JRD;qal;;CMH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+432347;23468;-1;Genesis;42;3;JRD;qal;JRDW ;WJRDW >XJ&JWSP <FRH ;;;;;;;;;;;
+432347;23468;666077;Genesis;42;3;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+432347;23468;666078;Genesis;42;3;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+432347;23468;666079;Genesis;42;3;JRD;qal;;>XJ&JWSP <FRH ;phrase;;;NP;Subj;core;NA;subject;;;
+432347;23468;432348;Genesis;42;3;JRD;qal;;LCBR BR MMYRJM00 ;clause;InfC;Adju;;;NA;NA;;;;
+432523;24112;-1;Genesis;42;38;JRD;qal;JRD ;L>&JRD BNJ <MKM ;;;;;;;;;;;
+432523;24112;666556;Genesis;42;38;JRD;qal;;L>&;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+432523;24112;666557;Genesis;42;38;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+432523;24112;666558;Genesis;42;38;JRD;qal;;BNJ ;phrase;;;NP;Subj;core;NA;subject;;;
+432523;24112;666559;Genesis;42;38;JRD;qal;;<MKM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+432528;24133;-1;Genesis;42;38;JRD;hif;HWRDTM ;WHWRDTM >T&FJBTJ BJGWN C>WLH00 ;;;;;;;;;;;
+432528;24133;666574;Genesis;42;38;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+432528;24133;666575;Genesis;42;38;JRD;hif;;HWRDTM ;phrase;;;VP;Pred;core;regular;NA;;;
+432528;24133;666576;Genesis;42;38;JRD;hif;;>T&FJBTJ ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+432528;24133;666577;Genesis;42;38;JRD;hif;;BJGWN ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+432528;24133;666578;Genesis;42;38;JRD;hif;;C>WLH00 ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+432544;24194;-1;Genesis;43;4;JRD;qal;NRDH ;NRDH ;;;;;;;;;;;
+432544;24194;666621;Genesis;43;4;JRD;qal;;NRDH ;phrase;;;VP;Pred;core;regular;NA;;;
+432547;24204;-1;Genesis;43;5;JRD;qal;NRD ;L> NRD ;;;;;;;;;;;
+432547;24204;666630;Genesis;43;5;JRD;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+432547;24204;666631;Genesis;43;5;JRD;qal;;NRD ;phrase;;;VP;Pred;core;regular;NA;;;
+432563;24265;-1;Genesis;43;7;JRD;hif;HWRJDW ;HWRJDW >T&>XJKM00 ;;;;;;;;;;;
+432563;24265;666678;Genesis;43;7;JRD;hif;;HWRJDW ;phrase;;;VP;Pred;core;regular;NA;;;
+432563;24265;666679;Genesis;43;7;JRD;hif;;>T&>XJKM00 ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+432581;24338;-1;Genesis;43;11;JRD;hif;HWRJDW ;WHWRJDW L>JC MNXH M<V YRJ WM<V DBC NK>T WLV BVNJM WCQDJM00 ;;;;;;;;;;;
+432581;24338;666731;Genesis;43;11;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+432581;24338;666732;Genesis;43;11;JRD;hif;;HWRJDW ;phrase;;;VP;Pred;core;regular;NA;;;
+432581;24338;666733;Genesis;43;11;JRD;hif;;L>JC ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+432581;24338;666734;Genesis;43;11;JRD;hif;;MNXH M<V YRJ WM<V DBC NK>T WLV BVNJM WCQDJM00 ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
+432598;24431;-1;Genesis;43;15;JRD;qal;JRDW ;WJRDW MYRJM ;;;;;;;;;;;
+432598;24431;666783;Genesis;43;15;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+432598;24431;666784;Genesis;43;15;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+432598;24431;666785;Genesis;43;15;JRD;qal;;MYRJM ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+432623;24544;-1;Genesis;43;20;JRD;qal;JRD ;JRD JRDNW BTXLH ;;;;;;;;;;;
+432623;24544;666859;Genesis;43;20;JRD;qal;;JRD ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
+432623;24544;666860;Genesis;43;20;JRD;qal;;JRDNW ;phrase;;;VP;Pred;core;regular;NA;;;
+432623;24544;666861;Genesis;43;20;JRD;qal;;BTXLH ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+432623;24544;432624;Genesis;43;20;JRD;qal;;LCBR&>KL00 ;clause;InfC;Adju;;;NA;NA;;;;
+432631;24581;-1;Genesis;43;22;JRD;hif;HWRDNW ;WKSP >XR HWRDNW BJDNW ;;;;;;;;;;;
+432631;24581;666882;Genesis;43;22;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+432631;24581;666883;Genesis;43;22;JRD;hif;;KSP >XR ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
+432631;24581;666884;Genesis;43;22;JRD;hif;;HWRDNW ;phrase;;;VP;Pred;core;regular;NA;;;
+432631;24581;666885;Genesis;43;22;JRD;hif;;BJDNW ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+432631;24581;432632;Genesis;43;22;JRD;hif;;LCBR&>KL ;clause;InfC;Adju;;;NA;NA;infinitive_object;;;
+432745;25024;-1;Genesis;44;11;JRD;hif;JWRDW ;WJWRDW ;;;;;;;;;;;
+432745;25024;667201;Genesis;44;11;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+432745;25024;667202;Genesis;44;11;JRD;hif;;JWRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+432797;25222;-1;Genesis;44;21;JRD;hif;HWRDHW ;HWRDHW >LJ ;;;;;;;;;;;
+432797;25222;667352;Genesis;44;21;JRD;hif;;HWRDHW ;phrase;;;VP;PreO;core;regular;direct_object;;;
+432797;25222;667353;Genesis;44;21;JRD;hif;;>LJ ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+432805;25252;-1;Genesis;44;23;JRD;qal;JRD ;>M&L> JRD >XJKM HQVN >TKM ;;;;;;;;;;;
+432805;25252;667374;Genesis;44;23;JRD;qal;;>M&;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+432805;25252;667375;Genesis;44;23;JRD;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+432805;25252;667376;Genesis;44;23;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+432805;25252;667377;Genesis;44;23;JRD;qal;;>XJKM HQVN ;phrase;;;NP;Subj;core;NA;subject;;;
+432805;25252;667378;Genesis;44;23;JRD;qal;;>TKM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+432816;25288;-1;Genesis;44;26;JRD;qal;RDT ;LRDT ;;;;;;;;;;;
+432816;25288;667403;Genesis;44;26;JRD;qal;;LRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+432818;25296;-1;Genesis;44;26;JRD;qal;JRDNW ;WJRDNW ;;;;;;;;;;;
+432818;25296;667408;Genesis;44;26;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+432818;25296;667409;Genesis;44;26;JRD;qal;;JRDNW ;phrase;;;VP;Pred;core;regular;NA;;;
+432832;25351;-1;Genesis;44;29;JRD;hif;HWRDTM ;WHWRDTM >T&FJBTJ BR<H C>LH00 ;;;;;;;;;;;
+432832;25351;667450;Genesis;44;29;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+432832;25351;667451;Genesis;44;29;JRD;hif;;HWRDTM ;phrase;;;VP;Pred;core;regular;NA;;;
+432832;25351;667452;Genesis;44;29;JRD;hif;;>T&FJBTJ ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+432832;25351;667453;Genesis;44;29;JRD;hif;;BR<H ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+432832;25351;667454;Genesis;44;29;JRD;hif;;C>LH00 ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+432842;25385;-1;Genesis;44;31;JRD;hif;HWRJDW ;WHWRJDW <BDJK >T&FJBT <BDK >BJNW BJGWN C>LH00 ;;;;;;;;;;;
+432842;25385;667475;Genesis;44;31;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+432842;25385;667476;Genesis;44;31;JRD;hif;;HWRJDW ;phrase;;;VP;Pred;core;regular;NA;;;
+432842;25385;667477;Genesis;44;31;JRD;hif;;<BDJK ;phrase;;;NP;Subj;core;NA;subject;;;
+432842;25385;667478;Genesis;44;31;JRD;hif;;>T&FJBT <BDK >BJNW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+432842;25385;667479;Genesis;44;31;JRD;hif;;BJGWN ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+432842;25385;667480;Genesis;44;31;JRD;hif;;C>LH00 ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+432898;25638;-1;Genesis;45;9;JRD;qal;RDH ;RDH >LJ ;;;;;;;;;;;
+432898;25638;667655;Genesis;45;9;JRD;qal;;RDH ;phrase;;;VP;Pred;core;regular;NA;;;
+432898;25638;667656;Genesis;45;9;JRD;qal;;>LJ ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+432913;25713;-1;Genesis;45;13;JRD;hif;HWRDTM ;WHWRDTM >T&>BJ HNH00 ;;;;;;;;;;;
+432913;25713;667698;Genesis;45;13;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+432913;25713;667699;Genesis;45;13;JRD;hif;;HWRDTM ;phrase;;;VP;Pred;core;regular;NA;;;
+432913;25713;667700;Genesis;45;13;JRD;hif;;>T&>BJ ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+432913;25713;667701;Genesis;45;13;JRD;hif;;HNH00 ;phrase;;;AdvP;Cmpl;complement;NA;*;;;
+432986;26037;-1;Genesis;46;3;JRD;qal;RDH ;MRDH MYRJMH ;;;;;;;;;;;
+432986;26037;667909;Genesis;46;3;JRD;qal;;MRDH ;phrase;;;VP;Pred;core;regular;NA;;;
+432986;26037;667910;Genesis;46;3;JRD;qal;;MYRJMH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+432988;26046;-1;Genesis;46;4;JRD;qal;>RD ;>NKJ >RD <MK MYRJMH ;;;;;;;;;;;
+432988;26046;667915;Genesis;46;4;JRD;qal;;>NKJ ;phrase;;;PPrP;Subj;core;NA;subject;;;
+432988;26046;667916;Genesis;46;4;JRD;qal;;>RD ;phrase;;;VP;Pred;core;regular;NA;;;
+432988;26046;667917;Genesis;46;4;JRD;qal;;<MK ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+432988;26046;667918;Genesis;46;4;JRD;qal;;MYRJMH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+433627;29186;-1;Exodus;2;5;JRD;qal;TRD ;WTRD BT&PR<H <L&HJ>R ;;;;;;;;;;;
+433627;29186;669810;Exodus;2;5;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+433627;29186;669811;Exodus;2;5;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+433627;29186;669812;Exodus;2;5;JRD;qal;;BT&PR<H ;phrase;;;NP;Subj;core;NA;subject;;;
+433627;29186;669814;Exodus;2;5;JRD;qal;;<L&HJ>R ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+433627;29186;433628;Exodus;2;5;JRD;qal;;LRXY ;clause;InfC;Adju;;;NA;NA;;;;
+433766;29783;-1;Exodus;3;8;JRD;qal;>RD ;W>RD ;;;;;;;;;;;
+433766;29783;670205;Exodus;3;8;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+433766;29783;670206;Exodus;3;8;JRD;qal;;>RD ;phrase;;;VP;Pred;core;regular;NA;;;
+433766;29783;433767;Exodus;3;8;JRD;qal;;LHYJLW05 MJD MYRJM ;clause;InfC;Adju;;;NA;NA;;;;
+434501;33435;-1;Exodus;9;19;JRD;qal;JRD ;WJRD <LHM HBRD ;;;;;;;;;;;
+434501;33435;672410;Exodus;9;19;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+434501;33435;672411;Exodus;9;19;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+434501;33435;672412;Exodus;9;19;JRD;qal;;<LHM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+434501;33435;672413;Exodus;9;19;JRD;qal;;HBRD ;phrase;;;NP;Subj;core;NA;subject;;;
+434723;34609;-1;Exodus;11;8;JRD;qal;JRDW ;WJRDW KL&<BDJK >LH >LJ ;;;;;;;;;;;
+434723;34609;673107;Exodus;11;8;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+434723;34609;673108;Exodus;11;8;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+434723;34609;673109;Exodus;11;8;JRD;qal;;KL&<BDJK >LH ;phrase;;;NP;Subj;core;NA;subject;;;
+434723;34609;673110;Exodus;11;8;JRD;qal;;>LJ ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+435142;36983;-1;Exodus;15;5;JRD;qal;JRDW ;JRDW BMYWLT KMW&>BN00 ;;;;;;;;;;;
+435142;36983;674452;Exodus;15;5;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+435142;36983;674453;Exodus;15;5;JRD;qal;;BMYWLT ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+435142;36983;674454;Exodus;15;5;JRD;qal;;KMW&>BN00 ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+435628;39287;-1;Exodus;19;11;JRD;qal;JRD ;KJ05 BJWM HCLJCJ JRD JHWH L<JNJ KL&H<M <L&HR SJNJ00 ;;;;;;;;;;;
+435628;39287;675897;Exodus;19;11;JRD;qal;;KJ05 ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+435628;39287;675898;Exodus;19;11;JRD;qal;;BJWM HCLJCJ ;phrase;;;PP;Time;adjunct;NA;NA;;time;time
+435628;39287;675899;Exodus;19;11;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+435628;39287;675900;Exodus;19;11;JRD;qal;;JHWH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+435628;39287;675901;Exodus;19;11;JRD;qal;;L<JNJ KL&H<M ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+435628;39287;675902;Exodus;19;11;JRD;qal;;<L&HR SJNJ00 ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+435644;39349;-1;Exodus;19;14;JRD;qal;JRD ;WJRD MCH MN&HHR >L&H<M ;;;;;;;;;;;
+435644;39349;675942;Exodus;19;14;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+435644;39349;675943;Exodus;19;14;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+435644;39349;675944;Exodus;19;14;JRD;qal;;MCH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+435644;39349;675945;Exodus;19;14;JRD;qal;;MN&HHR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+435644;39349;675946;Exodus;19;14;JRD;qal;;>L&H<M ;phrase;;;PP;Cmpl;complement;NA;*;;;
+435661;39442;-1;Exodus;19;18;JRD;qal;JRD ;MPNJ >CR JRD <LJW JHWH B>C ;;;;;;;;;;;
+435661;39442;675991;Exodus;19;18;JRD;qal;;MPNJ >CR ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+435661;39442;675992;Exodus;19;18;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+435661;39442;675993;Exodus;19;18;JRD;qal;;<LJW ;phrase;;;PP;Cmpl;complement;NA;*;;;
+435661;39442;675994;Exodus;19;18;JRD;qal;;JHWH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+435661;39442;675995;Exodus;19;18;JRD;qal;;B>C ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+435669;39479;-1;Exodus;19;20;JRD;qal;JRD ;WJRD JHWH <L&HR SJNJ >L&R>C HHR ;;;;;;;;;;;
+435669;39479;676016;Exodus;19;20;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+435669;39479;676017;Exodus;19;20;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+435669;39479;676018;Exodus;19;20;JRD;qal;;JHWH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+435669;39479;676019;Exodus;19;20;JRD;qal;;<L&HR SJNJ ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+435669;39479;676020;Exodus;19;20;JRD;qal;;>L&R>C HHR ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+435673;39505;-1;Exodus;19;21;JRD;qal;RD ;RD ;;;;;;;;;;;
+435673;39505;676033;Exodus;19;21;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+435690;39564;-1;Exodus;19;24;JRD;qal;RD ;RD ;;;;;;;;;;;
+435690;39564;676077;Exodus;19;24;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+435695;39587;-1;Exodus;19;25;JRD;qal;JRD ;WJRD MCH >L&H<M ;;;;;;;;;;;
+435695;39587;676090;Exodus;19;25;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+435695;39587;676091;Exodus;19;25;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+435695;39587;676092;Exodus;19;25;JRD;qal;;MCH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+435695;39587;676093;Exodus;19;25;JRD;qal;;>L&H<M ;phrase;;;PP;Cmpl;complement;NA;*;;;
+436879;46512;-1;Exodus;32;1;JRD;qal;RDT ;LRDT MN&HHR ;;;;;;;;;;;
+436879;46512;679814;Exodus;32;1;JRD;qal;;LRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+436879;46512;679815;Exodus;32;1;JRD;qal;;MN&HHR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+436918;46651;-1;Exodus;32;7;JRD;qal;RD ;RD ;;;;;;;;;;;
+436918;46651;679916;Exodus;32;7;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+436962;46833;-1;Exodus;32;15;JRD;qal;JRD ;WJRD MCH MN&HHR ;;;;;;;;;;;
+436962;46833;680033;Exodus;32;15;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+436962;46833;680034;Exodus;32;15;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+436962;46833;680035;Exodus;32;15;JRD;qal;;MCH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+436962;46833;680036;Exodus;32;15;JRD;qal;;MN&HHR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+437087;47388;-1;Exodus;33;5;JRD;hif;HWRD ;HWRD <DJK M<LJK ;;;;;;;;;;;
+437087;47388;680390;Exodus;33;5;JRD;hif;;HWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+437087;47388;680391;Exodus;33;5;JRD;hif;;<DJK ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+437087;47388;680392;Exodus;33;5;JRD;hif;;M<LJK ;phrase;;;PP;Cmpl;complement;NA;*;;;
+437108;47476;-1;Exodus;33;9;JRD;qal;JRD ;JRD <MWD H<NN ;;;;;;;;;;;
+437108;47476;680447;Exodus;33;9;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+437108;47476;680448;Exodus;33;9;JRD;qal;;<MWD H<NN ;phrase;;;NP;Subj;core;NA;subject;;;
+437194;47876;-1;Exodus;34;5;JRD;qal;JRD ;WJRD JHWH B<NN ;;;;;;;;;;;
+437194;47876;680713;Exodus;34;5;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+437194;47876;680714;Exodus;34;5;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+437194;47876;680715;Exodus;34;5;JRD;qal;;JHWH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+437194;47876;680716;Exodus;34;5;JRD;qal;;B<NN ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+437282;48354;-1;Exodus;34;29;JRD;qal;RDT ;BRDT MCH MHR SJNJ ;;;;;;;;;;;
+437282;48354;680989;Exodus;34;29;JRD;qal;;BRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+437282;48354;680990;Exodus;34;29;JRD;qal;;MCH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+437282;48354;680991;Exodus;34;29;JRD;qal;;MHR SJNJ ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+437284;48368;-1;Exodus;34;29;JRD;qal;RDTW ;BRDTW MN&HHR ;;;;;;;;;;;
+437284;48368;680995;Exodus;34;29;JRD;qal;;BRDTW ;phrase;;;VP;PreS;core;regular;subject;;;
+437284;48368;680996;Exodus;34;29;JRD;qal;;MN&HHR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+438672;57320;-1;Leviticus;9;22;JRD;qal;JRD ;WJRD ;;;;;;;;;;;
+438672;57320;685307;Leviticus;9;22;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+438672;57320;685308;Leviticus;9;22;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+438672;57320;438673;Leviticus;9;22;JRD;qal;;M<FT HXV>T WH<LH WHCLMJM00 ;clause;InfC;Adju;;;NA;NA;;;;
+441027;70357;-1;Numbers;1;51;JRD;hif;JWRJDW ;WJWRJDW >TW HLWJM ;;;;;;;;;;;
+441027;70357;692587;Numbers;1;51;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+441027;70357;692590;Numbers;1;51;JRD;hif;;JWRJDW ;phrase;;;VP;Pred;core;regular;NA;;;
+441027;70357;692591;Numbers;1;51;JRD;hif;;>TW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+441027;70357;692592;Numbers;1;51;JRD;hif;;HLWJM ;phrase;;;NP;Subj;core;NA;subject;;;
+441027;70357;441028;Numbers;1;51;JRD;hif;;BNS< HMCKN ;clause;InfC;Adju;;;NA;NA;;;;
+441232;71838;-1;Numbers;4;5;JRD;hif;HWRDW ;WHWRDW >T PRKT HMSK ;;;;;;;;;;;
+441232;71838;693165;Numbers;4;5;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+441232;71838;693166;Numbers;4;5;JRD;hif;;HWRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+441232;71838;693167;Numbers;4;5;JRD;hif;;>T PRKT HMSK ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+441962;76517;-1;Numbers;10;17;JRD;hof;HWRD ;WHWRD HMCKN ;;;;;;;;;;;
+441962;76517;695334;Numbers;10;17;JRD;hof;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+441962;76517;695335;Numbers;10;17;JRD;hof;;HWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+441962;76517;695336;Numbers;10;17;JRD;hof;;HMCKN ;phrase;;;NP;Subj;core;NA;subject;;;
+442051;76956;-1;Numbers;11;9;JRD;qal;RDT ;BRDT HVL <L&HMXNH LJLH ;;;;;;;;;;;
+442051;76956;695592;Numbers;11;9;JRD;qal;;BRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+442051;76956;695593;Numbers;11;9;JRD;qal;;HVL ;phrase;;;NP;Subj;core;NA;subject;;;
+442051;76956;695594;Numbers;11;9;JRD;qal;;<L&HMXNH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+442051;76956;695595;Numbers;11;9;JRD;qal;;LJLH ;phrase;;;AdvP;Time;adjunct;NA;NA;;time;time
+442050;76963;-1;Numbers;11;9;JRD;qal;JRD ;WJRD HMN <LJW00 ;;;;;;;;;;;
+442050;76963;695591;Numbers;11;9;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+442050;76963;695596;Numbers;11;9;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+442050;76963;695597;Numbers;11;9;JRD;qal;;HMN ;phrase;;;NP;Subj;core;NA;subject;;;
+442050;76963;695598;Numbers;11;9;JRD;qal;;<LJW00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+442050;76963;442051;Numbers;11;9;JRD;qal;;BRDT HVL <L&HMXNH LJLH ;clause;InfC;Adju;;;NA;NA;;;;
+442086;77138;-1;Numbers;11;17;JRD;qal;JRDTJ ;WJRDTJ ;;;;;;;;;;;
+442086;77138;695711;Numbers;11;17;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+442086;77138;695712;Numbers;11;17;JRD;qal;;JRDTJ ;phrase;;;VP;Pred;core;regular;NA;;;
+442134;77335;-1;Numbers;11;25;JRD;qal;JRD ;WJRD JHWH05 B<NN ;;;;;;;;;;;
+442134;77335;695855;Numbers;11;25;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+442134;77335;695856;Numbers;11;25;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+442134;77335;695857;Numbers;11;25;JRD;qal;;JHWH05 ;phrase;;;PrNP;Subj;core;NA;subject;;;
+442134;77335;695858;Numbers;11;25;JRD;qal;;B<NN ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+442192;77660;-1;Numbers;12;5;JRD;qal;JRD ;WJRD JHWH B<MWD <NN ;;;;;;;;;;;
+442192;77660;696039;Numbers;12;5;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+442192;77660;696040;Numbers;12;5;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+442192;77660;696041;Numbers;12;5;JRD;qal;;JHWH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+442192;77660;696042;Numbers;12;5;JRD;qal;;B<MWD <NN ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+442516;79299;-1;Numbers;14;45;JRD;qal;JRD ;WJRD H<MLQJ WHKN<NJ ;;;;;;;;;;;
+442516;79299;697010;Numbers;14;45;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+442516;79299;697011;Numbers;14;45;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+442516;79299;697012;Numbers;14;45;JRD;qal;;H<MLQJ WHKN<NJ ;phrase;;;NP;Subj;core;NA;subject;;;
+442765;80637;-1;Numbers;16;30;JRD;qal;JRDW ;WJRDW XJJM C>LH ;;;;;;;;;;;
+442765;80637;697757;Numbers;16;30;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+442765;80637;697758;Numbers;16;30;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+442765;80637;697759;Numbers;16;30;JRD;qal;;XJJM ;phrase;;;AdjP;PrAd;adjunct;NA;NA;;;
+442765;80637;697760;Numbers;16;30;JRD;qal;;C>LH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+442776;80694;-1;Numbers;16;33;JRD;qal;JRDW ;WJRDW HM WKL&XJJM C>LH ;;;;;;;;;;;
+442776;80694;697786;Numbers;16;33;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+442776;80694;697787;Numbers;16;33;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+442776;80694;697788;Numbers;16;33;JRD;qal;;HM WKL&;phrase;;;PPrP;Subj;core;NA;subject;;;
+442776;80694;697791;Numbers;16;33;JRD;qal;;XJJM ;phrase;;;AdjP;PrAd;adjunct;NA;NA;;;
+442776;80694;697792;Numbers;16;33;JRD;qal;;C>LH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+443134;82840;-1;Numbers;20;15;JRD;qal;JRDW ;WJRDW >BTJNW MYRJMH ;;;;;;;;;;;
+443134;82840;698957;Numbers;20;15;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+443134;82840;698958;Numbers;20;15;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+443134;82840;698959;Numbers;20;15;JRD;qal;;>BTJNW ;phrase;;;NP;Subj;core;NA;subject;;;
+443134;82840;698960;Numbers;20;15;JRD;qal;;MYRJMH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+443186;83101;-1;Numbers;20;28;JRD;qal;JRD ;WJRD MCH W>L<ZR MN&HHR00 ;;;;;;;;;;;
+443186;83101;699124;Numbers;20;28;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+443186;83101;699125;Numbers;20;28;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+443186;83101;699126;Numbers;20;28;JRD;qal;;MCH W>L<ZR ;phrase;;;PrNP;Subj;core;NA;subject;;;
+443186;83101;699127;Numbers;20;28;JRD;qal;;MN&HHR00 ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+444673;91562;-1;Numbers;34;11;JRD;qal;JRD ;WJRD HGBL MCPM HRBLH MQDM L<JN ;;;;;;;;;;;
+444673;91562;703577;Numbers;34;11;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+444673;91562;703578;Numbers;34;11;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+444673;91562;703579;Numbers;34;11;JRD;qal;;HGBL ;phrase;;;NP;Subj;core;NA;subject;;;
+444673;91562;703580;Numbers;34;11;JRD;qal;;MCPM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+444673;91562;703581;Numbers;34;11;JRD;qal;;HRBLH ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+444673;91562;703582;Numbers;34;11;JRD;qal;;MQDM L<JN ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+444674;91575;-1;Numbers;34;11;JRD;qal;JRD ;WJRD HGBWL ;;;;;;;;;;;
+444674;91575;703583;Numbers;34;11;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+444674;91575;703584;Numbers;34;11;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+444674;91575;703585;Numbers;34;11;JRD;qal;;HGBWL ;phrase;;;NP;Subj;core;NA;subject;;;
+444676;91586;-1;Numbers;34;12;JRD;qal;JRD ;WJRD HGBWL HJRDNH ;;;;;;;;;;;
+444676;91586;703590;Numbers;34;12;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+444676;91586;703591;Numbers;34;12;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+444676;91586;703592;Numbers;34;12;JRD;qal;;HGBWL ;phrase;;;NP;Subj;core;NA;subject;;;
+444676;91586;703593;Numbers;34;12;JRD;qal;;HJRDNH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+444966;93324;-1;Deuteronomy;1;25;JRD;hif;JWRDW ;WJWRDW >LJNW ;;;;;;;;;;;
+444966;93324;704486;Deuteronomy;1;25;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+444966;93324;704487;Deuteronomy;1;25;JRD;hif;;JWRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+444966;93324;704488;Deuteronomy;1;25;JRD;hif;;>LJNW ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+445978;98711;-1;Deuteronomy;9;12;JRD;qal;RD ;RD MHR MZH ;;;;;;;;;;;
+445978;98711;707482;Deuteronomy;9;12;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+445978;98711;707483;Deuteronomy;9;12;JRD;qal;;MHR ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
+445978;98711;707484;Deuteronomy;9;12;JRD;qal;;MZH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+445994;98774;-1;Deuteronomy;9;15;JRD;qal;>RD ;W>RD MN&HHR ;;;;;;;;;;;
+445994;98774;707526;Deuteronomy;9;15;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+445994;98774;707527;Deuteronomy;9;15;JRD;qal;;>RD ;phrase;;;VP;Pred;core;regular;NA;;;
+445994;98774;707528;Deuteronomy;9;15;JRD;qal;;MN&HHR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+446027;98941;-1;Deuteronomy;9;21;JRD;qal;JRD ;HJRD MN&HHR00 ;;;;;;;;;;;
+446027;98941;707626;Deuteronomy;9;21;JRD;qal;;H;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+446027;98941;707627;Deuteronomy;9;21;JRD;qal;;JRD ;phrase;;;VP;PreC;core;regular;NA;;;
+446027;98941;707628;Deuteronomy;9;21;JRD;qal;;MN&HHR00 ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+446077;99222;-1;Deuteronomy;10;5;JRD;qal;>RD ;W>RD MN&HHR ;;;;;;;;;;;
+446077;99222;707778;Deuteronomy;10;5;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+446077;99222;707779;Deuteronomy;10;5;JRD;qal;;>RD ;phrase;;;VP;Pred;core;regular;NA;;;
+446077;99222;707780;Deuteronomy;10;5;JRD;qal;;MN&HHR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+446144;99576;-1;Deuteronomy;10;22;JRD;qal;JRDW ;BCB<JM NPC JRDW >BTJK MYRJMH ;;;;;;;;;;;
+446144;99576;707972;Deuteronomy;10;22;JRD;qal;;BCB<JM NPC ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+446144;99576;707973;Deuteronomy;10;22;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+446144;99576;707974;Deuteronomy;10;22;JRD;qal;;>BTJK ;phrase;;;NP;Subj;core;NA;subject;;;
+446144;99576;707975;Deuteronomy;10;22;JRD;qal;;MYRJMH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+447111;104785;-1;Deuteronomy;20;20;JRD;qal;RDTH00_P ;<D RDTH00_P ;;;;;;;;;;;
+447111;104785;710942;Deuteronomy;20;20;JRD;qal;;<D RDTH00_P ;phrase;;;VP;PreS;core;regular;subject;;;
+447127;104849;-1;Deuteronomy;21;4;JRD;hif;HWRDW ;WHWRDW ZQNJ H<JR HHW> >T&H<GLH >L&NXL >JTN ;;;;;;;;;;;
+447127;104849;710984;Deuteronomy;21;4;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+447127;104849;710985;Deuteronomy;21;4;JRD;hif;;HWRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+447127;104849;710986;Deuteronomy;21;4;JRD;hif;;ZQNJ H<JR HHW> ;phrase;;;NP;Subj;core;NA;subject;;;
+447127;104849;710987;Deuteronomy;21;4;JRD;hif;;>T&H<GLH ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+447127;104849;710988;Deuteronomy;21;4;JRD;hif;;>L&NXL >JTN ;phrase;;;PP;Cmpl;complement;NA;*;;;
+447619;107272;-1;Deuteronomy;26;5;JRD;qal;JRD ;WJRD MYRJMH ;;;;;;;;;;;
+447619;107272;712541;Deuteronomy;26;5;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+447619;107272;712542;Deuteronomy;26;5;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+447619;107272;712543;Deuteronomy;26;5;JRD;qal;;MYRJMH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+447864;108559;-1;Deuteronomy;28;24;JRD;qal;JRD ;MN&HCMJM JRD <LJK ;;;;;;;;;;;
+447864;108559;713215;Deuteronomy;28;24;JRD;qal;;MN&HCMJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+447864;108559;713216;Deuteronomy;28;24;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+447864;108559;713217;Deuteronomy;28;24;JRD;qal;;<LJK ;phrase;;;PP;Cmpl;complement;NA;*;;;
+447864;108559;447865;Deuteronomy;28;24;JRD;qal;;<D HCMDK00 ;clause;InfC;Adju;;;NA;NA;;;;
+447929;108899;-1;Deuteronomy;28;43;JRD;qal;TRD ;W>TH TRD MVH MVH00 ;;;;;;;;;;;
+447929;108899;713423;Deuteronomy;28;43;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+447929;108899;713424;Deuteronomy;28;43;JRD;qal;;>TH ;phrase;;;PPrP;Subj;core;NA;subject;;;
+447929;108899;713425;Deuteronomy;28;43;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+447929;108899;713426;Deuteronomy;28;43;JRD;qal;;MVH MVH00 ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
+447959;109068;-1;Deuteronomy;28;52;JRD;qal;RDT ;<D RDT XMTJK HGBHWT WHBYRWT BKL&>RYK ;;;;;;;;;;;
+447959;109068;713521;Deuteronomy;28;52;JRD;qal;;<D RDT ;phrase;;;VP;Pred;core;regular;NA;;;
+447959;109068;713522;Deuteronomy;28;52;JRD;qal;;XMTJK HGBHWT WHBYRWT ;phrase;;;NP;Subj;core;NA;subject;;;
+447959;109068;713527;Deuteronomy;28;52;JRD;qal;;BKL&>RYK ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+448900;113708;-1;Joshua;2;15;JRD;hif;TWRDM ;WTWRDM BXBL B<D HXLWN ;;;;;;;;;;;
+448900;113708;716233;Joshua;2;15;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+448900;113708;716234;Joshua;2;15;JRD;hif;;TWRDM ;phrase;;;VP;PreO;core;regular;direct_object;;;
+448900;113708;716235;Joshua;2;15;JRD;hif;;BXBL ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+448900;113708;716236;Joshua;2;15;JRD;hif;;B<D HXLWN ;phrase;;;PP;Cmpl;complement;NA;*;;;
+448914;113783;-1;Joshua;2;18;JRD;hif;HWRDTNW ;>CR HWRDTNW BW ;;;;;;;;;;;
+448914;113783;716279;Joshua;2;18;JRD;hif;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+448914;113783;716280;Joshua;2;18;JRD;hif;;HWRDTNW ;phrase;;;VP;PreO;core;regular;direct_object;;;
+448914;113783;716281;Joshua;2;18;JRD;hif;;BW ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+448941;113898;-1;Joshua;2;23;JRD;qal;JRDW ;WJRDW MHHR ;;;;;;;;;;;
+448941;113898;716356;Joshua;2;23;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+448941;113898;716357;Joshua;2;23;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+448941;113898;716358;Joshua;2;23;JRD;qal;;MHHR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+449001;114247;-1;Joshua;3;13;JRD;qal;JRDJM ;HJRDJM MLM<LH ;;;;;;;;;;;
+449001;114247;716536;Joshua;3;13;JRD;qal;;H;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+449001;114247;716537;Joshua;3;13;JRD;qal;;JRDJM ;phrase;;;VP;PreC;core;regular;NA;;;
+449001;114247;716538;Joshua;3;13;JRD;qal;;MLM<LH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+449011;114316;-1;Joshua;3;16;JRD;qal;JRDJM ;HJRDJM MLM<LH ;;;;;;;;;;;
+449011;114316;716568;Joshua;3;16;JRD;qal;;H;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+449011;114316;716569;Joshua;3;16;JRD;qal;;JRDJM ;phrase;;;VP;PreC;core;regular;NA;;;
+449011;114316;716570;Joshua;3;16;JRD;qal;;MLM<LH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+449015;114335;-1;Joshua;3;16;JRD;qal;JRDJM ;HJRDJM <L JM H<RBH JM&HMLX ;;;;;;;;;;;
+449015;114335;716578;Joshua;3;16;JRD;qal;;H;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+449015;114335;716579;Joshua;3;16;JRD;qal;;JRDJM ;phrase;;;VP;PreC;core;regular;NA;;;
+449015;114335;716580;Joshua;3;16;JRD;qal;;<L JM H<RBH JM&HMLX ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+449579;117545;-1;Joshua;8;29;JRD;hif;JRJDW ;WJRJDW >T&NBLTW MN&H<Y ;;;;;;;;;;;
+449579;117545;718328;Joshua;8;29;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+449579;117545;718329;Joshua;8;29;JRD;hif;;JRJDW ;phrase;;;VP;Pred;core;regular;NA;;;
+449579;117545;718330;Joshua;8;29;JRD;hif;;>T&NBLTW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+449579;117545;718331;Joshua;8;29;JRD;hif;;MN&H<Y ;phrase;;;PP;Cmpl;complement;NA;*;;;
+449834;118998;-1;Joshua;10;27;JRD;hif;JRJDWM ;WJRJDWM M<L H<YJM ;;;;;;;;;;;
+449834;118998;719124;Joshua;10;27;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+449834;118998;719125;Joshua;10;27;JRD;hif;;JRJDWM ;phrase;;;VP;PreO;core;regular;direct_object;;;
+449834;118998;719126;Joshua;10;27;JRD;hif;;M<L H<YJM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+450220;121625;-1;Joshua;15;10;JRD;qal;JRD ;WJRD BJT_CMC ;;;;;;;;;;;
+450220;121625;720267;Joshua;15;10;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+450220;121625;720268;Joshua;15;10;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+450220;121625;720269;Joshua;15;10;JRD;qal;;BJT_CMC ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+450319;122217;-1;Joshua;16;3;JRD;qal;JRD&;WJRD&JMH >L&GBWL HJPLVJ <D GBWL BJT_XWRN TXTWN W<D&GZR ;;;;;;;;;;;
+450319;122217;720500;Joshua;16;3;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+450319;122217;720501;Joshua;16;3;JRD;qal;;JRD&;phrase;;;VP;Pred;core;regular;NA;;;
+450319;122217;720502;Joshua;16;3;JRD;qal;;JMH >L&GBWL HJPLVJ ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+450319;122217;720503;Joshua;16;3;JRD;qal;;<D GBWL BJT_XWRN TXTWN W<D&GZR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+450327;122280;-1;Joshua;16;7;JRD;qal;JRD ;WJRD MJNWXH <VRWT ;;;;;;;;;;;
+450327;122280;720530;Joshua;16;7;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+450327;122280;720531;Joshua;16;7;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+450327;122280;720532;Joshua;16;7;JRD;qal;;MJNWXH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+450327;122280;720533;Joshua;16;7;JRD;qal;;<VRWT ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+450365;122576;-1;Joshua;17;9;JRD;qal;JRD ;WJRD HGBWL NXL QNH NGBH LNXL ;;;;;;;;;;;
+450365;122576;720651;Joshua;17;9;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+450365;122576;720652;Joshua;17;9;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+450365;122576;720653;Joshua;17;9;JRD;qal;;HGBWL ;phrase;;;NP;Subj;core;NA;subject;;;
+450365;122576;720654;Joshua;17;9;JRD;qal;;NXL QNH NGBH LNXL ;phrase;;;NP;Cmpl;complement;NA;*;;location;location
+450461;123158;-1;Joshua;18;13;JRD;qal;JRD ;WJRD HGBWL <VRWT_>DR <L&HHR ;;;;;;;;;;;
+450461;123158;720981;Joshua;18;13;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+450461;123158;720982;Joshua;18;13;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+450461;123158;720983;Joshua;18;13;JRD;qal;;HGBWL ;phrase;;;NP;Subj;core;NA;subject;;;
+450461;123158;720984;Joshua;18;13;JRD;qal;;<VRWT_>DR <L&HHR ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+450472;123220;-1;Joshua;18;16;JRD;qal;JRD ;WJRD HGBWL >L&QYH HHR ;;;;;;;;;;;
+450472;123220;721013;Joshua;18;16;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+450472;123220;721014;Joshua;18;16;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+450472;123220;721015;Joshua;18;16;JRD;qal;;HGBWL ;phrase;;;NP;Subj;core;NA;subject;;;
+450472;123220;721016;Joshua;18;16;JRD;qal;;>L&QYH HHR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+450475;123238;-1;Joshua;18;16;JRD;qal;JRD ;WJRD GJ HNM >L&KTP HJBWSJ NGBH ;;;;;;;;;;;
+450475;123238;721021;Joshua;18;16;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+450475;123238;721022;Joshua;18;16;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+450475;123238;721023;Joshua;18;16;JRD;qal;;GJ HNM ;phrase;;;NP;Cmpl;complement;NA;*;;;
+450475;123238;721024;Joshua;18;16;JRD;qal;;>L&KTP HJBWSJ NGBH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+450476;123247;-1;Joshua;18;16;JRD;qal;JRD ;WJRD <JN_RGL00 ;;;;;;;;;;;
+450476;123247;721025;Joshua;18;16;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+450476;123247;721026;Joshua;18;16;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+450476;123247;721027;Joshua;18;16;JRD;qal;;<JN_RGL00 ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+450481;123264;-1;Joshua;18;17;JRD;qal;JRD ;WJRD >BN BHN BN&R>WBN00 ;;;;;;;;;;;
+450481;123264;721039;Joshua;18;17;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+450481;123264;721040;Joshua;18;17;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+450481;123264;721041;Joshua;18;17;JRD;qal;;>BN BHN BN&R>WBN00 ;phrase;;;NP;Cmpl;complement;NA;*;;;
+450483;123278;-1;Joshua;18;18;JRD;qal;JRD ;WJRD H<RBTH00 ;;;;;;;;;;;
+450483;123278;721045;Joshua;18;18;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+450483;123278;721046;Joshua;18;18;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+450483;123278;721047;Joshua;18;18;JRD;qal;;H<RBTH00 ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+450971;126740;-1;Joshua;24;4;JRD;qal;JRDW ;WJ<QB WBNJW JRDW MYRJM00 ;;;;;;;;;;;
+450971;126740;722514;Joshua;24;4;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+450971;126740;722515;Joshua;24;4;JRD;qal;;J<QB WBNJW ;phrase;;;PrNP;Subj;core;NA;subject;;;
+450971;126740;722516;Joshua;24;4;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+450971;126740;722517;Joshua;24;4;JRD;qal;;MYRJM00 ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+451137;127621;-1;Judges;1;9;JRD;qal;JRDW ;W>XR JRDW BNJ JHWDH ;;;;;;;;;;;
+451137;127621;723049;Judges;1;9;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+451137;127621;723050;Judges;1;9;JRD;qal;;>XR ;phrase;;;AdvP;Time;adjunct;NA;NA;;time;time
+451137;127621;723051;Judges;1;9;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+451137;127621;723052;Judges;1;9;JRD;qal;;BNJ JHWDH ;phrase;;;NP;Subj;core;NA;subject;;;
+451137;127621;451138;Judges;1;9;JRD;qal;;LHLXM BKN<NJ ;clause;InfC;Adju;;;NA;NA;;;;
+451223;128169;-1;Judges;1;34;JRD;qal;RDT ;LRDT L<MQ00 ;;;;;;;;;;;
+451223;128169;723341;Judges;1;34;JRD;qal;;LRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+451223;128169;723342;Judges;1;34;JRD;qal;;L<MQ00 ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+451434;129281;-1;Judges;3;27;JRD;qal;JRDW ;WJRDW <MW BNJ&JFR>L MN&HHR ;;;;;;;;;;;
+451434;129281;724004;Judges;3;27;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+451434;129281;724005;Judges;3;27;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+451434;129281;724006;Judges;3;27;JRD;qal;;<MW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+451434;129281;724007;Judges;3;27;JRD;qal;;BNJ&JFR>L ;phrase;;;NP;Subj;core;NA;subject;;;
+451434;129281;724008;Judges;3;27;JRD;qal;;MN&HHR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+451439;129307;-1;Judges;3;28;JRD;qal;JRDW ;WJRDW >XRJW ;;;;;;;;;;;
+451439;129307;724022;Judges;3;28;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+451439;129307;724023;Judges;3;28;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+451439;129307;724024;Judges;3;28;JRD;qal;;>XRJW ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+451501;129688;-1;Judges;4;14;JRD;qal;JRD ;WJRD BRQ MHR TBWR ;;;;;;;;;;;
+451501;129688;724244;Judges;4;14;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+451501;129688;724245;Judges;4;14;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+451501;129688;724246;Judges;4;14;JRD;qal;;BRQ ;phrase;;;PrNP;Subj;core;NA;subject;;;
+451501;129688;724247;Judges;4;14;JRD;qal;;MHR TBWR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+451504;129720;-1;Judges;4;15;JRD;qal;JRD ;WJRD SJSR> M<L HMRKBH ;;;;;;;;;;;
+451504;129720;724257;Judges;4;15;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+451504;129720;724258;Judges;4;15;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+451504;129720;724259;Judges;4;15;JRD;qal;;SJSR> ;phrase;;;PrNP;Subj;core;NA;subject;;;
+451504;129720;724260;Judges;4;15;JRD;qal;;M<L HMRKBH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+451600;130108;-1;Judges;5;11;JRD;qal;JRDW ;>Z JRDW LC<RJM <M&JHWH00 ;;;;;;;;;;;
+451600;130108;724500;Judges;5;11;JRD;qal;;>Z ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
+451600;130108;724501;Judges;5;11;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+451600;130108;724502;Judges;5;11;JRD;qal;;LC<RJM ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+451600;130108;724503;Judges;5;11;JRD;qal;;<M&JHWH00 ;phrase;;;NP;Subj;core;NA;subject;;;
+451616;130151;-1;Judges;5;14;JRD;qal;JRDW ;MNJ MKJR JRDW MXQQJM ;;;;;;;;;;;
+451616;130151;724531;Judges;5;14;JRD;qal;;MNJ MKJR ;phrase;;;PP;Cmpl;complement;NA;*;;;
+451616;130151;724532;Judges;5;14;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+451616;130151;724533;Judges;5;14;JRD;qal;;MXQQJM ;phrase;;;NP;Subj;core;NA;subject;;;
+451905;131495;-1;Judges;7;4;JRD;hif;HWRD ;HWRD >WTM >L&HMJM ;;;;;;;;;;;
+451905;131495;725382;Judges;7;4;JRD;hif;;HWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+451905;131495;725383;Judges;7;4;JRD;hif;;>WTM ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+451905;131495;725384;Judges;7;4;JRD;hif;;>L&HMJM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+451915;131528;-1;Judges;7;5;JRD;hif;JWRD ;WJWRD >T&H<M >L&HMJM_S ;;;;;;;;;;;
+451915;131528;725412;Judges;7;5;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+451915;131528;725413;Judges;7;5;JRD;hif;;JWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+451915;131528;725414;Judges;7;5;JRD;hif;;>T&H<M ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+451915;131528;725415;Judges;7;5;JRD;hif;;>L&HMJM_S ;phrase;;;PP;Cmpl;complement;NA;*;;;
+451942;131665;-1;Judges;7;9;JRD;qal;RD ;RD BMXNH ;;;;;;;;;;;
+451942;131665;725493;Judges;7;9;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+451942;131665;725494;Judges;7;9;JRD;qal;;BMXNH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+451945;131678;-1;Judges;7;10;JRD;qal;RDT ;LRDT ;;;;;;;;;;;
+451945;131678;725502;Judges;7;10;JRD;qal;;LRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+451946;131679;-1;Judges;7;10;JRD;qal;RD ;RD >TH WPRH N<RK >L&HMXNH00 ;;;;;;;;;;;
+451946;131679;725503;Judges;7;10;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+451946;131679;725504;Judges;7;10;JRD;qal;;>TH WPRH N<RK ;phrase;;;PPrP;Subj;core;NA;subject;;;
+451946;131679;725505;Judges;7;10;JRD;qal;;>L&HMXNH00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+451950;131696;-1;Judges;7;11;JRD;qal;JRDT ;WJRDT BMXNH ;;;;;;;;;;;
+451950;131696;725514;Judges;7;11;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+451950;131696;725515;Judges;7;11;JRD;qal;;JRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+451950;131696;725516;Judges;7;11;JRD;qal;;BMXNH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+451951;131701;-1;Judges;7;11;JRD;qal;JRD ;WJRD HW> WPRH N<RW >L&QYH HXMCJM ;;;;;;;;;;;
+451951;131701;725517;Judges;7;11;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+451951;131701;725518;Judges;7;11;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+451951;131701;725519;Judges;7;11;JRD;qal;;HW> WPRH N<RW ;phrase;;;PPrP;Subj;core;NA;subject;;;
+451951;131701;725520;Judges;7;11;JRD;qal;;>L&QYH HXMCJM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+452019;132065;-1;Judges;7;24;JRD;qal;RDW ;RDW ;;;;;;;;;;;
+452019;132065;725719;Judges;7;24;JRD;qal;;RDW ;phrase;;;VP;Pred;core;regular;NA;;;
+452019;132065;452020;Judges;7;24;JRD;qal;;LQR>T MDJN ;clause;InfC;Adju;;;NA;NA;;;;
+452326;133635;-1;Judges;9;36;JRD;qal;JWRD ;HNH&<M JWRD MR>CJ HHRJM ;;;;;;;;;;;
+452326;133635;726667;Judges;9;36;JRD;qal;;HNH&;phrase;;;InjP;Intj;NA;NA;NA;;NA;NA
+452326;133635;726668;Judges;9;36;JRD;qal;;<M ;phrase;;;NP;Subj;core;NA;subject;;;
+452326;133635;726669;Judges;9;36;JRD;qal;;JWRD ;phrase;;;VP;PreC;core;regular;NA;;;
+452326;133635;726670;Judges;9;36;JRD;qal;;MR>CJ HHRJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+452332;133663;-1;Judges;9;37;JRD;qal;JWRDJM ;HNH&<M JWRDJM M<M VBWR H>RY ;;;;;;;;;;;
+452332;133663;726686;Judges;9;37;JRD;qal;;HNH&;phrase;;;InjP;Intj;NA;NA;NA;;NA;NA
+452332;133663;726687;Judges;9;37;JRD;qal;;<M ;phrase;;;NP;Subj;core;NA;subject;;;
+452332;133663;726688;Judges;9;37;JRD;qal;;JWRDJM ;phrase;;;VP;PreC;core;regular;NA;;;
+452332;133663;726689;Judges;9;37;JRD;qal;;M<M VBWR H>RY ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+452650;135306;-1;Judges;11;37;JRD;qal;JRDTJ ;WJRDTJ <L&HHRJM ;;;;;;;;;;;
+452650;135306;727681;Judges;11;37;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+452650;135306;727682;Judges;11;37;JRD;qal;;JRDTJ ;phrase;;;VP;Pred;core;regular;NA;;;
+452650;135306;727683;Judges;11;37;JRD;qal;;<L&HHRJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+452853;136239;-1;Judges;14;1;JRD;qal;JRD ;WJRD CMCWN TMNTH ;;;;;;;;;;;
+452853;136239;728314;Judges;14;1;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+452853;136239;728315;Judges;14;1;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+452853;136239;728316;Judges;14;1;JRD;qal;;CMCWN ;phrase;;;PrNP;Subj;core;NA;subject;;;
+452853;136239;728317;Judges;14;1;JRD;qal;;TMNTH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+452872;136341;-1;Judges;14;5;JRD;qal;JRD ;WJRD CMCWN W>BJW W>MW TMNTH ;;;;;;;;;;;
+452872;136341;728380;Judges;14;5;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+452872;136341;728381;Judges;14;5;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+452872;136341;728382;Judges;14;5;JRD;qal;;CMCWN W>BJW W>MW ;phrase;;;PrNP;Subj;core;NA;subject;;;
+452872;136341;728383;Judges;14;5;JRD;qal;;TMNTH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+452882;136388;-1;Judges;14;7;JRD;qal;JRD ;WJRD ;;;;;;;;;;;
+452882;136388;728410;Judges;14;7;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+452882;136388;728411;Judges;14;7;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+452898;136457;-1;Judges;14;10;JRD;qal;JRD ;WJRD >BJHW >L&H>CH ;;;;;;;;;;;
+452898;136457;728454;Judges;14;10;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+452898;136457;728455;Judges;14;10;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+452898;136457;728456;Judges;14;10;JRD;qal;;>BJHW ;phrase;;;NP;Subj;core;NA;subject;;;
+452898;136457;728457;Judges;14;10;JRD;qal;;>L&H>CH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+452952;136703;-1;Judges;14;19;JRD;qal;JRD ;WJRD >CQLWN ;;;;;;;;;;;
+452952;136703;728627;Judges;14;19;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+452952;136703;728628;Judges;14;19;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+452952;136703;728629;Judges;14;19;JRD;qal;;>CQLWN ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+452997;136909;-1;Judges;15;8;JRD;qal;JRD ;WJRD ;;;;;;;;;;;
+452997;136909;728771;Judges;15;8;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+452997;136909;728772;Judges;15;8;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+453009;136950;-1;Judges;15;11;JRD;qal;JRDW ;WJRDW CLCT >LPJM >JC MJHWDH >L&S<JP SL< <JVM ;;;;;;;;;;;
+453009;136950;728801;Judges;15;11;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+453009;136950;728802;Judges;15;11;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+453009;136950;728803;Judges;15;11;JRD;qal;;CLCT >LPJM >JC MJHWDH ;phrase;;;NP;Subj;core;NA;subject;;;
+453009;136950;728804;Judges;15;11;JRD;qal;;>L&S<JP SL< <JVM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+453019;136991;-1;Judges;15;12;JRD;qal;JRDNW ;JRDNW ;;;;;;;;;;;
+453019;136991;728832;Judges;15;12;JRD;qal;;JRDNW ;phrase;;;VP;Pred;core;regular;NA;;;
+453019;136991;453018;Judges;15;12;JRD;qal;;L>SRK ;clause;InfC;Adju;;;NA;NA;;;;
+453019;136991;453020;Judges;15;12;JRD;qal;;LTTK BJD&PLCTJM ;clause;InfC;Adju;;;NA;NA;;;;
+453195;137720;-1;Judges;16;21;JRD;hif;JWRJDW ;WJWRJDW >WTW <ZTH ;;;;;;;;;;;
+453195;137720;729344;Judges;16;21;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+453195;137720;729345;Judges;16;21;JRD;hif;;JWRJDW ;phrase;;;VP;Pred;core;regular;NA;;;
+453195;137720;729346;Judges;16;21;JRD;hif;;>WTW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+453195;137720;729347;Judges;16;21;JRD;hif;;<ZTH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+453250;137971;-1;Judges;16;31;JRD;qal;JRDW ;WJRDW >XJW WKL&BJT >BJHW ;;;;;;;;;;;
+453250;137971;729507;Judges;16;31;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+453250;137971;729508;Judges;16;31;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+453250;137971;729509;Judges;16;31;JRD;qal;;>XJW WKL&BJT >BJHW ;phrase;;;NP;Subj;core;NA;subject;;;
+454100;142190;-1;1_Samuel;2;6;JRD;hif;MWRJD ;MWRJD C>WL ;;;;;;;;;;;
+454100;142190;732071;1_Samuel;2;6;JRD;hif;;MWRJD ;phrase;;;VP;PreC;core;regular;NA;;;
+454100;142190;732072;1_Samuel;2;6;JRD;hif;;C>WL ;phrase;;;NP;Cmpl;complement;NA;*;;;
+454598;144488;-1;1_Samuel;6;15;JRD;hif;HWRJDW05 ;WHLWJM HWRJDW05 >T&>RWN JHWH W>T&H>RGZ ;;;;;;;;;;;
+454598;144488;733554;1_Samuel;6;15;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+454598;144488;733555;1_Samuel;6;15;JRD;hif;;HLWJM ;phrase;;;NP;Subj;core;NA;subject;;;
+454598;144488;733556;1_Samuel;6;15;JRD;hif;;HWRJDW05 ;phrase;;;VP;Pred;core;regular;NA;;;
+454598;144488;733557;1_Samuel;6;15;JRD;hif;;>T&>RWN JHWH W>T&H>RGZ ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+454628;144673;-1;1_Samuel;6;21;JRD;qal;RDW ;RDW ;;;;;;;;;;;
+454628;144673;733646;1_Samuel;6;21;JRD;qal;;RDW ;phrase;;;VP;Pred;core;regular;NA;;;
+454932;146135;-1;1_Samuel;9;25;JRD;qal;JRDW ;WJRDW MHBMH H<JR ;;;;;;;;;;;
+454932;146135;734580;1_Samuel;9;25;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+454932;146135;734581;1_Samuel;9;25;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+454932;146135;734582;1_Samuel;9;25;JRD;qal;;MHBMH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+454932;146135;734583;1_Samuel;9;25;JRD;qal;;H<JR ;phrase;;;NP;Cmpl;complement;NA;*;;location;location
+454943;146180;-1;1_Samuel;9;27;JRD;qal;JWRDJM ;HMH JWRDJM BQYH H<JR ;;;;;;;;;;;
+454943;146180;734610;1_Samuel;9;27;JRD;qal;;HMH ;phrase;;;PPrP;Subj;core;NA;subject;;;
+454943;146180;734611;1_Samuel;9;27;JRD;qal;;JWRDJM ;phrase;;;VP;PreC;core;regular;NA;;;
+454943;146180;734612;1_Samuel;9;27;JRD;qal;;BQYH H<JR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+454981;146351;-1;1_Samuel;10;5;JRD;qal;JRDJM ;JRDJM MHBMH ;;;;;;;;;;;
+454981;146351;734724;1_Samuel;10;5;JRD;qal;;JRDJM ;phrase;;;VP;PreC;core;regular;NA;;;
+454981;146351;734725;1_Samuel;10;5;JRD;qal;;MHBMH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+454992;146400;-1;1_Samuel;10;8;JRD;qal;JRDT ;WJRDT LPNJ HGLGL ;;;;;;;;;;;
+454992;146400;734756;1_Samuel;10;8;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+454992;146400;734757;1_Samuel;10;8;JRD;qal;;JRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+454992;146400;734758;1_Samuel;10;8;JRD;qal;;LPNJ ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+454992;146400;734759;1_Samuel;10;8;JRD;qal;;HGLGL ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+454994;146408;-1;1_Samuel;10;8;JRD;qal;JRD ;>NKJ JRD >LJK ;;;;;;;;;;;
+454994;146408;734762;1_Samuel;10;8;JRD;qal;;>NKJ ;phrase;;;PPrP;Subj;core;NA;subject;;;
+454994;146408;734763;1_Samuel;10;8;JRD;qal;;JRD ;phrase;;;VP;PreC;core;regular;NA;;;
+454994;146408;734764;1_Samuel;10;8;JRD;qal;;>LJK ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+454994;146408;454995;1_Samuel;10;8;JRD;qal;;LH<LWT <LWT ;clause;InfC;Adju;;;NA;NA;;;;
+455342;148059;-1;1_Samuel;13;12;JRD;qal;JRDW ;<TH JRDW PLCTJM >LJ HGLGL ;;;;;;;;;;;
+455342;148059;735832;1_Samuel;13;12;JRD;qal;;<TH ;phrase;;;AdvP;Time;adjunct;NA;NA;;time;time
+455342;148059;735833;1_Samuel;13;12;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+455342;148059;735834;1_Samuel;13;12;JRD;qal;;PLCTJM ;phrase;;;NP;Subj;core;NA;subject;;;
+455342;148059;735835;1_Samuel;13;12;JRD;qal;;>LJ ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+455342;148059;735836;1_Samuel;13;12;JRD;qal;;HGLGL ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+455371;148228;-1;1_Samuel;13;20;JRD;qal;JRDW ;WJRDW KL&JFR>L HPLCTJM ;;;;;;;;;;;
+455371;148228;735940;1_Samuel;13;20;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+455371;148228;735941;1_Samuel;13;20;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+455371;148228;735942;1_Samuel;13;20;JRD;qal;;KL&JFR>L ;phrase;;;NP;Subj;core;NA;subject;;;
+455371;148228;735943;1_Samuel;13;20;JRD;qal;;HPLCTJM ;phrase;;;NP;Cmpl;complement;NA;*;;;
+455371;148228;455372;1_Samuel;13;20;JRD;qal;;LLVWC ;clause;InfC;Adju;;;NA;NA;;;;
+455554;149153;-1;1_Samuel;14;36;JRD;qal;NRDH ;NRDH >XRJ PLCTJM05 LJLH ;;;;;;;;;;;
+455554;149153;736494;1_Samuel;14;36;JRD;qal;;NRDH ;phrase;;;VP;Pred;core;regular;NA;;;
+455554;149153;736495;1_Samuel;14;36;JRD;qal;;>XRJ PLCTJM05 ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+455554;149153;736496;1_Samuel;14;36;JRD;qal;;LJLH ;phrase;;;AdvP;Time;adjunct;NA;NA;;time;time
+455564;149192;-1;1_Samuel;14;37;JRD;qal;>RD ;H>RD >XRJ PLCTJM ;;;;;;;;;;;
+455564;149192;736524;1_Samuel;14;37;JRD;qal;;H;phrase;;;InrP;Ques;NA;NA;NA;;NA;NA
+455564;149192;736525;1_Samuel;14;37;JRD;qal;;>RD ;phrase;;;VP;Pred;core;regular;NA;;;
+455564;149192;736526;1_Samuel;14;37;JRD;qal;;>XRJ PLCTJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+455658;149651;-1;1_Samuel;15;6;JRD;qal;RDW ;RDW MTWK <MLQJ ;;;;;;;;;;;
+455658;149651;736799;1_Samuel;15;6;JRD;qal;;RDW ;phrase;;;VP;Pred;core;regular;NA;;;
+455658;149651;736800;1_Samuel;15;6;JRD;qal;;MTWK <MLQJ ;phrase;;;PP;Cmpl;complement;NA;*;;;
+455689;149810;-1;1_Samuel;15;12;JRD;qal;JRD ;WJRD HGLGL00 ;;;;;;;;;;;
+455689;149810;736890;1_Samuel;15;12;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+455689;149810;736891;1_Samuel;15;12;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+455689;149810;736892;1_Samuel;15;12;JRD;qal;;HGLGL00 ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+455951;150940;-1;1_Samuel;17;8;JRD;qal;JRD ;WJRD >LJ00 ;;;;;;;;;;;
+455951;150940;737654;1_Samuel;17;8;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+455951;150940;737655;1_Samuel;17;8;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+455951;150940;737656;1_Samuel;17;8;JRD;qal;;>LJ00 ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+456046;151406;-1;1_Samuel;17;28;JRD;qal;JRDT ;LMH&ZH JRDT ;;;;;;;;;;;
+456046;151406;737933;1_Samuel;17;28;JRD;qal;;LMH&ZH ;phrase;;;InrP;Ques;NA;NA;NA;;NA;NA
+456046;151406;737934;1_Samuel;17;28;JRD;qal;;JRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+456049;151432;-1;1_Samuel;17;28;JRD;qal;JRDT00 ;KJ JRDT00 ;;;;;;;;;;;
+456049;151432;737943;1_Samuel;17;28;JRD;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+456049;151432;737946;1_Samuel;17;28;JRD;qal;;JRDT00 ;phrase;;;VP;Pred;core;regular;NA;;;
+456049;151432;456050;1_Samuel;17;28;JRD;qal;;LM<N R>WT HMLXMH ;clause;InfC;Adju;;;NA;NA;;;;
+456394;153112;-1;1_Samuel;19;12;JRD;hif;TRD ;WTRD MJKL >T&DWD B<D HXLWN ;;;;;;;;;;;
+456394;153112;739019;1_Samuel;19;12;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+456394;153112;739020;1_Samuel;19;12;JRD;hif;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+456394;153112;739021;1_Samuel;19;12;JRD;hif;;MJKL ;phrase;;;PrNP;Subj;core;NA;subject;;;
+456394;153112;739022;1_Samuel;19;12;JRD;hif;;>T&DWD ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+456394;153112;739023;1_Samuel;19;12;JRD;hif;;B<D HXLWN ;phrase;;;PP;Cmpl;complement;NA;*;;;
+456565;153812;-1;1_Samuel;20;19;JRD;qal;TRD ;TRD M>D ;;;;;;;;;;;
+456565;153812;739519;1_Samuel;20;19;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+456565;153812;739520;1_Samuel;20;19;JRD;qal;;M>D ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
+456754;154713;-1;1_Samuel;21;14;JRD;hif;JWRD ;WJWRD RJRW >L&ZQNW00 ;;;;;;;;;;;
+456754;154713;740108;1_Samuel;21;14;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+456754;154713;740109;1_Samuel;21;14;JRD;hif;;JWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+456754;154713;740110;1_Samuel;21;14;JRD;hif;;RJRW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+456754;154713;740111;1_Samuel;21;14;JRD;hif;;>L&ZQNW00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+456765;154763;-1;1_Samuel;22;1;JRD;qal;JRDW ;WJRDW >LJW CMH00 ;;;;;;;;;;;
+456765;154763;740144;1_Samuel;22;1;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+456765;154763;740145;1_Samuel;22;1;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+456765;154763;740146;1_Samuel;22;1;JRD;qal;;>LJW ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+456765;154763;740147;1_Samuel;22;1;JRD;qal;;CMH00 ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+456894;155405;-1;1_Samuel;23;4;JRD;qal;RD ;RD Q<JLH ;;;;;;;;;;;
+456894;155405;740544;1_Samuel;23;4;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+456894;155405;740545;1_Samuel;23;4;JRD;qal;;Q<JLH ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+456903;155451;-1;1_Samuel;23;6;JRD;qal;JRD ;>PWD JRD BJDW00 ;;;;;;;;;;;
+456903;155451;740575;1_Samuel;23;6;JRD;qal;;>PWD ;phrase;;;NP;Subj;core;NA;subject;;;
+456903;155451;740576;1_Samuel;23;6;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+456903;155451;740577;1_Samuel;23;6;JRD;qal;;BJDW00 ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+456903;155451;456902;1_Samuel;23;6;JRD;qal;;BBRX >BJTR BN&>XJMLK >L&DWD Q<JLH ;clause;InfC;Adju;;;NA;NA;;;;
+456911;155490;-1;1_Samuel;23;8;JRD;qal;RDT ;LRDT Q<JLH ;;;;;;;;;;;
+456911;155490;740601;1_Samuel;23;8;JRD;qal;;LRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+456911;155490;740602;1_Samuel;23;8;JRD;qal;;Q<JLH ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+456911;155490;456912;1_Samuel;23;8;JRD;qal;;LYWR >L&DWD W>L&>NCJW00 ;clause;InfC;Adju;;;NA;NA;;;;
+456924;155547;-1;1_Samuel;23;11;JRD;qal;JRD ;HJRD C>WL ;;;;;;;;;;;
+456924;155547;740637;1_Samuel;23;11;JRD;qal;;H;phrase;;;InrP;Ques;NA;NA;NA;;NA;NA
+456924;155547;740638;1_Samuel;23;11;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+456924;155547;740639;1_Samuel;23;11;JRD;qal;;C>WL ;phrase;;;PrNP;Subj;core;NA;subject;;;
+456929;155563;-1;1_Samuel;23;11;JRD;qal;JRD00 ;JRD00 ;;;;;;;;;;;
+456929;155563;740650;1_Samuel;23;11;JRD;qal;;JRD00 ;phrase;;;VP;Pred;core;regular;NA;;;
+456969;155760;-1;1_Samuel;23;20;JRD;qal;RDT ;LRDT ;;;;;;;;;;;
+456969;155760;740775;1_Samuel;23;20;JRD;qal;;LRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+456967;155761;-1;1_Samuel;23;20;JRD;qal;RD ;LKL&>WT NPCK RD ;;;;;;;;;;;
+456967;155761;740773;1_Samuel;23;20;JRD;qal;;LKL&>WT NPCK ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+456967;155761;740776;1_Samuel;23;20;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+456967;155761;456969;1_Samuel;23;20;JRD;qal;;LRDT ;clause;InfC;Adju;;;NA;NA;;;;
+456997;155868;-1;1_Samuel;23;25;JRD;qal;JRD ;WJRD HSL< ;;;;;;;;;;;
+456997;155868;740851;1_Samuel;23;25;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+456997;155868;740852;1_Samuel;23;25;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+456997;155868;740853;1_Samuel;23;25;JRD;qal;;HSL< ;phrase;;;NP;Cmpl;complement;NA;*;;;
+457138;156501;-1;1_Samuel;25;1;JRD;qal;JRD ;WJRD >L&MDBR P>RN00_S ;;;;;;;;;;;
+457138;156501;741280;1_Samuel;25;1;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+457138;156501;741281;1_Samuel;25;1;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+457138;156501;741282;1_Samuel;25;1;JRD;qal;;>L&MDBR P>RN00_S ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+457233;156934;-1;1_Samuel;25;20;JRD;qal;JRDT ;WJRDT BSTR HHR ;;;;;;;;;;;
+457233;156934;741557;1_Samuel;25;20;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+457233;156934;741558;1_Samuel;25;20;JRD;qal;;JRDT ;phrase;;;VP;PreC;core;regular;NA;;;
+457233;156934;741559;1_Samuel;25;20;JRD;qal;;BSTR HHR ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+457235;156944;-1;1_Samuel;25;20;JRD;qal;JRDJM ;DWD W>NCJW JRDJM ;;;;;;;;;;;
+457235;156944;741562;1_Samuel;25;20;JRD;qal;;DWD W>NCJW ;phrase;;;PrNP;Subj;core;NA;subject;;;
+457235;156944;741563;1_Samuel;25;20;JRD;qal;;JRDJM ;phrase;;;VP;PreC;core;regular;NA;;;
+457235;156944;457236;1_Samuel;25;20;JRD;qal;;LQR>TH ;clause;InfC;Adju;;;NA;NA;;;;
+457251;157009;-1;1_Samuel;25;23;JRD;qal;TRD ;WTRD M<L HXMWR ;;;;;;;;;;;
+457251;157009;741610;1_Samuel;25;23;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+457251;157009;741611;1_Samuel;25;23;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+457251;157009;741612;1_Samuel;25;23;JRD;qal;;M<L HXMWR ;phrase;;;PP;Cmpl;complement;NA;*;;;
+457378;157577;-1;1_Samuel;26;2;JRD;qal;JRD ;WJRD >L&MDBR&ZJP ;;;;;;;;;;;
+457378;157577;741996;1_Samuel;26;2;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+457378;157577;741997;1_Samuel;26;2;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+457378;157577;741998;1_Samuel;26;2;JRD;qal;;>L&MDBR&ZJP ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+457399;157693;-1;1_Samuel;26;6;JRD;qal;JRD ;MJ&JRD >TJ >L&C>WL >L&HMXNH ;;;;;;;;;;;
+457399;157693;742065;1_Samuel;26;6;JRD;qal;;MJ&;phrase;;;IPrP;Subj;core;NA;subject;;;
+457399;157693;742066;1_Samuel;26;6;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+457399;157693;742067;1_Samuel;26;6;JRD;qal;;>TJ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+457399;157693;742068;1_Samuel;26;6;JRD;qal;;>L&C>WL ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+457399;157693;742069;1_Samuel;26;6;JRD;qal;;>L&HMXNH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+457401;157704;-1;1_Samuel;26;6;JRD;qal;>RD ;>NJ >RD <MK00 ;;;;;;;;;;;
+457401;157704;742073;1_Samuel;26;6;JRD;qal;;>NJ ;phrase;;;PPrP;Subj;core;NA;subject;;;
+457401;157704;742074;1_Samuel;26;6;JRD;qal;;>RD ;phrase;;;VP;Pred;core;regular;NA;;;
+457401;157704;742075;1_Samuel;26;6;JRD;qal;;<MK00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+457421;157801;-1;1_Samuel;26;10;JRD;qal;JRD ;>W BMLXMH JRD ;;;;;;;;;;;
+457421;157801;742141;1_Samuel;26;10;JRD;qal;;>W ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+457421;157801;742142;1_Samuel;26;10;JRD;qal;;BMLXMH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+457421;157801;742143;1_Samuel;26;10;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+457721;159227;-1;1_Samuel;29;4;JRD;qal;JRD ;WL>&JRD <MNW BMLXMH ;;;;;;;;;;;
+457721;159227;743072;1_Samuel;29;4;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+457721;159227;743073;1_Samuel;29;4;JRD;qal;;L>&;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+457721;159227;743074;1_Samuel;29;4;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+457721;159227;743075;1_Samuel;29;4;JRD;qal;;<MNW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+457721;159227;743076;1_Samuel;29;4;JRD;qal;;BMLXMH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+457834;159764;-1;1_Samuel;30;15;JRD;hif;TWRDNJ ;HTWRDNJ >L&HGDWD HZH ;;;;;;;;;;;
+457834;159764;743418;1_Samuel;30;15;JRD;hif;;H;phrase;;;InrP;Ques;NA;NA;NA;;NA;NA
+457834;159764;743419;1_Samuel;30;15;JRD;hif;;TWRDNJ ;phrase;;;VP;PreO;core;regular;direct_object;;;
+457834;159764;743420;1_Samuel;30;15;JRD;hif;;>L&HGDWD HZH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+457839;159785;-1;1_Samuel;30;15;JRD;hif;>WRDK ;W>WRDK >L&HGDWD HZH00 ;;;;;;;;;;;
+457839;159785;743432;1_Samuel;30;15;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+457839;159785;743433;1_Samuel;30;15;JRD;hif;;>WRDK ;phrase;;;VP;PreO;core;regular;direct_object;;;
+457839;159785;743434;1_Samuel;30;15;JRD;hif;;>L&HGDWD HZH00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+457840;159792;-1;1_Samuel;30;16;JRD;hif;JRDHW ;WJRDHW ;;;;;;;;;;;
+457840;159792;743435;1_Samuel;30;16;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+457840;159792;743436;1_Samuel;30;16;JRD;hif;;JRDHW ;phrase;;;VP;PreO;core;regular;direct_object;;;
+457889;160037;-1;1_Samuel;30;24;JRD;qal;JRD ;HJRD BMLXMH ;;;;;;;;;;;
+457889;160037;743579;1_Samuel;30;24;JRD;qal;;H;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+457889;160037;743580;1_Samuel;30;24;JRD;qal;;JRD ;phrase;;;VP;PreC;core;regular;NA;;;
+457889;160037;743581;1_Samuel;30;24;JRD;qal;;BMLXMH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+458518;163269;-1;2_Samuel;5;17;JRD;qal;JRD ;WJRD >L&HMYWDH00 ;;;;;;;;;;;
+458518;163269;745501;2_Samuel;5;17;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+458518;163269;745502;2_Samuel;5;17;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+458518;163269;745503;2_Samuel;5;17;JRD;qal;;>L&HMYWDH00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+459004;165871;-1;2_Samuel;11;8;JRD;qal;RD ;RD LBJTK ;;;;;;;;;;;
+459004;165871;747052;2_Samuel;11;8;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+459004;165871;747053;2_Samuel;11;8;JRD;qal;;LBJTK ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+459009;165903;-1;2_Samuel;11;9;JRD;qal;JRD ;WL> JRD >L&BJTW00 ;;;;;;;;;;;
+459009;165903;747070;2_Samuel;11;9;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+459009;165903;747071;2_Samuel;11;9;JRD;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+459009;165903;747072;2_Samuel;11;9;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+459009;165903;747073;2_Samuel;11;9;JRD;qal;;>L&BJTW00 ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+459012;165913;-1;2_Samuel;11;10;JRD;qal;JRD ;L>&JRD >WRJH >L&BJTW ;;;;;;;;;;;
+459012;165913;747078;2_Samuel;11;10;JRD;qal;;L>&;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+459012;165913;747079;2_Samuel;11;10;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+459012;165913;747080;2_Samuel;11;10;JRD;qal;;>WRJH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+459012;165913;747081;2_Samuel;11;10;JRD;qal;;>L&BJTW ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+459015;165930;-1;2_Samuel;11;10;JRD;qal;JRDT ;MDW< L>&JRDT >L&BJTK00 ;;;;;;;;;;;
+459015;165930;747091;2_Samuel;11;10;JRD;qal;;MDW< ;phrase;;;InrP;Ques;NA;NA;NA;;NA;NA
+459015;165930;747092;2_Samuel;11;10;JRD;qal;;L>&;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+459015;165930;747093;2_Samuel;11;10;JRD;qal;;JRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+459015;165930;747094;2_Samuel;11;10;JRD;qal;;>L&BJTK00 ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+459035;166040;-1;2_Samuel;11;13;JRD;qal;JRD00 ;W>L&BJTW L> JRD00 ;;;;;;;;;;;
+459035;166040;747152;2_Samuel;11;13;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+459035;166040;747153;2_Samuel;11;13;JRD;qal;;>L&BJTW ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+459035;166040;747154;2_Samuel;11;13;JRD;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+459035;166040;747155;2_Samuel;11;13;JRD;qal;;JRD00 ;phrase;;;VP;Pred;core;regular;NA;;;
+460069;170768;-1;2_Samuel;17;18;JRD;qal;JRDW ;WJRDW CM00 ;;;;;;;;;;;
+460069;170768;750225;2_Samuel;17;18;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+460069;170768;750226;2_Samuel;17;18;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+460069;170768;750227;2_Samuel;17;18;JRD;qal;;CM00 ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+460390;172380;-1;2_Samuel;19;17;JRD;qal;JRD ;WJRD <M&>JC JHWDH ;;;;;;;;;;;
+460390;172380;751191;2_Samuel;19;17;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+460390;172380;751192;2_Samuel;19;17;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+460390;172380;751193;2_Samuel;19;17;JRD;qal;;<M&>JC JHWDH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+460390;172380;460391;2_Samuel;19;17;JRD;qal;;LQR>T HMLK DWD00 ;clause;InfC;Adju;;;NA;NA;;;;
+460412;172497;-1;2_Samuel;19;21;JRD;qal;RDT ;LRDT ;;;;;;;;;;;
+460412;172497;751257;2_Samuel;19;21;JRD;qal;;LRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+460412;172497;460413;2_Samuel;19;21;JRD;qal;;LQR>T >DNJ HMLK00_S ;clause;InfC;Adju;;;NA;NA;;;;
+460428;172571;-1;2_Samuel;19;25;JRD;qal;JRD ;WMPBCT BN&C>WL JRD ;;;;;;;;;;;
+460428;172571;751305;2_Samuel;19;25;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+460428;172571;751306;2_Samuel;19;25;JRD;qal;;MPBCT BN&C>WL ;phrase;;;PrNP;Subj;core;NA;subject;;;
+460428;172571;751307;2_Samuel;19;25;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+460428;172571;460429;2_Samuel;19;25;JRD;qal;;LQR>T HMLK ;clause;InfC;Adju;;;NA;NA;;;;
+460465;172745;-1;2_Samuel;19;32;JRD;qal;JRD ;WBRZLJ HGL<DJ JRD MRGLJM ;;;;;;;;;;;
+460465;172745;751421;2_Samuel;19;32;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+460465;172745;751422;2_Samuel;19;32;JRD;qal;;BRZLJ HGL<DJ ;phrase;;;PrNP;Subj;core;NA;subject;;;
+460465;172745;751423;2_Samuel;19;32;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+460465;172745;751424;2_Samuel;19;32;JRD;qal;;MRGLJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+460724;174108;-1;2_Samuel;21;15;JRD;qal;JRD ;WJRD DWD W<BDJW <MW ;;;;;;;;;;;
+460724;174108;752235;2_Samuel;21;15;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+460724;174108;752236;2_Samuel;21;15;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+460724;174108;752237;2_Samuel;21;15;JRD;qal;;DWD W<BDJW <MW ;phrase;;;PrNP;Subj;core;NA;subject;;;
+460784;174409;-1;2_Samuel;22;10;JRD;qal;JRD ;WJRD ;;;;;;;;;;;
+460784;174409;752411;2_Samuel;22;10;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+460784;174409;752412;2_Samuel;22;10;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+460886;174763;-1;2_Samuel;22;48;JRD;hif;MWRJD ;WMWRJD <MJM TXTNJ00 ;;;;;;;;;;;
+460886;174763;752674;2_Samuel;22;48;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+460886;174763;752675;2_Samuel;22;48;JRD;hif;;MWRJD ;phrase;;;VP;PreC;core;regular;NA;;;
+460886;174763;752676;2_Samuel;22;48;JRD;hif;;<MJM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+460886;174763;752677;2_Samuel;22;48;JRD;hif;;TXTNJ00 ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+460947;175054;-1;2_Samuel;23;13;JRD;qal;JRDW ;WJRDW CLCJM MHCLCJM R>C ;;;;;;;;;;;
+460947;175054;752842;2_Samuel;23;13;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+460947;175054;752843;2_Samuel;23;13;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+460947;175054;752844;2_Samuel;23;13;JRD;qal;;CLCJM MHCLCJM R>C ;phrase;;;NP;Subj;core;NA;subject;;;
+460983;175223;-1;2_Samuel;23;20;JRD;qal;JRD ;WHW> JRD ;;;;;;;;;;;
+460983;175223;752944;2_Samuel;23;20;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+460983;175223;752945;2_Samuel;23;20;JRD;qal;;HW> ;phrase;;;PPrP;Subj;core;NA;subject;;;
+460983;175223;752946;2_Samuel;23;20;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+460987;175252;-1;2_Samuel;23;21;JRD;qal;JRD ;WJRD >LJW BCBV ;;;;;;;;;;;
+460987;175252;752959;2_Samuel;23;21;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+460987;175252;752960;2_Samuel;23;21;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+460987;175252;752961;2_Samuel;23;21;JRD;qal;;>LJW ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+460987;175252;752962;2_Samuel;23;21;JRD;qal;;BCBV ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+461246;176577;-1;1_Kings;1;25;JRD;qal;JRD ;KJ05 JRD HJWM ;;;;;;;;;;;
+461246;176577;753699;1_Kings;1;25;JRD;qal;;KJ05 ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+461246;176577;753700;1_Kings;1;25;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+461246;176577;753701;1_Kings;1;25;JRD;qal;;HJWM ;phrase;;;NP;Time;adjunct;NA;NA;;time;time
+461284;176797;-1;1_Kings;1;33;JRD;hif;HWRDTM ;WHWRDTM >TW >L&GXWN00 ;;;;;;;;;;;
+461284;176797;753814;1_Kings;1;33;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+461284;176797;753815;1_Kings;1;33;JRD;hif;;HWRDTM ;phrase;;;VP;Pred;core;regular;NA;;;
+461284;176797;753816;1_Kings;1;33;JRD;hif;;>TW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+461284;176797;753817;1_Kings;1;33;JRD;hif;;>L&GXWN00 ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+461302;176892;-1;1_Kings;1;38;JRD;qal;JRD ;WJRD YDWQ HKHN WNTN HNBJ> WBNJHW BN&JHWJD< WHKRTJ WHPLTJ ;;;;;;;;;;;
+461302;176892;753869;1_Kings;1;38;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+461302;176892;753870;1_Kings;1;38;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+461302;176892;753871;1_Kings;1;38;JRD;qal;;YDWQ HKHN WNTN HNBJ> WBNJHW BN&JHWJD< WHKRTJ WHPLTJ ;phrase;;;PrNP;Subj;core;NA;subject;;;
+461372;177256;-1;1_Kings;1;53;JRD;hif;JRDHW ;WJRDHW M<L HMZBX ;;;;;;;;;;;
+461372;177256;754082;1_Kings;1;53;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+461372;177256;754083;1_Kings;1;53;JRD;hif;;JRDHW ;phrase;;;VP;PreO;core;regular;direct_object;;;
+461372;177256;754084;1_Kings;1;53;JRD;hif;;M<L HMZBX ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+461407;177432;-1;1_Kings;2;6;JRD;hif;TWRD ;WL>&TWRD FJBTW BCLM C>L00_S ;;;;;;;;;;;
+461407;177432;754179;1_Kings;2;6;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+461407;177432;754180;1_Kings;2;6;JRD;hif;;L>&;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+461407;177432;754181;1_Kings;2;6;JRD;hif;;TWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+461407;177432;754182;1_Kings;2;6;JRD;hif;;FJBTW ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+461407;177432;754183;1_Kings;2;6;JRD;hif;;BCLM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+461407;177432;754184;1_Kings;2;6;JRD;hif;;C>L00_S ;phrase;;;NP;Cmpl;complement;NA;*;;;
+461415;177482;-1;1_Kings;2;8;JRD;qal;JRD ;WHW>&JRD HJRDN ;;;;;;;;;;;
+461415;177482;754209;1_Kings;2;8;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+461415;177482;754210;1_Kings;2;8;JRD;qal;;HW>&;phrase;;;PPrP;Subj;core;NA;subject;;;
+461415;177482;754211;1_Kings;2;8;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+461415;177482;754213;1_Kings;2;8;JRD;qal;;HJRDN ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+461415;177482;461416;1_Kings;2;8;JRD;qal;;LQR>TJ ;clause;InfC;Adju;;;NA;NA;;;;
+461425;177514;-1;1_Kings;2;9;JRD;hif;HWRDT ;WHWRDT >T&FJBTW BDM C>WL00 ;;;;;;;;;;;
+461425;177514;754234;1_Kings;2;9;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+461425;177514;754235;1_Kings;2;9;JRD;hif;;HWRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+461425;177514;754236;1_Kings;2;9;JRD;hif;;>T&FJBTW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+461425;177514;754237;1_Kings;2;9;JRD;hif;;BDM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+461425;177514;754238;1_Kings;2;9;JRD;hif;;C>WL00 ;phrase;;;NP;Cmpl;complement;NA;*;;;
+461880;179849;-1;1_Kings;5;23;JRD;hif;JRDW ;<BDJ JRDW MN&HLBNWN JMH ;;;;;;;;;;;
+461880;179849;755582;1_Kings;5;23;JRD;hif;;<BDJ ;phrase;;;NP;Subj;core;NA;subject;;;
+461880;179849;755583;1_Kings;5;23;JRD;hif;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+461880;179849;755584;1_Kings;5;23;JRD;hif;;MN&HLBNWN ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+461880;179849;755585;1_Kings;5;23;JRD;hif;;JMH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+463699;190286;-1;1_Kings;17;23;JRD;hif;JRDHW ;WJRDHW MN&H<LJH HBJTH ;;;;;;;;;;;
+463699;190286;761152;1_Kings;17;23;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+463699;190286;761153;1_Kings;17;23;JRD;hif;;JRDHW ;phrase;;;VP;PreO;core;regular;direct_object;;;
+463699;190286;761154;1_Kings;17;23;JRD;hif;;MN&H<LJH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+463699;190286;761155;1_Kings;17;23;JRD;hif;;HBJTH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+463933;191257;-1;1_Kings;18;40;JRD;hif;JWRDM ;WJWRDM >LJHW >L&NXL QJCWN ;;;;;;;;;;;
+463933;191257;761791;1_Kings;18;40;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+463933;191257;761792;1_Kings;18;40;JRD;hif;;JWRDM ;phrase;;;VP;PreO;core;regular;direct_object;;;
+463933;191257;761793;1_Kings;18;40;JRD;hif;;>LJHW ;phrase;;;PrNP;Subj;core;NA;subject;;;
+463933;191257;761794;1_Kings;18;40;JRD;hif;;>L&NXL QJCWN ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+463963;191348;-1;1_Kings;18;44;JRD;qal;RD ;WRD ;;;;;;;;;;;
+463963;191348;761859;1_Kings;18;44;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+463963;191348;761860;1_Kings;18;44;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+464442;193373;-1;1_Kings;21;16;JRD;qal;RDT ;LRDT >L&KRM NBWT HJZR<>LJ ;;;;;;;;;;;
+464442;193373;763219;1_Kings;21;16;JRD;qal;;LRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+464442;193373;763220;1_Kings;21;16;JRD;qal;;>L&KRM NBWT HJZR<>LJ ;phrase;;;PP;Cmpl;complement;NA;*;;;
+464442;193373;464443;1_Kings;21;16;JRD;qal;;LRCTW00_S ;clause;InfC;Adju;;;NA;NA;;;;
+464447;193392;-1;1_Kings;21;18;JRD;qal;RD ;RD ;;;;;;;;;;;
+464447;193392;763228;1_Kings;21;18;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+464447;193392;464448;1_Kings;21;18;JRD;qal;;LQR>T >X>B MLK&JFR>L ;clause;InfC;Adju;;;NA;NA;;;;
+464451;193406;-1;1_Kings;21;18;JRD;qal;JRD ;>CR&JRD CM ;;;;;;;;;;;
+464451;193406;763235;1_Kings;21;18;JRD;qal;;>CR&;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+464451;193406;763236;1_Kings;21;18;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+464451;193406;763237;1_Kings;21;18;JRD;qal;;CM ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+464451;193406;464452;1_Kings;21;18;JRD;qal;;LRCTW00 ;clause;InfC;Adju;;;NA;NA;;;;
+464514;193671;-1;1_Kings;22;2;JRD;qal;JRD ;WJRD JHWCPV MLK&JHWDH >L&MLK JFR>L00 ;;;;;;;;;;;
+464514;193671;763405;1_Kings;22;2;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+464514;193671;763406;1_Kings;22;2;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+464514;193671;763407;1_Kings;22;2;JRD;qal;;JHWCPV MLK&JHWDH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+464514;193671;763408;1_Kings;22;2;JRD;qal;;>L&MLK JFR>L00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+464766;194847;-1;2_Kings;1;4;JRD;qal;TRD ;L>&TRD MMNH ;;;;;;;;;;;
+464766;194847;764144;2_Kings;1;4;JRD;qal;;L>&;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+464766;194847;764145;2_Kings;1;4;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+464766;194847;764146;2_Kings;1;4;JRD;qal;;MMNH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+464787;194913;-1;2_Kings;1;6;JRD;qal;TRD ;L>&TRD MMNH ;;;;;;;;;;;
+464787;194913;764197;2_Kings;1;6;JRD;qal;;L>&;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+464787;194913;764198;2_Kings;1;6;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+464787;194913;764199;2_Kings;1;6;JRD;qal;;MMNH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+464805;194981;-1;2_Kings;1;9;JRD;qal;RDH00 ;RDH00 ;;;;;;;;;;;
+464805;194981;764244;2_Kings;1;9;JRD;qal;;RDH00 ;phrase;;;VP;Pred;core;regular;NA;;;
+464809;194996;-1;2_Kings;1;10;JRD;qal;TRD ;TRD >C MN&HCMJM ;;;;;;;;;;;
+464809;194996;764255;2_Kings;1;10;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+464809;194996;764256;2_Kings;1;10;JRD;qal;;>C ;phrase;;;NP;Subj;core;NA;subject;;;
+464809;194996;764257;2_Kings;1;10;JRD;qal;;MN&HCMJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+464811;195008;-1;2_Kings;1;10;JRD;qal;TRD ;WTRD >C MN&HCMJM ;;;;;;;;;;;
+464811;195008;764261;2_Kings;1;10;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+464811;195008;764262;2_Kings;1;10;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+464811;195008;764263;2_Kings;1;10;JRD;qal;;>C ;phrase;;;NP;Subj;core;NA;subject;;;
+464811;195008;764264;2_Kings;1;10;JRD;qal;;MN&HCMJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+464819;195042;-1;2_Kings;1;11;JRD;qal;RDH00 ;MHRH RDH00 ;;;;;;;;;;;
+464819;195042;764283;2_Kings;1;11;JRD;qal;;MHRH ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
+464819;195042;764284;2_Kings;1;11;JRD;qal;;RDH00 ;phrase;;;VP;Pred;core;regular;NA;;;
+464823;195054;-1;2_Kings;1;12;JRD;qal;TRD ;TRD >C MN&HCMJM ;;;;;;;;;;;
+464823;195054;764294;2_Kings;1;12;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+464823;195054;764295;2_Kings;1;12;JRD;qal;;>C ;phrase;;;NP;Subj;core;NA;subject;;;
+464823;195054;764296;2_Kings;1;12;JRD;qal;;MN&HCMJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+464825;195066;-1;2_Kings;1;12;JRD;qal;TRD ;WTRD >C&>LHJM MN&HCMJM ;;;;;;;;;;;
+464825;195066;764300;2_Kings;1;12;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+464825;195066;764301;2_Kings;1;12;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+464825;195066;764302;2_Kings;1;12;JRD;qal;;>C&>LHJM ;phrase;;;NP;Subj;core;NA;subject;;;
+464825;195066;764303;2_Kings;1;12;JRD;qal;;MN&HCMJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+464836;195123;-1;2_Kings;1;14;JRD;qal;JRDH ;HNH JRDH >C MN&HCMJM ;;;;;;;;;;;
+464836;195123;764332;2_Kings;1;14;JRD;qal;;HNH ;phrase;;;InjP;Intj;NA;NA;NA;;NA;NA
+464836;195123;764333;2_Kings;1;14;JRD;qal;;JRDH ;phrase;;;VP;Pred;core;regular;NA;;;
+464836;195123;764334;2_Kings;1;14;JRD;qal;;>C ;phrase;;;NP;Subj;core;NA;subject;;;
+464836;195123;764335;2_Kings;1;14;JRD;qal;;MN&HCMJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+464841;195152;-1;2_Kings;1;15;JRD;qal;RD ;RD >WTW ;;;;;;;;;;;
+464841;195152;764348;2_Kings;1;15;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+464841;195152;764349;2_Kings;1;15;JRD;qal;;>WTW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+464844;195161;-1;2_Kings;1;15;JRD;qal;JRD ;WJRD >WTW >L&HMLK00 ;;;;;;;;;;;
+464844;195161;764355;2_Kings;1;15;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+464844;195161;764356;2_Kings;1;15;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+464844;195161;764357;2_Kings;1;15;JRD;qal;;>WTW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+464844;195161;764358;2_Kings;1;15;JRD;qal;;>L&HMLK00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+464854;195201;-1;2_Kings;1;16;JRD;qal;TRD ;L>&TRD MMNH ;;;;;;;;;;;
+464854;195201;764382;2_Kings;1;16;JRD;qal;;L>&;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+464854;195201;764383;2_Kings;1;16;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+464854;195201;764384;2_Kings;1;16;JRD;qal;;MMNH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+464873;195294;-1;2_Kings;2;2;JRD;qal;JRDW ;WJRDW BJT_>L00 ;;;;;;;;;;;
+464873;195294;764445;2_Kings;2;2;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+464873;195294;764446;2_Kings;2;2;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+464873;195294;764447;2_Kings;2;2;JRD;qal;;BJT_>L00 ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+465063;196088;-1;2_Kings;3;12;JRD;qal;JRDW ;WJRDW >LJW MLK JFR>L WJHWCPV WMLK >DWM00 ;;;;;;;;;;;
+465063;196088;764984;2_Kings;3;12;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+465063;196088;764985;2_Kings;3;12;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+465063;196088;764986;2_Kings;3;12;JRD;qal;;>LJW ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+465063;196088;764987;2_Kings;3;12;JRD;qal;;MLK JFR>L WJHWCPV WMLK >DWM00 ;phrase;;;NP;Subj;core;NA;subject;;;
+465481;197786;-1;2_Kings;5;14;JRD;qal;JRD ;WJRD ;;;;;;;;;;;
+465481;197786;766151;2_Kings;5;14;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+465481;197786;766152;2_Kings;5;14;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+465659;198509;-1;2_Kings;6;18;JRD;qal;JRDW ;WJRDW >LJW ;;;;;;;;;;;
+465659;198509;766636;2_Kings;6;18;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+465659;198509;766637;2_Kings;6;18;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+465659;198509;766638;2_Kings;6;18;JRD;qal;;>LJW ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+465755;198902;-1;2_Kings;6;33;JRD;qal;JRD ;WHNH HML>K JRD >LJW ;;;;;;;;;;;
+465755;198902;766907;2_Kings;6;33;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+465755;198902;766908;2_Kings;6;33;JRD;qal;;HNH ;phrase;;;InjP;Intj;NA;NA;NA;;NA;NA
+465755;198902;766909;2_Kings;6;33;JRD;qal;;HML>K ;phrase;;;NP;Subj;core;NA;subject;;;
+465755;198902;766910;2_Kings;6;33;JRD;qal;;JRD ;phrase;;;VP;PreC;core;regular;NA;;;
+465755;198902;766911;2_Kings;6;33;JRD;qal;;>LJW ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+465886;199439;-1;2_Kings;7;17;JRD;qal;RDT ;BRDT HMLK >LJW00 ;;;;;;;;;;;
+465886;199439;767261;2_Kings;7;17;JRD;qal;;BRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+465886;199439;767262;2_Kings;7;17;JRD;qal;;HMLK ;phrase;;;NP;Subj;core;NA;subject;;;
+465886;199439;767263;2_Kings;7;17;JRD;qal;;>LJW00 ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+466045;200228;-1;2_Kings;8;29;JRD;qal;JRD ;W>XZJHW BN&JHWRM MLK JHWDH JRD ;;;;;;;;;;;
+466045;200228;767731;2_Kings;8;29;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+466045;200228;767732;2_Kings;8;29;JRD;qal;;>XZJHW BN&JHWRM MLK JHWDH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+466045;200228;767733;2_Kings;8;29;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+466045;200228;466046;2_Kings;8;29;JRD;qal;;LR>WT >T&JWRM BN&>X>B BJZR<>L ;clause;InfC;Adju;;;NA;NA;;;;
+466130;200612;-1;2_Kings;9;16;JRD;qal;JRD ;W>XZJH MLK JHWDH JRD ;;;;;;;;;;;
+466130;200612;767966;2_Kings;9;16;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+466130;200612;767967;2_Kings;9;16;JRD;qal;;>XZJH MLK JHWDH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+466130;200612;767968;2_Kings;9;16;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+466130;200612;466131;2_Kings;9;16;JRD;qal;;LR>WT >T&JWRM00 ;clause;InfC;Adju;;;NA;NA;;;;
+466330;201447;-1;2_Kings;10;13;JRD;qal;NRD ;WNRD LCLWM BNJ&HMLK WBNJ HGBJRH00 ;;;;;;;;;;;
+466330;201447;768503;2_Kings;10;13;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+466330;201447;768504;2_Kings;10;13;JRD;qal;;NRD ;phrase;;;VP;Pred;core;regular;NA;;;
+466330;201447;768505;2_Kings;10;13;JRD;qal;;LCLWM BNJ&HMLK WBNJ HGBJRH00 ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+466532;202520;-1;2_Kings;11;19;JRD;hif;JRJDW ;WJRJDW >T&HMLK MBJT JHWH ;;;;;;;;;;;
+466532;202520;769096;2_Kings;11;19;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+466532;202520;769097;2_Kings;11;19;JRD;hif;;JRJDW ;phrase;;;VP;Pred;core;regular;NA;;;
+466532;202520;769098;2_Kings;11;19;JRD;hif;;>T&HMLK ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+466532;202520;769099;2_Kings;11;19;JRD;hif;;MBJT JHWH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+466615;203053;-1;2_Kings;12;21;JRD;qal;JWRD ;HJWRD SL>00 ;;;;;;;;;;;
+466615;203053;769363;2_Kings;12;21;JRD;qal;;H;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+466615;203053;769364;2_Kings;12;21;JRD;qal;;JWRD ;phrase;;;VP;PreC;core;regular;NA;;;
+466615;203053;769365;2_Kings;12;21;JRD;qal;;SL>00 ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+466665;203368;-1;2_Kings;13;14;JRD;qal;JRD ;WJRD >LJW JW>C MLK&JFR>L ;;;;;;;;;;;
+466665;203368;769534;2_Kings;13;14;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+466665;203368;769535;2_Kings;13;14;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+466665;203368;769536;2_Kings;13;14;JRD;qal;;>LJW ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+466665;203368;769537;2_Kings;13;14;JRD;qal;;JW>C MLK&JFR>L ;phrase;;;PrNP;Subj;core;NA;subject;;;
+467020;205497;-1;2_Kings;16;17;JRD;hif;HWRD ;W>T&HJM HWRD M<L HBQR HNXCT ;;;;;;;;;;;
+467020;205497;770631;2_Kings;16;17;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+467020;205497;770632;2_Kings;16;17;JRD;hif;;>T&HJM ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+467020;205497;770633;2_Kings;16;17;JRD;hif;;HWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+467020;205497;770634;2_Kings;16;17;JRD;hif;;M<L HBQR HNXCT ;phrase;;;PP;Cmpl;complement;NA;*;;;
+467581;208428;-1;2_Kings;20;11;JRD;qal;JRDH ;>CR JRDH BM<LWT >XZ ;;;;;;;;;;;
+467581;208428;772342;2_Kings;20;11;JRD;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+467581;208428;772343;2_Kings;20;11;JRD;qal;;JRDH ;phrase;;;VP;Pred;core;regular;NA;;;
+467581;208428;772344;2_Kings;20;11;JRD;qal;;BM<LWT >XZ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+468500;213671;-1;Isaiah;5;14;JRD;qal;JRD ;WJRD HDRH WHMWNH WC>WNH W<LZ BH00 ;;;;;;;;;;;
+468500;213671;775075;Isaiah;5;14;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+468500;213671;775076;Isaiah;5;14;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+468500;213671;775077;Isaiah;5;14;JRD;qal;;HDRH WHMWNH WC>WNH W<LZ BH00 ;phrase;;;NP;Subj;core;NA;subject;;;
+468949;215742;-1;Isaiah;10;13;JRD;hif;>WRJD ;W>WRJD K>BJR JWCBJM00 ;;;;;;;;;;;
+468949;215742;776352;Isaiah;10;13;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+468949;215742;776353;Isaiah;10;13;JRD;hif;;>WRJD ;phrase;;;VP;Pred;core;regular;NA;;;
+468949;215742;776354;Isaiah;10;13;JRD;hif;;K>BJR ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
+468949;215742;776355;Isaiah;10;13;JRD;hif;;JWCBJM00 ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+469211;216988;-1;Isaiah;14;11;JRD;hof;HWRD ;HWRD C>WL G>WNK HMJT NBLJK ;;;;;;;;;;;
+469211;216988;777137;Isaiah;14;11;JRD;hof;;HWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+469211;216988;777138;Isaiah;14;11;JRD;hof;;C>WL ;phrase;;;NP;Cmpl;complement;NA;*;;;
+469211;216988;777139;Isaiah;14;11;JRD;hof;;G>WNK HMJT NBLJK ;phrase;;;NP;Subj;core;NA;subject;;;
+469224;217046;-1;Isaiah;14;15;JRD;hof;TWRD ;>K >L&C>WL TWRD >L&JRKTJ&BWR00 ;;;;;;;;;;;
+469224;217046;777169;Isaiah;14;15;JRD;hof;;>K >L&C>WL >L&JRKTJ&BWR00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+469224;217046;777170;Isaiah;14;15;JRD;hof;;TWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+469238;217098;-1;Isaiah;14;19;JRD;qal;JWRDJ ;JWRDJ >L&>BNJ&BWR KPGR MWBS00 ;;;;;;;;;;;
+469238;217098;777205;Isaiah;14;19;JRD;qal;;JWRDJ ;phrase;;;VP;PreC;core;regular;NA;;;
+469238;217098;777206;Isaiah;14;19;JRD;qal;;>L&>BNJ&BWR ;phrase;;;PP;Cmpl;complement;NA;*;;;
+469238;217098;777207;Isaiah;14;19;JRD;qal;;KPGR MWBS00 ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+469309;217371;-1;Isaiah;15;3;JRD;qal;JRD ;JRD BBKJ00 ;;;;;;;;;;;
+469309;217371;777391;Isaiah;15;3;JRD;qal;;JRD ;phrase;;;VP;PreC;core;regular;NA;;;
+469309;217371;777392;Isaiah;15;3;JRD;qal;;BBKJ00 ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+470354;221819;-1;Isaiah;30;2;JRD;qal;RDT ;LRDT MYRJM ;;;;;;;;;;;
+470354;221819;780133;Isaiah;30;2;JRD;qal;;LRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+470354;221819;780134;Isaiah;30;2;JRD;qal;;MYRJM ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+470493;222460;-1;Isaiah;31;1;JRD;qal;JRDJM ;HJRDJM MYRJM L<ZRH ;;;;;;;;;;;
+470493;222460;780509;Isaiah;31;1;JRD;qal;;H;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+470493;222460;780510;Isaiah;31;1;JRD;qal;;JRDJM ;phrase;;;VP;PreC;core;regular;NA;;;
+470493;222460;780511;Isaiah;31;1;JRD;qal;;MYRJM ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+470493;222460;780512;Isaiah;31;1;JRD;qal;;L<ZRH ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+470518;222568;-1;Isaiah;31;4;JRD;qal;JRD ;KN JRD JHWH YB>WT <L&HR&YJWN W<L&GB<TH00 ;;;;;;;;;;;
+470518;222568;780592;Isaiah;31;4;JRD;qal;;KN ;phrase;;;AdvP;Modi;NA;NA;NA;;NA;NA
+470518;222568;780593;Isaiah;31;4;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+470518;222568;780594;Isaiah;31;4;JRD;qal;;JHWH YB>WT ;phrase;;;PrNP;Subj;core;NA;subject;;;
+470518;222568;780596;Isaiah;31;4;JRD;qal;;<L&HR&YJWN W<L&GB<TH00 ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+470518;222568;470519;Isaiah;31;4;JRD;qal;;LYB> ;clause;InfC;Adju;;;NA;NA;;;;
+470602;222916;-1;Isaiah;32;19;JRD;qal;RDT ;BRDT HJ<R ;;;;;;;;;;;
+470602;222916;780814;Isaiah;32;19;JRD;qal;;BRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+470602;222916;780815;Isaiah;32;19;JRD;qal;;HJ<R ;phrase;;;NP;Subj;core;NA;subject;;;
+470736;223340;-1;Isaiah;34;5;JRD;qal;TRD ;HNH <L&>DWM TRD ;;;;;;;;;;;
+470736;223340;781122;Isaiah;34;5;JRD;qal;;HNH ;phrase;;;InjP;Intj;NA;NA;NA;;NA;NA
+470736;223340;781123;Isaiah;34;5;JRD;qal;;<L&>DWM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+470736;223340;781124;Isaiah;34;5;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+470742;223377;-1;Isaiah;34;7;JRD;qal;JRDW ;WJRDW R>MJM <MM ;;;;;;;;;;;
+470742;223377;781140;Isaiah;34;7;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+470742;223377;781141;Isaiah;34;7;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+470742;223377;781142;Isaiah;34;7;JRD;qal;;R>MJM ;phrase;;;NP;Subj;core;NA;subject;;;
+470742;223377;781143;Isaiah;34;7;JRD;qal;;<MM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+471118;225158;-1;Isaiah;38;8;JRD;qal;JRDH ;>CR JRDH BM<LWT >XZ BCMC ;;;;;;;;;;;
+471118;225158;782232;Isaiah;38;8;JRD;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+471118;225158;782233;Isaiah;38;8;JRD;qal;;JRDH ;phrase;;;VP;Pred;core;regular;NA;;;
+471118;225158;782234;Isaiah;38;8;JRD;qal;;BM<LWT >XZ ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+471118;225158;782235;Isaiah;38;8;JRD;qal;;BCMC ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+471120;225178;-1;Isaiah;38;8;JRD;qal;JRDH00_S ;>CR JRDH00_S ;;;;;;;;;;;
+471120;225178;782243;Isaiah;38;8;JRD;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+471120;225178;782244;Isaiah;38;8;JRD;qal;;JRDH00_S ;phrase;;;VP;Pred;core;regular;NA;;;
+471161;225326;-1;Isaiah;38;18;JRD;qal;JWRDJ&;L>&JFBRW JWRDJ&BWR >L&>MTK00 ;;;;;;;;;;;
+471161;225326;782342;Isaiah;38;18;JRD;qal;;L>&;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+471161;225326;782343;Isaiah;38;18;JRD;qal;;JFBRW ;phrase;;;VP;Pred;core;regular;NA;;;
+471161;225326;782344;Isaiah;38;18;JRD;qal;;JWRDJ&BWR ;phrase;;;NP;Subj;core;NA;subject;;;
+471161;225326;782345;Isaiah;38;18;JRD;qal;;>L&>MTK00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+471539;226682;-1;Isaiah;42;10;JRD;qal;JWRDJ ;JWRDJ HJM WML>W ;;;;;;;;;;;
+471539;226682;783325;Isaiah;42;10;JRD;qal;;JWRDJ HJM WML>W ;phrase;;;NP;Voct;NA;NA;NA;;NA;NA
+471694;227167;-1;Isaiah;43;14;JRD;hif;HWRDTJ ;WHWRDTJ BRJXJM KLM ;;;;;;;;;;;
+471694;227167;783699;Isaiah;43;14;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+471694;227167;783700;Isaiah;43;14;JRD;hif;;HWRDTJ ;phrase;;;VP;Pred;core;regular;NA;;;
+471694;227167;783701;Isaiah;43;14;JRD;hif;;BRJXJM ;phrase;;;AdjP;PrAd;adjunct;NA;NA;;;
+471694;227167;783702;Isaiah;43;14;JRD;hif;;KLM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+472115;228521;-1;Isaiah;47;1;JRD;qal;RDJ05 ;RDJ05 ;;;;;;;;;;;
+472115;228521;784746;Isaiah;47;1;JRD;qal;;RDJ05 ;phrase;;;VP;Pred;core;regular;NA;;;
+472652;230352;-1;Isaiah;52;4;JRD;qal;JRD&;MYRJM JRD&<MJ BR>CNH ;;;;;;;;;;;
+472652;230352;786098;Isaiah;52;4;JRD;qal;;MYRJM ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+472652;230352;786099;Isaiah;52;4;JRD;qal;;JRD&;phrase;;;VP;Pred;core;regular;NA;;;
+472652;230352;786100;Isaiah;52;4;JRD;qal;;<MJ ;phrase;;;NP;Subj;core;NA;subject;;;
+472652;230352;786101;Isaiah;52;4;JRD;qal;;BR>CNH ;phrase;;;PP;Time;adjunct;NA;NA;;time;time
+472652;230352;472653;Isaiah;52;4;JRD;qal;;LGWR CM ;clause;InfC;Adju;;;NA;NA;;;;
+472888;231211;-1;Isaiah;55;10;JRD;qal;JRD ;K>CR JRD HGCM WHCLG MN&HCMJM ;;;;;;;;;;;
+472888;231211;786732;Isaiah;55;10;JRD;qal;;K>CR ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+472888;231211;786733;Isaiah;55;10;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+472888;231211;786734;Isaiah;55;10;JRD;qal;;HGCM WHCLG ;phrase;;;NP;Subj;core;NA;subject;;;
+472888;231211;786735;Isaiah;55;10;JRD;qal;;MN&HCMJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+473487;233559;-1;Isaiah;63;6;JRD;hif;>WRJD ;W>WRJD L>RY NYXM00_S ;;;;;;;;;;;
+473487;233559;788379;Isaiah;63;6;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+473487;233559;788380;Isaiah;63;6;JRD;hif;;>WRJD ;phrase;;;VP;Pred;core;regular;NA;;;
+473487;233559;788381;Isaiah;63;6;JRD;hif;;L>RY ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+473487;233559;788382;Isaiah;63;6;JRD;hif;;NYXM00_S ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
+473518;233696;-1;Isaiah;63;14;JRD;qal;TRD ;BBQ<H TRD ;;;;;;;;;;;
+473518;233696;788463;Isaiah;63;14;JRD;qal;;BBQ<H ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+473518;233696;788464;Isaiah;63;14;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+473540;233782;-1;Isaiah;63;19;JRD;qal;JRDT ;JRDT ;;;;;;;;;;;
+473540;233782;788525;Isaiah;63;19;JRD;qal;;JRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+473548;233808;-1;Isaiah;64;2;JRD;qal;JRDT ;JRDT ;;;;;;;;;;;
+473548;233808;788545;Isaiah;64;2;JRD;qal;;JRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+473548;233808;473546;Isaiah;64;2;JRD;qal;;B<FWTK NWR>WT ;clause;InfC;Adju;;;NA;NA;;;;
+475000;239724;-1;Jeremiah;9;17;JRD;qal;TRDNH ;WTRDNH <JNJNW DM<H ;;;;;;;;;;;
+475000;239724;792476;Jeremiah;9;17;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+475000;239724;792477;Jeremiah;9;17;JRD;qal;;TRDNH ;phrase;;;VP;Pred;core;regular;NA;;;
+475000;239724;792478;Jeremiah;9;17;JRD;qal;;<JNJNW ;phrase;;;NP;Subj;core;NA;subject;;;
+475000;239724;792479;Jeremiah;9;17;JRD;qal;;DM<H ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+475427;241537;-1;Jeremiah;13;17;JRD;qal;TRD ;WTRD <JNJ DM<H ;;;;;;;;;;;
+475427;241537;793638;Jeremiah;13;17;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+475427;241537;793639;Jeremiah;13;17;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+475427;241537;793640;Jeremiah;13;17;JRD;qal;;<JNJ ;phrase;;;NP;Subj;core;NA;subject;;;
+475427;241537;793641;Jeremiah;13;17;JRD;qal;;DM<H ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+475432;241555;-1;Jeremiah;13;18;JRD;qal;JRD ;KJ JRD MR>CWTJKM <VRT TP>RTKM00 ;;;;;;;;;;;
+475432;241555;793649;Jeremiah;13;18;JRD;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+475432;241555;793650;Jeremiah;13;18;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+475432;241555;793651;Jeremiah;13;18;JRD;qal;;MR>CWTJKM ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+475432;241555;793652;Jeremiah;13;18;JRD;qal;;<VRT TP>RTKM00 ;phrase;;;NP;Subj;core;NA;subject;;;
+475551;242041;-1;Jeremiah;14;17;JRD;qal;TRDNH ;TRDNH <JNJ DM<H LJLH WJWMM ;;;;;;;;;;;
+475551;242041;793985;Jeremiah;14;17;JRD;qal;;TRDNH ;phrase;;;VP;Pred;core;regular;NA;;;
+475551;242041;793986;Jeremiah;14;17;JRD;qal;;<JNJ ;phrase;;;NP;Subj;core;NA;subject;;;
+475551;242041;793987;Jeremiah;14;17;JRD;qal;;DM<H ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+475551;242041;793988;Jeremiah;14;17;JRD;qal;;LJLH WJWMM ;phrase;;;AdvP;Time;adjunct;NA;NA;;time;time
+475911;243692;-1;Jeremiah;18;2;JRD;qal;JRDT ;WJRDT BJT HJWYR ;;;;;;;;;;;
+475911;243692;795003;Jeremiah;18;2;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+475911;243692;795004;Jeremiah;18;2;JRD;qal;;JRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+475911;243692;795005;Jeremiah;18;2;JRD;qal;;BJT HJWYR ;phrase;;;NP;Cmpl;complement;NA;*;;location;location
+475913;243702;-1;Jeremiah;18;3;JRD;qal;>RD ;W>RD BJT HJWYR ;;;;;;;;;;;
+475913;243702;795010;Jeremiah;18;3;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+475913;243702;795011;Jeremiah;18;3;JRD;qal;;>RD ;phrase;;;VP;Pred;core;regular;NA;;;
+475913;243702;795012;Jeremiah;18;3;JRD;qal;;BJT HJWYR ;phrase;;;NP;Cmpl;complement;NA;*;;location;location
+476238;245299;-1;Jeremiah;22;1;JRD;qal;RD ;RD BJT&MLK JHWDH ;;;;;;;;;;;
+476238;245299;795941;Jeremiah;22;1;JRD;qal;;RD ;phrase;;;VP;Pred;core;regular;NA;;;
+476238;245299;795942;Jeremiah;22;1;JRD;qal;;BJT&MLK JHWDH ;phrase;;;NP;Cmpl;complement;NA;*;;location;location
+477989;254512;-1;Jeremiah;36;12;JRD;qal;JRD ;WJRD BJT&HMLK <L&LCKT HSPR ;;;;;;;;;;;
+477989;254512;800976;Jeremiah;36;12;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+477989;254512;800977;Jeremiah;36;12;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+477989;254512;800978;Jeremiah;36;12;JRD;qal;;BJT&HMLK <L&LCKT HSPR ;phrase;;;NP;Cmpl;complement;NA;*;;location;location
+479111;260599;-1;Jeremiah;48;15;JRD;qal;JRDW ;WMBXR BXWRJW JRDW LVBX ;;;;;;;;;;;
+479111;260599;804321;Jeremiah;48;15;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+479111;260599;804322;Jeremiah;48;15;JRD;qal;;MBXR BXWRJW ;phrase;;;NP;Subj;core;NA;subject;;;
+479111;260599;804323;Jeremiah;48;15;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+479111;260599;804324;Jeremiah;48;15;JRD;qal;;LVBX ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+479122;260633;-1;Jeremiah;48;18;JRD;qal;RDJ ;RDJ MKBWD ;;;;;;;;;;;
+479122;260633;804344;Jeremiah;48;18;JRD;qal;;RDJ ;phrase;;;VP;Pred;core;regular;NA;;;
+479122;260633;804345;Jeremiah;48;18;JRD;qal;;MKBWD ;phrase;;;PP;Cmpl;complement;NA;*;;;
+479318;261426;-1;Jeremiah;49;16;JRD;hif;>WRJDK ;MCM >WRJDK ;;;;;;;;;;;
+479318;261426;804843;Jeremiah;49;16;JRD;hif;;MCM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+479318;261426;804844;Jeremiah;49;16;JRD;hif;;>WRJDK ;phrase;;;VP;PreO;core;regular;direct_object;;;
+479553;262364;-1;Jeremiah;50;27;JRD;qal;JRDW ;JRDW LVBX ;;;;;;;;;;;
+479553;262364;805435;Jeremiah;50;27;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+479553;262364;805436;Jeremiah;50;27;JRD;qal;;LVBX ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+479808;263427;-1;Jeremiah;51;40;JRD;hif;>WRJDM ;>WRJDM KKRJM ;;;;;;;;;;;
+479808;263427;806114;Jeremiah;51;40;JRD;hif;;>WRJDM ;phrase;;;VP;PreO;core;regular;principal_direct_object;;;
+479808;263427;806115;Jeremiah;51;40;JRD;hif;;KKRJM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+479808;263427;479809;Jeremiah;51;40;JRD;hif;;LVBWX ;clause;InfC;Adju;;;NA;NA;infinitive_object;;;
+482976;277602;-1;Ezekiel;26;11;JRD;qal;TRD00 ;WMYBWT <ZK L>RY TRD00 ;;;;;;;;;;;
+482976;277602;815161;Ezekiel;26;11;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+482976;277602;815162;Ezekiel;26;11;JRD;qal;;MYBWT <ZK ;phrase;;;NP;Subj;core;NA;subject;;;
+482976;277602;815163;Ezekiel;26;11;JRD;qal;;L>RY ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+482976;277602;815164;Ezekiel;26;11;JRD;qal;;TRD00 ;phrase;;;VP;Pred;core;regular;NA;;;
+482993;277677;-1;Ezekiel;26;16;JRD;qal;JRDW ;WJRDW M<L KS>WTM KL NFJ>J HJM ;;;;;;;;;;;
+482993;277677;815215;Ezekiel;26;16;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+482993;277677;815216;Ezekiel;26;16;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+482993;277677;815217;Ezekiel;26;16;JRD;qal;;M<L KS>WTM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+482993;277677;815218;Ezekiel;26;16;JRD;qal;;KL NFJ>J HJM ;phrase;;;NP;Subj;core;NA;subject;;;
+483017;277782;-1;Ezekiel;26;20;JRD;hif;HWRDTJK ;WHWRDTJK >T&JWRDJ BWR >L&<M <WLM ;;;;;;;;;;;
+483017;277782;815282;Ezekiel;26;20;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483017;277782;815283;Ezekiel;26;20;JRD;hif;;HWRDTJK ;phrase;;;VP;PreO;core;regular;direct_object;;;
+483017;277782;815284;Ezekiel;26;20;JRD;hif;;>T&JWRDJ BWR ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483017;277782;815285;Ezekiel;26;20;JRD;hif;;>L&<M <WLM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483018;277799;-1;Ezekiel;26;20;JRD;qal;JWRDJ ;WHWCBTJK B>RY TXTJWT KXRBWT M<WLM >T&JWRDJ BWR ;;;;;;;;;;;
+483018;277799;815286;Ezekiel;26;20;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483018;277799;815287;Ezekiel;26;20;JRD;qal;;HWCBTJK ;phrase;;;VP;PreO;core;regular;direct_object;;;
+483018;277799;815288;Ezekiel;26;20;JRD;qal;;B>RY TXTJWT ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+483018;277799;815289;Ezekiel;26;20;JRD;qal;;KXRBWT M<WLM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483018;277799;815290;Ezekiel;26;20;JRD;qal;;>T&JWRDJ BWR ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483101;278248;-1;Ezekiel;27;29;JRD;qal;JRDW ;WJRDW M>NJWTJHM KL TPFJ MCWV ;;;;;;;;;;;
+483101;278248;815506;Ezekiel;27;29;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483101;278248;815507;Ezekiel;27;29;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+483101;278248;815508;Ezekiel;27;29;JRD;qal;;M>NJWTJHM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+483101;278248;815509;Ezekiel;27;29;JRD;qal;;KL TPFJ MCWV ;phrase;;;NP;Subj;core;NA;subject;;;
+483151;278476;-1;Ezekiel;28;8;JRD;hif;JWRDWK ;LCXT JWRDWK ;;;;;;;;;;;
+483151;278476;815654;Ezekiel;28;8;JRD;hif;;LCXT ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+483151;278476;815655;Ezekiel;28;8;JRD;hif;;JWRDWK ;phrase;;;VP;PreO;core;regular;principal_direct_object;;;
+483346;279373;-1;Ezekiel;30;6;JRD;qal;JRD ;WJRD G>WN <ZH MMGDL_SWNH ;;;;;;;;;;;
+483346;279373;816214;Ezekiel;30;6;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483346;279373;816215;Ezekiel;30;6;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+483346;279373;816216;Ezekiel;30;6;JRD;qal;;G>WN <ZH ;phrase;;;NP;Subj;core;NA;subject;;;
+483346;279373;816217;Ezekiel;30;6;JRD;qal;;MMGDL_SWNH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+483470;280002;-1;Ezekiel;31;12;JRD;qal;JRDW ;WJRDW MYLW KL&<MJ H>RY ;;;;;;;;;;;
+483470;280002;816592;Ezekiel;31;12;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483470;280002;816593;Ezekiel;31;12;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+483470;280002;816594;Ezekiel;31;12;JRD;qal;;MYLW ;phrase;;;PP;Cmpl;complement;NA;*;;;
+483470;280002;816595;Ezekiel;31;12;JRD;qal;;KL&<MJ H>RY ;phrase;;;NP;Subj;core;NA;subject;;;
+483477;280066;-1;Ezekiel;31;14;JRD;qal;JWRDJ ;KJ&KLM NTNW LMWT >L&>RY TXTJT BTWK BNJ >DM >L&JWRDJ BWR00_S ;;;;;;;;;;;
+483477;280066;816621;Ezekiel;31;14;JRD;qal;;KJ&;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483477;280066;816622;Ezekiel;31;14;JRD;qal;;KLM ;phrase;;;NP;Subj;core;NA;subject;;;
+483477;280066;816623;Ezekiel;31;14;JRD;qal;;NTNW ;phrase;;;VP;Pred;core;regular;NA;;;
+483477;280066;816624;Ezekiel;31;14;JRD;qal;;LMWT ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+483477;280066;816625;Ezekiel;31;14;JRD;qal;;>L&>RY TXTJT ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483477;280066;816626;Ezekiel;31;14;JRD;qal;;BTWK BNJ >DM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483477;280066;816627;Ezekiel;31;14;JRD;qal;;>L&JWRDJ BWR00_S ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483480;280074;-1;Ezekiel;31;15;JRD;qal;RDTW ;RDTW C>WLH ;;;;;;;;;;;
+483480;280074;816632;Ezekiel;31;15;JRD;qal;;RDTW ;phrase;;;VP;PreS;core;regular;subject;;;
+483480;280074;816633;Ezekiel;31;15;JRD;qal;;C>WLH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+483487;280105;-1;Ezekiel;31;16;JRD;hif;HWRDJ ;BHWRDJ >TW C>WLH >T&JWRDJ BWR ;;;;;;;;;;;
+483487;280105;816655;Ezekiel;31;16;JRD;hif;;BHWRDJ ;phrase;;;VP;PreS;core;regular;subject;;;
+483487;280105;816656;Ezekiel;31;16;JRD;hif;;>TW ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+483487;280105;816657;Ezekiel;31;16;JRD;hif;;C>WLH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+483487;280105;816658;Ezekiel;31;16;JRD;hif;;>T&JWRDJ BWR ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483489;280129;-1;Ezekiel;31;17;JRD;qal;JRDW ;GM&HM >TW JRDW C>WLH >L&XLLJ&XRB ;;;;;;;;;;;
+483489;280129;816663;Ezekiel;31;17;JRD;qal;;GM&HM >TW ;phrase;;;PPrP;Subj;core;NA;subject;;;
+483489;280129;816664;Ezekiel;31;17;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+483489;280129;816665;Ezekiel;31;17;JRD;qal;;C>WLH ;phrase;;;AdvP;Cmpl;complement;NA;*;;location;location
+483489;280129;816666;Ezekiel;31;17;JRD;qal;;>L&XLLJ&XRB ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483492;280155;-1;Ezekiel;31;18;JRD;hof;HWRDT ;WHWRDT >T&<YJ&<DN >L&>RY TXTJT ;;;;;;;;;;;
+483492;280155;816677;Ezekiel;31;18;JRD;hof;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483492;280155;816678;Ezekiel;31;18;JRD;hof;;HWRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+483492;280155;816679;Ezekiel;31;18;JRD;hof;;>T&<YJ&<DN ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483492;280155;816680;Ezekiel;31;18;JRD;hof;;>L&>RY TXTJT ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+483566;280499;-1;Ezekiel;32;18;JRD;hif;HWRDHW ;WHWRDHW >WTH WBNWT GWJM >DRM >L&>RY TXTJWT >T&JWRDJ BWR00 ;;;;;;;;;;;
+483566;280499;816887;Ezekiel;32;18;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483566;280499;816888;Ezekiel;32;18;JRD;hif;;HWRDHW >WTH WBNWT GWJM >DRM ;phrase;;;VP;PreO;core;regular;direct_object;;;
+483566;280499;816889;Ezekiel;32;18;JRD;hif;;>L&>RY TXTJWT ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+483566;280499;816890;Ezekiel;32;18;JRD;hif;;>T&JWRDJ BWR00 ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483568;280514;-1;Ezekiel;32;19;JRD;qal;RDH ;RDH ;;;;;;;;;;;
+483568;280514;816893;Ezekiel;32;19;JRD;qal;;RDH ;phrase;;;VP;Pred;core;regular;NA;;;
+483574;280540;-1;Ezekiel;32;21;JRD;qal;JRDW ;JRDW ;;;;;;;;;;;
+483574;280540;816908;Ezekiel;32;21;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+483588;280598;-1;Ezekiel;32;24;JRD;qal;JRDW ;>CR&JRDW <RLJM05 >L&>RY TXTJWT ;;;;;;;;;;;
+483588;280598;816945;Ezekiel;32;24;JRD;qal;;>CR&;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+483588;280598;816946;Ezekiel;32;24;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+483588;280598;816947;Ezekiel;32;24;JRD;qal;;<RLJM05 ;phrase;;;AdjP;PrAd;adjunct;NA;NA;;;
+483588;280598;816948;Ezekiel;32;24;JRD;qal;;>L&>RY TXTJWT ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+483590;280613;-1;Ezekiel;32;24;JRD;qal;JWRDJ ;WJF>W KLMTM >T&JWRDJ BWR00 ;;;;;;;;;;;
+483590;280613;816953;Ezekiel;32;24;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483590;280613;816954;Ezekiel;32;24;JRD;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
+483590;280613;816955;Ezekiel;32;24;JRD;qal;;KLMTM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+483590;280613;816956;Ezekiel;32;24;JRD;qal;;>T&JWRDJ BWR00 ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483596;280640;-1;Ezekiel;32;25;JRD;qal;JWRDJ ;WJF>W KLMTM >T&JWRDJ BWR ;;;;;;;;;;;
+483596;280640;816971;Ezekiel;32;25;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483596;280640;816972;Ezekiel;32;25;JRD;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
+483596;280640;816973;Ezekiel;32;25;JRD;qal;;KLMTM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+483596;280640;816974;Ezekiel;32;25;JRD;qal;;>T&JWRDJ BWR ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483604;280673;-1;Ezekiel;32;27;JRD;qal;JRDW&;>CR JRDW&C>WL BKLJ&MLXMTM ;;;;;;;;;;;
+483604;280673;816994;Ezekiel;32;27;JRD;qal;;>CR ;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+483604;280673;816995;Ezekiel;32;27;JRD;qal;;JRDW&;phrase;;;VP;Pred;core;regular;NA;;;
+483604;280673;816996;Ezekiel;32;27;JRD;qal;;C>WL ;phrase;;;NP;Cmpl;complement;NA;*;;;
+483604;280673;816997;Ezekiel;32;27;JRD;qal;;BKLJ&MLXMTM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483613;280725;-1;Ezekiel;32;29;JRD;qal;JRDJ ;W>T&JRDJ BWR00 ;;;;;;;;;;;
+483613;280725;817025;Ezekiel;32;29;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483613;280725;817026;Ezekiel;32;29;JRD;qal;;>T&JRDJ BWR00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+483615;280735;-1;Ezekiel;32;30;JRD;qal;JRDW ;>CR&JRDW >T&XLLJM BXTJTM ;;;;;;;;;;;
+483615;280735;817029;Ezekiel;32;30;JRD;qal;;>CR&;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+483615;280735;817030;Ezekiel;32;30;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+483615;280735;817031;Ezekiel;32;30;JRD;qal;;>T&XLLJM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+483615;280735;817032;Ezekiel;32;30;JRD;qal;;BXTJTM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483618;280753;-1;Ezekiel;32;30;JRD;qal;JWRDJ ;WJF>W KLMTM >T&JWRDJ BWR00 ;;;;;;;;;;;
+483618;280753;817039;Ezekiel;32;30;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483618;280753;817040;Ezekiel;32;30;JRD;qal;;JF>W ;phrase;;;VP;Pred;core;regular;NA;;;
+483618;280753;817041;Ezekiel;32;30;JRD;qal;;KLMTM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+483618;280753;817042;Ezekiel;32;30;JRD;qal;;>T&JWRDJ BWR00 ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+483926;282055;-1;Ezekiel;34;26;JRD;hif;HWRDTJ ;WHWRDTJ HGCM B<TW ;;;;;;;;;;;
+483926;282055;817902;Ezekiel;34;26;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+483926;282055;817903;Ezekiel;34;26;JRD;hif;;HWRDTJ ;phrase;;;VP;Pred;core;regular;NA;;;
+483926;282055;817904;Ezekiel;34;26;JRD;hif;;HGCM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+483926;282055;817905;Ezekiel;34;26;JRD;hif;;B<TW ;phrase;;;PP;Time;adjunct;NA;NA;;time;time
+485334;289691;-1;Ezekiel;47;1;JRD;qal;JRDJM ;WHMJM JRDJM MTXT MKTP HBJT HJMNJT MNGB LMZBX00 ;;;;;;;;;;;
+485334;289691;821929;Ezekiel;47;1;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+485334;289691;821930;Ezekiel;47;1;JRD;qal;;HMJM ;phrase;;;NP;Subj;core;NA;subject;;;
+485334;289691;821931;Ezekiel;47;1;JRD;qal;;JRDJM ;phrase;;;VP;PreC;core;regular;NA;;;
+485334;289691;821932;Ezekiel;47;1;JRD;qal;;MTXT MKTP HBJT HJMNJT ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+485334;289691;821933;Ezekiel;47;1;JRD;qal;;MNGB LMZBX00 ;phrase;;;PP;Loca;adjunct;NA;NA;;location;location
+485366;289833;-1;Ezekiel;47;8;JRD;qal;JRDW ;WJRDW <L&H<RBH ;;;;;;;;;;;
+485366;289833;822014;Ezekiel;47;8;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+485366;289833;822015;Ezekiel;47;8;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+485366;289833;822016;Ezekiel;47;8;JRD;qal;;<L&H<RBH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+485942;292537;-1;Hosea;7;12;JRD;hif;>WRJDM ;K<WP HCMJM >WRJDM ;;;;;;;;;;;
+485942;292537;823649;Hosea;7;12;JRD;hif;;K<WP HCMJM ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+485942;292537;823650;Hosea;7;12;JRD;hif;;>WRJDM ;phrase;;;VP;PreO;core;regular;direct_object;;;
+486564;294811;-1;Joel;2;23;JRD;hif;JWRD ;WJWRD LKM GCM MWRH WMLQWC BR>CWN00 ;;;;;;;;;;;
+486564;294811;825257;Joel;2;23;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+486564;294811;825258;Joel;2;23;JRD;hif;;JWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+486564;294811;825259;Joel;2;23;JRD;hif;;LKM ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+486564;294811;825260;Joel;2;23;JRD;hif;;GCM MWRH WMLQWC ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+486564;294811;825261;Joel;2;23;JRD;hif;;BR>CWN00 ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+486603;295028;-1;Joel;4;2;JRD;hif;HWRDTJM ;WHWRDTJM >L&<MQ JHWCPV ;;;;;;;;;;;
+486603;295028;825374;Joel;4;2;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+486603;295028;825375;Joel;4;2;JRD;hif;;HWRDTJM ;phrase;;;VP;PreO;core;regular;direct_object;;;
+486603;295028;825376;Joel;4;2;JRD;hif;;>L&<MQ JHWCPV ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+486832;296138;-1;Amos;3;11;JRD;hif;HWRD ;WHWRD MMK <ZK ;;;;;;;;;;;
+486832;296138;826085;Amos;3;11;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+486832;296138;826086;Amos;3;11;JRD;hif;;HWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+486832;296138;826087;Amos;3;11;JRD;hif;;MMK ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+486832;296138;826088;Amos;3;11;JRD;hif;;<ZK ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+487039;296970;-1;Amos;6;2;JRD;qal;RDW ;WRDW GT&PLCTJM ;;;;;;;;;;;
+487039;296970;826656;Amos;6;2;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+487039;296970;826657;Amos;6;2;JRD;qal;;RDW ;phrase;;;VP;Pred;core;regular;NA;;;
+487039;296970;826658;Amos;6;2;JRD;qal;;GT&PLCTJM ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+487252;297847;-1;Amos;9;2;JRD;hif;>WRJDM00 ;MCM >WRJDM00 ;;;;;;;;;;;
+487252;297847;827250;Amos;9;2;JRD;hif;;MCM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+487252;297847;827251;Amos;9;2;JRD;hif;;>WRJDM00 ;phrase;;;VP;PreO;core;regular;direct_object;;;
+487332;298211;-1;Obadiah;1;3;JRD;hif;JWRDNJ ;MJ JWRDNJ >RY00 ;;;;;;;;;;;
+487332;298211;827488;Obadiah;1;3;JRD;hif;;MJ ;phrase;;;IPrP;Subj;core;NA;subject;;;
+487332;298211;827489;Obadiah;1;3;JRD;hif;;JWRDNJ ;phrase;;;VP;PreO;core;regular;direct_object;;;
+487332;298211;827490;Obadiah;1;3;JRD;hif;;>RY00 ;phrase;;;NP;Cmpl;complement;NA;*;;location;location
+487335;298226;-1;Obadiah;1;4;JRD;hif;>WRJDK ;MCM >WRJDK ;;;;;;;;;;;
+487335;298226;827499;Obadiah;1;4;JRD;hif;;MCM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+487335;298226;827500;Obadiah;1;4;JRD;hif;;>WRJDK ;phrase;;;VP;PreO;core;regular;direct_object;;;
+487413;298592;-1;Jonah;1;3;JRD;qal;JRD ;WJRD JPW ;;;;;;;;;;;
+487413;298592;827738;Jonah;1;3;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+487413;298592;827739;Jonah;1;3;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+487413;298592;827740;Jonah;1;3;JRD;qal;;JPW ;phrase;;;PrNP;Cmpl;complement;NA;*;;location;location
+487417;298603;-1;Jonah;1;3;JRD;qal;JRD ;WJRD BH ;;;;;;;;;;;
+487417;298603;827749;Jonah;1;3;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+487417;298603;827750;Jonah;1;3;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+487417;298603;827751;Jonah;1;3;JRD;qal;;BH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+487417;298603;487418;Jonah;1;3;JRD;qal;;LBW> <MHM TRCJCH MLPNJ JHWH00 ;clause;InfC;Adju;;;NA;NA;;;;
+487429;298661;-1;Jonah;1;5;JRD;qal;JRD ;WJWNH JRD >L&JRKTJ HSPJNH ;;;;;;;;;;;
+487429;298661;827784;Jonah;1;5;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+487429;298661;827785;Jonah;1;5;JRD;qal;;JWNH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+487429;298661;827786;Jonah;1;5;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+487429;298661;827787;Jonah;1;5;JRD;qal;;>L&JRKTJ HSPJNH ;phrase;;;PP;Cmpl;complement;NA;*;;;
+487514;299016;-1;Jonah;2;7;JRD;qal;JRDTJ ;LQYBJ HRJM JRDTJ ;;;;;;;;;;;
+487514;299016;828029;Jonah;2;7;JRD;qal;;LQYBJ HRJM ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+487514;299016;828030;Jonah;2;7;JRD;qal;;JRDTJ ;phrase;;;VP;Pred;core;regular;NA;;;
+487650;299586;-1;Micah;1;3;JRD;qal;JRD ;WJRD ;;;;;;;;;;;
+487650;299586;828407;Micah;1;3;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+487650;299586;828408;Micah;1;3;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+487687;299748;-1;Micah;1;12;JRD;qal;JRD ;KJ&JRD R< M>T JHWH LC<R JRWCLM00 ;;;;;;;;;;;
+487687;299748;828511;Micah;1;12;JRD;qal;;KJ&;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+487687;299748;828512;Micah;1;12;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+487687;299748;828513;Micah;1;12;JRD;qal;;R< ;phrase;;;NP;Subj;core;NA;subject;;;
+487687;299748;828514;Micah;1;12;JRD;qal;;M>T JHWH ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+487687;299748;828515;Micah;1;12;JRD;qal;;LC<R JRWCLM00 ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+488946;304958;-1;Haggai;2;22;JRD;qal;JRDW ;WJRDW SWSJM WRKBJHM ;;;;;;;;;;;
+488946;304958;831828;Haggai;2;22;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+488946;304958;831829;Haggai;2;22;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+488946;304958;831830;Haggai;2;22;JRD;qal;;SWSJM WRKBJHM ;phrase;;;NP;Subj;core;NA;subject;;;
+489658;308007;-1;Zechariah;10;11;JRD;hof;HWRD ;WHWRD G>WN >CWR ;;;;;;;;;;;
+489658;308007;833728;Zechariah;10;11;JRD;hof;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+489658;308007;833729;Zechariah;10;11;JRD;hof;;HWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+489658;308007;833730;Zechariah;10;11;JRD;hof;;G>WN >CWR ;phrase;;;NP;Subj;core;NA;subject;;;
+489672;308044;-1;Zechariah;11;2;JRD;qal;JRD ;KJ JRD J<R HBYWR00 ;;;;;;;;;;;
+489672;308044;833758;Zechariah;11;2;JRD;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+489672;308044;833759;Zechariah;11;2;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+489672;308044;833760;Zechariah;11;2;JRD;qal;;J<R HBYWR00 ;phrase;;;NP;Subj;core;NA;subject;;;
+490472;311446;-1;Psalms;7;17;JRD;qal;JRD00 ;W<L QDQDW XMSW JRD00 ;;;;;;;;;;;
+490472;311446;835956;Psalms;7;17;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+490472;311446;835957;Psalms;7;17;JRD;qal;;<L QDQDW ;phrase;;;PP;Cmpl;complement;NA;*;;;
+490472;311446;835958;Psalms;7;17;JRD;qal;;XMSW ;phrase;;;NP;Subj;core;NA;subject;;;
+490472;311446;835959;Psalms;7;17;JRD;qal;;JRD00 ;phrase;;;VP;Pred;core;regular;NA;;;
+490869;312767;-1;Psalms;18;10;JRD;qal;JRD ;WJRD ;;;;;;;;;;;
+490869;312767;836877;Psalms;18;10;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+490869;312767;836878;Psalms;18;10;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+491182;313871;-1;Psalms;22;30;JRD;qal;JWRDJ ;JWRDJ <PR ;;;;;;;;;;;
+491182;313871;837666;Psalms;22;30;JRD;qal;;JWRDJ ;phrase;;;VP;PreC;core;regular;NA;;;
+491182;313871;837667;Psalms;22;30;JRD;qal;;<PR ;phrase;;;NP;Cmpl;complement;NA;*;;;
+491399;314591;-1;Psalms;28;1;JRD;qal;JWRDJ ;<M&JWRDJ BWR00 ;;;;;;;;;;;
+491399;314591;838172;Psalms;28;1;JRD;qal;;<M&JWRDJ ;phrase;;;VP;PreC;core;regular;NA;;;
+491399;314591;838173;Psalms;28;1;JRD;qal;;BWR00 ;phrase;;;NP;Cmpl;complement;NA;*;;;
+491462;314842;-1;Psalms;30;4;JRD;qal;JWRDJ&;MJWRDJ&BWR00 ;;;;;;;;;;;
+491462;314842;838332;Psalms;30;4;JRD;qal;;MJWRDJ&;phrase;;;VP;PreS;core;regular;subject;;;
+491462;314842;838333;Psalms;30;4;JRD;qal;;BWR00 ;phrase;;;NP;Cmpl;complement;NA;*;;;
+491480;314902;-1;Psalms;30;10;JRD;qal;RDTJ ;BRDTJ >L&CXT ;;;;;;;;;;;
+491480;314902;838375;Psalms;30;10;JRD;qal;;BRDTJ ;phrase;;;VP;PreS;core;regular;subject;;;
+491480;314902;838376;Psalms;30;10;JRD;qal;;>L&CXT ;phrase;;;PP;Cmpl;complement;NA;*;;;
+492567;318606;-1;Psalms;49;18;JRD;qal;JRD ;L>&JRD >XRJW KBWDW00 ;;;;;;;;;;;
+492567;318606;841017;Psalms;49;18;JRD;qal;;L>&;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+492567;318606;841018;Psalms;49;18;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+492567;318606;841019;Psalms;49;18;JRD;qal;;>XRJW ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+492567;318606;841020;Psalms;49;18;JRD;qal;;KBWDW00 ;phrase;;;NP;Subj;core;NA;subject;;;
+492838;319513;-1;Psalms;55;16;JRD;qal;JRDW ;JRDW C>WL XJJM ;;;;;;;;;;;
+492838;319513;841677;Psalms;55;16;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+492838;319513;841678;Psalms;55;16;JRD;qal;;C>WL ;phrase;;;NP;Cmpl;complement;NA;*;;;
+492838;319513;841679;Psalms;55;16;JRD;qal;;XJJM ;phrase;;;AdjP;PrAd;adjunct;NA;NA;;;
+492862;319605;-1;Psalms;55;24;JRD;hif;TWRDM05 ;W>TH TWRDM05 LB>R CXT ;;;;;;;;;;;
+492862;319605;841747;Psalms;55;24;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+492862;319605;841748;Psalms;55;24;JRD;hif;;>TH ;phrase;;;PPrP;Subj;core;NA;subject;;;
+492862;319605;841750;Psalms;55;24;JRD;hif;;TWRDM05 ;phrase;;;VP;PreO;core;regular;principal_direct_object;;;
+492862;319605;841751;Psalms;55;24;JRD;hif;;LB>R CXT ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+492890;319701;-1;Psalms;56;8;JRD;hif;HWRD ;B>P <MJM05 HWRD ;;;;;;;;;;;
+492890;319701;841817;Psalms;56;8;JRD;hif;;B>P ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+492890;319701;841818;Psalms;56;8;JRD;hif;;<MJM05 ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+492890;319701;841819;Psalms;56;8;JRD;hif;;HWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+493036;320153;-1;Psalms;59;12;JRD;hif;HWRJDMW ;WHWRJDMW ;;;;;;;;;;;
+493036;320153;842134;Psalms;59;12;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+493036;320153;842135;Psalms;59;12;JRD;hif;;HWRJDMW ;phrase;;;VP;PreO;core;regular;direct_object;;;
+493718;322356;-1;Psalms;72;6;JRD;qal;JRD ;JRD KMVR <L&GZ ;;;;;;;;;;;
+493718;322356;843691;Psalms;72;6;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+493718;322356;843692;Psalms;72;6;JRD;qal;;KMVR ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+493718;322356;843693;Psalms;72;6;JRD;qal;;<L&GZ ;phrase;;;PP;Cmpl;complement;NA;*;;;
+494059;323638;-1;Psalms;78;16;JRD;hif;JWRD ;WJWRD KNHRWT MJM00 ;;;;;;;;;;;
+494059;323638;844570;Psalms;78;16;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+494059;323638;844571;Psalms;78;16;JRD;hif;;JWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+494059;323638;844572;Psalms;78;16;JRD;hif;;KNHRWT ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+494059;323638;844573;Psalms;78;16;JRD;hif;;MJM00 ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+494597;325579;-1;Psalms;88;5;JRD;qal;JWRDJ ;NXCBTJ <M&JWRDJ BWR ;;;;;;;;;;;
+494597;325579;845898;Psalms;88;5;JRD;qal;;NXCBTJ ;phrase;;;VP;Pred;core;regular;NA;;;
+494597;325579;845899;Psalms;88;5;JRD;qal;;<M&JWRDJ BWR ;phrase;;;PP;Cmpl;complement;NA;*;;;
+495349;328301;-1;Psalms;104;8;JRD;qal;JRDW ;JRDW BQ<WT >L&MQWM ;;;;;;;;;;;
+495349;328301;847758;Psalms;104;8;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+495349;328301;847759;Psalms;104;8;JRD;qal;;BQ<WT ;phrase;;;NP;Subj;core;NA;subject;;;
+495349;328301;847760;Psalms;104;8;JRD;qal;;>L&MQWM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+495697;329659;-1;Psalms;107;23;JRD;qal;JWRDJ ;JWRDJ HJM B>NJWT ;;;;;;;;;;;
+495697;329659;848665;Psalms;107;23;JRD;qal;;JWRDJ ;phrase;;;VP;PreC;core;regular;NA;;;
+495697;329659;848666;Psalms;107;23;JRD;qal;;HJM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+495697;329659;848667;Psalms;107;23;JRD;qal;;B>NJWT ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+495704;329688;-1;Psalms;107;26;JRD;qal;JRDW ;JRDW THWMWT ;;;;;;;;;;;
+495704;329688;848684;Psalms;107;26;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+495704;329688;848685;Psalms;107;26;JRD;qal;;THWMWT ;phrase;;;NP;Cmpl;complement;NA;*;;;
+496033;330874;-1;Psalms;115;17;JRD;qal;JRDJ ;WL> KL&JRDJ DWMH00 ;;;;;;;;;;;
+496033;330874;849489;Psalms;115;17;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+496033;330874;849490;Psalms;115;17;JRD;qal;;L> ;phrase;;;NegP;Nega;NA;NA;NA;;NA;NA
+496033;330874;849491;Psalms;115;17;JRD;qal;;KL&JRDJ DWMH00 ;phrase;;;NP;Subj;core;NA;subject;;;
+496474;332359;-1;Psalms;119;136;JRD;qal;JRDW ;PLGJ&MJM JRDW <JNJ ;;;;;;;;;;;
+496474;332359;850589;Psalms;119;136;JRD;qal;;PLGJ&MJM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+496474;332359;850590;Psalms;119;136;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+496474;332359;850591;Psalms;119;136;JRD;qal;;<JNJ ;phrase;;;NP;Subj;core;NA;subject;;;
+496837;333628;-1;Psalms;133;2;JRD;qal;JRD ;JRD <L&HZQN ZQN&>HRN ;;;;;;;;;;;
+496837;333628;851477;Psalms;133;2;JRD;qal;;JRD ;phrase;;;VP;PreC;core;regular;NA;;;
+496837;333628;851478;Psalms;133;2;JRD;qal;;<L&HZQN ZQN&>HRN ;phrase;;;PP;Cmpl;complement;NA;*;;;
+496838;333635;-1;Psalms;133;2;JRD;qal;JRD ;CJRD <L&PJ MDWTJW00 ;;;;;;;;;;;
+496838;333635;851479;Psalms;133;2;JRD;qal;;C;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+496838;333635;851480;Psalms;133;2;JRD;qal;;JRD ;phrase;;;VP;PreC;core;regular;NA;;;
+496838;333635;851481;Psalms;133;2;JRD;qal;;<L&PJ MDWTJW00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+496840;333643;-1;Psalms;133;3;JRD;qal;JRD ;CJRD <L&HRRJ YJWN ;;;;;;;;;;;
+496840;333643;851483;Psalms;133;3;JRD;qal;;C;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+496840;333643;851484;Psalms;133;3;JRD;qal;;JRD ;phrase;;;VP;PreC;core;regular;NA;;;
+496840;333643;851485;Psalms;133;3;JRD;qal;;<L&HRRJ YJWN ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+497227;335002;-1;Psalms;143;7;JRD;qal;JRDJ ;WNMCLTJ <M&JRDJ BWR00 ;;;;;;;;;;;
+497227;335002;852414;Psalms;143;7;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+497227;335002;852415;Psalms;143;7;JRD;qal;;NMCLTJ ;phrase;;;VP;Pred;core;regular;NA;;;
+497227;335002;852416;Psalms;143;7;JRD;qal;;<M&JRDJ BWR00 ;phrase;;;PP;Cmpl;complement;NA;*;;;
+497264;335114;-1;Psalms;144;5;JRD;qal;TRD ;WTRD ;;;;;;;;;;;
+497264;335114;852498;Psalms;144;5;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+497264;335114;852499;Psalms;144;5;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+497994;337937;-1;Job;7;9;JRD;qal;JWRD ;JWRD C>WL ;;;;;;;;;;;
+497994;337937;854460;Job;7;9;JRD;qal;;JWRD ;phrase;;;VP;PreC;core;regular;NA;;;
+497994;337937;854461;Job;7;9;JRD;qal;;C>WL ;phrase;;;NP;Cmpl;complement;NA;*;;;
+498715;340441;-1;Job;17;16;JRD;qal;TRDNH ;BDJ C>L TRDNH ;;;;;;;;;;;
+498715;340441;856450;Job;17;16;JRD;qal;;BDJ C>L ;phrase;;;NP;Adju;adjunct;NA;NA;;;
+498715;340441;856451;Job;17;16;JRD;qal;;TRDNH ;phrase;;;VP;Pred;core;regular;NA;;;
+499747;344266;-1;Job;33;24;JRD;qal;RDT ;MRDT CXT ;;;;;;;;;;;
+499747;344266;859404;Job;33;24;JRD;qal;;MRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+499747;344266;859405;Job;33;24;JRD;qal;;CXT ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+500473;347037;-1;Proverbs;1;12;JRD;qal;JWRDJ ;WTMJMJM KJWRDJ BWR00 ;;;;;;;;;;;
+500473;347037;861424;Proverbs;1;12;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+500473;347037;861425;Proverbs;1;12;JRD;qal;;TMJMJM ;phrase;;;AdjP;PrAd;adjunct;NA;NA;;;
+500473;347037;861426;Proverbs;1;12;JRD;qal;;KJWRDJ BWR00 ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+500750;348065;-1;Proverbs;5;5;JRD;qal;JRDWT ;RGLJH JRDWT MWT ;;;;;;;;;;;
+500750;348065;862178;Proverbs;5;5;JRD;qal;;RGLJH ;phrase;;;NP;Subj;core;NA;subject;;;
+500750;348065;862179;Proverbs;5;5;JRD;qal;;JRDWT ;phrase;;;VP;PreC;core;regular;NA;;;
+500750;348065;862180;Proverbs;5;5;JRD;qal;;MWT ;phrase;;;NP;Cmpl;complement;NA;*;;;
+500961;348841;-1;Proverbs;7;27;JRD;qal;JRDWT ;JRDWT >L&XDRJ&MWT00_P ;;;;;;;;;;;
+500961;348841;862711;Proverbs;7;27;JRD;qal;;JRDWT ;phrase;;;VP;PreC;core;regular;NA;;;
+500961;348841;862712;Proverbs;7;27;JRD;qal;;>L&XDRJ&MWT00_P ;phrase;;;PP;Cmpl;complement;NA;*;;;
+501725;351688;-1;Proverbs;18;8;JRD;qal;JRDW ;WHM JRDW XDRJ&BVN00 ;;;;;;;;;;;
+501725;351688;864697;Proverbs;18;8;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+501725;351688;864698;Proverbs;18;8;JRD;qal;;HM ;phrase;;;PPrP;Subj;core;NA;subject;;;
+501725;351688;864699;Proverbs;18;8;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+501725;351688;864700;Proverbs;18;8;JRD;qal;;XDRJ&BVN00 ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+501975;352624;-1;Proverbs;21;22;JRD;hif;JRD ;WJRD <Z MBVXH00 ;;;;;;;;;;;
+501975;352624;865329;Proverbs;21;22;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+501975;352624;865330;Proverbs;21;22;JRD;hif;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+501975;352624;865331;Proverbs;21;22;JRD;hif;;<Z MBVXH00 ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+502393;354235;-1;Proverbs;26;22;JRD;qal;JRDW ;WHM JRDW XDRJ&BVN00 ;;;;;;;;;;;
+502393;354235;866432;Proverbs;26;22;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+502393;354235;866433;Proverbs;26;22;JRD;qal;;HM ;phrase;;;PPrP;Subj;core;NA;subject;;;
+502393;354235;866434;Proverbs;26;22;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+502393;354235;866435;Proverbs;26;22;JRD;qal;;XDRJ&BVN00 ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+502641;355151;-1;Proverbs;30;4;JRD;qal;JRD ;WJRD ;;;;;;;;;;;
+502641;355151;867083;Proverbs;30;4;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+502641;355151;867084;Proverbs;30;4;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+503092;356811;-1;Ruth;3;3;JRD;qal;JRDTJ ;WJRDTJ HGRN ;;;;;;;;;;;
+503092;356811;868282;Ruth;3;3;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+503092;356811;868283;Ruth;3;3;JRD;qal;;JRDTJ ;phrase;;;VP;Pred;core;regular;NA;;;
+503092;356811;868284;Ruth;3;3;JRD;qal;;HGRN ;phrase;;;NP;Cmpl;complement;NA;*;;;
+503109;356861;-1;Ruth;3;6;JRD;qal;TRD ;WTRD HGRN ;;;;;;;;;;;
+503109;356861;868322;Ruth;3;6;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+503109;356861;868323;Ruth;3;6;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+503109;356861;868324;Ruth;3;6;JRD;qal;;HGRN ;phrase;;;NP;Cmpl;complement;NA;*;;;
+503600;358698;-1;Song_of_songs;6;2;JRD;qal;JRD ;DWDJ JRD LGNW L<RWGWT HBFM ;;;;;;;;;;;
+503600;358698;869537;Song_of_songs;6;2;JRD;qal;;DWDJ ;phrase;;;NP;Subj;core;NA;subject;;;
+503600;358698;869538;Song_of_songs;6;2;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+503600;358698;869539;Song_of_songs;6;2;JRD;qal;;LGNW L<RWGWT HBFM ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+503600;358698;503601;Song_of_songs;6;2;JRD;qal;;LR<WT BGNJM ;clause;InfC;Adju;;;NA;NA;;;;
+503634;358832;-1;Song_of_songs;6;11;JRD;qal;JRDTJ ;>L&GNT >GWZ JRDTJ ;;;;;;;;;;;
+503634;358832;869620;Song_of_songs;6;11;JRD;qal;;>L&GNT >GWZ ;phrase;;;PP;Cmpl;complement;NA;*;;;
+503634;358832;869621;Song_of_songs;6;11;JRD;qal;;JRDTJ ;phrase;;;VP;Pred;core;regular;NA;;;
+503634;358832;503635;Song_of_songs;6;11;JRD;qal;;LR>WT B>BJ HNXL ;clause;InfC;Adju;;;NA;NA;;;;
+504077;360515;-1;Ecclesiastes;3;21;JRD;qal;JRDT ;HJRDT ;;;;;;;;;;;
+504077;360515;870684;Ecclesiastes;3;21;JRD;qal;;H;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+504077;360515;870685;Ecclesiastes;3;21;JRD;qal;;JRDT ;phrase;;;VP;PreC;core;regular;NA;;;
+504790;363688;-1;Lamentations;1;9;JRD;qal;TRD ;WTRD PL>JM ;;;;;;;;;;;
+504790;363688;872740;Lamentations;1;9;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+504790;363688;872741;Lamentations;1;9;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+504790;363688;872742;Lamentations;1;9;JRD;qal;;PL>JM ;phrase;;;NP;Adju;adjunct;NA;NA;;;
+504833;363824;-1;Lamentations;1;16;JRD;qal;JRDH ;<JNJ05 <JNJ JRDH MJM ;;;;;;;;;;;
+504833;363824;872845;Lamentations;1;16;JRD;qal;;<JNJ05 <JNJ ;phrase;;;NP;Subj;core;NA;subject;;;
+504833;363824;872846;Lamentations;1;16;JRD;qal;;JRDH ;phrase;;;VP;PreC;core;regular;NA;;;
+504833;363824;872847;Lamentations;1;16;JRD;qal;;MJM ;phrase;;;NP;Cmpl;complement;NA;*;;;
+504921;364173;-1;Lamentations;2;10;JRD;hif;HWRJDW ;HWRJDW L>RY R>CN BTWLT JRWCLM00_S ;;;;;;;;;;;
+504921;364173;873088;Lamentations;2;10;JRD;hif;;HWRJDW ;phrase;;;VP;Pred;core;regular;NA;;;
+504921;364173;873089;Lamentations;2;10;JRD;hif;;L>RY ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+504921;364173;873090;Lamentations;2;10;JRD;hif;;R>CN ;phrase;;;NP;Objc;complement;NA;principal_direct_object;;;
+504921;364173;873091;Lamentations;2;10;JRD;hif;;BTWLT JRWCLM00_S ;phrase;;;NP;Subj;core;NA;subject;;;
+504968;364345;-1;Lamentations;2;18;JRD;hif;HWRJDJ ;HWRJDJ KNXL DM<H JWMM WLJLH ;;;;;;;;;;;
+504968;364345;873204;Lamentations;2;18;JRD;hif;;HWRJDJ ;phrase;;;VP;Pred;core;regular;NA;;;
+504968;364345;873205;Lamentations;2;18;JRD;hif;;KNXL ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+504968;364345;873206;Lamentations;2;18;JRD;hif;;DM<H ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+504968;364345;873207;Lamentations;2;18;JRD;hif;;JWMM WLJLH ;phrase;;;AdvP;Time;adjunct;NA;NA;;time;time
+505088;364814;-1;Lamentations;3;48;JRD;qal;TRD ;PLGJ&MJM TRD <JNJ <L&CBR BT&<MJ00_S ;;;;;;;;;;;
+505088;364814;873513;Lamentations;3;48;JRD;qal;;PLGJ&MJM ;phrase;;;NP;Objc;complement;NA;direct_object;;;
+505088;364814;873514;Lamentations;3;48;JRD;qal;;TRD ;phrase;;;VP;Pred;core;regular;NA;;;
+505088;364814;873515;Lamentations;3;48;JRD;qal;;<JNJ ;phrase;;;NP;Subj;core;NA;subject;;;
+505088;364814;873516;Lamentations;3;48;JRD;qal;;<L&CBR BT&<MJ00_S ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+508767;384573;-1;Nehemiah;3;15;JRD;qal;JWRDWT ;HJWRDWT M<JR DWJD00_S ;;;;;;;;;;;
+508767;384573;884345;Nehemiah;3;15;JRD;qal;;H;phrase;;;CP;Rela;NA;NA;NA;;NA;NA
+508767;384573;884346;Nehemiah;3;15;JRD;qal;;JWRDWT ;phrase;;;VP;PreC;core;regular;NA;;;
+508767;384573;884347;Nehemiah;3;15;JRD;qal;;M<JR DWJD00_S ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+509007;385974;-1;Nehemiah;6;3;JRD;qal;RDT ;LRDT ;;;;;;;;;;;
+509007;385974;885085;Nehemiah;6;3;JRD;qal;;LRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+509010;385983;-1;Nehemiah;6;3;JRD;qal;JRDTJ ;WJRDTJ >LJKM00 ;;;;;;;;;;;
+509010;385983;885091;Nehemiah;6;3;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+509010;385983;885092;Nehemiah;6;3;JRD;qal;;JRDTJ ;phrase;;;VP;Pred;core;regular;NA;;;
+509010;385983;885093;Nehemiah;6;3;JRD;qal;;>LJKM00 ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+509346;388040;-1;Nehemiah;9;13;JRD;qal;JRDT ;W<L HR&SJNJ JRDT ;;;;;;;;;;;
+509346;388040;886003;Nehemiah;9;13;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+509346;388040;886004;Nehemiah;9;13;JRD;qal;;<L HR&SJNJ ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+509346;388040;886005;Nehemiah;9;13;JRD;qal;;JRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+510439;395307;-1;1_Chronicles;7;21;JRD;qal;JRDW ;KJ JRDW ;;;;;;;;;;;
+510439;395307;889093;1_Chronicles;7;21;JRD;qal;;KJ ;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+510439;395307;889094;1_Chronicles;7;21;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+510439;395307;510440;1_Chronicles;7;21;JRD;qal;;LQXT >T&MQNJHM00 ;clause;InfC;Adju;;;NA;NA;;;;
+510755;397287;-1;1_Chronicles;11;15;JRD;qal;JRDW ;WJRDW CLWCH MN&HCLWCJM R>C <L&HYR >L&DWJD >L&M<RT <DLM ;;;;;;;;;;;
+510755;397287;890019;1_Chronicles;11;15;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+510755;397287;890020;1_Chronicles;11;15;JRD;qal;;JRDW ;phrase;;;VP;Pred;core;regular;NA;;;
+510755;397287;890021;1_Chronicles;11;15;JRD;qal;;CLWCH MN&HCLWCJM R>C ;phrase;;;NP;Subj;core;NA;subject;;;
+510755;397287;890022;1_Chronicles;11;15;JRD;qal;;<L&HYR ;phrase;;;PP;Cmpl;complement;NA;*;;;
+510755;397287;890023;1_Chronicles;11;15;JRD;qal;;>L&DWJD ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+510755;397287;890024;1_Chronicles;11;15;JRD;qal;;>L&M<RT <DLM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+510788;397461;-1;1_Chronicles;11;22;JRD;qal;JRD ;WHW> JRD ;;;;;;;;;;;
+510788;397461;890121;1_Chronicles;11;22;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+510788;397461;890122;1_Chronicles;11;22;JRD;qal;;HW> ;phrase;;;PPrP;Subj;core;NA;subject;;;
+510788;397461;890123;1_Chronicles;11;22;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+510792;397499;-1;1_Chronicles;11;23;JRD;qal;JRD ;WJRD >LJW BCBV ;;;;;;;;;;;
+510792;397499;890137;1_Chronicles;11;23;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+510792;397499;890138;1_Chronicles;11;23;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+510792;397499;890139;1_Chronicles;11;23;JRD;qal;;>LJW ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+510792;397499;890140;1_Chronicles;11;23;JRD;qal;;BCBV ;phrase;;;PP;Adju;adjunct;NA;NA;;;
+512898;410019;-1;2_Chronicles;7;1;JRD;qal;JRDH ;WH>C JRDH MHCMJM ;;;;;;;;;;;
+512898;410019;896238;2_Chronicles;7;1;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+512898;410019;896239;2_Chronicles;7;1;JRD;qal;;H>C ;phrase;;;NP;Subj;core;NA;subject;;;
+512898;410019;896240;2_Chronicles;7;1;JRD;qal;;JRDH ;phrase;;;VP;Pred;core;regular;NA;;;
+512898;410019;896241;2_Chronicles;7;1;JRD;qal;;MHCMJM ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+512905;410060;-1;2_Chronicles;7;3;JRD;qal;RDT ;BRDT H>C WKBWD JHWH <L&HBJT ;;;;;;;;;;;
+512905;410060;896262;2_Chronicles;7;3;JRD;qal;;BRDT ;phrase;;;VP;Pred;core;regular;NA;;;
+512905;410060;896263;2_Chronicles;7;3;JRD;qal;;H>C WKBWD JHWH ;phrase;;;NP;Subj;core;NA;subject;;;
+512905;410060;896264;2_Chronicles;7;3;JRD;qal;;<L&HBJT ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
+513696;414936;-1;2_Chronicles;18;2;JRD;qal;JRD ;WJRD LQY CNJM >L&>X>B LCMRWN ;;;;;;;;;;;
+513696;414936;898746;2_Chronicles;18;2;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+513696;414936;898747;2_Chronicles;18;2;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+513696;414936;898748;2_Chronicles;18;2;JRD;qal;;LQY CNJM ;phrase;;;PP;Time;adjunct;NA;NA;;time;time
+513696;414936;898749;2_Chronicles;18;2;JRD;qal;;>L&>X>B ;phrase;;;PP;Cmpl;complement;NA;indirect_object;;;
+513696;414936;898750;2_Chronicles;18;2;JRD;qal;;LCMRWN ;phrase;;;PP;Cmpl;complement;NA;L_object;*;;
+513986;416322;-1;2_Chronicles;20;16;JRD;qal;RDW ;MXR RDW <LJHM ;;;;;;;;;;;
+513986;416322;899574;2_Chronicles;20;16;JRD;qal;;MXR ;phrase;;;AdvP;Time;adjunct;NA;NA;;time;time
+513986;416322;899575;2_Chronicles;20;16;JRD;qal;;RDW ;phrase;;;VP;Pred;core;regular;NA;;;
+513986;416322;899576;2_Chronicles;20;16;JRD;qal;;<LJHM ;phrase;;;PP;Cmpl;complement;NA;*;;;
+514183;417413;-1;2_Chronicles;22;6;JRD;qal;JRD ;W<ZRJHW BN&JHWRM MLK JHWDH JRD ;;;;;;;;;;;
+514183;417413;900170;2_Chronicles;22;6;JRD;qal;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+514183;417413;900171;2_Chronicles;22;6;JRD;qal;;<ZRJHW BN&JHWRM MLK JHWDH ;phrase;;;PrNP;Subj;core;NA;subject;;;
+514183;417413;900172;2_Chronicles;22;6;JRD;qal;;JRD ;phrase;;;VP;Pred;core;regular;NA;;;
+514183;417413;514184;2_Chronicles;22;6;JRD;qal;;LR>WT >T&JHWRM BN&>X>B BJZR<>L ;clause;InfC;Adju;;;NA;NA;;;;
+514308;418175;-1;2_Chronicles;23;20;JRD;hif;JWRD ;WJWRD >T&HMLK MBJT JHWH ;;;;;;;;;;;
+514308;418175;900542;2_Chronicles;23;20;JRD;hif;;W;phrase;;;CP;Conj;NA;NA;NA;;NA;NA
+514308;418175;900543;2_Chronicles;23;20;JRD;hif;;JWRD ;phrase;;;VP;Pred;core;regular;NA;;;
+514308;418175;900544;2_Chronicles;23;20;JRD;hif;;>T&HMLK ;phrase;;;PP;Objc;complement;NA;direct_object;;;
+514308;418175;900545;2_Chronicles;23;20;JRD;hif;;MBJT JHWH ;phrase;;;PP;Cmpl;complement;NA;*;;location;location
