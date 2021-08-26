@@ -1,21 +1,27 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[ ]:
+
+
+
+
+
 # <img align="right" src="images/dans-small.png"/>
 # <img align="right" src="images/tf-small.png"/>
 # <img align="right" src="images/etcbc.png"/>
-#
-#
+# 
+# 
 # # Corrections and enrichment
-#
+# 
 # In order to do
 # [verbal valence analysis](flowchart.ipynb)
 # on verbs, we need to correct some coding errors.
-#
+# 
 # We also need to enrich constituents surrounding the
 # verb occurrences with higher level features, that can be used
 # as input for the flow chart decisions.
-#
+# 
 # Read more in the [wiki](https://github.com/ETCBC/valence/wiki/Workflows).
 
 # # Pipeline
@@ -31,19 +37,21 @@
 # It should be possible to identify the material in those sheets on the basis of
 # book, chapter and verse info.
 # But we leave that as an exercise to posterity.
-#
-#
+# 
+# 
 # For all other versions, we keep the mechanism in place, but for now we work with zero manual input
 # for those versions.
-#
+# 
 # As far as *corrections* are concerned: we expect to see them turn up in the continuous version `c`
 # of the core [BHSA](https://github.com/ETCBC/bhsa) data.
-#
+# 
 # As far as *enrichments* are concerned: there are very few manual enrichments.
 # Most of the cases are handled by the algorithm in the notebook.
-#
+# 
 # We recommend to harvest exceptions in the notebook itself, it has already a mechanism to apply
 # verb specific logic.
+
+# In[ ]:
 
 
 import sys
@@ -54,6 +62,9 @@ import utils
 from tf.fabric import Fabric
 
 
+# In[ ]:
+
+
 if "SCRIPT" not in locals():
     SCRIPT = False
     FORCE = True
@@ -62,58 +73,77 @@ if "SCRIPT" not in locals():
     VERSION = "2021"
 
 
+# In[1]:
+
+
 def stop(good=False):
     if SCRIPT:
         sys.exit(0 if good else 1)
 
 
 # ## Authors
-#
+# 
 # [Janet Dyk and Dirk Roorda](https://github.com/ETCBC/valence/wiki/Authors)
-#
+# 
 # Last modified 2017-09-13.
 
 # ## References
-#
+# 
 # [References](https://github.com/ETCBC/valence/wiki/References)
 
 # ## Data
 # We have carried out the valence project against the Hebrew Text Database BHSA, version `4b`.
 # See the description of the [sources](https://github.com/ETCBC/valence/wiki/Sources).
-#
+# 
 # However, we can run our stuff also against the newer versions.
 
 # ## Implementation
-#
+# 
 # Start the engines. We use the Python package
 # [text-fabric](https://github.com/Dans-labs/text-fabric)
 # to process the data of the Hebrew Text Database smoothly and efficiently.
 
 # # Setting up the context: source file and target directories
-#
+# 
 # The conversion is executed in an environment of directories, so that sources, temp files and
 # results are in convenient places and do not have to be shifted around.
 
 # In[3]:
+
+# In[ ]:
 
 
 repoBase = os.path.expanduser("~/github/etcbc")
 coreRepo = "{}/{}".format(repoBase, CORE_NAME)
 thisRepo = "{}/{}".format(repoBase, NAME)
 
+
+# In[ ]:
+
+
 coreTf = "{}/tf/{}".format(coreRepo, VERSION)
+
+
+# In[ ]:
+
 
 thisSource = "{}/source/{}".format(thisRepo, VERSION)
 thisTemp = "{}/_temp/{}".format(thisRepo, VERSION)
 thisTempTf = "{}/tf".format(thisTemp)
 
+
+# In[3]:
+
+
 thisTf = "{}/tf/{}".format(thisRepo, VERSION)
 
 
 # # Test
-#
+# 
 # Check whether this conversion is needed in the first place.
 # Only when run as a script.
+
+# In[4]:
 
 # In[4]:
 
@@ -130,8 +160,10 @@ if SCRIPT:
 
 
 # # Loading the feature data
-#
+# 
 # We load the features we need from the BHSA core database.
+
+# In[5]:
 
 # In[5]:
 
@@ -141,6 +173,8 @@ TF = Fabric(locations=coreTf, modules=[""])
 
 
 # We instruct the API to load data.
+
+# In[6]:
 
 # In[6]:
 
@@ -160,12 +194,18 @@ api.makeAvailableIn(globals())
 
 # In[7]:
 
+# In[ ]:
+
 
 linkShebanq = "https://shebanq.ancient-data.org/hebrew/text"
 linkPassage = "?book={}&chapter={}&verse={}"
 linkAppearance = "&version={}&mr=m&qw=n&tp=txt_tb1&tr=hb&wget=x&qget=v&nget=x".format(
     VERSION
 )
+
+
+# In[ ]:
+
 
 resultDir = "{}/results".format(thisTemp)
 allResults = "{}/all.csv".format(resultDir)
@@ -181,6 +221,9 @@ if not os.path.exists(resultDir):
     os.makedirs(resultDir)
 
 
+# In[7]:
+
+
 def vfile(verb, kind):
     if kind not in kinds:
         utils.caption(0, "ERROR: Unknown kind `{}`".format(kind))
@@ -193,10 +236,12 @@ def vfile(verb, kind):
 # Here is a subset of verbs that interest us.
 # In fact, we are interested in all verbs, but we have subjected the occurrences of these verbs to closer inspection,
 # together with the contexts they occur in.
-#
+# 
 # Manual additions in the correction and enrichment workflow can only happen for selected verbs.
 
 # In[8]:
+
+# In[ ]:
 
 
 verbs_initial = set(
@@ -206,6 +251,10 @@ verbs_initial = set(
     QR>
 """.strip().split()
 )
+
+
+# In[ ]:
+
 
 motion_verbs = set(
     """
@@ -222,6 +271,10 @@ motion_verbs = set(
 """.strip().split()
 )
 
+
+# In[ ]:
+
+
 double_object_verbs = set(
     """
     NTN
@@ -230,6 +283,10 @@ double_object_verbs = set(
 """.strip().split()
 )
 
+
+# In[ ]:
+
+
 complex_qal_verbs = set(
     """
     NF>
@@ -237,16 +294,22 @@ complex_qal_verbs = set(
 """.strip().split()
 )
 
+
+# In[8]:
+
+
 verbs = verbs_initial | motion_verbs | double_object_verbs | complex_qal_verbs
 
 
 # # 1. Correction workflow
-#
+# 
 # ## 1.1 Phrase function
-#
+# 
 # We need to correct some values of the phrase function.
 # When we receive the corrections, we check whether they have legal values.
 # Here we look up the possible values.
+
+# In[9]:
 
 # In[9]:
 
@@ -263,6 +326,8 @@ predicate_functions = {
 
 # In[10]:
 
+# In[10]:
+
 
 legal_values = dict(
     function={F.function.v(p) for p in F.otype.s("phrase")},
@@ -271,6 +336,8 @@ legal_values = dict(
 
 # We generate a list of occurrences of those verbs, organized by the lexeme of the verb.
 # We need some extra values, to indicate other coding errors.
+
+# In[11]:
 
 # In[11]:
 
@@ -286,6 +353,8 @@ error_values = dict(
 
 # In[12]:
 
+# In[12]:
+
 
 for feature in set(legal_values.keys()) | set(error_values.keys()):
     ev = error_values.get(feature, {})
@@ -295,6 +364,8 @@ for feature in set(legal_values.keys()) | set(error_values.keys()):
 if not SCRIPT:
     utils.caption(0, "{}".format(legal_values))
 
+
+# In[13]:
 
 # In[13]:
 
@@ -323,6 +394,10 @@ sel_verb_clause_index = collections.defaultdict(
     list
 )  # mapping from selected verbs to the clauses of which it is main verb
 
+
+# In[ ]:
+
+
 nw = 0
 sel_nw = 0
 for w in F.otype.s("word"):
@@ -343,10 +418,18 @@ for w in F.otype.s("word"):
         sel_clause_verb[cn].append(w)
         sel_clause_verb_index[cn].add(lex)
 
+
+# In[ ]:
+
+
 sel_verb_clause_index = dict(
     (lex, cns) for (lex, cns) in verb_clause_index.items() if lex in verbs
 )
 sel_clause_verb
+
+
+# In[ ]:
+
 
 utils.caption(0, "\tDone")
 utils.caption(
@@ -361,6 +444,10 @@ utils.caption(
         len(sel_verb_clause_index), sel_nw, len(sel_clause_verb)
     ),
 )
+
+
+# In[ ]:
+
 
 for verb in sorted(verbs):
     utils.caption(
@@ -377,7 +464,7 @@ for verb in sorted(verbs):
 # Generate correction sheets.
 # They are CSV files. Every row corresponds to a verb occurrence.
 # The fields per row are the node numbers of the clause in which the verb occurs, the node number of the verb occurrence, the text of the verb occurrence (in ETCBC transliteration, consonantal) a passage label (book, chapter, verse), and then 4 columns for each phrase in the clause:
-#
+# 
 # * phrase node number
 # * phrase text (ETCBC transliterated consonantal)
 # * original value of the `function` feature
@@ -385,12 +472,21 @@ for verb in sorted(verbs):
 
 # In[14]:
 
+# In[ ]:
+
 
 utils.caption(4, "Generating blank correction sheets ...")
 sheetKind = "corr_blank"
 utils.caption(0, "\tas {}".format(vfile("{verb}", sheetKind)[1]))
 
+
+# In[ ]:
+
+
 phrases_seen = collections.Counter()
+
+
+# In[ ]:
 
 
 def gen_sheet(verb):
@@ -456,8 +552,15 @@ def gen_sheet(verb):
     utils.caption(0, "\t\tfor verb {}".format(baseName))
 
 
+# In[ ]:
+
+
 for verb in verbs:
     gen_sheet(verb)
+
+
+# In[14]:
+
 
 stats = collections.Counter()
 for (p, times) in phrases_seen.items():
@@ -474,13 +577,22 @@ utils.caption(0, "\tTotal phrases seen: {}".format(len(phrases_seen)))
 
 # In[15]:
 
+# In[ ]:
+
 
 utils.caption(4, "Processing filled correction sheets ...")
 sheetKind = "corr_filled"
 utils.caption(0, "\tas {}".format(vfile("{verb}", sheetKind)[1]))
 
+
+# In[ ]:
+
+
 phrases_seen = collections.Counter()
 pf_corr = {}
+
+
+# In[ ]:
 
 
 def read_corr():
@@ -582,7 +694,14 @@ def read_corr():
     )
 
 
+# In[ ]:
+
+
 read_corr()
+
+
+# In[15]:
+
 
 stats = collections.Counter()
 for (p, times) in phrases_seen.items():
@@ -593,8 +712,10 @@ utils.caption(0, "\tTotal phrases seen: {}".format(len(phrases_seen)))
 
 
 # # 2. Enrichment workflow
-#
+# 
 # We create blank sheets for new feature assignments, based on the corrected data.
+
+# In[16]:
 
 # In[16]:
 
@@ -665,6 +786,8 @@ for (ef, fields) in sorted(enrich_fields.items()):
 
 # In[17]:
 
+# In[17]:
+
 
 enrich_baseline_rules = dict(
     phrase="""Adju	Adjunct	adjunct	NA	NA			
@@ -704,11 +827,17 @@ InfC	Infinitive Construct clause	NA	NA				""",  # noqa W291
 
 # In[18]:
 
+# In[ ]:
+
 
 utils.caption(4, "\tChecking enrich baseline rules")
 transform = collections.OrderedDict((("phrase", {}), ("clause", {})))
 errors = 0
 good = 0
+
+
+# In[18]:
+
 
 for kind in ("phrase", "clause"):
     for line in enrich_baseline_rules[kind].split("\n"):
@@ -749,6 +878,8 @@ else:
 
 # In[19]:
 
+# In[19]:
+
 
 if not SCRIPT:
     ltpl = "{:<8}: " + ("{:<15}" * nef)
@@ -763,19 +894,21 @@ if not SCRIPT:
 
 
 # ## 2.1 Enrichment logic
-#
+# 
 # We apply enrichment logic to *all* verbs, not only to selected verbs.
 # But only selected verbs can receive manual enrichment enhancements.
-#
+# 
 # For some verbs, selected or not, additional logic specific to that verb can be specified.
 
 # ## 2.2 Direct objects
-#
+# 
 # We have to do some work to identify (multiple) direct objects and indirect objects.
-#
+# 
 # [More on direct objects](https://github.com/ETCBC/valence/wiki/Discussion#direct-objects)
 
 # In[20]:
+
+# In[ ]:
 
 
 objectfuncs = set(
@@ -784,11 +917,19 @@ Objc PreO PtcO
 """.strip().split()
 )
 
+
+# In[ ]:
+
+
 cmpl_as_obj_preps = set(
     """
 K L
 """.strip().split()
 )
+
+
+# In[20]:
+
 
 no_prs = set(
     """
@@ -796,6 +937,8 @@ absent n/a
 """.strip().split()
 )
 
+
+# In[21]:
 
 # In[21]:
 
@@ -826,6 +969,8 @@ ZRW</
 
 # In[24]:
 
+# In[ ]:
+
 
 utils.caption(4, "Finding direct objects and determining the principal one")
 clause_objects = collections.defaultdict(set)
@@ -842,6 +987,9 @@ object_kinds = (
 )
 
 
+# In[ ]:
+
+
 def is_marked(phr):
     # simple criterion for determining whether a direct object is marked:
     # has it the object marker somewhere?
@@ -852,6 +1000,9 @@ def is_marked(phr):
             has_et = True
             break
     return has_et
+
+
+# In[ ]:
 
 
 for c in clause_verb:
@@ -970,7 +1121,15 @@ for c in clause_verb:
         if n:
             objects[kind] |= these_objects[kind]
 
+
+# In[36]:
+
+
 utils.caption(0, "\tDone")
+
+
+# In[24]:
+
 
 for kind in object_kinds:
     total = 0
@@ -989,29 +1148,31 @@ for kind in object_kinds:
 
 
 # ## 2.3 Indirect objects
-#
+# 
 # The BHSA database has not feature that marks indirect objects.
 # We will use computation to determine whether a complement is an indirect object or a locative.
 # This computation is just an approximation.
-#
+# 
 # [More on indirect objects](https://github.com/ETCBC/valence/wiki/Discussion#indirect-objects)
-#
+# 
 # ### The decision
-#
+# 
 # We take a decision as follows.
 # Based on indicators $ind$ and $loc$ that are proxies for the degree in which the complement is an indirect object or a locative, we arrive at a decision $L$ (complement is *locative*) or $I$ (complement is *indirect object*) or $C$ (complement is neither *locative* nor *indirect object*) as follows:
-#
+# 
 # (1) $ loc > 0 \wedge ind = 0 \Rightarrow L $
-#
+# 
 # (2) $ loc = 0 \wedge ind > 0 \Rightarrow I $
-#
+# 
 # (3) $ loc > 0 \wedge ind > 0 \wedge\ loc - 1 > ind \Rightarrow L$
-#
+# 
 # (4) $ loc > 0 \wedge ind > 0 \wedge\ loc + 1 < ind \Rightarrow I$
-#
+# 
 # (5) $ loc > 0 \wedge ind > 0 \wedge |ind - loc| <= 1 \Rightarrow C$
 
 # In[25]:
+
+# In[ ]:
 
 
 complfuncs = set(
@@ -1020,12 +1181,18 @@ Cmpl PreC
 """.strip().split()
 )
 
+
+# In[25]:
+
+
 cmpl_as_iobj_preps = set(
     """
 L >L
 """.strip().split()
 )
 
+
+# In[26]:
 
 # In[26]:
 
@@ -1047,6 +1214,10 @@ TJMN/ TXT/ TXWT/
 YPWN/
 """.strip().split()
 )
+
+
+# In[ ]:
+
 
 personal_lexemes = set(
     """
@@ -1089,16 +1260,30 @@ ZKWR/ ZMR=/ ZR</
 
 # In[27]:
 
+# In[ ]:
+
 
 utils.caption(4, "Determinig kind of complements")
+
+
+# In[ ]:
+
 
 complements_c = collections.defaultdict(lambda: collections.defaultdict(lambda: []))
 complements = {}
 complementk = {}
 kcomplements = collections.Counter()
 
+
+# In[ ]:
+
+
 nphrases = 0
 ncomplements = 0
+
+
+# In[ ]:
+
 
 for c in clause_verb:
     for p in L.d(c, "phrase"):
@@ -1162,6 +1347,10 @@ for c in clause_verb:
         complements_c[c][ckind].append(p)
         complements[p] = (pf, ckind)
 
+
+# In[27]:
+
+
 utils.caption(0, "\tDone")
 for (label, n) in sorted(kcomplements.items(), key=lambda y: -y[1]):
     utils.caption(0, "\tPhrases of kind {:<2}: {:>6}".format(label, n))
@@ -1171,10 +1360,15 @@ utils.caption(0, "\tTotal phrases     : {:>6}".format(nphrases))
 
 # In[28]:
 
+# In[ ]:
+
 
 def has_L(vl, pn):
     words = L.d(pn, "word")
     return len(words) > 0 and F.lex.v(words[0] == "L")
+
+
+# In[ ]:
 
 
 def is_lex_personal(vl, pn):
@@ -1184,9 +1378,15 @@ def is_lex_personal(vl, pn):
     )
 
 
+# In[ ]:
+
+
 def is_lex_local(vl, pn):
     words = L.d(pn, "word")
     return len({F.lex.v(w) for w in words} & locative_lexemes) > 0
+
+
+# In[28]:
 
 
 def has_H_locale(vl, pn):
@@ -1195,11 +1395,13 @@ def has_H_locale(vl, pn):
 
 
 # ## 2.4 Generic logic
-#
+# 
 # This is the function that applies the generic rules about (in)direct objects and locatives.
 # It takes a phrase node and a set of new label values, and modifies those values.
 
 # In[29]:
+
+# In[ ]:
 
 
 grule_as_str = {
@@ -1221,13 +1423,22 @@ grule_as_str = {
 }
 
 
+# In[ ]:
+
+
 def rule_as_str_g(x, i):
     return "{}-{}".format(i, grule_as_str[i])
+
+
+# In[ ]:
 
 
 rule_as_str = dict(
     generic=rule_as_str_g,
 )
+
+
+# In[ ]:
 
 
 def generic_logic_p(pn, values):
@@ -1286,6 +1497,9 @@ def generic_logic_p(pn, values):
     return gl
 
 
+# In[ ]:
+
+
 def generic_logic_c(cn, values):
     gl = None
     if cn in objects["clause"]:
@@ -1307,6 +1521,9 @@ def generic_logic_c(cn, values):
     return gl
 
 
+# In[29]:
+
+
 generic_logic = dict(
     phrase=generic_logic_p,
     clause=generic_logic_c,
@@ -1314,17 +1531,19 @@ generic_logic = dict(
 
 
 # ## 2.5 Verb specific rules
-#
+# 
 # The verb-specific enrichment rules are stored in a dictionary, keyed  by the verb lexeme.
 # The rule itself is a list of items.
-#
+# 
 # The last item is a tuple of conditions that need to be fulfilled to apply the rule.
-#
+# 
 # A condition can take the shape of
-#
+# 
 # * a function, taking a phrase or clause node as argument and returning a boolean value
 # * an BHSA feature for phrases or clauses : value,
 #   which is true if and only if that feature has that value for the phrase or clause in question
+
+# In[30]:
 
 # In[30]:
 
@@ -1355,8 +1574,13 @@ enrich_logic = dict(
 
 # In[31]:
 
+# In[ ]:
+
 
 rule_index = collections.defaultdict(lambda: [])
+
+
+# In[ ]:
 
 
 def rule_as_str_s(vl, i):
@@ -1376,7 +1600,13 @@ def rule_as_str_s(vl, i):
     return "{}{}\n\tTHEN\n{}".format(label, rule, "".join(ass))
 
 
+# In[ ]:
+
+
 rule_as_str["specific"] = rule_as_str_s
+
+
+# In[ ]:
 
 
 def check_logic():
@@ -1446,13 +1676,21 @@ def check_logic():
         utils.caption(0, "\tAll {} rules OK".format(nrules))
 
 
+# In[31]:
+
+
 check_logic()
 
 
 # In[32]:
 
+# In[ ]:
+
 
 rule_cases = collections.defaultdict(lambda: collections.defaultdict(lambda: {}))
+
+
+# In[32]:
 
 
 def apply_logic(kind, vl, n, init_values):
@@ -1487,21 +1725,30 @@ def apply_logic(kind, vl, n, init_values):
 
 
 # # 2.6 Generate enrichments
-#
+# 
 # First we generate enriched values for all relevant phrases.
 # The generated enrichment values are computed on the basis of generic logic.
 # Additionally, verb-bound logic is applied, if it has been specified.
-#
+# 
 # We store the enriched features in a dictionary, first keyed by the type of constituent that
 # receives the enrichments (`phrase` or `clause`), and then by the node number of the constituent.
 
 # In[33]:
 
+# In[ ]:
+
 
 utils.caption(4, "Generating enrichments")
 
+
+# In[ ]:
+
+
 seen = collections.defaultdict(collections.Counter)
 enrichFields = dict()
+
+
+# In[ ]:
 
 
 def gen_enrich(verb):
@@ -1526,6 +1773,9 @@ def gen_enrich(verb):
             )
 
 
+# In[33]:
+
+
 for verb in verb_clause_index:
     gen_enrich(verb)
 utils.caption(
@@ -1536,8 +1786,14 @@ utils.caption(0, "\tEnriched values for {:>5} nodes".format(len(enrichFields)))
 
 # In[34]:
 
+# In[ ]:
+
 
 utils.caption(0, "\tOverview of rule applications:")
+
+
+# In[ ]:
+
 
 for scope in rule_cases:
     totalscope = 0
@@ -1571,6 +1827,10 @@ for scope in rule_cases:
         utils.caption(0, "{:>6} {}-{} rule applications".format(totalkind, scope, kind))
     utils.caption(0, "{:>6} {} rule applications".format(totalscope, scope))
 
+
+# In[34]:
+
+
 for kind in seen:
     stats = collections.Counter()
     for (node, times) in seen[kind].items():
@@ -1584,6 +1844,8 @@ for kind in seen:
 # For selected verbs, we write the enrichments to spreadsheets.
 
 # In[35]:
+
+# In[ ]:
 
 
 COMMON_FIELDS = """
@@ -1600,15 +1862,27 @@ COMMON_FIELDS = """
     constituent
 """.strip().split()
 
+
+# In[ ]:
+
+
 PHRASE_FIELDS = """
     type
     function
 """.strip().split()
 
+
+# In[ ]:
+
+
 CLAUSE_FIELDS = """
     type
     rela
 """.strip().split()
+
+
+# In[35]:
+
 
 field_names = COMMON_FIELDS + CLAUSE_FIELDS + PHRASE_FIELDS + list(enrich_fields)
 pfillrows = len(CLAUSE_FIELDS)
@@ -1620,10 +1894,15 @@ if not SCRIPT:
 
 # In[36]:
 
+# In[ ]:
+
 
 utils.caption(4, "Generate blank enrichment sheets")
 sheetKind = "enrich_blank"
 utils.caption(0, "\tas {}".format(vfile("{verb}", sheetKind)[1]))
+
+
+# In[ ]:
 
 
 def gen_sheet_enrich(verb):
@@ -1698,11 +1977,20 @@ def gen_sheet_enrich(verb):
     utils.caption(0, "\t\tfor verb {} ({:>5} rows)".format(verb, len(rows)))
 
 
+# In[ ]:
+
+
 for verb in verbs:
     gen_sheet_enrich(verb)
 
+
+# In[ ]:
+
+
 utils.caption(0, "\tDone")
 
+
+# In[37]:
 
 # In[37]:
 
@@ -1727,6 +2015,8 @@ def showcase(n):
 
 # In[38]:
 
+# In[38]:
+
 
 if not SCRIPT:
     showcase(654844)
@@ -1735,6 +2025,8 @@ if not SCRIPT:
 
 
 # In[39]:
+
+# In[ ]:
 
 
 def check_h(vl, show_results=False):
@@ -1771,6 +2063,9 @@ def check_h(vl, show_results=False):
             )
 
 
+# In[39]:
+
+
 if not SCRIPT:
     check_h("BW>", show_results=True)
 
@@ -1778,10 +2073,12 @@ if not SCRIPT:
 # It would be handy to generate an informational spreadsheet that shows all these cases.
 
 # ## 2.6 Process the filled in enrichments
-#
+# 
 # We read the enrichments, and perform some consistency checks.
 # If the filled-in sheet does not exist, we take the blank sheet, with the default assignment of the new features.
 # If a phrase got conflicting features, because it occurs in sheets for multiple verbs, the values in the filled-in sheet take precedence over the values in the blank sheet. If both occur in a filled in sheet, a warning will be issued.
+
+# In[43]:
 
 # In[43]:
 
@@ -2095,14 +2392,22 @@ def read_enrich():
 
 # In[44]:
 
+# In[ ]:
+
 
 utils.caption(4, "Processing enrichment sheets ...")
 sheetKind = "enrich_filled"
+
+
+# In[44]:
+
 
 utils.caption(0, "\tas {}".format(vfile("{verb}", sheetKind)[1]))
 objects_seen = collections.defaultdict(collections.Counter)
 sheetResults = read_enrich()
 
+
+# In[45]:
 
 # In[45]:
 
@@ -2113,12 +2418,16 @@ if not SCRIPT:
 
 # In[46]:
 
+# In[46]:
+
 
 if not SCRIPT:
     sheetResults[0:10]
 
 
 # Combine the sheet results with the generic results in one single dictionary, keyed by node number.
+
+# In[47]:
 
 # In[47]:
 
@@ -2139,13 +2448,19 @@ utils.caption(0, "\tResulting in annotations for {} nodes".format(len(allResults
 
 
 # # 3 Generate data
-#
+# 
 # We write the correction and enrichment data as a data module in text-fabric format.
 
 # In[48]:
 
+# In[ ]:
+
 
 newFeatures = list(enrich_fields.keys()) + ["function", "f_correction", "s_manual"]
+
+
+# In[ ]:
+
 
 description = dict(
     title="Correction and enrichment features",
@@ -2157,6 +2472,10 @@ description = dict(
     coreData="BHSA",
     coreVersion=VERSION,
 )
+
+
+# In[ ]:
+
 
 metaData = {
     "": description,
@@ -2189,14 +2508,24 @@ metaData = {
     },
 }
 
+
+# In[48]:
+
+
 for f in newFeatures:
     metaData[f]["valueType"] = "str"
 
 
 # In[49]:
 
+# In[ ]:
+
 
 nodeFeatures = dict()
+
+
+# In[ ]:
+
 
 for (node, featureVals) in allResults.items():
     for (fName, fVal) in zip(newFeatures, featureVals):
@@ -2204,6 +2533,10 @@ for (node, featureVals) in allResults.items():
         if type(fVal) is bool:
             fValRep = "y" if fVal else ""
         nodeFeatures.setdefault(fName, {})[node] = fValRep
+
+
+# In[49]:
+
 
 RENAMES = [("function", "cfunction")]
 for (oldF, newF) in RENAMES:
@@ -2214,6 +2547,8 @@ for (oldF, newF) in RENAMES:
 
 # In[50]:
 
+# In[50]:
+
 
 utils.caption(4, "Writing TF enrichment features")
 TF = Fabric(locations=thisTempTf, silent=True)
@@ -2221,8 +2556,10 @@ TF.save(nodeFeatures=nodeFeatures, edgeFeatures={}, metaData=metaData)
 
 
 # # Diffs
-#
+# 
 # Check differences with previous versions.
+
+# In[51]:
 
 # In[51]:
 
@@ -2231,8 +2568,10 @@ utils.checkDiffs(thisTempTf, thisTf, only=set(nodeFeatures))
 
 
 # # Deliver
-#
+# 
 # Copy the new TF features from the temporary location where they have been created to their final destination.
+
+# In[52]:
 
 # In[52]:
 
@@ -2244,8 +2583,14 @@ utils.deliverFeatures(thisTempTf, thisTf, nodeFeatures)
 
 # In[53]:
 
+# In[ ]:
+
 
 utils.caption(4, "Load and compile the new TF features")
+
+
+# In[53]:
+
 
 TF = Fabric(locations=[coreTf, thisTf], modules=[""])
 api = TF.load(
@@ -2265,6 +2610,8 @@ api.makeAvailableIn(globals())
 
 # In[54]:
 
+# In[54]:
+
 
 for i in list(F.otype.s("phrase"))[0:10]:
     print(
@@ -2278,25 +2625,37 @@ for i in list(F.otype.s("phrase"))[0:10]:
 
 # In[55]:
 
+# In[55]:
+
 
 if SCRIPT:
     stop(good=True)
 
 
 # ## Results
-#
+# 
 # We put all corrections and enrichments in a single CSV file for checking.
-#
+# 
 # We also generate a smaller CSV, with only the data for selected verbs in it.
 
 # In[80]:
+
+# In[ ]:
 
 
 f = open(allResults, "w")
 g = open(selectedResults, "w")
 
+
+# In[ ]:
+
+
 NALLFIELDS = 17
 tpl = ("{};" * (NALLFIELDS - 1)) + "{}\n"
+
+
+# In[ ]:
+
 
 utils.caption(0, "collecting constituents ...")
 f.write(
@@ -2473,6 +2832,10 @@ for cn in sorted(clause_verb):
         if selected:
             g.write(material)
 
+
+# In[80]:
+
+
 f.close()
 g.close()
 utils.caption(
@@ -2485,9 +2848,12 @@ utils.caption(
 
 # In[81]:
 
+# In[81]:
+
 
 x = 671522
 print(pf_corr.get(x, F.function.v(x)))
 print(is_lex_local("FJM", x))
 print(x in rule_cases["specific"]["phrase"][("FJM", 2)])
 print(F.lexical.v(x))
+

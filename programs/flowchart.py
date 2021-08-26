@@ -1,23 +1,32 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[ ]:
+
+
+
+
+
 # <img align="right" src="images/dans-small.png"/>
 # <img align="right" src="images/tf-small.png"/>
 # <img align="right" src="images/etcbc.png"/>
-#
-#
+# 
+# 
 # # Verbal valence
-#
+# 
 # *Verbal valence* is a kind of signature of a verb, not unlike overloading in programming languages.
 # The meaning of a verb depends on the number and kind of its complements, i.e. the linguistic entities that act as arguments for the semantic function of the verb.
-#
+# 
 # We will use a set of flowcharts to specify and compute the sense of a verb in specific contexts depending on the verbal valence. The flowcharts have been composed by Janet Dyk. Although they are not difficult to understand, it takes a good deal of ingenuity to apply them in all the real world situations that we encounter in our corpus.
-#
+# 
 # Read more in the [wiki](https://github.com/ETCBC/valence/wiki).
 
 # # Pipeline
 # See [operation](https://github.com/ETCBC/pipeline/blob/master/README.md#operation)
 # for how to run this script in the pipeline.
+
+# In[ ]:
+
 
 import sys
 import os
@@ -29,6 +38,8 @@ from tf.fabric import Fabric
 
 # In[1]:
 
+# In[ ]:
+
 
 if "SCRIPT" not in locals():
     SCRIPT = False
@@ -39,65 +50,68 @@ if "SCRIPT" not in locals():
     CORE_MODULE = "core"
 
 
+# In[1]:
+
+
 def stop(good=False):
     if SCRIPT:
         sys.exit(0 if good else 1)
 
 
 # ## Authors
-#
+# 
 # [Janet Dyk and Dirk Roorda](https://github.com/ETCBC/valence/wiki/Authors)
-#
+# 
 # Last modified 2017-09-13.
 
 # ## References
-#
+# 
 # [References](https://github.com/ETCBC/valence/wiki/References)
 
 # ## Data
 # We have carried out the valence project against the Hebrew Text Database of the BHSA, version `4b`.
 # See the description of the [sources](https://github.com/ETCBC/valence/wiki/Sources).
-#
+# 
 # However, we can run our stuff also against the newer versions.
-#
+# 
 # We also make use of corrected and enriched data delivered by the
 # [enrich notebook](enrich.ipynb).
 # The features of that data module are specified
 # [here](https://github.com/ETCBC/valence/wiki/Data).
 
 # ## Results
-#
+# 
 # We produce a text-fabric feature `sense` with the sense labels per verb occurrence, and add
 # this to the *valence* data module created in the
 # [enrich](enrich.ipynb) notebook.
-#
+# 
 # We also show the results in
 # [SHEBANQ](https://shebanq.ancient-data.org), the website of the ETCBC that exposes its Hebrew Text Database in such a way
 # that users can query it, save their queries, add manual annotations and even upload bulks of generated annotations.
 # That is exactly what we do: the valency results are visible in SHEBANQ in notes view, so that every outcome can be viewed in context.
 
 # # Flowchart logic
-#
+# 
 # Valence flowchart logic translates the verb context into a label that is characteristic for the context.
 # You could say, it is a fingerprint of the context.
 # Verb meanings are complex, depending on context. It turns out that we can organize
 # the meaning selection of verbs around these finger prints.
-#
+# 
 # For each verb, the we can specify a *flowchart* as a mapping of fingerprints to concrete meanings.
 # We have flowcharts for a limited, but open set of verbs.
 # They are listed in the
 # [wiki](https://github.com/ETCBC/valence/wiki),
 # and will be referred to from the resulting valence annotations in SHEBANQ.
-#
+# 
 # For each verb, the flowchart is represented as a mapping of *sense labels* to meaning templates.
 # A sense label is a code for the presence and nature of direct objects and  complements that are present in the context.
 # See the [legend](https://github.com/ETCBC/valence/wiki/Legend) of sense labels.
-#
+# 
 # The interesting part is the *sense template*,
 # which consist of a translation text augmented with placeholders for the direct objects and complements.
-#
+# 
 # See for example the flowchart of [NTN](https://github.com/ETCBC/valence/wiki/FC_NTN).
-#
+# 
 # * `{verb}` the verb occurrence in question
 # * `{pdos}` principal direct objects (phrase)
 # * `{kdos}` K-objects (phrase)
@@ -109,17 +123,19 @@ def stop(good=False):
 # * `{bens}` benefactive adjuncts
 # * `{locs}` locatives
 # * `{cpls}` complements, not marked as either indirect object or locative
-#
+# 
 # In case there are multiple entities, the algorithm returns them chunked as phrases/clauses.
-#
+# 
 # Apart from the template, there is also a *status* and an optional *account*.
-#
+# 
 # The status is ``!`` in normal cases, ``?`` in dubious cases, and ``-`` in erroneous cases.
 # In SHEBANQ these statuses are translated into colors of the notes (blue/orange/red).
-#
+# 
 # The account contains information about the grounds of which the algorithm has arrived at its conclusions.
 
 # In[2]:
+
+# In[ ]:
 
 
 senses = set(
@@ -134,6 +150,10 @@ QR>
 ZQN
 """.strip().split()
 )
+
+
+# In[ ]:
+
 
 senseLabels = """
 --
@@ -152,6 +172,10 @@ k.
 i.
 c.
 """.strip().split()
+
+
+# In[2]:
+
 
 constKindSpecs = """
 verb:verb
@@ -172,7 +196,7 @@ cpls:complement
 
 
 # # Results
-#
+# 
 # The complete set of results is in SHEBANQ.
 # It is the note set
 # [valence](https://shebanq.ancient-data.org/hebrew/note?version=4b&id=Mnx2YWxlbmNl&tp=txt_tb1&nget=v).
@@ -180,22 +204,36 @@ cpls:complement
 # # Firing up the engines
 
 # # Setting up the context: source file and target directories
-#
+# 
 # The conversion is executed in an environment of directories, so that sources, temp files and
 # results are in convenient places and do not have to be shifted around.
 
 # In[4]:
+
+# In[ ]:
 
 
 repoBase = os.path.expanduser("~/github/etcbc")
 coreRepo = "{}/{}".format(repoBase, CORE_NAME)
 thisRepo = "{}/{}".format(repoBase, NAME)
 
+
+# In[ ]:
+
+
 coreTf = "{}/tf/{}".format(coreRepo, VERSION)
+
+
+# In[ ]:
+
 
 thisSource = "{}/source/{}".format(thisRepo, VERSION)
 thisTemp = "{}/_temp/{}".format(thisRepo, VERSION)
 thisTempTf = "{}/tf".format(thisTemp)
+
+
+# In[4]:
+
 
 thisTf = "{}/tf/{}".format(thisRepo, VERSION)
 thisNotes = "{}/shebanq/{}".format(thisRepo, VERSION)
@@ -203,18 +241,26 @@ thisNotes = "{}/shebanq/{}".format(thisRepo, VERSION)
 
 # In[5]:
 
+# In[ ]:
+
 
 notesFile = "valenceNotes.csv"
 flowchartBase = "https://github.com/ETCBC/valence/wiki"
+
+
+# In[5]:
+
 
 if not os.path.exists(thisNotes):
     os.makedirs(thisNotes)
 
 
 # # Test
-#
+# 
 # Check whether this conversion is needed in the first place.
 # Only when run as a script.
+
+# In[6]:
 
 # In[6]:
 
@@ -230,10 +276,12 @@ if SCRIPT:
 
 
 # # Loading the feature data
-#
+# 
 # We load the features we need from the BHSA core database and from the valence module,
 # as far as generated by the
 # [enrich](https://github.com/ETCBC/valence/blob/master/programs/enrich.ipynb) notebook.
+
+# In[7]:
 
 # In[7]:
 
@@ -243,6 +291,8 @@ TF = Fabric(locations=[coreTf, thisTf], modules=[""])
 
 
 # We instruct the API to load data.
+
+# In[8]:
 
 # In[8]:
 
@@ -262,18 +312,20 @@ api.makeAvailableIn(globals())
 
 
 # # Indicators
-#
+# 
 # Here we specify by what features we recognize key constituents.
 # We use predominantly features that come from the correction/enrichment workflow.
 
 # In[9]:
-
 
 # pf ... : predication feature
 # gf_... : grammatical feature
 # vf_... : valence feature
 # sf_... : lexical feature
 # of_... : original feature
+
+# In[ ]:
+
 
 pf_predicate = {
     "regular",
@@ -303,6 +355,10 @@ vf_locative = {
     "adjunct",
 }
 
+
+# In[9]:
+
+
 verbal_stems = set(
     """
     qal
@@ -316,9 +372,11 @@ verbal_stems = set(
 # But on nouns, they must be rendered *genitively*, like `hand my`.
 # So we make an inventory of part of speech types and the pronominal suffixes that occur on them.
 # On that basis we make the translation dictionaries `pronominal suffix` and `switch_prs`.
-#
+# 
 # Finally, we define a function `get_prs_info` that for each word delivers the pronominal suffix info and gloss,
 # if there is any, and else `(None, None)`.
+
+# In[10]:
 
 # In[10]:
 
@@ -333,6 +391,8 @@ if not SCRIPT:
 
 
 # In[11]:
+
+# In[ ]:
 
 
 pronominal_suffix = {
@@ -389,6 +449,9 @@ switch_prs = dict(
 )
 
 
+# In[11]:
+
+
 def get_prs_info(w):
     sp = F.sp.v(w)
     prs = F.prs.v(w)
@@ -397,17 +460,19 @@ def get_prs_info(w):
 
 
 # # Making a verb-clause index
-#
+# 
 # We generate an index which gives for each verb lexeme a list of clauses that have that lexeme as the main verb.
 # In the index we store the clause node together with the word node(s) that carries the main verb(s).
-#
+# 
 # Clauses may have multiple verbs. In many cases it is a copula plus an other verb.
 # In those cases, we are interested in the other verb, so we exclude copulas.
-#
+# 
 # Yet, there are also sentences with more than one main verb.
 # In those cases, we treat both verbs separately as main verb of one and the same clause.
 
 # In[12]:
+
+# In[ ]:
 
 
 utils.caption(4, "Making the verb-clause index")
@@ -420,6 +485,10 @@ verb_clause = collections.defaultdict(
 clause_verb = (
     collections.OrderedDict()
 )  # idem but for the occurrences of selected verbs
+
+
+# In[12]:
+
 
 for w in F.otype.s("word"):
     if F.sp.v(w) != "verb":
@@ -437,12 +506,18 @@ utils.caption(0, "\tDone ({} clauses)".format(len(clause_verb)))
 
 # In[13]:
 
+# In[ ]:
+
 
 utils.caption(4, "Finding key constituents")
 constituents = collections.defaultdict(lambda: collections.defaultdict(set))
 ckinds = """
     dos pdos ndos kdos ldos idos cdos inds locs cpls bens
 """.strip().split()
+
+
+# In[ ]:
+
 
 # go through all relevant clauses and collect all types of direct objects
 for c in clause_verb:
@@ -493,12 +568,18 @@ for c in clause_verb:
     for ckind in these_constituents:
         constituents[c][ckind] |= these_constituents[ckind]
 
+
+# In[13]:
+
+
 utils.caption(
     0, "\tDone, {} clauses with relevant constituents".format(len(constituents))
 )
 
 
 # In[14]:
+
+# In[ ]:
 
 
 def makegetGloss():
@@ -517,10 +598,15 @@ def makegetGloss():
     return _getGloss
 
 
+# In[14]:
+
+
 getGloss = makegetGloss()
 
 
 # In[15]:
+
+# In[ ]:
 
 
 testcases = (
@@ -534,6 +620,9 @@ testcases = (
     #    431893,
     #    430372,
 )
+
+
+# In[ ]:
 
 
 def showcase(n):
@@ -604,6 +693,9 @@ def showcase(n):
     print("================\n")
 
 
+# In[15]:
+
+
 if not SCRIPT:
     for n in testcases:
         showcase(n)
@@ -613,15 +705,29 @@ if not SCRIPT:
 
 # In[16]:
 
+# In[ ]:
+
 
 utils.caption(4, "Counting constituents")
 
+
+# In[ ]:
+
+
 constituents_count = collections.defaultdict(collections.Counter)
+
+
+# In[ ]:
+
 
 for c in constituents:
     for ckind in ckinds:
         n = len(constituents[c][ckind])
         constituents_count[ckind][n] += 1
+
+
+# In[16]:
+
 
 for ckind in ckinds:
     total = 0
@@ -638,10 +744,12 @@ utils.caption(0, "\t{:>5} clauses".format(len(clause_verb)))
 
 
 # # Applying the flowchart
-#
+# 
 # We can now apply the flowchart in a straightforward manner.
-#
+# 
 # We output the results as a comma separated file that can be imported directly into SHEBANQ as a set of notes, so that the reader can check results within SHEBANQ. This has the benefit that the full context is available, and also data view can be called up easily to inspect the coding situation for each particular instance.
+
+# In[17]:
 
 # In[17]:
 
@@ -650,6 +758,8 @@ glossHacks = {
     "XQ/": "law/precept",
 }
 
+
+# In[23]:
 
 # In[23]:
 
@@ -701,14 +811,27 @@ def reptext(
 
 # In[24]:
 
+# In[24]:
+
 
 debug_messages = collections.defaultdict(lambda: collections.defaultdict(list))
 
+
+# In[ ]:
+
+
 constKinds = collections.OrderedDict()
+
+
+# In[ ]:
+
 
 for constKindSpec in constKindSpecs:
     (constKind, constKindName) = constKindSpec.strip().split(":", 1)
     constKinds[constKind] = constKindName
+
+
+# In[ ]:
 
 
 def flowchart(v, lex, verb, consts):
@@ -805,6 +928,8 @@ def flowchart(v, lex, verb, consts):
 
 # In[25]:
 
+# In[ ]:
+
 
 sfields = """
     version
@@ -819,18 +944,28 @@ sfields = """
     ntext
 """.strip().split()
 
+
+# In[25]:
+
+
 sfields_fmt = ("{}\t" * (len(sfields) - 1)) + "{}\n"
 
 
 # # Running the flowchart
-#
+# 
 # The next cell finally performs all the flowchart computations for all verbs in all contexts.
+
+# In[26]:
 
 # In[26]:
 
 
 utils.caption(4, "Checking the flowcharts")
 missingFlowcharts = set()
+
+
+# In[27]:
+
 
 for lex in verb_clause:
     if lex not in senses:
@@ -841,6 +976,10 @@ utils.caption(
         len(missingFlowcharts), ", ".join(sorted(missingFlowcharts)[0:10])
     ),
 )
+
+
+# In[ ]:
+
 
 good = True
 for lex in senses:
@@ -853,29 +992,63 @@ if good:
 
 # In[27]:
 
+# In[ ]:
+
 
 utils.caption(4, "Applying the flowcharts")
+
+
+# In[ ]:
+
 
 outcome_lab = collections.Counter()
 outcome_lab_l = collections.defaultdict(lambda: collections.Counter())
 
+
 # we want an overview of the flowchart decisions per lexeme
 # Per lexeme, per sense_label we store the clauses
 
+# In[ ]:
+
+
 decisions = collections.defaultdict(lambda: collections.defaultdict(dict))
+
+
+# In[ ]:
+
 
 note_keyword_base = "valence"
 
+
+# In[ ]:
+
+
 nnotes = collections.Counter()
 
+
+# In[ ]:
+
+
 senseFeature = dict()
+
+
+# In[ ]:
+
 
 ofs = open("{}/{}".format(thisNotes, notesFile), "w")
 ofs.write("{}\n".format("\t".join(sfields)))
 
+
+# In[ ]:
+
+
 i = 0
 j = 0
 chunkSize = 10000
+
+
+# In[ ]:
+
 
 for lex in verb_clause:
     hasFlowchart = lex in senses
@@ -950,6 +1123,10 @@ for lex in verb_clause:
 utils.caption(0, "\t{:>5} clauses".format(i))
 ofs.close()
 
+
+# In[ ]:
+
+
 show_limit = 20
 for lex in debug_messages:
     TF.error(lex, continuation=True)
@@ -968,10 +1145,12 @@ for lex in debug_messages:
 
 
 # # Add sense feature to valence module
-#
+# 
 # We create a new TF feature `sense`, being a mapping from verb word nodes to sense labels, as computed by the flowchart algorithm above.
-#
+# 
 # We add this feature to the valence module, which has been constructed by the [enrich](enrich.ipynb) notebook.
+
+# In[28]:
 
 # In[28]:
 
@@ -989,6 +1168,8 @@ metaData = dict(
 
 # In[29]:
 
+# In[29]:
+
 
 utils.caption(4, "Writing sense feature to TF")
 TF = Fabric(locations=thisTempTf, silent=True)
@@ -996,8 +1177,10 @@ TF.save(nodeFeatures=nodeFeatures, edgeFeatures={}, metaData=metaData)
 
 
 # # Diffs
-#
+# 
 # Check differences with previous versions.
+
+# In[30]:
 
 # In[30]:
 
@@ -1006,8 +1189,10 @@ utils.checkDiffs(thisTempTf, thisTf, only=set(nodeFeatures))
 
 
 # # Deliver
-#
+# 
 # Copy the new TF feature from the temporary location where it has been created to its final destination.
+
+# In[31]:
 
 # In[31]:
 
@@ -1019,8 +1204,14 @@ utils.deliverFeatures(thisTempTf, thisTf, nodeFeatures)
 
 # In[32]:
 
+# In[ ]:
+
 
 utils.caption(4, "Load and compile the new TF features")
+
+
+# In[32]:
+
 
 TF = Fabric(locations=[coreTf, thisTf], modules=[""])
 api = TF.load(
@@ -1037,14 +1228,24 @@ api.makeAvailableIn(globals())
 
 # In[33]:
 
+# In[ ]:
+
 
 utils.caption(4, "Show sense counts")
 senseLabels = sorted({F.sense.v(v) for v in F.otype.s("word")} - {None})
 utils.caption(0, "\tSense labels = {}".format(" ".join(senseLabels)))
 
+
+# In[ ]:
+
+
 senseCount = collections.Counter()
 noSense = []
 isPredicate = {"regular", "copula"}
+
+
+# In[ ]:
+
 
 for v in F.sp.s("verb"):
     sense = F.sense.v(v)
@@ -1078,6 +1279,10 @@ if noSense:
 else:
     utils.caption(0, "\tAll relevant verbs have been assigned a sense")
 
+
+# In[33]:
+
+
 for x in sorted(senseCount.items(), key=lambda x: (-x[1], x[0])):
     utils.caption(0, "\t\t{:<2} occurs {:>6}x".format(*x))
 
@@ -1088,10 +1293,14 @@ for x in sorted(senseCount.items(), key=lambda x: (-x[1], x[0])):
 
 # In[34]:
 
+# In[34]:
+
 
 if SCRIPT:
     stop(good=True)
 
+
+# In[65]:
 
 # In[65]:
 
@@ -1119,6 +1328,8 @@ if not SCRIPT:
         print("     All senses      : {:>5} clauses".format(tot))
         print(" ")
 
+
+# In[49]:
 
 # In[49]:
 
@@ -1151,6 +1362,8 @@ def show_decision(
                 )
     print("\n".join(sorted(results)))
 
+
+# In[50]:
 
 # In[50]:
 
