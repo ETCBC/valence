@@ -1,8 +1,27 @@
+# Verbal Valence
+
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/ETCBC/valence/)](https://archive.softwareheritage.org/browse/origin/https://github.com/ETCBC/valence/)
 [![DOI](https://zenodo.org/badge/103229517.svg)](https://zenodo.org/badge/latestdoi/103229517)
 [![etcbc](programs/images/etcbc.png)](http://www.etcbc.nl)
+[![dans](programs/images/dans.png)](https://dans.knaw.nl/en)
 
-# Verbal Valence
+### BHSA Family
+
+* [bhsa](https://github.com/etcbc/bhsa) Core data and feature documentation
+* [phono](https://github.com/etcbc/phono) Phonological representation of Hebrew words
+* [parallels](https://github.com/etcbc/parallels) Links between similar verses
+* [valence](https://github.com/etcbc/valence) Verbal valence for all occurrences
+  of some verbs
+* [trees](https://github.com/etcbc/trees) Tree structures for all sentences
+* [bridging](https://github.com/etcbc/bridging) Open Scriptures morphology
+  ported to the BHSA
+* [pipeline](https://github.com/etcbc/pipeline) Generate the BHSA and SHEBANQ
+  from internal ETCBC data files
+* [shebanq](https://github.com/etcbc/shebanq) Engine of the
+  [shebanq](https://shebanq.ancient-data.org) website
+
+## About
+
 Study of verbal valence patterns in Biblical Hebrew,
 
 Part of the
@@ -10,7 +29,7 @@ Part of the
 project carried out at the 
 [ETCBC](http://etcbc.nl)
 
-# Results
+## Results
 
 The results of this study are being delivered in several forms, summarized here.
 It might be helpful to consult a description of the
@@ -43,7 +62,7 @@ first.
 
 For more information, go to the [wiki of this repo](https://github.com/ETCBC/valence/wiki).
 
-# Authors
+## Authors
 * [Janet Dyk](mailto:j.w.dyk@vu.nl) -
   [VU ETCBC](http://etcbc.nl) -
   linguistic researcher in Biblical Hebrew -
@@ -53,7 +72,7 @@ For more information, go to the [wiki of this repo](https://github.com/ETCBC/val
   author of the notebooks and documentation and the supporting library
   [Text-Fabric](https://github.com/annotation/text-fabric).
 
-# Date
+## Date
 
 Updated: 2017-09-14
 
