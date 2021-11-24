@@ -2,6 +2,7 @@
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/ETCBC/valence/)](https://archive.softwareheritage.org/browse/origin/https://github.com/ETCBC/valence/)
 [![DOI](https://zenodo.org/badge/103229517.svg)](https://zenodo.org/badge/latestdoi/103229517)
+[![Project Status: Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.](https://www.repostatus.org/badges/latest/unsupported.svg)](https://www.repostatus.org/#unsupported)
 
 [![etcbc](programs/images/etcbc.png)](http://www.etcbc.nl)
 [![dans](programs/images/dans.png)](https://dans.knaw.nl/en)
@@ -21,6 +22,17 @@
   from internal ETCBC data files
 * [shebanq](https://github.com/etcbc/shebanq) Engine of the
   [shebanq](https://shebanq.ancient-data.org) website
+
+### Extended family
+
+* [dss](https://github.com/etcbc/dss) Dead Sea Scrolls
+* [extrabiblical](https://github.com/etcbc/extrabiblical)
+  Extra-biblical writings from ETCBC-encoded texts
+* [peshitta](https://github.com/etcbc/peshitta)
+  Syriac translation of the Hebrew Bible
+* [syrnt](https://github.com/etcbc/syrnt)
+  Syriac translation of the New Testament
+
 
 ## About
 
@@ -66,7 +78,7 @@ For more information, go to the [wiki of this repo](https://github.com/ETCBC/val
   [VU ETCBC](http://etcbc.nl) -
   linguistic researcher in Biblical Hebrew -
   author of the *flowcharts*;
-* [Dirk Roorda](mailto:dirk.roorda@dans.knaw.nl) -
+* [Dirk Roorda](https://github.com/dirkroorda) -
   [DANS](https://dans.knaw.nl/en/front-page?set_language=en) -
   author of the notebooks and documentation and the supporting library
   [Text-Fabric](https://github.com/annotation/text-fabric).
