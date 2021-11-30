@@ -4,7 +4,7 @@
 @description=sense label verb occurrences, computed by the flowchart algorithm, see https://github.com/ETCBC/valence/wiki/Legend
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2021-08-24T11:17:00Z
+@dateWritten=2021-11-30T15:35:24Z
 
 3	d-
 15	--
