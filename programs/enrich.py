@@ -51,18 +51,20 @@
 # We recommend to harvest exceptions in the notebook itself, it has already a mechanism to apply
 # verb specific logic.
 
-# In[ ]:
+# In[107]:
 
 
 import sys
 import os
 import collections
+import yaml
 from copy import deepcopy
 import utils
 from tf.fabric import Fabric
+from tf.core.helpers import formatMeta
 
 
-# In[ ]:
+# In[2]:
 
 
 if "SCRIPT" not in locals():
@@ -73,7 +75,7 @@ if "SCRIPT" not in locals():
     VERSION = "2021"
 
 
-# In[1]:
+# In[3]:
 
 
 def stop(good=False):
@@ -110,7 +112,7 @@ def stop(good=False):
 
 # In[3]:
 
-# In[ ]:
+# In[4]:
 
 
 repoBase = os.path.expanduser("~/github/etcbc")
@@ -118,13 +120,13 @@ coreRepo = "{}/{}".format(repoBase, CORE_NAME)
 thisRepo = "{}/{}".format(repoBase, NAME)
 
 
-# In[ ]:
+# In[5]:
 
 
 coreTf = "{}/tf/{}".format(coreRepo, VERSION)
 
 
-# In[ ]:
+# In[6]:
 
 
 thisSource = "{}/source/{}".format(thisRepo, VERSION)
@@ -132,7 +134,7 @@ thisTemp = "{}/_temp/{}".format(thisRepo, VERSION)
 thisTempTf = "{}/tf".format(thisTemp)
 
 
-# In[3]:
+# In[7]:
 
 
 thisTf = "{}/tf/{}".format(thisRepo, VERSION)
@@ -145,7 +147,7 @@ thisTf = "{}/tf/{}".format(thisRepo, VERSION)
 
 # In[4]:
 
-# In[4]:
+# In[8]:
 
 
 if SCRIPT:
@@ -165,7 +167,7 @@ if SCRIPT:
 
 # In[5]:
 
-# In[5]:
+# In[9]:
 
 
 utils.caption(4, "Load the existing TF dataset")
@@ -176,7 +178,7 @@ TF = Fabric(locations=coreTf, modules=[""])
 
 # In[6]:
 
-# In[6]:
+# In[10]:
 
 
 api = TF.load(
@@ -194,7 +196,7 @@ api.makeAvailableIn(globals())
 
 # In[7]:
 
-# In[ ]:
+# In[11]:
 
 
 linkShebanq = "https://shebanq.ancient-data.org/hebrew/text"
@@ -204,7 +206,7 @@ linkAppearance = "&version={}&mr=m&qw=n&tp=txt_tb1&tr=hb&wget=x&qget=v&nget=x".f
 )
 
 
-# In[ ]:
+# In[12]:
 
 
 resultDir = "{}/results".format(thisTemp)
@@ -221,7 +223,7 @@ if not os.path.exists(resultDir):
     os.makedirs(resultDir)
 
 
-# In[7]:
+# In[13]:
 
 
 def vfile(verb, kind):
@@ -241,7 +243,7 @@ def vfile(verb, kind):
 
 # In[8]:
 
-# In[ ]:
+# In[14]:
 
 
 verbs_initial = set(
@@ -253,7 +255,7 @@ verbs_initial = set(
 )
 
 
-# In[ ]:
+# In[15]:
 
 
 motion_verbs = set(
@@ -272,7 +274,7 @@ motion_verbs = set(
 )
 
 
-# In[ ]:
+# In[16]:
 
 
 double_object_verbs = set(
@@ -284,7 +286,7 @@ double_object_verbs = set(
 )
 
 
-# In[ ]:
+# In[17]:
 
 
 complex_qal_verbs = set(
@@ -295,7 +297,7 @@ complex_qal_verbs = set(
 )
 
 
-# In[8]:
+# In[18]:
 
 
 verbs = verbs_initial | motion_verbs | double_object_verbs | complex_qal_verbs
@@ -311,7 +313,7 @@ verbs = verbs_initial | motion_verbs | double_object_verbs | complex_qal_verbs
 
 # In[9]:
 
-# In[9]:
+# In[19]:
 
 
 predicate_functions = {
@@ -326,7 +328,7 @@ predicate_functions = {
 
 # In[10]:
 
-# In[10]:
+# In[20]:
 
 
 legal_values = dict(
@@ -339,7 +341,7 @@ legal_values = dict(
 
 # In[11]:
 
-# In[11]:
+# In[21]:
 
 
 error_values = dict(
@@ -353,7 +355,7 @@ error_values = dict(
 
 # In[12]:
 
-# In[12]:
+# In[22]:
 
 
 for feature in set(legal_values.keys()) | set(error_values.keys()):
@@ -367,7 +369,7 @@ if not SCRIPT:
 
 # In[13]:
 
-# In[13]:
+# In[23]:
 
 
 utils.caption(4, "Finding occurrences ...")
@@ -395,7 +397,7 @@ sel_verb_clause_index = collections.defaultdict(
 )  # mapping from selected verbs to the clauses of which it is main verb
 
 
-# In[ ]:
+# In[24]:
 
 
 nw = 0
@@ -419,7 +421,7 @@ for w in F.otype.s("word"):
         sel_clause_verb_index[cn].add(lex)
 
 
-# In[ ]:
+# In[25]:
 
 
 sel_verb_clause_index = dict(
@@ -428,7 +430,7 @@ sel_verb_clause_index = dict(
 sel_clause_verb
 
 
-# In[ ]:
+# In[26]:
 
 
 utils.caption(0, "\tDone")
@@ -446,7 +448,7 @@ utils.caption(
 )
 
 
-# In[ ]:
+# In[27]:
 
 
 for verb in sorted(verbs):
@@ -472,7 +474,7 @@ for verb in sorted(verbs):
 
 # In[14]:
 
-# In[ ]:
+# In[28]:
 
 
 utils.caption(4, "Generating blank correction sheets ...")
@@ -480,13 +482,13 @@ sheetKind = "corr_blank"
 utils.caption(0, "\tas {}".format(vfile("{verb}", sheetKind)[1]))
 
 
-# In[ ]:
+# In[29]:
 
 
 phrases_seen = collections.Counter()
 
 
-# In[ ]:
+# In[30]:
 
 
 def gen_sheet(verb):
@@ -552,14 +554,14 @@ def gen_sheet(verb):
     utils.caption(0, "\t\tfor verb {}".format(baseName))
 
 
-# In[ ]:
+# In[31]:
 
 
 for verb in verbs:
     gen_sheet(verb)
 
 
-# In[14]:
+# In[32]:
 
 
 stats = collections.Counter()
@@ -577,7 +579,7 @@ utils.caption(0, "\tTotal phrases seen: {}".format(len(phrases_seen)))
 
 # In[15]:
 
-# In[ ]:
+# In[33]:
 
 
 utils.caption(4, "Processing filled correction sheets ...")
@@ -585,14 +587,14 @@ sheetKind = "corr_filled"
 utils.caption(0, "\tas {}".format(vfile("{verb}", sheetKind)[1]))
 
 
-# In[ ]:
+# In[34]:
 
 
 phrases_seen = collections.Counter()
 pf_corr = {}
 
 
-# In[ ]:
+# In[35]:
 
 
 def read_corr():
@@ -694,13 +696,13 @@ def read_corr():
     )
 
 
-# In[ ]:
+# In[36]:
 
 
 read_corr()
 
 
-# In[15]:
+# In[37]:
 
 
 stats = collections.Counter()
@@ -717,7 +719,7 @@ utils.caption(0, "\tTotal phrases seen: {}".format(len(phrases_seen)))
 
 # In[16]:
 
-# In[16]:
+# In[38]:
 
 
 enrich_field_spec = """
@@ -786,7 +788,7 @@ for (ef, fields) in sorted(enrich_fields.items()):
 
 # In[17]:
 
-# In[17]:
+# In[39]:
 
 
 enrich_baseline_rules = dict(
@@ -827,7 +829,7 @@ InfC	Infinitive Construct clause	NA	NA				""",  # noqa W291
 
 # In[18]:
 
-# In[ ]:
+# In[40]:
 
 
 utils.caption(4, "\tChecking enrich baseline rules")
@@ -836,7 +838,7 @@ errors = 0
 good = 0
 
 
-# In[18]:
+# In[41]:
 
 
 for kind in ("phrase", "clause"):
@@ -878,7 +880,7 @@ else:
 
 # In[19]:
 
-# In[19]:
+# In[42]:
 
 
 if not SCRIPT:
@@ -908,7 +910,7 @@ if not SCRIPT:
 
 # In[20]:
 
-# In[ ]:
+# In[43]:
 
 
 objectfuncs = set(
@@ -918,7 +920,7 @@ Objc PreO PtcO
 )
 
 
-# In[ ]:
+# In[44]:
 
 
 cmpl_as_obj_preps = set(
@@ -928,7 +930,7 @@ K L
 )
 
 
-# In[20]:
+# In[45]:
 
 
 no_prs = set(
@@ -940,7 +942,7 @@ absent n/a
 
 # In[21]:
 
-# In[21]:
+# In[46]:
 
 
 body_parts = set(
@@ -969,7 +971,7 @@ ZRW</
 
 # In[24]:
 
-# In[ ]:
+# In[47]:
 
 
 utils.caption(4, "Finding direct objects and determining the principal one")
@@ -987,7 +989,7 @@ object_kinds = (
 )
 
 
-# In[ ]:
+# In[48]:
 
 
 def is_marked(phr):
@@ -1002,7 +1004,7 @@ def is_marked(phr):
     return has_et
 
 
-# In[ ]:
+# In[49]:
 
 
 for c in clause_verb:
@@ -1122,13 +1124,13 @@ for c in clause_verb:
             objects[kind] |= these_objects[kind]
 
 
-# In[36]:
+# In[50]:
 
 
 utils.caption(0, "\tDone")
 
 
-# In[24]:
+# In[51]:
 
 
 for kind in object_kinds:
@@ -1172,7 +1174,7 @@ for kind in object_kinds:
 
 # In[25]:
 
-# In[ ]:
+# In[52]:
 
 
 complfuncs = set(
@@ -1182,7 +1184,7 @@ Cmpl PreC
 )
 
 
-# In[25]:
+# In[53]:
 
 
 cmpl_as_iobj_preps = set(
@@ -1194,7 +1196,7 @@ L >L
 
 # In[26]:
 
-# In[26]:
+# In[54]:
 
 
 locative_lexemes = set(
@@ -1216,7 +1218,7 @@ YPWN/
 )
 
 
-# In[ ]:
+# In[55]:
 
 
 personal_lexemes = set(
@@ -1260,13 +1262,13 @@ ZKWR/ ZMR=/ ZR</
 
 # In[27]:
 
-# In[ ]:
+# In[56]:
 
 
 utils.caption(4, "Determinig kind of complements")
 
 
-# In[ ]:
+# In[57]:
 
 
 complements_c = collections.defaultdict(lambda: collections.defaultdict(lambda: []))
@@ -1275,14 +1277,14 @@ complementk = {}
 kcomplements = collections.Counter()
 
 
-# In[ ]:
+# In[58]:
 
 
 nphrases = 0
 ncomplements = 0
 
 
-# In[ ]:
+# In[59]:
 
 
 for c in clause_verb:
@@ -1348,7 +1350,7 @@ for c in clause_verb:
         complements[p] = (pf, ckind)
 
 
-# In[27]:
+# In[60]:
 
 
 utils.caption(0, "\tDone")
@@ -1360,7 +1362,7 @@ utils.caption(0, "\tTotal phrases     : {:>6}".format(nphrases))
 
 # In[28]:
 
-# In[ ]:
+# In[61]:
 
 
 def has_L(vl, pn):
@@ -1368,7 +1370,7 @@ def has_L(vl, pn):
     return len(words) > 0 and F.lex.v(words[0] == "L")
 
 
-# In[ ]:
+# In[62]:
 
 
 def is_lex_personal(vl, pn):
@@ -1378,7 +1380,7 @@ def is_lex_personal(vl, pn):
     )
 
 
-# In[ ]:
+# In[63]:
 
 
 def is_lex_local(vl, pn):
@@ -1386,7 +1388,7 @@ def is_lex_local(vl, pn):
     return len({F.lex.v(w) for w in words} & locative_lexemes) > 0
 
 
-# In[28]:
+# In[64]:
 
 
 def has_H_locale(vl, pn):
@@ -1401,7 +1403,7 @@ def has_H_locale(vl, pn):
 
 # In[29]:
 
-# In[ ]:
+# In[65]:
 
 
 grule_as_str = {
@@ -1423,14 +1425,14 @@ grule_as_str = {
 }
 
 
-# In[ ]:
+# In[66]:
 
 
 def rule_as_str_g(x, i):
     return "{}-{}".format(i, grule_as_str[i])
 
 
-# In[ ]:
+# In[67]:
 
 
 rule_as_str = dict(
@@ -1438,7 +1440,7 @@ rule_as_str = dict(
 )
 
 
-# In[ ]:
+# In[68]:
 
 
 def generic_logic_p(pn, values):
@@ -1497,7 +1499,7 @@ def generic_logic_p(pn, values):
     return gl
 
 
-# In[ ]:
+# In[69]:
 
 
 def generic_logic_c(cn, values):
@@ -1521,7 +1523,7 @@ def generic_logic_c(cn, values):
     return gl
 
 
-# In[29]:
+# In[70]:
 
 
 generic_logic = dict(
@@ -1545,7 +1547,7 @@ generic_logic = dict(
 
 # In[30]:
 
-# In[30]:
+# In[71]:
 
 
 dbl_obj_rules = (
@@ -1574,13 +1576,13 @@ enrich_logic = dict(
 
 # In[31]:
 
-# In[ ]:
+# In[72]:
 
 
 rule_index = collections.defaultdict(lambda: [])
 
 
-# In[ ]:
+# In[73]:
 
 
 def rule_as_str_s(vl, i):
@@ -1600,13 +1602,13 @@ def rule_as_str_s(vl, i):
     return "{}{}\n\tTHEN\n{}".format(label, rule, "".join(ass))
 
 
-# In[ ]:
+# In[74]:
 
 
 rule_as_str["specific"] = rule_as_str_s
 
 
-# In[ ]:
+# In[75]:
 
 
 def check_logic():
@@ -1676,7 +1678,7 @@ def check_logic():
         utils.caption(0, "\tAll {} rules OK".format(nrules))
 
 
-# In[31]:
+# In[76]:
 
 
 check_logic()
@@ -1684,13 +1686,13 @@ check_logic()
 
 # In[32]:
 
-# In[ ]:
+# In[77]:
 
 
 rule_cases = collections.defaultdict(lambda: collections.defaultdict(lambda: {}))
 
 
-# In[32]:
+# In[78]:
 
 
 def apply_logic(kind, vl, n, init_values):
@@ -1735,20 +1737,20 @@ def apply_logic(kind, vl, n, init_values):
 
 # In[33]:
 
-# In[ ]:
+# In[79]:
 
 
 utils.caption(4, "Generating enrichments")
 
 
-# In[ ]:
+# In[80]:
 
 
 seen = collections.defaultdict(collections.Counter)
 enrichFields = dict()
 
 
-# In[ ]:
+# In[81]:
 
 
 def gen_enrich(verb):
@@ -1773,7 +1775,7 @@ def gen_enrich(verb):
             )
 
 
-# In[33]:
+# In[82]:
 
 
 for verb in verb_clause_index:
@@ -1786,13 +1788,13 @@ utils.caption(0, "\tEnriched values for {:>5} nodes".format(len(enrichFields)))
 
 # In[34]:
 
-# In[ ]:
+# In[83]:
 
 
 utils.caption(0, "\tOverview of rule applications:")
 
 
-# In[ ]:
+# In[84]:
 
 
 for scope in rule_cases:
@@ -1828,7 +1830,7 @@ for scope in rule_cases:
     utils.caption(0, "{:>6} {} rule applications".format(totalscope, scope))
 
 
-# In[34]:
+# In[85]:
 
 
 for kind in seen:
@@ -1845,7 +1847,7 @@ for kind in seen:
 
 # In[35]:
 
-# In[ ]:
+# In[86]:
 
 
 COMMON_FIELDS = """
@@ -1863,7 +1865,7 @@ COMMON_FIELDS = """
 """.strip().split()
 
 
-# In[ ]:
+# In[87]:
 
 
 PHRASE_FIELDS = """
@@ -1872,7 +1874,7 @@ PHRASE_FIELDS = """
 """.strip().split()
 
 
-# In[ ]:
+# In[88]:
 
 
 CLAUSE_FIELDS = """
@@ -1881,7 +1883,7 @@ CLAUSE_FIELDS = """
 """.strip().split()
 
 
-# In[35]:
+# In[89]:
 
 
 field_names = COMMON_FIELDS + CLAUSE_FIELDS + PHRASE_FIELDS + list(enrich_fields)
@@ -1894,7 +1896,7 @@ if not SCRIPT:
 
 # In[36]:
 
-# In[ ]:
+# In[90]:
 
 
 utils.caption(4, "Generate blank enrichment sheets")
@@ -1902,7 +1904,7 @@ sheetKind = "enrich_blank"
 utils.caption(0, "\tas {}".format(vfile("{verb}", sheetKind)[1]))
 
 
-# In[ ]:
+# In[91]:
 
 
 def gen_sheet_enrich(verb):
@@ -1977,14 +1979,14 @@ def gen_sheet_enrich(verb):
     utils.caption(0, "\t\tfor verb {} ({:>5} rows)".format(verb, len(rows)))
 
 
-# In[ ]:
+# In[92]:
 
 
 for verb in verbs:
     gen_sheet_enrich(verb)
 
 
-# In[ ]:
+# In[93]:
 
 
 utils.caption(0, "\tDone")
@@ -1992,7 +1994,7 @@ utils.caption(0, "\tDone")
 
 # In[37]:
 
-# In[37]:
+# In[94]:
 
 
 def showcase(n):
@@ -2015,7 +2017,7 @@ def showcase(n):
 
 # In[38]:
 
-# In[38]:
+# In[95]:
 
 
 if not SCRIPT:
@@ -2026,7 +2028,7 @@ if not SCRIPT:
 
 # In[39]:
 
-# In[ ]:
+# In[96]:
 
 
 def check_h(vl, show_results=False):
@@ -2063,7 +2065,7 @@ def check_h(vl, show_results=False):
             )
 
 
-# In[39]:
+# In[97]:
 
 
 if not SCRIPT:
@@ -2080,7 +2082,7 @@ if not SCRIPT:
 
 # In[43]:
 
-# In[43]:
+# In[98]:
 
 
 def read_enrich():
@@ -2392,14 +2394,14 @@ def read_enrich():
 
 # In[44]:
 
-# In[ ]:
+# In[99]:
 
 
 utils.caption(4, "Processing enrichment sheets ...")
 sheetKind = "enrich_filled"
 
 
-# In[44]:
+# In[100]:
 
 
 utils.caption(0, "\tas {}".format(vfile("{verb}", sheetKind)[1]))
@@ -2409,7 +2411,7 @@ sheetResults = read_enrich()
 
 # In[45]:
 
-# In[45]:
+# In[101]:
 
 
 if not SCRIPT:
@@ -2418,7 +2420,7 @@ if not SCRIPT:
 
 # In[46]:
 
-# In[46]:
+# In[102]:
 
 
 if not SCRIPT:
@@ -2429,7 +2431,7 @@ if not SCRIPT:
 
 # In[47]:
 
-# In[47]:
+# In[103]:
 
 
 utils.caption(4, "Combine the manual results with the generic results")
@@ -2453,78 +2455,41 @@ utils.caption(0, "\tResulting in annotations for {} nodes".format(len(allResults
 
 # In[48]:
 
-# In[ ]:
+# In[117]:
 
 
 newFeatures = list(enrich_fields.keys()) + ["function", "f_correction", "s_manual"]
 
 
-# In[ ]:
+# In[118]:
 
 
-description = dict(
-    title="Correction and enrichment features",
-    description="Corrections, alternatives and additions to the ETCBC4b encoding of the Hebrew Bible",
-    purpose="Support the decision process of assigning valence to verbs",
-    method="Generated blank correction and enrichment spreadsheets with selected clauses",
-    steps="sheets filled out by researcher; read back in by program; generated new features based on contents",
-    author="The content and nature of the features are by Janet Dyk, the workflow is by Dirk Roorda",
-    coreData="BHSA",
-    coreVersion=VERSION,
-)
+genericMetaPath = f"{thisRepo}/yaml/generic.yaml"
+enrichMetaPath = f"{thisRepo}/yaml/enrich.yaml"
+
+with open(genericMetaPath) as fh:
+    genericMeta = yaml.load(fh, Loader=yaml.FullLoader)
+    genericMeta["version"] = VERSION
+with open(enrichMetaPath) as fh:
+    enrichMeta = formatMeta(yaml.load(fh, Loader=yaml.FullLoader))
+
+metaData = {"": genericMeta, **enrichMeta}
 
 
-# In[ ]:
-
-
-metaData = {
-    "": description,
-    "valence": {
-        "description": "verbal valence main classification",
-    },
-    "predication": {
-        "description": "verbal function main classification",
-    },
-    "grammatical": {
-        "description": "constituent role main classification",
-    },
-    "original": {
-        "description": "default value before enrichment logic has been applied",
-    },
-    "lexical": {
-        "description": "additional lexical characteristics",
-    },
-    "semantic": {
-        "description": "additional semantic characteristics",
-    },
-    "f_correction": {
-        "description": "whether the phrase function has been manually corrected",
-    },
-    "s_manual": {
-        "description": "whether the generated enrichment features have been manually changed",
-    },
-    "function": {
-        "description": "corrected phrase function, only present for phrases that were in a correction sheet",
-    },
-}
-
-
-# In[48]:
+# In[119]:
 
 
 for f in newFeatures:
     metaData[f]["valueType"] = "str"
 
 
-# In[49]:
-
-# In[ ]:
+# In[120]:
 
 
 nodeFeatures = dict()
 
 
-# In[ ]:
+# In[121]:
 
 
 for (node, featureVals) in allResults.items():
@@ -2535,7 +2500,7 @@ for (node, featureVals) in allResults.items():
         nodeFeatures.setdefault(fName, {})[node] = fValRep
 
 
-# In[49]:
+# In[122]:
 
 
 RENAMES = [("function", "cfunction")]
@@ -2545,9 +2510,7 @@ for (oldF, newF) in RENAMES:
         del data[oldF]
 
 
-# In[50]:
-
-# In[50]:
+# In[123]:
 
 
 utils.caption(4, "Writing TF enrichment features")

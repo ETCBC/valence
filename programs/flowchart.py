@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-
-
-
 # <img align="right" src="images/dans-small.png"/>
 # <img align="right" src="images/tf-small.png"/>
 # <img align="right" src="images/etcbc.png"/>
@@ -25,20 +19,20 @@
 # See [operation](https://github.com/ETCBC/pipeline/blob/master/README.md#operation)
 # for how to run this script in the pipeline.
 
-# In[ ]:
+# In[1]:
 
 
 import sys
 import os
 import collections
+import yaml
 from copy import deepcopy
 import utils
 from tf.fabric import Fabric
+from tf.core.helpers import formatMeta
 
 
-# In[1]:
-
-# In[ ]:
+# In[2]:
 
 
 if "SCRIPT" not in locals():
@@ -50,7 +44,7 @@ if "SCRIPT" not in locals():
     CORE_MODULE = "core"
 
 
-# In[1]:
+# In[3]:
 
 
 def stop(good=False):
@@ -133,9 +127,7 @@ def stop(good=False):
 # 
 # The account contains information about the grounds of which the algorithm has arrived at its conclusions.
 
-# In[2]:
-
-# In[ ]:
+# In[4]:
 
 
 senses = set(
@@ -152,7 +144,7 @@ ZQN
 )
 
 
-# In[ ]:
+# In[5]:
 
 
 senseLabels = """
@@ -174,7 +166,7 @@ c.
 """.strip().split()
 
 
-# In[2]:
+# In[6]:
 
 
 constKindSpecs = """
@@ -210,7 +202,7 @@ cpls:complement
 
 # In[4]:
 
-# In[ ]:
+# In[7]:
 
 
 repoBase = os.path.expanduser("~/github/etcbc")
@@ -218,13 +210,13 @@ coreRepo = "{}/{}".format(repoBase, CORE_NAME)
 thisRepo = "{}/{}".format(repoBase, NAME)
 
 
-# In[ ]:
+# In[8]:
 
 
 coreTf = "{}/tf/{}".format(coreRepo, VERSION)
 
 
-# In[ ]:
+# In[9]:
 
 
 thisSource = "{}/source/{}".format(thisRepo, VERSION)
@@ -232,7 +224,7 @@ thisTemp = "{}/_temp/{}".format(thisRepo, VERSION)
 thisTempTf = "{}/tf".format(thisTemp)
 
 
-# In[4]:
+# In[10]:
 
 
 thisTf = "{}/tf/{}".format(thisRepo, VERSION)
@@ -241,14 +233,14 @@ thisNotes = "{}/shebanq/{}".format(thisRepo, VERSION)
 
 # In[5]:
 
-# In[ ]:
+# In[11]:
 
 
 notesFile = "valenceNotes.csv"
 flowchartBase = "https://github.com/ETCBC/valence/wiki"
 
 
-# In[5]:
+# In[12]:
 
 
 if not os.path.exists(thisNotes):
@@ -262,7 +254,7 @@ if not os.path.exists(thisNotes):
 
 # In[6]:
 
-# In[6]:
+# In[13]:
 
 
 if SCRIPT:
@@ -283,7 +275,7 @@ if SCRIPT:
 
 # In[7]:
 
-# In[7]:
+# In[14]:
 
 
 utils.caption(4, "Load the existing TF dataset")
@@ -294,7 +286,7 @@ TF = Fabric(locations=[coreTf, thisTf], modules=[""])
 
 # In[8]:
 
-# In[8]:
+# In[15]:
 
 
 api = TF.load(
@@ -324,7 +316,7 @@ api.makeAvailableIn(globals())
 # sf_... : lexical feature
 # of_... : original feature
 
-# In[ ]:
+# In[16]:
 
 
 pf_predicate = {
@@ -356,7 +348,7 @@ vf_locative = {
 }
 
 
-# In[9]:
+# In[17]:
 
 
 verbal_stems = set(
@@ -378,7 +370,7 @@ verbal_stems = set(
 
 # In[10]:
 
-# In[10]:
+# In[18]:
 
 
 prss = collections.defaultdict(lambda: collections.defaultdict(lambda: 0))
@@ -392,7 +384,7 @@ if not SCRIPT:
 
 # In[11]:
 
-# In[ ]:
+# In[19]:
 
 
 pronominal_suffix = {
@@ -449,7 +441,7 @@ switch_prs = dict(
 )
 
 
-# In[11]:
+# In[20]:
 
 
 def get_prs_info(w):
@@ -472,7 +464,7 @@ def get_prs_info(w):
 
 # In[12]:
 
-# In[ ]:
+# In[21]:
 
 
 utils.caption(4, "Making the verb-clause index")
@@ -487,7 +479,7 @@ clause_verb = (
 )  # idem but for the occurrences of selected verbs
 
 
-# In[12]:
+# In[22]:
 
 
 for w in F.otype.s("word"):
@@ -506,7 +498,7 @@ utils.caption(0, "\tDone ({} clauses)".format(len(clause_verb)))
 
 # In[13]:
 
-# In[ ]:
+# In[23]:
 
 
 utils.caption(4, "Finding key constituents")
@@ -516,7 +508,7 @@ ckinds = """
 """.strip().split()
 
 
-# In[ ]:
+# In[24]:
 
 
 # go through all relevant clauses and collect all types of direct objects
@@ -569,7 +561,7 @@ for c in clause_verb:
         constituents[c][ckind] |= these_constituents[ckind]
 
 
-# In[13]:
+# In[25]:
 
 
 utils.caption(
@@ -579,7 +571,7 @@ utils.caption(
 
 # In[14]:
 
-# In[ ]:
+# In[26]:
 
 
 def makegetGloss():
@@ -598,7 +590,7 @@ def makegetGloss():
     return _getGloss
 
 
-# In[14]:
+# In[27]:
 
 
 getGloss = makegetGloss()
@@ -606,7 +598,7 @@ getGloss = makegetGloss()
 
 # In[15]:
 
-# In[ ]:
+# In[28]:
 
 
 testcases = (
@@ -622,7 +614,7 @@ testcases = (
 )
 
 
-# In[ ]:
+# In[29]:
 
 
 def showcase(n):
@@ -693,7 +685,7 @@ def showcase(n):
     print("================\n")
 
 
-# In[15]:
+# In[30]:
 
 
 if not SCRIPT:
@@ -705,19 +697,19 @@ if not SCRIPT:
 
 # In[16]:
 
-# In[ ]:
+# In[31]:
 
 
 utils.caption(4, "Counting constituents")
 
 
-# In[ ]:
+# In[32]:
 
 
 constituents_count = collections.defaultdict(collections.Counter)
 
 
-# In[ ]:
+# In[33]:
 
 
 for c in constituents:
@@ -726,7 +718,7 @@ for c in constituents:
         constituents_count[ckind][n] += 1
 
 
-# In[16]:
+# In[34]:
 
 
 for ckind in ckinds:
@@ -751,7 +743,7 @@ utils.caption(0, "\t{:>5} clauses".format(len(clause_verb)))
 
 # In[17]:
 
-# In[17]:
+# In[35]:
 
 
 glossHacks = {
@@ -761,7 +753,7 @@ glossHacks = {
 
 # In[23]:
 
-# In[23]:
+# In[36]:
 
 
 def reptext(
@@ -811,19 +803,19 @@ def reptext(
 
 # In[24]:
 
-# In[24]:
+# In[37]:
 
 
 debug_messages = collections.defaultdict(lambda: collections.defaultdict(list))
 
 
-# In[ ]:
+# In[38]:
 
 
 constKinds = collections.OrderedDict()
 
 
-# In[ ]:
+# In[39]:
 
 
 for constKindSpec in constKindSpecs:
@@ -831,7 +823,7 @@ for constKindSpec in constKindSpecs:
     constKinds[constKind] = constKindName
 
 
-# In[ ]:
+# In[40]:
 
 
 def flowchart(v, lex, verb, consts):
@@ -926,9 +918,7 @@ def flowchart(v, lex, verb, consts):
     return (sense_label, sense, status, consts_rep)
 
 
-# In[25]:
-
-# In[ ]:
+# In[41]:
 
 
 sfields = """
@@ -945,7 +935,7 @@ sfields = """
 """.strip().split()
 
 
-# In[25]:
+# In[42]:
 
 
 sfields_fmt = ("{}\t" * (len(sfields) - 1)) + "{}\n"
@@ -955,16 +945,14 @@ sfields_fmt = ("{}\t" * (len(sfields) - 1)) + "{}\n"
 # 
 # The next cell finally performs all the flowchart computations for all verbs in all contexts.
 
-# In[26]:
-
-# In[26]:
+# In[43]:
 
 
 utils.caption(4, "Checking the flowcharts")
 missingFlowcharts = set()
 
 
-# In[27]:
+# In[44]:
 
 
 for lex in verb_clause:
@@ -978,7 +966,7 @@ utils.caption(
 )
 
 
-# In[ ]:
+# In[45]:
 
 
 good = True
@@ -990,15 +978,13 @@ if good:
     utils.caption(0, "\tAll flowcharts belong to a verb in the corpus")
 
 
-# In[27]:
-
-# In[ ]:
+# In[46]:
 
 
 utils.caption(4, "Applying the flowcharts")
 
 
-# In[ ]:
+# In[47]:
 
 
 outcome_lab = collections.Counter()
@@ -1008,38 +994,38 @@ outcome_lab_l = collections.defaultdict(lambda: collections.Counter())
 # we want an overview of the flowchart decisions per lexeme
 # Per lexeme, per sense_label we store the clauses
 
-# In[ ]:
+# In[48]:
 
 
 decisions = collections.defaultdict(lambda: collections.defaultdict(dict))
 
 
-# In[ ]:
+# In[49]:
 
 
 note_keyword_base = "valence"
 
 
-# In[ ]:
+# In[50]:
 
 
 nnotes = collections.Counter()
 
 
-# In[ ]:
+# In[51]:
 
 
 senseFeature = dict()
 
 
-# In[ ]:
+# In[52]:
 
 
 ofs = open("{}/{}".format(thisNotes, notesFile), "w")
 ofs.write("{}\n".format("\t".join(sfields)))
 
 
-# In[ ]:
+# In[53]:
 
 
 i = 0
@@ -1047,7 +1033,7 @@ j = 0
 chunkSize = 10000
 
 
-# In[ ]:
+# In[54]:
 
 
 for lex in verb_clause:
@@ -1124,7 +1110,7 @@ utils.caption(0, "\t{:>5} clauses".format(i))
 ofs.close()
 
 
-# In[ ]:
+# In[55]:
 
 
 show_limit = 20
@@ -1150,25 +1136,31 @@ for lex in debug_messages:
 # 
 # We add this feature to the valence module, which has been constructed by the [enrich](enrich.ipynb) notebook.
 
-# In[28]:
+# In[57]:
 
-# In[28]:
+
+genericMetaPath = f"{thisRepo}/yaml/generic.yaml"
+flowchartMetaPath = f"{thisRepo}/yaml/flowchart.yaml"
+
+with open(genericMetaPath) as fh:
+    genericMeta = yaml.load(fh, Loader=yaml.FullLoader)
+    genericMeta["version"] = VERSION
+with open(flowchartMetaPath) as fh:
+    flowchartMeta = formatMeta(yaml.load(fh, Loader=yaml.FullLoader))
+
+metaData = {"": genericMeta, **flowchartMeta}
+
+
+# In[59]:
 
 
 nodeFeatures = dict(sense=senseFeature)
-metaData = dict(
-    sense=dict(
-        valueType="str",
-        description="sense label verb occurrences, computed by the flowchart algorithm, see https://github.com/ETCBC/valence/wiki/Legend",
-        coreData="BHSA",
-        coreVersion=VERSION,
-    )
-)
+
+for f in nodeFeatures:
+    metaData[f]["valueType"] = "str"
 
 
-# In[29]:
-
-# In[29]:
+# In[60]:
 
 
 utils.caption(4, "Writing sense feature to TF")
@@ -1194,15 +1186,11 @@ utils.checkDiffs(thisTempTf, thisTf, only=set(nodeFeatures))
 
 # In[31]:
 
-# In[31]:
-
 
 utils.deliverFeatures(thisTempTf, thisTf, nodeFeatures)
 
 
 # # Compile TF
-
-# In[32]:
 
 # In[ ]:
 
@@ -1225,8 +1213,6 @@ api.makeAvailableIn(globals())
 
 
 # # Examples
-
-# In[33]:
 
 # In[ ]:
 

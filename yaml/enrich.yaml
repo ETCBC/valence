@@ -1,0 +1,18 @@
+valence:
+    desc: "❗️ verbal valence main classification"
+predication:
+    desc: "❗️ verbal function main classification"
+grammatical:
+    desc: "❗️ constituent role main classification"
+original:
+    desc: "❗️ default value before enrichment logic has been applied"
+lexical:
+    desc: "❗️ additional lexical characteristics"
+semantic:
+    desc: "❗️ additional semantic characteristics"
+f_correction:
+    desc: "❗️ whether the phrase function has been manually corrected"
+s_manual:
+    desc: "❗️ whether the generated enrichment features have been manually changed"
+function:
+    desc: "❗️ corrected phrase function, only present for phrases that were in a correction sheet"

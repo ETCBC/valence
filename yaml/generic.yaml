@@ -1,0 +1,8 @@
+title: Correction and enrichment features
+description: Corrections, alternatives and additions to the ETCBC4b encoding of the Hebrew Bible
+purpose: Support the decision process of assigning valence to verbs
+method: Generated blank correction and enrichment spreadsheets with selected clauses
+steps: sheets filled out by researcher; read back in by program; generated new features based on contents
+author: The content and nature of the features are by Janet Dyk, the workflow is by Dirk Roorda
+provenance: computed by the enrich and flowchart notebooks, see https://github.com/ETCBC/valence
+coreData: BHSA

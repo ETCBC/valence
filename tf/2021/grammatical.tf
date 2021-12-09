@@ -1,15 +1,16 @@
 @node
 @author=The content and nature of the features are by Janet Dyk, the workflow is by Dirk Roorda
 @coreData=BHSA
-@coreVersion=2021
-@description=constituent role main classification
+@description=❗️ constituent role main classification
 @method=Generated blank correction and enrichment spreadsheets with selected clauses
+@provenance=computed by the enrich and flowchart notebooks, see https://github.com/ETCBC/valence
 @purpose=Support the decision process of assigning valence to verbs
 @steps=sheets filled out by researcher; read back in by program; generated new features based on contents
 @title=Correction and enrichment features
 @valueType=str
+@version=2021
 @writtenBy=Text-Fabric
-@dateWritten=2021-11-30T15:34:28Z
+@dateWritten=2021-12-09T14:38:56Z
 
 427567	direct_object
 427593	direct_object
