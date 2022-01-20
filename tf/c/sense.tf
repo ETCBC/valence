@@ -1,10 +1,16 @@
 @node
+@author=The content and nature of the features are by Janet Dyk, the workflow is by Dirk Roorda
 @coreData=BHSA
-@coreVersion=_temp
-@description=sense label verb occurrences, computed by the flowchart algorithm, see https://github.com/ETCBC/valence/wiki/Legend
+@description=❗️ sense label of verb occurrences (d-; i.; -p; d-; ...)
+@method=Generated blank correction and enrichment spreadsheets with selected clauses
+@provenance=computed by the enrich and flowchart notebooks, see https://github.com/ETCBC/valence
+@purpose=Support the decision process of assigning valence to verbs
+@steps=sheets filled out by researcher; read back in by program; generated new features based on contents
+@title=Correction and enrichment features
 @valueType=str
+@version=c
 @writtenBy=Text-Fabric
-@dateWritten=2018-10-08T15:17:54Z
+@dateWritten=2022-01-20T14:19:31Z
 
 3	d-
 15	--
